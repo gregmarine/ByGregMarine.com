@@ -43,7 +43,7 @@ export default defineConfig({
       { icon: 'twitter', link: 'https://twitter.com/bygregmarine' },
       { icon: 'instagram', link: 'https://www.instagram.com/bygregmarine/' },
       { icon: 'facebook', link: 'https://www.facebook.com/bygregmarine' },
-      { icon: 'github', link: 'https://github.com/gregmarine/ByGregMarine.com/Bible' }
+      { icon: 'github', link: 'https://github.com/gregmarine/ByGregMarine.com/tree/main/Bible' }
     ]
   }
 })
