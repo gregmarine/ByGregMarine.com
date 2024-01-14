@@ -13,13 +13,13 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
-
+      
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: New site
+    details: This is the new site for my personal online journal (blog)!
+  - title: Old site
+    details: My "old" site will be migrating to this new system soon.
+  - title: Coming soon...
+    details: More content!
 ---
 
