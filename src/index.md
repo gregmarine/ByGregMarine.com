@@ -11,9 +11,9 @@ hero:
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
-      
+      text: New Year, New Blog!
+      link: /2024/01/05_new-year-new-blog
+
 features:
   - title: New site
     details: This is the new site for my personal online journal (blog)!
