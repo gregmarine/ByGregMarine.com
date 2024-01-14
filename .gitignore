@@ -108,10 +108,10 @@ dist
 .cache
 
 # vitepress build output
-.vitepress/dist
+/**/.vitepress/dist
 
 # vitepress cache
-.vitepress/cache
+/**/.vitepress/cache
 
 # Docusaurus cache and generated files
 .docusaurus
