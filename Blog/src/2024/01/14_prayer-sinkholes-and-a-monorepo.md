@@ -2,6 +2,8 @@
 
 ## Prayer
 
+![Egret](./img/IMG_0684.jpeg)
+
 A prayer to start the day,
 
 > "Heavenly Father, I welcome you into this day to be the Lord over it. For this is a day that You have made. I will rejoice! And I'll be glad in it! Guide and direct everything I think, say, and do. May it all bring Glory to You."
