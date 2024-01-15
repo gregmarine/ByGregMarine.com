@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Prayer, Sinkholes, and a Monorepo
+      link: /2024/01/14_prayer-sinkholes-and-a-monorepo
+    - theme: alt
       text: Copyrights, Prayer, and 10K
       link: /2024/01/13_copyrights-prayer-and-a-10k
     - theme: alt
