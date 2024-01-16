@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/01/15_
+      text: Peace, Prayer, and Proverbs 3
+      link: /2024/01/15_peace-prayer-and-proverbs-3
     - theme: alt
       text: Prayer, Sinkholes, and a Monorepo
       link: /2024/01/14_prayer-sinkholes-and-a-monorepo
