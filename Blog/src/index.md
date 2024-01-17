@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Coffee, Paradise Freezing, and Tofu Tempura Tacos
+      link: /2024/01/16_coffee-paradise-freezing-and-tofu-tempura-tacos
+    - theme: alt
       text: Peace, Prayer, and Proverbs 3
       link: /2024/01/15_peace-prayer-and-proverbs-3
     - theme: alt
