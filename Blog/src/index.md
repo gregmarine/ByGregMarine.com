@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/01/18_
+      text: Writer's Block Squared
+      link: /2024/01/18_writers-block-squared
     - theme: alt
       text: Chasing God
       link: /2024/01/17_chasing-god

@@ -1,4 +1,4 @@
-# TBD
+# Writer's Block Squared
 
 ## Writer's Block Part 1
 
@@ -18,35 +18,38 @@ Today's video encouragement for that devotional was about boldness for believers
 
 > I share my struggles and the encouragement I have received in the hope that you will see it and in turn be inspired to overcome your struggles. Everything I say are those things I also tell myself to encourage myself to thrive. I hope it does for you what it has for me.
 
+![Sun shining through clouds](./img/IMG_1830.jpeg)
+
 1 Peter 3:13-16 tells us, 
 
 > Now who will harm you if you become imitators of that which is good? But even if you should suffer for righteousness’ sake, you are blessed. “Don’t fear what they fear, neither be troubled.” But sanctify the Lord God in your hearts. Always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you, with humility and fear, having a good conscience. Thus, while you are spoken against as evildoers, they may be disappointed who curse your good way of life in Christ.
 
-Yesterday, one of my X/Twitter friends posted that the week before he had be contemplating suicide. He ended up going to the ER and was admitted into the psychiatric department of his hospital. During his few days in there, it gave him the opportunity to begin seeking the help he needed. He wrote about the experience in his blog: [A Story of In-Patient Mental Health Treatment](https://justinnoel.dev/2024/01/17/a-story-of-in-patient-mental-health-treatment/). I thanked him for seeking the help he needed and further thanked him for sharing this story. I humbly share his reply to show why I do what I do,
+Yesterday, one of my Twitter friends posted that the week before he had been contemplating suicide. He ended up going to the ER and was admitted into the psychiatric department of his hospital. During his few days in there, it gave him the opportunity to begin seeking the help he needed. He wrote about the experience in his blog: [A Story of In-Patient Mental Health Treatment](https://justinnoel.dev/2024/01/17/a-story-of-in-patient-mental-health-treatment/). I thanked him for seeking the help he needed and further thanked him for sharing his story. I humbly share his reply to show why I do what I do,
 
-> You sharing your experience was what gave me the courage to share mine ❤️.
-> My goal was to reduce the stigma around seeking mental health treatment. 
-> You blazed that trail!
+> [Greg,] [y]ou sharing your experience was what gave me the courage to share mine ❤️. My goal was to reduce the stigma around seeking mental health treatment. You blazed that trail! ~JN
 
 I ugly cried this morning when I was going through today's session of the 21 days of prayer and fasting devotional. Just moments earlier, I was struggling to find the inspiration I would be sharing today. I knew I needed to share something. I just didn't know what. After asking God to provide the words, all of this happened! He provided the scripture, the words, and then the encouragement from a friend. BOOM...BOOM...BOOM...in that order...consider my mind blown!
+
+![Grass in a sidewalk with a palm trees and a fence in the background](./img/IMG_1837.jpeg)
 
 ## Writer's Block Part 2
 
 Although the writer's block I spoke of above was about how writing blocked my Bible devotional plan time, the true definition of writer's block did affect me almost a year ago. In 2022, I set out to write my first book. The 2 titles it has had so far are "My First Year as a Bald Man" and "Vitamin G." Regardless of the title, it is all about the Vitamin G posts I've been making on social media these past 3 years.
 
-I got the idea of turning those posts into a book because I came across another author who turned 100 of his X/Twitter posts about finance into a small book. He simply took all 100 posts and make a 100 page book. Inspired by this, I thought about how I could turn my posts into a book. I landed the idea of starting each chapter with a quote from posts and then to tell stories from my life and personal experience to further expand on the inspiration behind the quote. At the end of each chapter, I wanted to then talk about the lesson I had learned from each.
+I got the idea of turning those posts into a book because I came across another author who turned 100 of his Twitter posts about finance into a small book. He simply took all 100 posts and made a 100 page book. Inspired by this, I thought about how I could turn my posts into a book. I landed on the idea of starting each chapter with a quote from my posts and then to tell stories from my life and personal experience to further expand on the inspiration behind the quote. At the end of each chapter, I wanted to then talk about the lesson I had learned from each.
 
 Towards the end of 2022, I set out to make a goal of writing a chapter every week. 1 chapter per week until the book was finished. I figured 7 days would be plenty of time to work on each chapter as I had planned to make them short and to the point. I did well for about 4 months. I took a few weeks off for breaks from writing. And there were a few chapter that didn't quite get completed. I managed to publish 12 chapters on my website along with those few unpublished gems waiting on the back burner.
 
-In the last chapter I published, titled "Be Kind to Yourself," I talked about how I had been admitted into mental hospitals off and on for a few years. I'm not going to name names yet, but one of the pieces of feedback I quickly received about that chapter was, "Are you sure you should be talking about this on the Internet!?" These people had no idea I had already be quite open about my mental health issues. They were concerned that if my employer came across this book, I might lose my job.
+In the last chapter I published, titled "Be Kind to Yourself," I talked about how I had been admitted into mental hospitals off and on for a few years. One of the pieces of feedback I quickly received about that chapter was, "Are you sure you should be talking about this on the Internet!?" These people had no idea I had already been quite open about my mental health issues. They were concerned that if my employer came across this book, I might lose my job.
 
-I explained to them that my mental health is very much a part of who I am. I further explained that I always talk about it with my employers. I've had 7 employers since those years of my mental hospital stays. Each of them knew what I had been through. I concluded my conversation with these few that I felt my employers looked at me as someone who could overcome any obstacle I came across in my job. They looked at what I overcame then as a strength and not a weakness.
+I explained to them that my mental health is very much a part of who I am. I further explained that I always talk about it with my employers. I've had 7 employers since those years of my mental hospital stays. Each of them knew what I had been through. I concluded the conversation by expressing that I felt my employers looked at me as someone who could overcome any obstacle I came across in my job. They looked at what I overcame then as a strength and not a weakness.
 
-Although I stood firm on my witness of faith in this conversation, I'll admit that it hurt my soul. This conversation occurred after my health journey last year began almost a year ago. I did not doubt my writing anything I had put in my book up to that point. Nevertheless, writer's block set in immediately. The words just stopped flowing. With the exception of continuing my Vitamin G posts on social media, I just couldn't write anymore.
+Although I stood firm on my witness of faith in this conversation, I'll admit that it hurt my soul. This conversation occurred as my health journey last year was just beginning. I did not doubt any of the writing I had put in my book up to that point. Nevertheless, writer's block set in immediately. The words just stopped flowing. With the exception of continuing my Vitamin G posts on social media, I just couldn't write anymore. It was like God had closed the flood gates.
 
 ## Restoration
 
 As 2023 was coming to a close, I was inspired to get back to writing again. My friend Chérie played a key role in this. God used her to open up the flood gates of my soul again. I began writing poetry again. Instead of writing a journal or more of my book, I decided I would begin expressing myself through letters that I wrote to Chérie. Talking about how my life was going that day put me back into the practice of writing once more. It was like having a pen pal. And that brings me to my writing in this blog now.
 
-As part of my 21 days of prayer and fasting journey this year, I have been writing an entry every day. As I was writing my book, I was spending an entire week writing each chapter. Now I'm writing more each day than I ever did in a single week! 12 published chapters of my book do not have as much content as these past 12 days over blog entries...WOW!!! You might say that my writer's block is over and that I have been restored! Praise God!!!
+As part of my 21 days of prayer and fasting journey this year, I have been writing an entry every day. As I was writing my book, I was spending an entire week writing each chapter. Now I'm writing more each day than I ever did in a single week! 12 published chapters of my book do not have as much content as these past 12 days of blog entries...WOW!!! You might say that my writer's block is over and that I have been restored! Praise God!!!
 
+There is no doubt in my mind that God closed the flood gates of my heart for the past year so that He could prepare me for what He wants me to say in the book. I needed to begin the book in 2022 when I did, yes. But that was simply a foundation. What He has done in my life over the last year will surely make the book what it is meant to be. For that, I'm incredible grateful to God!
