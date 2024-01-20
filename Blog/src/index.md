@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /2024/01/12_
+      link: /2024/01/20_
     - theme: alt
       text: Perhaps Acoustic Guitar
       link: /2024/01/19_perhaps-acoustic-guitar
