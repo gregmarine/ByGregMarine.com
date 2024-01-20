@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Perhaps Acoustic Guitar
+      link: /2024/01/19_perhaps-acoustic-guitar
+    - theme: alt
       text: Writer's Block Squared
       link: /2024/01/18_writers-block-squared
     - theme: alt
