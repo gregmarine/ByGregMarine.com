@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/01/20_
+      text: Mostly Unplanned
+      link: /2024/01/20_mostly-unplanned
     - theme: alt
       text: Perhaps Acoustic Guitar
       link: /2024/01/19_perhaps-acoustic-guitar
