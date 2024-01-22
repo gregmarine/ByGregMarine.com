@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/01/22_
+    - theme: alt
       text: I'm Here for You
       link: /2024/01/21_im-here-for-you
     - theme: alt
