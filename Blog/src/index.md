@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: 25 Years and 2 Days
+      link: /2024/01/22_25-years-and-2-days
+    - theme: alt
       text: I'm Here for You
       link: /2024/01/21_im-here-for-you
     - theme: alt
