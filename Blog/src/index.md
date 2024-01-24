@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/01/23_
+      text: A Time to Every Season
+      link: /2024/01/23_a-time-to-every-season
     - theme: alt
       text: 25 Years and 2 Days
       link: /2024/01/22_25-years-and-2-days
