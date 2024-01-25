@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/01/24_
+      text: So Far So Good
+      link: /2024/01/24_so-far-so-good
     - theme: alt
       text: A Time to Every Season
       link: /2024/01/23_a-time-to-every-season
