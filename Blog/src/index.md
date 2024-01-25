@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Interruptions in Paradise
+      link: /2024/01/25_interruptions-in-paradise
+    - theme: alt
       text: So Far So Good
       link: /2024/01/24_so-far-so-good
     - theme: alt
