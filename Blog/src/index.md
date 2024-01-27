@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/01/26_
+      text: Oh Look, The Finish Line
+      link: /2024/01/26_oh-look-the-finish-line
     - theme: alt
       text: Interruptions in Paradise
       link: /2024/01/25_interruptions-in-paradise
