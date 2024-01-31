@@ -8,7 +8,7 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: So, I bought a book
+      text: So, I bought a book...
       link: /2024/01/30_so-i-bought-a-book
     - theme: alt
       text: Only the Beginning
