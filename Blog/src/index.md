@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/02/01_
+      text: It's Going to be Okay
+      link: /2024/02/01_its-going-to-be-okay
     - theme: alt
       text: So, I bought a book...
       link: /2024/01/30_so-i-bought-a-book
