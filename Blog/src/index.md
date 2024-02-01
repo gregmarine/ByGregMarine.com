@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: It's Going to be Okay
+      link: /2024/02/01_its-going-to-be-okay
+    - theme: alt
       text: So, I bought a book...
       link: /2024/01/30_so-i-bought-a-book
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Interruptions in Paradise
       link: /2024/01/25_interruptions-in-paradise
-    - theme: alt
-      text: So Far So Good
-      link: /2024/01/24_so-far-so-good
 
 features:
   - title: New site
