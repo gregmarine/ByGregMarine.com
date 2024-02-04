@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Ensō
+      link: /2024/02/03_enso
+    - theme: alt
       text: It's Going to be Okay
       link: /2024/02/01_its-going-to-be-okay
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Oh Look, The Finish Line
       link: /2024/01/26_oh-look-the-finish-line
-    - theme: alt
-      text: Interruptions in Paradise
-      link: /2024/01/25_interruptions-in-paradise
 
 features:
   - title: New site
