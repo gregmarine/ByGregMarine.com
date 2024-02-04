@@ -1,4 +1,4 @@
-# TBD
+# Ensō
 
 ## Who am I, Who are You?
 
@@ -16,9 +16,9 @@ It has now been just beyond 14 years since the events that led me to stop showin
 
 Boundaries can be a good thing. They protect me and they protect others. Not everyone has earned my trust. And not everyone will. This goes both ways, as well. I only want access to the parts of someone they are comfortable sharing with me. And I want to be at a level of wisdom and maturity to handle those parts.
 
-As it was with my first marriage, I wasn't ready for the innermost parts of her heart anymore than she was ready for mine. I don't truly or actually know anyone outside of what they show me. And until I am ready to accept what is on the other side of that door, I don't want to know someone. It isn't about whether or not I'll like what I see. It is more about whether or not I can be trusted with it.
+In the case of my first marriage, I wasn't ready for the innermost parts of her heart anymore than she was ready for mine. I don't truly or actually know anyone outside of what they show me. And until I am ready to accept what is on the other side of that door, I don't want to know someone. It isn't about whether or not I'll like what I see. It is more about whether or not I can be trusted with it.
 
-I am finding it to be an important step in my growth to come to this realization as I approach my 46 birthday. I'm getting to know God more. And therefore, I'm getting to know myself more. Who am I? I am God's. Who are you? You are God's. The closer each of us is to God, the closer we can become to each other. 1 + 1 = 3...You, Christ, and Me!
+I am finding it to be an important step in my growth to come to this realization as I approach my 46 birthday. I'm getting to know God more. And therefore, I'm getting to know myself more. Who am I? I am God's. Who are you? You are God's. The closer each of us are to God, the closer we can become to each other. 1 + 1 = 3...You, Christ, and Me!
 
 ![Sunlight reflecting on a surface through a glass of water.](./img/IMG_2306.jpeg)
 
@@ -44,7 +44,7 @@ Selah :pray:
 
 At a very young age, we learn basic shapes, lines, and curves. All of the building blocks that make up creativity. It's an easy way to understand what it takes to eventual create a masterpiece. This is a far cry from a masterpiece. Even as I painted it, I knew I could do so much better. But that was sort of the point of this piece.
 
-It connected me back to when I was a child. Those early developmental years was when my creative mind began to form. On my most recent trip back to Indiana, I was drawn to the old art my parents still had on the walls in their home. I walked my son through some of the work I had done as a child. It was great to remanence on when the spark of creativity ignited to the flame that still burns today.
+It connected me back to when I was a child. Those early developmental years were when my creative mind began to form. On my most recent trip back to Indiana, I was drawn to the old art my parents still had on the walls in their home. I walked my son through some of the work I had done as a child. It was great to remanence on when the spark of creativity ignited to the flame that still burns today.
 
 Creating this primitive piece was a solemn reminder that everything begins somewhere. Although I was 43 when I painted this, being that it was my rebirth into painting, I am proud to display this in my home from time to time.
 
@@ -114,4 +114,16 @@ At the end of each chapter are some reflection questions. For this chapter, they
 
 It may seem like I'm being hard on myself. And in many ways, I am. However, the book asks for honest answers. I feel these honest answers are going to lead somewhere with the guidance of this book. It's a book based on Biblical principles from a modern perspective just like any other Christian book I've ever read. And I'm looking forward to exploring myself on this journey over the next month or so.
 
-## 
+## Slow Walk
+
+I took a walk this evening. And it was probably the slowest I have ever walked. It took me an hour to walk 2 miles. To anyone who may have seen me walk before, they may have been concerned why I was walking so slow today.
+
+The simple truth is I was enjoying being outside. I had the kind of day that felt like a warm hug. It was just what I needed just when I needed it. Taking my walk slowly was just an extension of that.
+
+Just like a few weeks ago, I was able to play with and pet a few dogs this time. I really miss my dog. I hope she's happy. I'm sure she is. She doesn't know why I'm not her daddy anymore. And for that, I'm grateful.
+
+I listened to praise and worship music during this walk. The final song on the walk was "I Speak Jesus." My first time hearing and singing this song was at my current church. So, it was within the last 16 or so months. And it is one of my favorites now.
+
+As I sing this song, I think of specific people and speak the name of Jesus into their lives. It brings me to tears every single time.
+
+To all who read this...I speak the name of JESUS...over your life. Whatever you are facing. Whatever troubles you. Whatever your anxiety is. If you are depressed. If you are sick. If you have been the victim of trauma. Or if you have an addiction. Whatever your circumstances. I speak the name of Jesus.
