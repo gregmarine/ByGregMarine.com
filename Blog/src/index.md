@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/02/05_
+    - theme: alt
       text: Ensō
       link: /2024/02/03_enso
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Only the Beginning
       link: /2024/01/27_only-the-beginning
-    - theme: alt
-      text: Oh Look, The Finish Line
-      link: /2024/01/26_oh-look-the-finish-line
 
 features:
   - title: Art

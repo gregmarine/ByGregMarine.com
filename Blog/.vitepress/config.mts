@@ -139,6 +139,10 @@ export default defineConfig({
                       {
                         text: 'Ensō',
                         link: '/2024/02/03_enso'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/02/05_'
                       }
                     ]
                   }
