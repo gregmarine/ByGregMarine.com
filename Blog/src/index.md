@@ -24,11 +24,7 @@ hero:
       link: /2024/01/26_oh-look-the-finish-line
 
 features:
-  - title: New site
-    details: This is the new site for my personal online journal (blog)!
-  - title: Old site
-    details: My "old" site will be migrating to this new system soon.
-  - title: Coming soon...
-    details: More content!
+  - title: Art
+    details: Check out my art through the navigation link at the top!
 ---
 
