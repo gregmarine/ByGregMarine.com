@@ -1,4 +1,4 @@
-# TBD
+# Gutters, Wrong Time, Just Me, and Soul Food
 
 ## 3 Hole Gutter
 
@@ -92,4 +92,6 @@ I went with a combination of catfish and shrimp. The veggie side I chose was col
 
 ![Plate of catfish, shrimp and collard greens](./img/IMG_2364.jpeg)
 
-## 
+## I Hope for the Best
+
+I haven't reviewed this entry to see if it makes any sense or if there are any typos. Honestly, sometimes I read it and it makes sense in the moment. Even typos escape my attention sometimes. So I'm not sure why I proofread my journal entries. This isn't a book. Even if something I write in this journal becomes a part of a book, I can just proofread it then. If you are reading this and you have my personal number, feel free to point out something I missed in today's journal entry...LOL

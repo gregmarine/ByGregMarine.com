@@ -141,8 +141,8 @@ export default defineConfig({
                         link: '/2024/02/03_enso'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/02/05_'
+                        text: 'Gutters, Wrong Time, Just Me, and Soul Food',
+                        link: '/2024/02/05_gutters-wrong-time-just-me-and-soul-food'
                       }
                     ]
                   }
