@@ -139,6 +139,10 @@ export default defineConfig({
                       {
                         text: 'Ensō',
                         link: '/2024/02/03_enso'
+                      },
+                      {
+                        text: 'Gutters, Wrong Time, Just Me, and Soul Food',
+                        link: '/2024/02/05_gutters-wrong-time-just-me-and-soul-food'
                       }
                     ]
                   }

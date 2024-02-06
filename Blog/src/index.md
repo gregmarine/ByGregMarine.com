@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Gutters, Wrong Time, Just Me, and Soul Food
+      link: /2024/02/05_gutters-wrong-time-just-me-and-soul-food
+    - theme: alt
       text: Ensō
       link: /2024/02/03_enso
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Only the Beginning
       link: /2024/01/27_only-the-beginning
-    - theme: alt
-      text: Oh Look, The Finish Line
-      link: /2024/01/26_oh-look-the-finish-line
 
 features:
   - title: Art
