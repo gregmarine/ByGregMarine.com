@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/02/09_
+    - theme: alt
       text: Gutters, Wrong Time, Just Me, and Soul Food
       link: /2024/02/05_gutters-wrong-time-just-me-and-soul-food
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: So, I bought a book...
       link: /2024/01/30_so-i-bought-a-book
-    - theme: alt
-      text: Only the Beginning
-      link: /2024/01/27_only-the-beginning
 
 features:
   - title: Art
