@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/02/09_
+      text: Plans, Detours, and the Floor
+      link: /2024/02/09_plans-detours-and-the-floor
     - theme: alt
       text: Gutters, Wrong Time, Just Me, and Soul Food
       link: /2024/02/05_gutters-wrong-time-just-me-and-soul-food
