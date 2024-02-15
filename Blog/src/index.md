@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/02/15_
+    - theme: alt
       text: Change of Heart
       link: /2024/02/14_change-of-heart
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Ensō
       link: /2024/02/03_enso
-    - theme: alt
-      text: It's Going to be Okay
-      link: /2024/02/01_its-going-to-be-okay
 
 features:
   - title: Art
