@@ -149,8 +149,8 @@ export default defineConfig({
                         link: '/2024/02/09_plans-detours-and-the-floor'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/02/14_'
+                        text: 'Change of Heart',
+                        link: '/2024/02/14_change-of-heart'
                       }
                     ]
                   }

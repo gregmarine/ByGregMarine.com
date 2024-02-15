@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/02/14_
+      text: Change of Heart
+      link: /2024/02/14_change-of-heart
     - theme: alt
       text: Plans, Detours, and the Floor
       link: /2024/02/09_plans-detours-and-the-floor
