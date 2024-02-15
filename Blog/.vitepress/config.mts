@@ -147,6 +147,10 @@ export default defineConfig({
                       {
                         text: 'Plans, Detours, and the Floor',
                         link: '/2024/02/09_plans-detours-and-the-floor'
+                      },
+                      {
+                        text: 'Change of Heart',
+                        link: '/2024/02/14_change-of-heart'
                       }
                     ]
                   }

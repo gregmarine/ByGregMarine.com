@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Change of Heart
+      link: /2024/02/14_change-of-heart
+    - theme: alt
       text: Plans, Detours, and the Floor
       link: /2024/02/09_plans-detours-and-the-floor
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: It's Going to be Okay
       link: /2024/02/01_its-going-to-be-okay
-    - theme: alt
-      text: So, I bought a book...
-      link: /2024/01/30_so-i-bought-a-book
 
 features:
   - title: Art
