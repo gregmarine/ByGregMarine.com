@@ -1,4 +1,4 @@
-# TBD
+# Rainbow Connection
 
 ## 7:55 am
 
@@ -118,3 +118,12 @@ They sang songs from *Coco*, *Tarzan*, *Aladdin*, and *The Greatest Showman*. Fr
 
 I wish I had the words to describe this experience. But the lack of words speaks volumes. So, with that, I must find food before I head home. That huge lunch is starting to wear off...hehehe
 
+## 8:35 pm
+
+I ended up having dinner at Shiki-Sai: Sushi Izakaya. This was my fourth time going here since that preview back in September, I think. It is one of my absolute favorite restaurants anywhere. Definitely one of my favorites at Disney World. Once again I ate too much...hehehe
+
+I made a design in the dish that my sushi roll was in. I took a photo and I hope to make an piece of art from it. Perhaps it will be something I'll adorn my home with. It has meaning because today has meaning. I'll have to think of a...meaningful...name!
+
+I'm now contemplating if I'll stop by Disney Springs before heading home. I didn't see a coffee mug at EPCOT that I really wanted. They have a limit selection. But I know World of Disney has a wide selection. The other parks seems to have a greater selection as well. Perhaps they will have more options at EPCOT once the rest of the construction is completed. There are still a few areas they are working on. I'm sure they have plans for more gift shops.
+
+Now, I'm listening to Rainbow Connection. I'm going to conclude this journal entry with that. Someday we'll find it...the rainbow connection...the lovers...the dreamers...and me!

@@ -153,8 +153,8 @@ export default defineConfig({
                         link: '/2024/02/14_change-of-heart'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/02/15_'
+                        text: 'Rainbow Connection',
+                        link: '/2024/02/15_rainbow-connection'
                       }
                     ]
                   }
