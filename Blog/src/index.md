@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/02/16_
+    - theme: alt
       text: Rainbow Connection
       link: /2024/02/15_rainbow-connection
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Gutters, Wrong Time, Just Me, and Soul Food
       link: /2024/02/05_gutters-wrong-time-just-me-and-soul-food
-    - theme: alt
-      text: Ensō
-      link: /2024/02/03_enso
 
 features:
   - title: Art

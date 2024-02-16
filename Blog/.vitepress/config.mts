@@ -155,6 +155,10 @@ export default defineConfig({
                       {
                         text: 'Rainbow Connection',
                         link: '/2024/02/15_rainbow-connection'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/02/16_'
                       }
                     ]
                   }
