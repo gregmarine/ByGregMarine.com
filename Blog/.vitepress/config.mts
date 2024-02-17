@@ -159,6 +159,10 @@ export default defineConfig({
                       {
                         text: 'Zoom, Zoom, Zoom, Tofu, and Spring!',
                         link: '/2024/02/16_zoom-zoom-zoom-tofu-and-spring'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/02/17_'
                       }
                     ]
                   }
