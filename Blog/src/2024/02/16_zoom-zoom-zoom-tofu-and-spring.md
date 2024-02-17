@@ -1,4 +1,4 @@
-# TBD
+# Zoom, Zoom, Zoom, Tofu, and Spring!
 
 ## 8:05 am
 
@@ -64,3 +64,32 @@ It is so great having an authentic connection. Even though this was our first ca
 
 I love that little laugh of hers...hehehe It's warm and makes my heart happy.
 
+## 8:52 pm
+
+I believe this day achieved what it needed to in order to help with my depression. Stepping out of my routine these last few days was a good thing. Depression is still casting a shadow. It does that sometimes. I imagine people won't see the depression on my face. I'm not *faking it until I make it* or anything like that. Sometimes I smile to help make others feel good. I have one of those contagious smiles, I think. And if I can make someone else feel good, that helps me feel better too.
+
+The key for me is not to get stuck like I did in the past. I need to move on. I need to grow. That is something that is different than I was before. I use to get so stuck it was like trying to walk through mud waist deep. All these years of learning new coping skills is truly paying off! And learning from others is helping. That's why I like to share my own struggles. Perhaps how I deal with things will help someone else.
+
+Depression is something I *have*. It isn't something that I *am*. Identifying that and acknowledging it takes me a long way to recovery each time I face this ugly beast.
+
+I'm going to be on the lookout for *my* people. I'm going to continue being my authentic self. I know that I'll attract people who like who I am. I'll also begin to be attracted to others that I like for who they are. There are over 8 billion people in the world. My circle can be small and tight. I don't need to settle for anyone who doesn't fit into that circle.
+
+None of this is easy. And that's okay. In fact, it's probably best that way. Working hard helps build character anyway. This doesn't mean everything is going to be hard, though. I might seem to be contradicting myself a bit. What I mean is that it might be hard at first. But the more I do it, something that was hard becomes easier. Every step leads to the next.
+
+As I go into this weekend, I'm thinking about spending some focused time on writing. I'm ready to go beyond this journal. It's time to revisit the chapters of my book already written and explore what new chapters come to be. This weekend will be a perfect opportunity for this.
+
+I'm not yet sure what order these will be in, but the 4 sections of *Vitamin G* will be *Grace*, *Gratitude*, *Generosity*, and *Growth*. Each of these sums up the entirety of all that makes Vitamin G what it is. As I write each chapter, I'll ask the question *which of these 4 does this chapter fall under*. If it applies to multiple, I'll focus on which most describes the essence of the chapter.
+
+I still need to land on a title, if not *Vitamin G*. Perhaps it will come as I write this year. Or I may just keep that title and develop a subtitle that separates it from the existing book with the same title. Names and titles are so hard...hehehe I think it's because it is an important part of identifying anything. Like our own names.
+
+Once again, I'm not going to go back over today's journal entry to proofread it or see if it all makes sense. It was raw and in the moment today, like yesterday. I didn't proofread yesterday's either. The point of this journal is to be a bit raw anyway. I'm doing this for me and for anyone who wants to know me a little more. 
+
+![LEGO Bonsai tree](./img/IMG_3037.jpeg)
+
+I put the white and pink branches and blooms on my LEGO Bonsai tree today. I imagine the real trees in Japan still have a few weeks left before this happens. But it felt like a good day to do this for my little tree.
+
+I'm in the same season of my year. Winter is almost over for my spirit as well. Spring is almost here. Speaking of which, the actual equinox isn't on my birthday this year. It will be on March 19 instead due to it being a leap year...hehehe
+
+I use to be a night owl. I use to do my best work between 10 pm and 3 am. Due to my career and how business works in the USA, I have to keep a 8 am to 5 pm work schedule. I sure do miss my nights. I was reminded of my old schedule today. It has been years! I wonder if I'll go back to staying up late when I retire from this career? Like everything in life, this is only for a season.
+
+Today was a good day...

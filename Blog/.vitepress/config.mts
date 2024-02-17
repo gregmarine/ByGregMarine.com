@@ -157,8 +157,8 @@ export default defineConfig({
                         link: '/2024/02/15_rainbow-connection'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/02/16_'
+                        text: 'Zoom, Zoom, Zoom, Tofu, and Spring!',
+                        link: '/2024/02/16_zoom-zoom-zoom-tofu-and-spring'
                       }
                     ]
                   }
