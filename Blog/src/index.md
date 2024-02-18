@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Food, Coffee, and Living Forever
+      link: /2024/02/17_food-coffee-and-living-forever
+    - theme: alt
       text: Zoom, Zoom, Zoom, Tofu, and Spring!
       link: /2024/02/16_zoom-zoom-zoom-tofu-and-spring
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Plans, Detours, and the Floor
       link: /2024/02/09_plans-detours-and-the-floor
-    - theme: alt
-      text: Gutters, Wrong Time, Just Me, and Soul Food
-      link: /2024/02/05_gutters-wrong-time-just-me-and-soul-food
 
 features:
   - title: Art
