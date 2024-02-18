@@ -161,8 +161,8 @@ export default defineConfig({
                         link: '/2024/02/16_zoom-zoom-zoom-tofu-and-spring'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/02/17_'
+                        text: 'Food, Coffee, and Living Forever',
+                        link: '/2024/02/17_food-coffee-and-living-forever'
                       }
                     ]
                   }
