@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/02/18_
+    - theme: alt
       text: Food, Coffee, and Living Forever
       link: /2024/02/17_food-coffee-and-living-forever
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Change of Heart
       link: /2024/02/14_change-of-heart
-    - theme: alt
-      text: Plans, Detours, and the Floor
-      link: /2024/02/09_plans-detours-and-the-floor
 
 features:
   - title: Art
