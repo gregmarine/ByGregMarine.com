@@ -165,8 +165,8 @@ export default defineConfig({
                         link: '/2024/02/17_food-coffee-and-living-forever'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/02/18_'
+                        text: 'Rebuilding Revisited, SUNDAY!!!, and Thumper',
+                        link: '/2024/02/18_rebuilding-revisited-sunday-and-thumper'
                       }
                     ]
                   }

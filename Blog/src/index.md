@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/02/18_
+      text: Rebuilding Revisited, SUNDAY!!!, and Thumper
+      link: /2024/02/18_rebuilding-revisited-sunday-and-thumper
     - theme: alt
       text: Food, Coffee, and Living Forever
       link: /2024/02/17_food-coffee-and-living-forever
