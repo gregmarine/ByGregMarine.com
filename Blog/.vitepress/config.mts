@@ -163,6 +163,10 @@ export default defineConfig({
                       {
                         text: 'Food, Coffee, and Living Forever',
                         link: '/2024/02/17_food-coffee-and-living-forever'
+                      },
+                      {
+                        text: 'Rebuilding Revisited, SUNDAY!!!, and Thumper',
+                        link: '/2024/02/18_rebuilding-revisited-sunday-and-thumper'
                       }
                     ]
                   }
