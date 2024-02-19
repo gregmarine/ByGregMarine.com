@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/02/19_
+    - theme: alt
       text: Rebuilding Revisited, SUNDAY!!!, and Thumper
       link: /2024/02/18_rebuilding-revisited-sunday-and-thumper
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Rainbow Connection
       link: /2024/02/15_rainbow-connection
-    - theme: alt
-      text: Change of Heart
-      link: /2024/02/14_change-of-heart
 
 features:
   - title: Art
