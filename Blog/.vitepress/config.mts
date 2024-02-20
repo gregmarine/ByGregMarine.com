@@ -167,6 +167,10 @@ export default defineConfig({
                       {
                         text: 'Rebuilding Revisited, SUNDAY!!!, and Thumper',
                         link: '/2024/02/18_rebuilding-revisited-sunday-and-thumper'
+                      },
+                      {
+                        text: 'A Day to Remember',
+                        link: '/2024/02/19_a-day-to-remember'
                       }
                     ]
                   }
