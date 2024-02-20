@@ -171,6 +171,10 @@ export default defineConfig({
                       {
                         text: 'A Day to Remember',
                         link: '/2024/02/19_a-day-to-remember'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/02/20_'
                       }
                     ]
                   }
