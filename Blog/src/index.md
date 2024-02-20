@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/02/19_
+      text: A Day to Remember
+      link: /2024/02/19_a-day-to-remember
     - theme: alt
       text: Rebuilding Revisited, SUNDAY!!!, and Thumper
       link: /2024/02/18_rebuilding-revisited-sunday-and-thumper
