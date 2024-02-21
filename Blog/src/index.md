@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/02/20_
+      text: Health, Vitamin G, and Relationships
+      link: /2024/02/20_health-vitamin-g-and-relationships
     - theme: balt
       text: A Day to Remember
       link: /2024/02/19_a-day-to-remember

@@ -173,8 +173,8 @@ export default defineConfig({
                         link: '/2024/02/19_a-day-to-remember'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/02/20_'
+                        text: 'Health, Vitamin G, and Relationships',
+                        link: '/2024/02/20_health-vitamin-g-and-relationships'
                       }
                     ]
                   }
