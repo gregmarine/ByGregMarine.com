@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/02/21_
+    - theme: alt
       text: Health, Vitamin G, and Relationships
       link: /2024/02/20_health-vitamin-g-and-relationships
     - theme: balt
@@ -22,9 +25,6 @@ hero:
     - theme: alt
       text: Zoom, Zoom, Zoom, Tofu, and Spring!
       link: /2024/02/16_zoom-zoom-zoom-tofu-and-spring
-    - theme: alt
-      text: Rainbow Connection
-      link: /2024/02/15_rainbow-connection
 
 features:
   - title: Art
