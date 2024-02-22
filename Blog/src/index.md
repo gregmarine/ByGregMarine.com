@@ -8,9 +8,12 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Joseph's (and My) Dreams, Portion Control, and the Shakes
+      link: /2024/02/21_dreams-portion-control-and-the-shakes
+    - theme: alt
       text: Health, Vitamin G, and Relationships
       link: /2024/02/20_health-vitamin-g-and-relationships
-    - theme: balt
+    - theme: alt
       text: A Day to Remember
       link: /2024/02/19_a-day-to-remember
     - theme: alt
@@ -22,9 +25,6 @@ hero:
     - theme: alt
       text: Zoom, Zoom, Zoom, Tofu, and Spring!
       link: /2024/02/16_zoom-zoom-zoom-tofu-and-spring
-    - theme: alt
-      text: Rainbow Connection
-      link: /2024/02/15_rainbow-connection
 
 features:
   - title: Art
