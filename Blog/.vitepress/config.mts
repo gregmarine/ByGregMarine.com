@@ -177,8 +177,8 @@ export default defineConfig({
                         link: '/2024/02/20_health-vitamin-g-and-relationships'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/02/21_'
+                        text: 'Joseph\'s (and My) Dreams, Portion Control, and the Shakes',
+                        link: '/2024/02/21_dreams-portion-control-and-the-shakes'
                       }
                     ]
                   }

@@ -8,12 +8,12 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/02/21_
+      text: Joseph's (and My) Dreams, Portion Control, and the Shakes
+      link: /2024/02/21_dreams-portion-control-and-the-shakes
     - theme: alt
       text: Health, Vitamin G, and Relationships
       link: /2024/02/20_health-vitamin-g-and-relationships
-    - theme: balt
+    - theme: alt
       text: A Day to Remember
       link: /2024/02/19_a-day-to-remember
     - theme: alt
