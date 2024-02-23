@@ -179,6 +179,10 @@ export default defineConfig({
                       {
                         text: 'Joseph\'s (and My) Dreams, Portion Control, and the Shakes',
                         link: '/2024/02/21_dreams-portion-control-and-the-shakes'
+                      },
+                      {
+                        text: 'Sites, Acceptance, Tea, Play Ball!, and Judge Doom',
+                        link: '/2024/02/22_sites-acceptance-tea-play-ball-and-judge-doom'
                       }
                     ]
                   }
