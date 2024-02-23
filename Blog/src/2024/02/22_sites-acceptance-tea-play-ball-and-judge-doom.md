@@ -64,6 +64,8 @@ Our friendship is not based on the Dodgers. It'll be one of my new things this y
 
 By the way, they won today. It's just Spring Training and doesn't officially count for the season. But just imagine if they win the World Series this year! That would mean they'd have won the first game of the year and the last...that's pretty cool!
 
+Their season opener is on my birthday this year. They'll be playing the game in Korea. So the air time is pretty early here. I'll be awake already, though. I'll need to be sure to order a Dodgers coffee mug to have ready for the game!
+
 ## One Seriously Disturbed Toon
 
 So, I'm watching *Who Framed Roger Rabbit* for the millionth time...LOL I wanted something playing in the background as I wrote this journal entry. When I do that, I usually turn on something I've seen so many times that I can enjoy it without paying close attention to it.
