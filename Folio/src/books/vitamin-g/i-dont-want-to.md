@@ -2,7 +2,7 @@
 
 ![A path through some trees](./img/i-dont-want-to.jpeg)
 
-> NEW PHRASING: Much of what we would like to do in life requires us to also do something we would rather not do. However, it becomes much easier to endure what we do not want to do knowing that it enables us to do what we really want with our life.
+> NEW PHRASING: Much of what we would like to do in life requires us to also do something we would rather not do. However, it becomes much easier to endure what we do not want to do knowing that it enables us to do what we really want in our life.
 
 > I have found that in order to do the things we want to do, we must also do a lot of things we don’t want to do. But knowing we will get to do the things we want to do, it makes it easier and more enjoyable to do the things we don’t.
 
@@ -18,4 +18,6 @@ So, even if you truly love your job, the mere fact that you need to work often m
 
 There are countless examples I could dive deeper into this subject. Paying taxes. Commuting to the office. Cleaning the house. Hours of preparation for the perfect meal. Regardless of the task, you might find yourself doing something that you would just rather not be doing. That's okay. We all have that burden to bear. So, what would make a difference for us to best deal with all of those thing we don't want to do?
 
-I want to encourage you to focus on the positive outcomes. Everything seems to become far more bearable when you can see that in the end, you'll be happy. Rather than focusing on what you don't want to do in that moment, keep your mind on why it is you are doing it.
+I want to encourage you to focus on the positive outcomes. Everything seems to become far more bearable when you can see that in the end, you'll be happy. Rather than focusing on what you don't want to do in that moment, keep your mind on why it is you are doing it. If the end result is something you really want, doesn't it all make it worth it?
+
+I'm grateful to have a job. Not everyone has the opportunities I have had. Even when I'm not working on projects that I enjoy, everything leads to being able to afford food, shelter, and so many other things I truly want out of my life. When Monday comes, I never say, "I have to go to work." I always phrase it as, "I get to go to work." This mindset has proven time and time again that even the worst of tasks in my life become worth the struggle because it always leads to everything I want.
