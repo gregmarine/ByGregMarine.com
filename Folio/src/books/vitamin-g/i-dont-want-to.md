@@ -1,5 +1,7 @@
 # I Don't *Want* To
 
+![A path through some trees](./img/i-dont-want-to.jpeg)
+
 > I have found that in order to do the things we want to do, we must also do a lot of things we don’t want to do. But knowing we will get to do the things we want to do, it makes it easier and more enjoyable to do the things we don’t.
 
 One of the most seemingly rhetorical statements I have ever made to my son has been, “We have to do the things we don’t want to do in order to do the things we do want to do.”  When I have told him this, it was almost always at a time when he did not want to do something. 
