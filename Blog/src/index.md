@@ -11,6 +11,9 @@ hero:
       text: Sites, Acceptance, Tea, Play Ball!, and Judge Doom
       link: /2024/02/22_sites-acceptance-tea-play-ball-and-judge-doom
     - theme: alt
+      text: Sites, Acceptance, Tea, Play Ball!, and Judge Doom
+      link: /2024/02/22_sites-acceptance-tea-play-ball-and-judge-doom
+    - theme: alt
       text: Joseph's (and My) Dreams, Portion Control, and the Shakes
       link: /2024/02/21_dreams-portion-control-and-the-shakes
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: A Day to Remember
       link: /2024/02/19_a-day-to-remember
-    - theme: alt
-      text: Rebuilding Revisited, SUNDAY!!!, and Thumper
-      link: /2024/02/18_rebuilding-revisited-sunday-and-thumper
 
 features:
   - title: Art
