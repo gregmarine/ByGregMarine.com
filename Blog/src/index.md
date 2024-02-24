@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: Sites, Acceptance, Tea, Play Ball!, and Judge Doom
-      link: /2024/02/22_sites-acceptance-tea-play-ball-and-judge-doom
+      text: Bible in a Year, My Meaning, Chicken, Paradise Paintings, and a Great Day
+      link: /2024/02/23_bible-in-a-year-my-meaning-chicken-paradise-paintings-and-a-great-day
     - theme: alt
       text: Sites, Acceptance, Tea, Play Ball!, and Judge Doom
       link: /2024/02/22_sites-acceptance-tea-play-ball-and-judge-doom

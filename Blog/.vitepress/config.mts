@@ -185,8 +185,8 @@ export default defineConfig({
                         link: '/2024/02/22_sites-acceptance-tea-play-ball-and-judge-doom'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/02/23_'
+                        text: 'Bible in a Year, My Meaning, Chicken, Paradise Paintings, and a Great Day',
+                        link: '/2024/02/23_bible-in-a-year-my-meaning-chicken-paradise-paintings-and-a-great-day'
                       }
                     ]
                   }
