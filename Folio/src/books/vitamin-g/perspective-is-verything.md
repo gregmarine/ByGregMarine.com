@@ -24,3 +24,10 @@ It was just the sort of change I needed to do a sort of reset on my life. I need
 
 I'm not saying you must make such a drastic change yourself. You can actually do this by simply going to a different park for your walks. Or you can try to seek out a new *favorite spot*. You don't really need to up root your entire life to find new perspective on your old self. I personally needed to do that. Otherwise, I might not have written this book!
 
+No matter how bad my circumstances may have been, there was always something positive that came from it all. And the only way for me to see the positive side of things was with a change of perspective. If I only focus on the bad stuff, that is really all I'm going to see.
+
+Taking us back to the example of photography, most of the photographs I take need some sort of touch up work applied when I get home. Photography isn't just about pointing a device at something and pushing a button. When I go back later and review the photos I have captured, I reflect on my day and the moments I attempted to freeze in time. I think about the lighting, the subject, and the composition. I apply post-production filters and adjustments to massage the imagine into something even better than moment.
+
+Sometimes, like in the photo featured in this chapter, I will even remove color through a filter because I felt like the colors took something away from that moment. When I remove what I did not like about the moment, I'm left with the perfect picture that represents the best of what I see.
+
+This same technique can also be applied to our circumstances. Without forgetting the negative aspects, we can still remove them to reveal what is truly best about our lives.
