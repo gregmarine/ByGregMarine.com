@@ -17,3 +17,7 @@ I believe photographs are one of the best examples of perspective. They capture 
 Whether it be our favorite spot, or simply a photograph, how we look at something can change over time. I personally believe that is one of the most beautiful things about life. In fact, even the darkest of memories can be changed for the better over time. If we take all that we have learned over the years, and apply it as lessons learned, almost anything can be changed for the better.
 
 The key is to find the positive in everything. With the exception of outside forces beyond our own control, almost anything within our own control can be twisted back into something good. That’s where perspective comes in handy. We just need to seek the perspective that gives us the best of everything.
+
+When I moved to Florida, I was escaping years of shame, guilt, and trauma. I spent the first 44 years of my life living an the mid-west United States. There isn't anything all that traumatic about that region. I only mention it because life in Florida is so very different. Everything from the climate to the general vibe is far from the climate and environment I grew up with.
+
+It was just the sort of change I needed to do a sort of reset on my life. I needed this new perspective to find a new approach in dealing with the trauma, guilt, and shame of my past.
