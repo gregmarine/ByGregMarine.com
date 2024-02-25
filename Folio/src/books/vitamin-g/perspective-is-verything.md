@@ -20,4 +20,7 @@ The key is to find the positive in everything. With the exception of outside for
 
 When I moved to Florida, I was escaping years of shame, guilt, and trauma. I spent the first 44 years of my life living an the mid-west United States. There isn't anything all that traumatic about that region. I only mention it because life in Florida is so very different. Everything from the climate to the general vibe is far from the climate and environment I grew up with.
 
-It was just the sort of change I needed to do a sort of reset on my life. I needed this new perspective to find a new approach in dealing with the trauma, guilt, and shame of my past.
+It was just the sort of change I needed to do a sort of reset on my life. I needed this new perspective to find a new approach in dealing with the trauma, guilt, and shame of my past. Since this book isn't about my past specifically, I won't be going into all the of the details. But gaining this new perspective through a drastic change in venue was just the change I needed.
+
+I'm not saying you must make such a drastic change yourself. You can actually do this by simply going to a different park for your walks. Or you can try to seek out a new *favorite spot*. You don't really need to up root your entire life to find new perspective on your old self. I personally needed to do that. Otherwise, I might not have written this book!
+
