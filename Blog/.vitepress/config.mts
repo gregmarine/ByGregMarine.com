@@ -187,6 +187,10 @@ export default defineConfig({
                       {
                         text: 'Bible in a Year, My Meaning, Chicken, Paradise Paintings, and a Great Day',
                         link: '/2024/02/23_bible-in-a-year-my-meaning-chicken-paradise-paintings-and-a-great-day'
+                      },
+                      {
+                        text: 'Car, Tarpon, Olaf, and Meetups',
+                        link: '/2024/02/26_car-tarpon-olaf-and-meetups'
                       }
                     ]
                   }

@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Car, Tarpon, Olaf, and Meetups
+      link: /2024/02/26_car-tarpon-olaf-and-meetups
+    - theme: alt
       text: Bible in a Year, My Meaning, Chicken, Paradise Paintings, and a Great Day
       link: /2024/02/23_bible-in-a-year-my-meaning-chicken-paradise-paintings-and-a-great-day
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Health, Vitamin G, and Relationships
       link: /2024/02/20_health-vitamin-g-and-relationships
-    - theme: alt
-      text: A Day to Remember
-      link: /2024/02/19_a-day-to-remember
 
 features:
   - title: Art
