@@ -189,8 +189,8 @@ export default defineConfig({
                         link: '/2024/02/23_bible-in-a-year-my-meaning-chicken-paradise-paintings-and-a-great-day'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/02/26_'
+                        text: 'Car, Tarpon, Olaf, and Meetups',
+                        link: '/2024/02/26_car-tarpon-olaf-and-meetups'
                       }
                     ]
                   }
