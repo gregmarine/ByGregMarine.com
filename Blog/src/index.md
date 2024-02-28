@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Vacation?
+      link: /2024/02/27_vacation
+    - theme: alt
       text: Car, Tarpon, Olaf, and Meetups
       link: /2024/02/26_car-tarpon-olaf-and-meetups
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Joseph's (and My) Dreams, Portion Control, and the Shakes
       link: /2024/02/21_dreams-portion-control-and-the-shakes
-    - theme: alt
-      text: Health, Vitamin G, and Relationships
-      link: /2024/02/20_health-vitamin-g-and-relationships
 
 features:
   - title: Art

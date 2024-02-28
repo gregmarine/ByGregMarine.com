@@ -191,6 +191,10 @@ export default defineConfig({
                       {
                         text: 'Car, Tarpon, Olaf, and Meetups',
                         link: '/2024/02/26_car-tarpon-olaf-and-meetups'
+                      },
+                      {
+                        text: 'Vacation?',
+                        link: '/2024/02/27_vacation'
                       }
                     ]
                   }
