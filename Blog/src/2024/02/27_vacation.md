@@ -14,7 +14,7 @@ Once I arrived today, and decided to extend my trip. I only planned to stay a fe
 
 I worked today. It was mostly a normal day at work. Nothing special to write about there...hehehe But out of the blue, my sister texted to see if she could drop by.
 
-I was so happy to here from Tracy. I was equally happy that I was able to welcome her into my home today. I was working, but hadn't taken my lunch yet. So I happily invited her to drop by!
+I was so happy to hear from Tracy. I was equally happy that I was able to welcome her into my home today. I was working, but hadn't taken my lunch yet. So I happily invited her to drop by!
 
 She brought us Panera to enjoy for lunch. We had a great time just hanging out and talking. I ended up talking to her about the same concerns I had when I talked to Chérie a few weeks ago. Basically about what happened on New Year's Eve. I'm glad I was able to talk to Tracy about it as well as when I talked to Chérie. They are the only two I've been able to talk to about it.
 
