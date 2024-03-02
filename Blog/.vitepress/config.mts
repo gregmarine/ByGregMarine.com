@@ -197,6 +197,16 @@ export default defineConfig({
                         link: '/2024/02/27_vacation'
                       }
                     ]
+                  },
+                  {
+                    text: 'March',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'TBD',
+                        link: '/2024/03/02_'
+                      }
+                    ]
                   }
                 ]
               }    

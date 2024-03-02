@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/03/02_
+    - theme: alt
       text: Vacation?
       link: /2024/02/27_vacation
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Sites, Acceptance, Tea, Play Ball!, and Judge Doom
       link: /2024/02/22_sites-acceptance-tea-play-ball-and-judge-doom
-    - theme: alt
-      text: Joseph's (and My) Dreams, Portion Control, and the Shakes
-      link: /2024/02/21_dreams-portion-control-and-the-shakes
 
 features:
   - title: Art
