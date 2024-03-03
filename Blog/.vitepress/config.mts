@@ -197,6 +197,16 @@ export default defineConfig({
                         link: '/2024/02/27_vacation'
                       }
                     ]
+                  },
+                  {
+                    text: 'March',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'Favorite Month, Vacation Mode, and More to Come',
+                        link: '/2024/03/02_favorite-month-vacation-mode-and-more-to-come'
+                      }
+                    ]
                   }
                 ]
               }    
