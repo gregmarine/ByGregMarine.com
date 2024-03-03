@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/03/03_
+    - theme: alt
       text: Favorite Month, Vacation Mode, and More to Come
       link: /2024/03/02_favorite-month-vacation-mode-and-more-to-come
     - theme: alt
