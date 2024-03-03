@@ -203,8 +203,8 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: 'TBD',
-                        link: '/2024/03/02_'
+                        text: 'Favorite Month, Vacation Mode, and More to Come',
+                        link: '/2024/03/02_favorite-month-vacation-mode-and-more-to-come'
                       }
                     ]
                   }
