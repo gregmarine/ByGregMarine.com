@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Feelings, Food, and Work
+      link: /2024/03/03_Feelings-food-and-work
+    - theme: alt
       text: Favorite Month, Vacation Mode, and More to Come
       link: /2024/03/02_favorite-month-vacation-mode-and-more-to-come
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Bible in a Year, My Meaning, Chicken, Paradise Paintings, and a Great Day
       link: /2024/02/23_bible-in-a-year-my-meaning-chicken-paradise-paintings-and-a-great-day
-    - theme: alt
-      text: Sites, Acceptance, Tea, Play Ball!, and Judge Doom
-      link: /2024/02/22_sites-acceptance-tea-play-ball-and-judge-doom
 
 features:
   - title: Art

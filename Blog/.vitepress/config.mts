@@ -205,6 +205,10 @@ export default defineConfig({
                       {
                         text: 'Favorite Month, Vacation Mode, and More to Come',
                         link: '/2024/03/02_favorite-month-vacation-mode-and-more-to-come'
+                      },
+                      {
+                        text: 'Feelings, Food, and Work',
+                        link: '/2024/03/03_Feelings-food-and-work'
                       }
                     ]
                   }
