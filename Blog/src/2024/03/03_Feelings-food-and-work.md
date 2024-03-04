@@ -1,4 +1,4 @@
-# TBD
+# Feelings, Food, and Work
 
 ## SUNDAY!!!
 
@@ -40,5 +40,38 @@ Although I'll continue to explore vegetarian foods, I'm essentially complete wit
 
 That said, I've reintroduced pork, beef, and chicken back into my diet. Once I am finished with all of the alternatives I have on hand, I'll be stocking up on real meat once again. And when I go out to eat, I'll probably not look for vegetarian unless they make their own from scratch. I don't trust the Impossible and Beyond brands to have my health in mind...hehehe I'll still have their products from time to time, though. Some of the festival foods at EPCOT use them. For me, most things in moderation are okay. I just don't want to make them a part of my standard diet.
 
-This was a fun experiment. I learned a lot and will apply what I've learned as my diet continues to evolve. Part of the next phase will be making more things from scratch. This will include such things as breads and sauces. Making things from scratch doesn't just taste better, it allows me to avoid all of the additives companies put into food to maintain color, texture, and shelf life. Plus I can avoid GMO products.
+This was a fun experiment. I learned a lot and will apply what I've learned as my diet continues to evolve. Part of the next phase will be making more things from scratch. This will include such things as breads and sauces. Making things from scratch doesn't just taste better, it allows me to avoid all of the additives companies put into food to maintain color, texture, and shelf life. Plus I can avoid all GMO products.
 
+## Alsomesauce
+
+I talked with Dan tonight. I had texted him that I noticed a possible typo in his latest blog entry. Since he is using his blog as part of his trumpet playing gigs, I always let him know if something needs his attention. He's a professional and all...hehehe He was on his way home from a gig and couldn't text. So he called. It had been a little while. I last saw him last month when I went down to Naples to see him perform.
+
+He was telling me about something he included in a composition he has been working. There is a note progression in it that spells out the name of the student he originally wrote it for who passed away last month in that fire in Arcadia. I think it is alsome (our spelling for awesome) that he modified the music to include this tribute to his student. Although he passed away, he will now live forever!
+
+We also talked about Disney...hehehe He and his family are thinking about moving up closer to Disney so he can play his trumpet there. We've shared our love of Disney World since we've known each other. And he was my officiant at my Disney wedding...hehehe But it has been so long since we've hung out there together. I think the last time we went to one of the parks was in 2018. And it has been a year since we hung out at Disney Springs and did the resort hopping.
+
+I'd also like to get down and pay them a visit soon. He's just been busy playing gigs on the weekends.
+
+## Lunch
+
+For lunch, I went with what I made last night for dinner...LOL I liked it so much I needed it twice in a row...hehehe It was the last of my plant-based burgers. On the lower bun, I put on hoisin sauce, then the "burger" patty, followed by an Asian blend of pickled veggies, and a combo of Sriracha and Sriracha mayo. For the bun, it was a French roll from the local bakery. It was so good!
+
+I air fried some fries to go with it. Using the air fryer makes fries so much better.
+
+## Dinner
+
+I went with scallops for dinner. I put about a tablespoon of ghee in the pan and set the burner to medium-high heat. I season the scallops with just freshly ground pepper. I sear them 2-3 minutes per side. Super easy and super delicious...hehehe
+
+I sliced up another one of those French rolls I have, toasted the slices in the oven, coated each with ghee, and sprinkled on some garlic powder. They were so good too!
+
+I also steamed green beans and did the ghee with garlic powder thing. The dinner was so satisfying.
+
+Funny how I was thinking about going out to eat tonight...HAHAHA I'm technically still on vacation today. But looking at my bank account after spending so much money at Disney, I decided I need to take a long break from eating out...hehehe
+
+## Back to Work
+
+Well, vacation is over! Time to go back to work tomorrow...LOL I'm one of those weirdos who love Monday...hehehe I love going to work because working is a privilege not everyone has. I'm definitely grateful for my job!
+
+I think I'll be wrapping up my latest project this week. I imagine it will take another week or two before it gets deployed to production. But I'll be finished with the coding work this week. It's exciting to finish this one because the other project I've been working on has been in progress for over a year. It will be nice to finally see one finished up...LOL
+
+Let's have a great week!!!
