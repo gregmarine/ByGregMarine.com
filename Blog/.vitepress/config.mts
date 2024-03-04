@@ -209,6 +209,10 @@ export default defineConfig({
                       {
                         text: 'Feelings, Food, and Work',
                         link: '/2024/03/03_Feelings-food-and-work'
+                      },
+                      {
+                        text: '',
+                        link: '/2024/03/04_'
                       }
                     ]
                   }
