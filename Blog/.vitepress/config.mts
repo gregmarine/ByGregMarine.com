@@ -211,8 +211,8 @@ export default defineConfig({
                         link: '/2024/03/03_Feelings-food-and-work'
                       },
                       {
-                        text: '',
-                        link: '/2024/03/04_'
+                        text: 'Reflection, Jaw Pain, Improving, and Photography',
+                        link: '/2024/03/04_reflection-jaw-pain-improving-and-photography'
                       }
                     ]
                   }
