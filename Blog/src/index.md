@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Reflection, Jaw Pain, Improving, and Photography
+      link: /2024/03/04_reflection-jaw-pain-improving-and-photography
+    - theme: alt
       text: Feelings, Food, and Work
       link: /2024/03/03_Feelings-food-and-work
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Car, Tarpon, Olaf, and Meetups
       link: /2024/02/26_car-tarpon-olaf-and-meetups
-    - theme: alt
-      text: Bible in a Year, My Meaning, Chicken, Paradise Paintings, and a Great Day
-      link: /2024/02/23_bible-in-a-year-my-meaning-chicken-paradise-paintings-and-a-great-day
 
 features:
   - title: Art
