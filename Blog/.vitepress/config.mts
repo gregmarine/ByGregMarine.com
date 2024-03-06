@@ -213,6 +213,10 @@ export default defineConfig({
                       {
                         text: 'Reflection, Jaw Pain, Improving, and Photography',
                         link: '/2024/03/04_reflection-jaw-pain-improving-and-photography'
+                      },
+                      {
+                        text: 'I\'m So Cool',
+                        link: '/2024/03/05_05_im-so-cool'
                       }
                     ]
                   }
