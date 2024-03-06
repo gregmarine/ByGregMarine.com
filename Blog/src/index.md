@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/03/05_
+    - theme: alt
       text: Reflection, Jaw Pain, Improving, and Photography
       link: /2024/03/04_reflection-jaw-pain-improving-and-photography
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Vacation?
       link: /2024/02/27_vacation
-    - theme: alt
-      text: Car, Tarpon, Olaf, and Meetups
-      link: /2024/02/26_car-tarpon-olaf-and-meetups
 
 features:
   - title: Art
