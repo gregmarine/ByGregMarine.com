@@ -8,7 +8,7 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: I'm So Cool
+      text: I'm So Cool! j/k
       link: /2024/03/05_im-so-cool
     - theme: alt
       text: Reflection, Jaw Pain, Improving, and Photography
