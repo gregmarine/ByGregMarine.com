@@ -215,8 +215,8 @@ export default defineConfig({
                         link: '/2024/03/04_reflection-jaw-pain-improving-and-photography'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/03/05_'
+                        text: 'I\'m So Cool',
+                        link: '/2024/03/05_05_im-so-cool'
                       }
                     ]
                   }

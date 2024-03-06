@@ -1,4 +1,4 @@
-# TBD
+# I'm So Cool! j/k
 
 Happy Birthday Grandma! She turned 89 today. I'm one of the lucky ones who still has a living grandmother at my age. There are so few left from her generation. I only have a few aunts and uncles left myself. I'm grateful to still have who I have. I didn't call her today, though. She can't hear anymore. So I could only text her.
 
