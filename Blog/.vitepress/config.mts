@@ -216,7 +216,7 @@ export default defineConfig({
                       },
                       {
                         text: 'I\'m So Cool! j/k',
-                        link: '/2024/03/05_05_im-so-cool'
+                        link: '/2024/03/05_im-so-cool'
                       }
                     ]
                   }
