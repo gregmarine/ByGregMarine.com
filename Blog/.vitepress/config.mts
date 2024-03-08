@@ -217,6 +217,10 @@ export default defineConfig({
                       {
                         text: 'I\'m So Cool! j/k',
                         link: '/2024/03/05_im-so-cool'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/03/08_'
                       }
                     ]
                   }
