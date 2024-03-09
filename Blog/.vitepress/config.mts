@@ -217,6 +217,10 @@ export default defineConfig({
                       {
                         text: 'I\'m So Cool! j/k',
                         link: '/2024/03/05_im-so-cool'
+                      },
+                      {
+                        text: 'Good week, Gout, and Doing Great',
+                        link: '/2024/03/08_good-week-gout-and-doing-great'
                       }
                     ]
                   }

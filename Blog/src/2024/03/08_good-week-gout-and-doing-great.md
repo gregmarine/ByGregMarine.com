@@ -1,0 +1,29 @@
+# Good week, Gout, and Doing Great
+
+I've missed journaling these past few days. Alas, I've been preoccupied these past few evenings.
+
+On Wednesday, it was the *First Wednesday* worship service at church. I'm so grateful for that service each month. I'm also grateful God prompted me to set a reminder. Although I was thinking about it at the beginning of the week, when Wednesday arrived, I had forgotten it was even Wednesday...hehehe At 5pm, my reminder went off and was very glad it did!
+
+I love to worship God in that community of fellow believers. And what is normally a brief message from a pastor was a full sermon by our lead pastor, Pastor Q. I'm looking forward to this next series of messages. It is about becoming a rock. Essentially, standing firm on my faith and not allowing the world to influence my decisions. Instead, being influenced by the Word of God, through prayer, and giving thanks through worship. The timing for this lesson is spot on for where I am in my own walk of faith. I often wonder who else in my church community here are on the same path as myself.
+
+Worship continued after the message and actually continued after the congregation was dismissed. There were several of us who remained and the worship team continued to worship. I ended up on my literal knees during this extended time and lamented to God about these past 25 years. I cried out for forgiveness over how I have been trying to live on my own understanding instead of His. I'm ready to spend the next 25 years with a Kingdom focus instead of a *Greg* focus. The past 25 years certainly have not been wasted. God is still using those years. It's just, as a human, I still feel some regret for how I have lived. I'm very glad to have had that moment on Wednesday to repent.
+
+Last night, Kerry came over. I've missed having these Thursday session with him. Between his vacation and my own, it had been quite a while since we had met on a Thursday. We started meeting about a year ago every other Thursday for a Bible study. It then evolved into a close friendship that eventually led us to meeting almost every Thursday. This has given us both a safe place to discuss what is going on in each other's lives and to pray for each other.
+
+This time, I did most of the talking. It isn't typically that way. But I had a lot on my heart that just needed to get out. He already knew that was the case and was the one who asked me about it. I am so thankful he was there to listen and to pray with me about it all. Well, 2 main things. But it was great to get all of it out last night. I usually bottle things up. I am sure we all do that. Sometimes, it is nice to open that bottle, though.
+
+I had a really productive week with work. I guess I really needed my vacation last week...hehehe I already feel like next week will be another productive week. And I'm feeling pretty good about what all I think I might accomplish personally this weekend.
+
+After my jaw infection healed, I ran into another painful problem...hehehe For years, I have dealt with gout...ouch! I haven't a clue why I deal with gout. No one else in my family has it. My weight and diet have changed many times over the years and I still deal with it. I know the cause for gout on a scientific level. I'm just not entirely sure why *I* have gout.
+
+I reviewed all that I ate and drank last week and over the weekend. There is always a chance that something triggered my body to have trouble processing the uric acid in my body causing the urate crystals to form and build up around my right foot's large toe. My best guess is a perfect storm of the drinks I had at the meetup last Wednesday combined with my sudden inclusion of meat back in my diet. In particular, the steak I had. Red meat can affect this. I highly doubt the pork or chicken had anything to do with it. Considering my blood pressure is doing great now, I'm not sure if that played a role. However, alcohol can increase blood pressure. So the type of drinks I had last Wednesday might have had an affect on my BP.
+
+There is one thing different with my experience this time. I didn't need to take any NSAID medication. I decided to rough it through the pain on this one and I'm doing really well with it. I also sleep differently now. So I was able to position my foot in such a way to relieve the pain as I slept. The last time I dealt with this, I couldn't find a sleeping position that would work...hehehe
+
+My prayer life has been evolving lately. It is growing far deeper than what it was like in the past. I'm sure my increased time in the Word has a lot to do with that. Growing closer to God means talking to Him more. Talking to Him more has also meant just listening more. Plus I'm seeing His creation with such new eyes now that I can't help but see His beauty all around me lately.
+
+This has started out to be such a wonderful year. Last year was such a hard year for me. This year is a far cry from last year! Yes, my health greatly improved last year. It was just a really hard year for me overall. But so much is different now. Although I do not know what the future holds, I'm quite hopeful for the potential of this year.
+
+I feel like I have a lot more to write tonight. But I'm already getting tired. I don't typically stay up late on the weekends. I usually just keep to my sleep schedule. That seems to be the healthiest choice. I only ever stay up late when I'm on vacation or at Disney. But I'm home tonight. So I think I may just call it and head to bed. I'm sure I'll write much more over the weekend. I'm happy with how this week has gone. Again, I'm glad I took that vacation last week. I rarely do that for myself. It was a good decision.
+
+There is still about 30 minutes left in the movie I'm *watching*. I'll finish it before bed. In the meantime, know that you are doing great!

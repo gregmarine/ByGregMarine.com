@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Good week, Gout, and Doing Great
+      link: /2024/03/08_good-week-gout-and-doing-great
+    - theme: alt
       text: I'm So Cool! j/k
       link: /2024/03/05_im-so-cool
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Favorite Month, Vacation Mode, and More to Come
       link: /2024/03/02_favorite-month-vacation-mode-and-more-to-come
-    - theme: alt
-      text: Vacation?
-      link: /2024/02/27_vacation
 
 features:
   - title: Art
