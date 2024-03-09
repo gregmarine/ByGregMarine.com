@@ -32,4 +32,4 @@ Sometimes, like in the photo featured in this chapter, I will even remove color 
 
 This same technique can also be applied to our circumstances. Without completely forgetting the negative aspects, we can still remove them to reveal what is truly best about our lives. Applying *filters*, or lessons learned, over the guilt, shame, and trauma of our past, what we are left with is a perspective to help us heal.
 
-What filters do you need to apply to the *photographs* of your past? What new perspectives do you need in order to find the positives of trauma. Whatever guilt or shame you may feel can be left behind. You no longer need to carry it. 
+What *filters* do you need to apply to the *photographs* of your past? What new perspectives do you need in order to find the positives of trauma? Whatever guilt or shame you may feel can be left behind. You no longer need to carry it. 
