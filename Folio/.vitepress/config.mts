@@ -34,6 +34,10 @@ export default defineConfig({
                   {
                     text: 'Introduction',
                     link: '/books/vitamin-g/introduction'
+                  },
+                  {
+                    text: 'I Don\'t Want To',
+                    link: '/books/vitamin-g/i-dont-want-to'
                   }
                 ]
               }    
