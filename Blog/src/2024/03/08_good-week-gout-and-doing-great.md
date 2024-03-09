@@ -1,4 +1,4 @@
-# TBD
+# Good week, Gout, and Doing Great
 
 I've missed journaling these past few days. Alas, I've been preoccupied these past few evenings.
 
@@ -20,4 +20,10 @@ I reviewed all that I ate and drank last week and over the weekend. There is alw
 
 There is one thing different with my experience this time. I didn't need to take any NSAID medication. I decided to rough it through the pain on this one and I'm doing really well with it. I also sleep differently now. So I was able to position my foot in such a way to relieve the pain as I slept. The last time I dealt with this, I couldn't find a sleeping position that would work...hehehe
 
-My prayer life has been evolving lately. It is growing far deeper than what it was like in the past. I'm sure my increased time in the Word has a lot to do with that. Growing closer to God means talking to Him more. Talking to Him more has also meant just listening more.
+My prayer life has been evolving lately. It is growing far deeper than what it was like in the past. I'm sure my increased time in the Word has a lot to do with that. Growing closer to God means talking to Him more. Talking to Him more has also meant just listening more. Plus I'm seeing His creation with such new eyes now that I can't help but see His beauty all around me lately.
+
+This has started out to be such a wonderful year. Last year was such a hard year for me. This year is a far cry from last year! Yes, my health greatly improved last year. It was just a really hard year for me overall. But so much is different now. Although I do not know what the future holds, I'm quite hopeful for the potential of this year.
+
+I feel like I have a lot more to write tonight. But I'm already getting tired. I don't typically stay up late on the weekends. I usually just keep to my sleep schedule. That seems to be the healthiest choice. I only ever stay up late when I'm on vacation or at Disney. But I'm home tonight. So I think I may just call it and head to bed. I'm sure I'll write much more over the weekend. I'm happy with how this week has gone. Again, I'm glad I took that vacation last week. I rarely do that for myself. It was a good decision.
+
+There is still about 30 minutes left in the movie I'm *watching*. I'll finish it before bed. In the meantime, know that you are doing great!

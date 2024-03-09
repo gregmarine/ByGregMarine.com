@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/03/08_
+      text: Good week, Gout, and Doing Great
+      link: /2024/03/08_good-week-gout-and-doing-great
     - theme: alt
       text: I'm So Cool! j/k
       link: /2024/03/05_im-so-cool
