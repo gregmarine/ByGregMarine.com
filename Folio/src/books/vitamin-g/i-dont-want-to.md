@@ -24,4 +24,11 @@ At the end of 2022 and the onset of 2023, I took a close look at my health. Alth
 
 At the time, I was going through a 21 day period of prayer and fasting. The thing I was fasting at the time was television. And one of the parts of my day I always watched television was on my lunch hour. I didn't feel healthy enough to give up any eating. Every time I would skip a meal, I would actually grow dangerously faint. So giving up food was not an option. I really didn't want to give up television either. But there was a purpose, an end result I was hoping for.
 
-Since I wasn't watching television on my lunch hour, I made the crucial decision to take walks. 
+Since I wasn't watching television on my lunch hour, I made the crucial decision to take walks. At the time, I would get winded just walking to my car from my apartment. For some perspective, I parked maybe 50 feet from my front door. I was a 44 year old walking like a 90 year old. I wish I were using hyperbole. But I most certainly am not. It was so bad that a few of my friends were quite concerned about me just weeks prior to my decision to take walks. Their concerns were actually why I started to think I needed to work on this.
+
+Did I want to take walks? Absolutely not! I wanted to watch television! Did I want to feel good again? Absolutely yes! Which one, television or walking, was going to give me the best result? Yes, that is rhetorical. Let me tell you, that first walk was torture. I walked about half a mile in about 15 minutes. I felt like I was dying when I got back to my apartment! Again, not using hyperbole.
+
+The next day when lunch approached, I did not want to walk. I did however want to feel good. So I went right back out there and walked. I did this same thing everyday for about 3 weeks. At the end of that 3 weeks, I was walking for a mile in about 20 minutes. And when I got back to my apartment, I was dancing!
+
+I went from feeling like dying and hating the idea of walking for exercise, to feeling like celebrating and loving walking! I took something I didn't want to do and turned it into an entirely new lifestyle. Fast forward to now. Now I run for fun! You read that correctly, I run...for fun! And I feel fantastic. Wanting to feel good again required me to do something I didn't want to do...exercise. The end results were well worth it.
+
