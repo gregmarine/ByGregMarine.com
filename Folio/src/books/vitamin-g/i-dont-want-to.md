@@ -32,3 +32,7 @@ The next day when lunch approached, I did not want to walk. I did however want t
 
 I went from feeling like dying and hating the idea of walking for exercise, to feeling like celebrating and loving walking! I took something I didn't want to do and turned it into an entirely new lifestyle. Fast forward to now. Now I run for fun! You read that correctly, I run...for fun! And I feel fantastic. Wanting to feel good again required me to do something I didn't want to do...exercise. The end results were well worth it.
 
+What are a few of the things you are facing today you would rather not be facing? What tasks or responsibilities do you have that you really don't want to do? But what will the end results be if you go through with everything you'd rather not be dealing with? Would focusing on the results help you accept that you need to do what you don't want to do in order to do what you want to do?
+
+I'm going to presume the answer to that last question is going to be a resounding yes. Whether you are facing a chore that leads to a balanced home, a less than desirable work situation that leads to food on the table and vacations with your family, or a treatment that will lead your body to a healthy recovery, face everything you don't want to do with a grateful attitude for what you will accomplish by going through it.
+
