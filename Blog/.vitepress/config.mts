@@ -223,8 +223,8 @@ export default defineConfig({
                         link: '/2024/03/08_good-week-gout-and-doing-great'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/03/09_'
+                        text: 'DST, More (about) Pain, Books, and More!',
+                        link: '/2024/03/09_dst-more-pain-books-and-more'
                       }
                     ]
                   }

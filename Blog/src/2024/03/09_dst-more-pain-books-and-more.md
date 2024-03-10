@@ -1,4 +1,4 @@
-# TBD
+# DST, More (about) Pain, Books, and More!
 
 ## Daylight Savings and the Dark Years
 
@@ -78,4 +78,28 @@ This book is really happening!!! Woohoo!!!
 
 It has been a few days since I've updated myself on the Dodgers mugs I ordered. Great news! They arrived in Florida! Woohoo!!! They are expected to arrive at my home on Monday. But they are definitely in Orlando if UPS is telling me the truth...hehehe
 
-My collection has been growing lately. Since coffee and tea is a daily routine, it makes sense 
+My collection has been growing lately. Since coffee and tea are a daily routine, it makes sense that I've been growing this collection. Having fun reminders of things and people I love is very important to me. I rarely collect *stuff* for myself. I have a few things I've collected for *me*. But the mug collection is mostly about the people and places I love.
+
+I look forward to having these. I'll first use them on my birthday for the Dodgers season opener. I know I've mentioned that before. I just find it fascinating that it happens to be on my birthday this year. And they are playing in Korea! Korea is where my late Grandfather served in the Navy. And he is the reason I drink coffee! Pretty cool, eh!? Finding such sweet connections are great. They help me stay connected with lost loved ones and those who are far away.
+
+## Birthday part 2
+
+Back to my birthday. While I was at Ford's Garage today, I inquired about a special event they are having on my birthday...hehehe It is a 5 course dining experience with beer pairings. They only had 2 tickets left. So I snagged one of them. I confirmed with them that the 5 beers will be 5 oz pours. So I won't need a hotel reservation...HAHAHA One of my questions was about the size of each pour because I knew the beers listed were strong. 25 oz total of beer over the course of a few hours will not be a problem for me. Especially since it will be while eating.
+
+The rest of my day is still open. Weather permitting, I'll get out on the water as I mentioned. Otherwise, I may just do another exploration day.
+
+## Exploration
+
+Speaking of exploration, I did that today! After my time at Ford's Garage, I went to the nearby Barnes and Noble. I picked up one of their exclusive classics, *Les Misérables* by Victor Hugo. It is one of my favorite stories and I haven't yet read the actual novel. The B&N edition looks quite fancy. But the price was pretty reasonable.
+
+I also picked up a small copy of *Irish Fairy and Folk Tales* to go with my Irish heritage. I think that will be a fun read that I'll enjoy every so often. And last, but not least, I picked up a personal size Bible. It is small enough to pack away in my travels. It is the first of my Bible library rebuilding. They had a few other Bibles I was looking to get. But I'll wait for a bit. It will take time to rebuild my library of Bibles. There is no rush.
+
+After B&N, I ventured out through the rest of the outdoor mall it was located in. It was a nice mall. It has all of the typical stores and a few I hadn't seen before. I didn't wander into many of the stores this time. But it is definitely a mall I'll return to. It has plenty of outdoor seating available to relax. And there were several restaurants I'd like to give a try. They did not have any of the typical restaurants. In fact, it reminded me more of the selection available at Disney Springs. It was only lacking a Chinese restaurant...LOL
+
+Seeing that they did not have Chinese, and I was craving Chinese, I took to the map to see what was available nearby. I found this quint little bistro called *Liang's Bistro Asian Cuisine* in "Tampa" (it seemed I was too far from Tampa to call it Tampa...but the address is Tampa...LOL).
+
+It was quite good! The atmosphere was fun and inviting. And everyone there seemed to be enjoying their meals as well. It was much too busy for me to get a good recording of the ambience using my iPhone's microphone. So when I get a decent mic, I'll be able to record the ambience next time. But I mention this because it was just such a pleasant experience. It was calming. I just don't have the equipment to capture that.
+
+## DST, Here I Come!
+
+I had better set an alarm for the morning. I didn't quite meet my goal of getting to bed an hour early tonight. I'll be fine, though. I'm glad the time change occurs on Sundays. Sundays are typically my resting day...hehehe
