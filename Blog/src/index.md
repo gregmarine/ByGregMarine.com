@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: DST, More (about) Pain, Books, and More!
+      link: /2024/03/09_dst-more-pain-books-and-more
+    - theme: alt
       text: Good week, Gout, and Doing Great
       link: /2024/03/08_good-week-gout-and-doing-great
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Feelings, Food, and Work
       link: /2024/03/03_Feelings-food-and-work
-    - theme: alt
-      text: Favorite Month, Vacation Mode, and More to Come
-      link: /2024/03/02_favorite-month-vacation-mode-and-more-to-come
 
 features:
   - title: Art
