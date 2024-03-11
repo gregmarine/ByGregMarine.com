@@ -225,6 +225,10 @@ export default defineConfig({
                       {
                         text: 'DST, More (about) Pain, Books, and More!',
                         link: '/2024/03/09_dst-more-pain-books-and-more'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/03/11_'
                       }
                     ]
                   }
