@@ -229,6 +229,10 @@ export default defineConfig({
                       {
                         text: 'Seagulls, Facebook Memories, Church, and Mind Prison',
                         link: '/2024/03/11_seagulls-facebook-memories-church-and-mind-prison'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/03/12_'
                       }
                     ]
                   }
