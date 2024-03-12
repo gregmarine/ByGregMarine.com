@@ -6,13 +6,13 @@ Growing up, my family semi-annually visited Florida for vacation. That's when my
 
 For the beach, we often stayed at this little condo called The Beach Comber on Longboat Key. By today's standards, that condo building is basically a shack...hehehe But back in the day, it was the most luxurious accommodations this wanderlust kid had ever seen...LOL And I *survived* a tropical storm there once!
 
-One of the things I can vividly remember is we always bought a loaf of bread to feed the seagulls on the beach while we were there. One of the most fascinating things to me as a child was there ability to hover above us and catch the pieces of bread in mid air!
+One of the things I can vividly remember is we always bought a loaf of bread to feed the seagulls on the beach while we were there. One of the most fascinating things to me as a child was their ability to hover above us and catch the pieces of bread in mid air!
 
 ![Seagull](./img/IMG_5703.jpeg)
 
 With those squiggly analog lines all over the screen, fast forward to now...hehehe I see seagulls every :clap: single :clap: day :clap: LOL They no longer fascinate me...HAHAHA I don't really hate them or anything. They are just *everywhere* here...hehehe
 
-What I noticed most about them now is that they sound like they are laughing at me...LOL That's right, *laughing*! At *me*! Of course, they aren't really. But when they are in groups and squawking at each other, that is exactly what they sound like to me...LOL I go to the beach, laughing :laughing: I go to the grocery, laughing :laughing: I take a shower...well...they aren't in the shower...but they are probably outside somewhere, :laughing: HAHAHA I kid, of course. It's fun!
+What I notice most about them now is that they sound like they are laughing at me...LOL That's right, *laughing*! At *me*! Of course, they aren't really. But when they are in groups and squawking at each other, that is exactly what they sound like to me...LOL I go to the beach, laughing :laughing: I go to the grocery, laughing :laughing: I take a shower...well...they aren't in the shower...but they are probably outside somewhere, laughing :laughing: HAHAHA I kid, of course. It's fun!
 
 ## Facebook Memories
 
@@ -48,7 +48,7 @@ I'm certain I do not want to go to Disney that day. So, if the water isn't an op
 
 Yesterday, I virtually *attended* the Sunday service for [Calvary Chapel Golden Springs](https://www.calvarygs.org/) in Diamond Bar, California. It's the church Chérie use to attend and she still watches. And she was actually there at the church yesterday! I watched the same service she was attending yesterday. It was like we went to church together; at least from my perspective. Her perspective, I can imagine, would have been a little different considering she was physically there...hehehe
 
-Although I was in my own living room, I still stood and sang the songs along with the congregation. I opened by Bible and followed along as Pastor Ries was teaching. I made notes in my notebook. All as if I was sitting right there in the sanctuary. It was an experience I would like to continue for a little while and see how God uses this.
+Although I was in my own living room, I still stood and sang the songs along with the congregation. I opened my Bible and followed along as Pastor Ries was teaching. I made notes in my notebook. All as if I was sitting right there in the sanctuary. It was an experience I would like to continue for a little while and see how God uses this.
 
 The sermon style was reminiscent of what I experienced growing up. It was unlike the sort of style typically found in churches these days. I found comfort in the fact we were hearing the full context of an entire chapter of 2 Samuel; chapter 12. Sure, there is value in the modern church doing life application style sermons. However, I can do a life application study on my own. At church, I want to worship and do a more in depth contextual study of the meaning of the Word.
 
@@ -72,7 +72,7 @@ I'm getting to bed a little later tonight than I'd like. But today's journal ent
 
 I probably would wake up tomorrow thinking about that text I received today. Now, I know I won't. Or at the very least, it won't be bothering me anymore. Likewise, my early morning hours of prayer and Bible time have consistently led me to having a positive mindset for the rest of the day.
 
-I learned a year ago the importance of diet and exercise for my physical health. Later in the year, I learned the importance of sleep, meditation, and prayer for my mental and spiritual health. Getting started is probably the hardest part. But once I got into the right cadence, it has become one of the easiest things for me.
+I learned a year ago through experience the importance of diet and exercise for my physical health. Later in the year, I learned the importance of sleep, meditation, and prayer for my mental and spiritual health. Getting started is probably the hardest part. But once I got into the right cadence, it has become one of the easiest things for me.
 
 It all comes down to balance, doesn't it? Consistent and purposeful balance. This has also afforded me the flexibility to introduce new and exciting things in my life. Unexpected things, really. Including a new habit of reading. The sunrise hits me differently now. And the birds' song is much sweeter.
 

@@ -227,8 +227,8 @@ export default defineConfig({
                         link: '/2024/03/09_dst-more-pain-books-and-more'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/03/11_'
+                        text: 'Seagulls, Facebook Memories, Church, and Mind Prison',
+                        link: '/2024/03/11_seagulls-facebook-memories-church-and-mind-prison'
                       }
                     ]
                   }

@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/03/11_
+      text: Seagulls, Facebook Memories, Church, and Mind Prison
+      link: /2024/03/11_seagulls-facebook-memories-church-and-mind-prison
     - theme: alt
       text: DST, More (about) Pain, Books, and More!
       link: /2024/03/09_dst-more-pain-books-and-more
