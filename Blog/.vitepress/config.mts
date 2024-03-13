@@ -229,6 +229,10 @@ export default defineConfig({
                       {
                         text: 'Seagulls, Facebook Memories, Church, and Mind Prison',
                         link: '/2024/03/11_seagulls-facebook-memories-church-and-mind-prison'
+                      },
+                      {
+                        text: 'Phone Calls, Sunrise Poem, Afternoon Tea, and Dodgers Mugs',
+                        link: '/2024/03/12_phone-calls-sunrise-poem-afternoon-tea-and-dodgers-mugs'
                       }
                     ]
                   }
