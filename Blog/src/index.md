@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/03/12_
+      text: Phone Calls, Sunrise Poem, Afternoon Tea, and Dodgers Mugs
+      link: /2024/03/12_phone-calls-sunrise-poem-afternoon-tea-and-dodgers-mugs
     - theme: alt
       text: Seagulls, Facebook Memories, Church, and Mind Prison
       link: /2024/03/11_seagulls-facebook-memories-church-and-mind-prison
