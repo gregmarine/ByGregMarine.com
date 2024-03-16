@@ -233,6 +233,10 @@ export default defineConfig({
                       {
                         text: 'Phone Calls, Sunrise Poem, Afternoon Tea, and Dodgers Mugs',
                         link: '/2024/03/12_phone-calls-sunrise-poem-afternoon-tea-and-dodgers-mugs'
+                      },
+                      {
+                        text: 'Writing, Sunrises, Bread, and Friendship',
+                        link: '/2024/03/15_writing-sunrises-bread-and-friendship'
                       }
                     ]
                   }
