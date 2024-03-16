@@ -1,4 +1,4 @@
-# TBD
+# Writing, Sunrises, Bread, and Friendship
 
 It has been a few days since I last journaled. That doesn't really mean anything beyond it being a relatively full week. Funny thing is, I don't have a whole lot to talk about tonight. I'm mostly writing just to remain in the habit of it.
 
@@ -16,9 +16,18 @@ Not everyone is in my position. Not everyone lives alone and can take the extra 
 
 Now that I live alone, I have found it easier to adjust my thinking to focus on what is best versus what I want in the moment. But I do so one small, sustainable change at a time. Today, it was baking bread...HAHAHA The other days this week, it has been taking the time to actually enjoy the sunrise!
 
-For the past few years, I have taken countless sunrise photos in my complex. But it wasn't until this week that I actually stopped and let the sunrise envelop me in its warm embrace. And today, I took a walk around the pond afterward. Will this small, sustainable change make it to the habit stage? I hope it does. Doing this after my prayer and Bible time has been an excellent transition into my work day. This will change as the sun rises earlier. So I may need to adjust my morning routine to compensate if I plan to continue experiences the sunrise on pleasant weather days...hehehe
+For the past few years, I have taken countless sunrise photos in my complex. But it wasn't until this week that I actually stopped and let the sunrise envelop me in its warm embrace. And today, I took a walk around the pond afterward. Will this small, sustainable change make it to the habit stage? I hope it does. Doing this after my prayer and Bible time has been an excellent transition into my work day. This will change as the sun rises earlier. So I may need to adjust my morning routine to compensate if I plan to continue experiencing the sunrise on pleasant weather days...hehehe
 
 With this being my birth month, I get emails from restaurants offering me *free* stuff if I come in and buy a regular entree. One of them was Olive Garden and they offered me a *free* dessert with the purchase of an adult entree. Today, I decided I would take them up on their offer and had lunch there. For my entree, I went with the salmon and broccoli. I added a side of spaghetti because I also wanted a little pasta...hehehe Instead of a salad, I went with a bowl of their minestrone. And, of course, breadsticks...LOL
 
 For the dessert I settled in on tiramisu; which is actually why I wanted to go there in the first place. I absolute love tiramisu...in it's various forms.
 
+The bread turned out fantastic! It is a little spicy from the hatch green chili. The cheddar adds a nice savory texture and flavor. Overall, a very successful bake. I'm looking forward to enjoy it over the next few days!
+
+This weekend is looking to be a great one. There are so many things to look forward to. It will be a nice way to end this happy week and begin a new one! Perhaps I'll have a great deal to talk about throughout and at the conclusion of the weekend...hehehe
+
+Oh! Chérie received her copy of the devotional we'll be doing. I don't recall if I've mentioned we will be doing a devotional. We will discuss it on our Zoom call tomorrow. I can't wait to see her again. She has been such a blessing. I cannot thank God enough for her. And I cannot thank her enough! She has been talking about friendship quite a bit lately. I appreciate our friendship just as much as she does.
+
+She wrote a poem about our friendship. I printed it out and I plan to find a way to frame and display it. I also printed out a photo of her to include with the poem. It is something a cherish quite a bit.
+
+I'm looking forward to how God makes us grow. We can plant the seeds and water it. But He is the one who makes it grow. I'm beyond grateful for what He is doing in our lives; both separately and in our friendship. Thank you, Chérie, for being a true friend.

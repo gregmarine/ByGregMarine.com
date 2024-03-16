@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/03/15_
+      text: Writing, Sunrises, Bread, and Friendship
+      link: /2024/03/15_writing-sunrises-bread-and-friendship
     - theme: alt
       text: Phone Calls, Sunrise Poem, Afternoon Tea, and Dodgers Mugs
       link: /2024/03/12_phone-calls-sunrise-poem-afternoon-tea-and-dodgers-mugs
