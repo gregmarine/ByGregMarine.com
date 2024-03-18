@@ -18,7 +18,7 @@ hero:
       link: /2021Renaissance/only-the-beginning
 
 features:
-  - title: Blog
-    details: Check out my blog through the navigation link at the top!
+  - title: Coming Soon
+    details: More content!
 ---
 
