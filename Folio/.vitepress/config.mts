@@ -18,7 +18,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Art', link: 'https://art.bygregmarine.com', target: '_self' },
-      { text: 'Blog', link: 'https://blog.bygregmarine.com', target: '_self' },
     ],
 
     sidebar: [

@@ -14,7 +14,5 @@ hero:
 features:
   - title: Art
     details: Check out my art through the navigation link at the top!
-  - title: Blog
-    details: Check out my blog through the navigation link at the top!
 ---
 
