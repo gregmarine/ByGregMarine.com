@@ -241,6 +241,10 @@ export default defineConfig({
                       {
                         text: 'Happy St. Patrick\'s Day',
                         link: '/2024/03/17_happy-st-patricks-day'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/03/18_'
                       }
                     ]
                   }
