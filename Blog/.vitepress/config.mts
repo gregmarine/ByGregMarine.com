@@ -237,6 +237,10 @@ export default defineConfig({
                       {
                         text: 'Writing, Sunrises, Bread, and Friendship',
                         link: '/2024/03/15_writing-sunrises-bread-and-friendship'
+                      },
+                      {
+                        text: 'Happy St. Patrick\'s Day',
+                        link: '/2024/03/17_happy-st-patricks-day'
                       }
                     ]
                   }

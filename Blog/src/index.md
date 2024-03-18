@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Happy St. Patrick's Day
+      link: /2024/03/17_happy-st-patricks-day
+    - theme: alt
       text: Writing, Sunrises, Bread, and Friendship
       link: /2024/03/15_writing-sunrises-bread-and-friendship
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: DST, More (about) Pain, Books, and More!
       link: /2024/03/09_dst-more-pain-books-and-more
-    - theme: alt
-      text: Good week, Gout, and Doing Great
-      link: /2024/03/08_good-week-gout-and-doing-great
 
 features:
   - title: Art
