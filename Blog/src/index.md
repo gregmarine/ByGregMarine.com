@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/03/18_
+      text: Bugs, Lease Renewal, and my Schedule (Among other things)
+      link: /2024/03/18_bugs-lease-renewal-and-my-schedule
     - theme: alt
       text: Happy St. Patrick's Day
       link: /2024/03/17_happy-st-patricks-day
