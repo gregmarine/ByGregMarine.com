@@ -245,6 +245,10 @@ export default defineConfig({
                       {
                         text: 'Bugs, Lease Renewal, and my Schedule (Among other things)',
                         link: '/2024/03/18_bugs-lease-renewal-and-my-schedule'
+                      },
+                      {
+                        text: 'Birthday Eve',
+                        link: '/2024/03/19_birthday-eve'
                       }
                     ]
                   }

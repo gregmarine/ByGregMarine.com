@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Birthday Eve
+      link: /2024/03/19_birthday-eve
+    - theme: alt
       text: Bugs, Lease Renewal, and my Schedule (Among other things)
       link: /2024/03/18_bugs-lease-renewal-and-my-schedule
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Phone Calls, Sunrise Poem, Afternoon Tea, and Dodgers Mugs
       link: /2024/03/12_phone-calls-sunrise-poem-afternoon-tea-and-dodgers-mugs
-    - theme: alt
-      text: Seagulls, Facebook Memories, Church, and Mind Prison
-      link: /2024/03/11_seagulls-facebook-memories-church-and-mind-prison
 
 features:
   - title: Art
