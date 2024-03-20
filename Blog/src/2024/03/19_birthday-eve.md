@@ -18,4 +18,6 @@ I woke really early today. Long before my normal time. I was woken by a nose ble
 
 I wanted to go back to sleep. I still had plenty of time to sleep before I needed to get up. That's when I felt God call me to pray. This has been happening more frequently of late. I wake up in the middle of the night and a specific person or situation would be on my heart. I then pray until I fall back to sleep. Today was a bit different. This time, I did not go back to sleep. What I was being called to pray over has been on my heart all day. So I have continued to pray for it all day.
 
-This call to action type of prayer is new to me. It isn't unusual for me to pray in general. But these callings have been intense!
+This call to action type of prayer is new to me. It isn't unusual for me to pray in general. But these callings have been intense! Especially today; which included that nose bleed...hehehe As I was praying in that wee hour of the morning, I also felt called to be still and silent. In that stillness, I was led to Matthew 17:14-21.
+
+The rest of the day has been quite the spiritual journey. I won't go into it much here. I'm actually still processing some of it. But some of it I included in my devotional reflection journal. Especially the one Chérie and I are doing together. And part of that one inspired today's Vitamin G post.
