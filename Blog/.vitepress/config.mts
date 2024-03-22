@@ -249,6 +249,10 @@ export default defineConfig({
                       {
                         text: 'Birthday Eve',
                         link: '/2024/03/19_birthday-eve'
+                      },
+                      {
+                        text: 'Work Update, Botanical Gardens, and the Weekend',
+                        link: '/2024/03/22_work-update-botanical-gardens-and-the-weekend'
                       }
                     ]
                   }
