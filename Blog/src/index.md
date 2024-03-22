@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/03/22_
+      text: Work Update, Botanical Gardens, and the Weekend
+      link: /2024/03/22_work-update-botanical-gardens-and-the-weekend
     - theme: alt
       text: Birthday Eve
       link: /2024/03/19_birthday-eve

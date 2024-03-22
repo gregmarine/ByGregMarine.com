@@ -1,4 +1,6 @@
-# TBD
+# Work Update, Botanical Gardens, and the Weekend
+
+## Introduction
 
 This has been quite the week. So much to write about that I wonder if I actually will...hehehe Sometimes I want to write and don't simply because some of my experiences need to remain in a place of my heart that no one else will ever see and that I'll bring back to remembrance without being prompted by what I wrote *today*. Sometimes, when I experience the same joy or pain at a later time, moments like what I'm referring to will come back through relatable emotions. There is something so intimate about that, you know?
 
@@ -7,6 +9,8 @@ The first thing I want to talk about today is actually something I wrote a lette
 That's what I do when I write. Writing has given me the opportunity to get out my thoughts and feelings in a medium that allows me to meditate over everything I feel and think. This has been such a transformable year in this regard. Never before have I ever written so much. Some of it can be used for other purposes. While some of it is just rambling.
 
 Before I continue, I want to reassure you that I am doing really well with what I’m about to talk about. God has always been and will always be my provider. I have faith in His plan. What I do for a living is merely one detail on the ledger of that plan. I’m not anxious about my situation whatsoever. It is both freeing, and a little weird to feel okay…LOL Also, I did not lose my job yesterday…
+
+## Work Update
 
 I received the news that, as of now, I have not been chosen to move over to the new company. The new company is definitely taking most of my team. However, there are a few of us who aren’t as vital to the specific reasons the team is moving. In my case, there is reason to believe that the new company already has resources that fit the skill set I have. With a limited budget, that company did not feel I was essential.
 
@@ -21,6 +25,8 @@ Wednesday, I was presented with such an outside opportunity. A friend of mine wh
 Regardless, I still have months ahead. I did not lose my job yesterday. The uncertainties just still remain. I need prayer about discernment considering this matter. I also hope the Peace remains in my heart. I do not want this to lead to anxieties. I don’t think it will. But I’m human. It is tempting to be anxious…hehehe
 
 I spoke with my boss first thing when I started work. I wanted to ask him how he felt about the new company not wanting me right away and how adamant he was in convincing the new company that I was vital to his team. He expressed his disappointment and that he felt very strongly that he wanted me to come along. So I told him that I would appreciate his advocacy over me with his soon to be new boss. In the meantime, I will also be exploring all of my other options, including outside opportunities, in the coming months.
+
+## Birthday Botanical Bonanza
 
 I enjoyed my birthday very much. I'm really happy with how the day went. I visited 3 botanical gardens. Each have their pros and cons. I did not have much time to explore the third one. So its cons list hasn't really be established yet...hehehe The other two, however, I spent quite a bit of time at. Overall, I felt the third one was my favorite of the day.
 
@@ -44,10 +50,18 @@ The only caveat that I immediately noticed is that my mobile data connection was
 
 They have an art center there. I wasn't able to check that out this time. But it will be something I'll be sure to check out next time. There was a lot of Florida wildlife. Especially in the wetlands area. There weren't a lot of people there at the time. So it was a nice and quiet time for me to meditate for a bit without many interruptions.
 
+## Five-Course Dinner
+
 After that, and the reason my time there was short, I headed over to Ford's Garage in Lutz for dinner. I had to be there by 6pm and had quite a ways to drive. I had prepaid for a 5 course dining experience because it coincided with my birthday. I thought it would be fun...hehehe And it was! This was the first time they've done it. I gave them the feedback that I'd love for them to keep doing those events.
 
 It's difficult for me to explain how the dinner went beyond saying that the food was great and the company was enjoyable. I sat with a couple whom I hadn't met before. I didn't know anyone...LOL But it was fun to chat with them throughout the evening. The gal actually works at that location. But instead of working that night, she was able to enjoy this dinner...hehehe
 
+## The Weekend
+
 Well, it's the weekend now. I don't really work for the weekend anymore. Every single day is a blessing. I don't fret Mondays and I don't long for Saturdays. Any day I can wake up this side of the grass is a good day...LOL I have so many things to be grateful for. And that list keeps getting longer. From time to time, an item falls off the list. But there is always something around the corner I can add and be even more grateful for.
 
-Tomorrow, I'm going to go see my birthday movie, *Ghostbusters: Frozen Empire*. I say *birthday movie* loosely here. I don't traditionally go to the movies around my birthday. It is something my dad always does. But I'm thinking about taking it up as a tradition now. I'll be going to see it alone; which I'm perfectly fine with. I have seen countless movies at the theatre by myself.
+Tomorrow, I'm going to go see my birthday movie, *Ghostbusters: Frozen Empire*. I say *birthday movie* loosely here. I don't traditionally go to the movies around my birthday. It is something my dad always does. But I'm thinking about taking it up as a tradition now. I'll be going to see it alone; which I'm perfectly fine with. I have seen countless movies at the theatre by myself. Or course, as of the pandemic, I prefer to watch movies at home. But from time to time, I still like to venture into a theatre. There are aspects of the experience that are difficult to create at home. This is like the 4th time I'll have gone to the movies since I moved here...hehehe It will be my first doing so here alone, though.
+
+I may end up at Ford's Garage one more time this weekend. I still need to take advantage of my free birthday appetizer...hehehe But I don't know if I'll go. That's still a maybe. I do plan on going to Sprouts for the first time. I have some ingredients to pick up for a recipe or two I'd like to make next week. Plus I'd like to check them out as a potential grocery for better food sources than I'm currently using...LOL
+
+I hope there aren't too many typos in this journal entry. I've said a lot and I tried to proofread along the way. But I don't want to go back over the whole thing again...hehehe If you've made it this far, congrats! Today's was a long one! That's what we get for me skipping a few days...LOL
