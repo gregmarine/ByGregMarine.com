@@ -249,6 +249,10 @@ export default defineConfig({
                       {
                         text: 'Birthday Eve',
                         link: '/2024/03/19_birthday-eve'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/03/22_'
                       }
                     ]
                   }
