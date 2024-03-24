@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/03/23_
+      text: New Grocer, Food for Thought, Dog Toys, and Frozen
+      link: /2024/03/23_new-grocer-food-for-thought-dog-toys-and-frozen
     - theme: alt
       text: Work Update, Botanical Gardens, and the Weekend
       link: /2024/03/22_work-update-botanical-gardens-and-the-weekend
