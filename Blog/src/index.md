@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/03/25_
+    - theme: alt
       text: Garden Take 2, CCGS, and Holy Holidays
       link: /2024/03/24_garden-take-2-ccgs-and-holy-holidays
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Birthday Eve
       link: /2024/03/19_birthday-eve
-    - theme: alt
-      text: Bugs, Lease Renewal, and my Schedule (Among other things)
-      link: /2024/03/18_bugs-lease-renewal-and-my-schedule
 
 features:
   - title: Art

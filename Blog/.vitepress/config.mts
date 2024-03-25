@@ -261,6 +261,10 @@ export default defineConfig({
                       {
                         text: 'Garden Take 2, CCGS, and Holy Holidays',
                         link: '/2024/03/24_garden-take-2-ccgs-and-holy-holidays'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/03/25_'
                       }
                     ]
                   }
