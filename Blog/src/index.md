@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Garden Take 2, CCGS, and Holy Holidays
+      link: /2024/03/24_garden-take-2-ccgs-and-holy-holidays
+    - theme: alt
       text: New Grocer, Food for Thought, Dog Toys, and Frozen
       link: /2024/03/23_new-grocer-food-for-thought-dog-toys-and-frozen
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Bugs, Lease Renewal, and my Schedule (Among other things)
       link: /2024/03/18_bugs-lease-renewal-and-my-schedule
-    - theme: alt
-      text: Happy St. Patrick's Day
-      link: /2024/03/17_happy-st-patricks-day
 
 features:
   - title: Art

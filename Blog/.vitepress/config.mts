@@ -257,6 +257,10 @@ export default defineConfig({
                       {
                         text: 'New Grocer, Food for Thought, Dog Toys, and Frozen',
                         link: '/2024/03/23_new-grocer-food-for-thought-dog-toys-and-frozen'
+                      },
+                      {
+                        text: 'Garden Take 2, CCGS, and Holy Holidays',
+                        link: '/2024/03/24_garden-take-2-ccgs-and-holy-holidays'
                       }
                     ]
                   }
