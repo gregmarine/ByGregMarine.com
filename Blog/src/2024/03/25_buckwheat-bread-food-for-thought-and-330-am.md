@@ -1,4 +1,4 @@
-# TBD
+# Buckwheat Bread, Food for Thought, and 3:30am
 
 My heart and mind are wide open. Always have been. This is a double edge sword of sorts. On one hand, that makes it easy for me to course correct when God is helping me navigate my world. On the other hand, when I seek navigational help from the world instead, I can be easily influenced by the world. I need to always feed my open mind and heart with godly influences, not the worldly ones. To be *in* the world, and not *of* it.
 
@@ -20,7 +20,7 @@ I am not worthy to be in Your presence! I am a sinner! Yet You welcome me into y
 
 *As you do this exercise, talk to God about what's on your mind today.*
 
-
+Things I'm placing in the box: my son, the friends I'm praying for, my work situation, my self examination of my anxieties, my purpose.
 
 ## Prayers
 
@@ -67,3 +67,13 @@ So, when I drink that morning coffee, I am filled with joy. We're coming up on t
 As a part of my *food for thought* a few days ago, I further posed the rhetorical question of *what if that person, place, or thing was no longer in my life?* In this case, what if my *coffee* (the thing) was taken away or if I miss a morning and not have any for a day? I can confidently answer that question in the positive. I have days when I cannot have my coffee for whatever reason and it has no impact on me whatsoever. I don't feel sluggish during those days. I don't have any withdrawal headaches from missing caffeine. And I don't feel any sadness towards my grandfather not being with us anymore. Although I attach such great joy to the coffee, the joy does not leave me when the *thing* is missing. This sounds like a very healthy attachment to me. And if I had to give up my coffee, I can let go of the attachment completely because I have let go of the pain of missing him.
 
 I think in my next reflection of this *food for thought*, I'll explore what I think might be a harmful attachment. As I continue to explore this, it is my hope that I can dig deep into some of the sources for my anxieties, fears, and doubts. Perhaps I can turns those into joy, happiness, and excitement.
+
+## Buckwheat Bread
+
+So, I attempted to make Chérie's buckwheat bread tonight...hehehe I hope I succeeded! It was a success as far as it was bread and it was edible...HAHAHA I actually liked it. It wasn't like anything I have had before. I'm hoping I made it as close to how she does so I can experience just a little of what she has experienced on her journey.
+
+Doing things like this can help me pray more effectively for others while on my walk with Christ. The Holy Spirit leads me to things like this. And I'm grateful for the opportunities He provides, such as this. I cannot possibly experience the world as Christ did. And I cannot possibly experience the world as other people do. But I feel there is power in shared experiences and even the smallest of attempts to gain understanding.
+
+Now that I've made it *her* way, I'll experiment with it a bit to my tastes the next few times I make it. Since I do not have any dietary restrictions to consider for myself, I have options to make this bread my own. Although I love to support my friends along their journeys, I have a journey of my own. Experiments like this lend themselves to becoming stepping stones on my path.
+
+![Plate of buckwheat bread](./img/IMG_4939.jpeg)
