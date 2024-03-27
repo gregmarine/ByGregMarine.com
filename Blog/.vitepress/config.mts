@@ -265,6 +265,10 @@ export default defineConfig({
                       {
                         text: 'Buckwheat Bread, Food for Thought, and 3:30am',
                         link: '/2024/03/25_buckwheat-bread-food-for-thought-and-330-am'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/03/27_'
                       }
                     ]
                   }
