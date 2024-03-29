@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/03/28_
+      text: Holy Week, Anxiety Continued, and Hello New Rut!
+      link: /2024/03/28_holy-week-anxiety-continued-and-hello-new-rut
     - theme: alt
       text: Disney and Passion Week
       link: /2024/03/27_disney-and-passion-week
