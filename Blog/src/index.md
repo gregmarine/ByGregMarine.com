@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/03/31_
+      text: My Path, Food for Thought, and Love
+      link: /2024/03/31_my-path-food-for-thought-and-love
     - theme: alt
       text: Holy Week, Anxiety Continued, and Hello New Rut!
       link: /2024/03/28_holy-week-anxiety-continued-and-hello-new-rut

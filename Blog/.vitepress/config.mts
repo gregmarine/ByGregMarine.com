@@ -275,8 +275,8 @@ export default defineConfig({
                         link: '/2024/03/28_holy-week-anxiety-continued-and-hello-new-rut'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/03/31_'
+                        text: 'My Path, Food for Thought, and Love',
+                        link: '/2024/03/31_my-path-food-for-thought-and-love'
                       }
                     ]
                   }
