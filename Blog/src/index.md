@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/04/01_
+    - theme: alt
       text: My Path, Food for Thought, and Love
       link: /2024/03/31_my-path-food-for-thought-and-love
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Buckwheat Bread, Food for Thought, and 3:30am
       link: /2024/03/25_buckwheat-bread-food-for-thought-and-330-am
-    - theme: alt
-      text: Garden Take 2, CCGS, and Holy Holidays
-      link: /2024/03/24_garden-take-2-ccgs-and-holy-holidays
 
 features:
   - title: Art
