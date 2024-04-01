@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: My Path, Food for Thought, and Love
+      link: /2024/03/31_my-path-food-for-thought-and-love
+    - theme: alt
       text: Holy Week, Anxiety Continued, and Hello New Rut!
       link: /2024/03/28_holy-week-anxiety-continued-and-hello-new-rut
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Garden Take 2, CCGS, and Holy Holidays
       link: /2024/03/24_garden-take-2-ccgs-and-holy-holidays
-    - theme: alt
-      text: New Grocer, Food for Thought, Dog Toys, and Frozen
-      link: /2024/03/23_new-grocer-food-for-thought-dog-toys-and-frozen
 
 features:
   - title: Art
