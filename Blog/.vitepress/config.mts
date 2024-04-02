@@ -286,7 +286,7 @@ export default defineConfig({
                     items: [
                       {
                         text: 'TBD',
-                        link: '/2024/04/01_'
+                        link: '/2024/04/02_'
                       }
                     ]
                   }

@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /2024/04/01_
+      link: /2024/04/02_
     - theme: alt
       text: My Path, Food for Thought, and Love
       link: /2024/03/31_my-path-food-for-thought-and-love
