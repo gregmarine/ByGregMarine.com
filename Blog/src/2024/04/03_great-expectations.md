@@ -20,11 +20,10 @@ Either way I look at it, unreasonable expectations can lead to a great deal of m
 
 When I began, I stripped away the people, places, and things so I could only see my expectations. I wanted to examine the correlation between expectation and feelings; which at a very high level I have. At this point, I believe there is a very direct relationship between the two. What I expect out of or give to seems to have an impact on how I feel about the subject. So where do I go from here?
 
-My first instinct is to strip away expectations altogether. It then becomes an *expect nothing and appreciate everything* mindset. In the case of places and things, this seems healthy enough.
+My first instinct is to strip away expectations altogether. It then becomes an *expect nothing and appreciate everything* mindset. In the case of places and things, this seems healthy enough. With people, though, it still seems a bit more complicated. Sure, I can expect nothing from them. But does that leave it open for the *bad people* to get to me? Perhaps I should still at the very least expect them to respect my boundaries. And they should expect the same from me.
 
+This brings me to a very basic principle that I was never taught. It may seem like commonsense. And it probably is. If I want understanding, I should ask questions. If I want to be understood, I should explain. If a relationship is established, I need to ask clarifying questions to understand what my expectations should be and accept responsibility for their expectations. I should then share what my expectations are to give them the opportunity to accept the responsibility of those expectations or to refuse the responsibility. It isn't either party's responsibility to read minds, right?
 
-Share what my expectations are to give them the opportunity to accept the responsibility or not.
+The hurt and pain I've experienced in my life isn't the responsibility of others. It is mine, and mine alone. There are a few exceptions where someone intentionally caused me harm. That's outside the scope of what I'm saying here. But imagine if I had felt this way over the course of my life? I may have caused far less pain for others and experienced far less pain myself had I learned this years ago.
 
-Ask clarifying questions to understand what my expectations should be.
-
-I'm resetting everything...no longer basing on my previous experiences...learning from those experiences...but not expecting things to be like they were.
+I don't actually regret the years past. Those experiences have made me who I am today. I've learned from them and I'm growing. I'll apply these lessons learned to present and future relationships. I'll also apply this to the places I go and things I do. I'm doing a sort of reset on everything. My expectations of everything will no longer be based on my previous experiences. Having learned from those experiences, I can now approach my expectations and the expectations of others through acquiring understanding and better explaining myself.
