@@ -6,3 +6,8 @@ I'm not going to go in depth into any specific circumstance here. I don't feel i
 
 I have found that I set a certain level of expectation in my own mind about certain things. Take a movie or TV show for example. I'll watch the previews and get in my mind of how well I'll like the show. I think previews are design for that very purpose. They are to entice me to go watch whatever it is. If I set my expectations too high and the show does not quite meet what I think it should be for me, then I'm left with disappointment. If I set my expectations too low and the show is fantastic, then I'm left not only feeling fulfilled in my decision to see the show, I might actually think it is far better than it really is.
 
+The same can be said about the places I go to. Often times I'll set a level of expectation in my mind about what I'll experience when I'm planning a trip somewhere new. If I have to travel far or if it will cost a significant amount, I really want that place to delivery and experience well worth the cost or travel time. If the experience is far better than I expected, great! However, when if falls short, those *bad* experiences can leave me with a bad impression of where I've been.
+
+
+
+I get it in my head about what they are thinking based solely on how I think about things. I cannot possible know what they are thinking. They have to tell me. And if they don't, I can't expect to know what they are actually thinking.
