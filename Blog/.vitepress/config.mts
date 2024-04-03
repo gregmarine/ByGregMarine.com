@@ -287,6 +287,10 @@ export default defineConfig({
                       {
                         text: 'Wildflowers',
                         link: '/2024/04/02_wildflowers'
+                      },
+                      {
+                        text: 'Great Expectations',
+                        link: '/2024/04/03_great-expectations'
                       }
                     ]
                   }
