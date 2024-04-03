@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Great Expectations
+      link: /2024/04/03_
+    - theme: alt
       text: Wildflowers
       link: /2024/04/02_wildflowers
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Disney and Passion Week
       link: /2024/03/27_disney-and-passion-week
-    - theme: alt
-      text: Buckwheat Bread, Food for Thought, and 3:30am
-      link: /2024/03/25_buckwheat-bread-food-for-thought-and-330-am
 
 features:
   - title: Art
