@@ -8,7 +8,13 @@ I have found that I set a certain level of expectation in my own mind about cert
 
 The same can be said about the places I go to. Often times I'll set a level of expectation in my mind about what I'll experience when I'm planning a trip somewhere new. If I have to travel far or if it will cost a significant amount, I really want that place to delivery an experience well worth the cost or travel time. If the experience is far better than I expected, great! However, when if falls short, those *bad* experiences can leave me with a bad impression of where I've been.
 
-When it comes to people, I think I do the same thing.
+When it comes to people, I think I do the same thing. But with people, things get a little more complicated. With places and things, it's typically about what I can get out of those things or experiences. That isn't the case with people. I have to set my expectations not only for them, but also more so of myself. It isn't about what I can get out of my interactions with them. I must also consider what they get out of their interactions with me.
+
+To further complicate matters, it isn't just about our interactions. There are elements such as what the other person may be thinking. How will they react to something I'm doing? How should I react to something they are doing? Do they have noble intentions? Do I have noble intentions? How do we feel in that moment? Are they having a bad day? Am I having a bad day? So many factors to consider when setting expectations that it can become overwhelming. And this is only scratching the surface of the complexities of being human.
+
+
+
+
 
 I get it in my head about what they are thinking based solely on how I think about things. I cannot possible know what they are thinking. They have to tell me. And if they don't, I can't expect to know what they are actually thinking.
 
@@ -16,3 +22,5 @@ I get it in my head about what they are thinking based solely on how I think abo
 Share what my expectations are to give them the opportunity to accept the responsibility or not.
 
 Ask clarifying questions to understand what my expectations should be.
+
+I'm resetting everything...no longer basing on my previous experiences...learning from those experiences...but not expecting things to be like they were.
