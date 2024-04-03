@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Great Expectations
-      link: /2024/04/03_
+      link: /2024/04/03_great-expectations
     - theme: alt
       text: Wildflowers
       link: /2024/04/02_wildflowers
