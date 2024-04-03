@@ -8,6 +8,11 @@ I have found that I set a certain level of expectation in my own mind about cert
 
 The same can be said about the places I go to. Often times I'll set a level of expectation in my mind about what I'll experience when I'm planning a trip somewhere new. If I have to travel far or if it will cost a significant amount, I really want that place to delivery an experience well worth the cost or travel time. If the experience is far better than I expected, great! However, when if falls short, those *bad* experiences can leave me with a bad impression of where I've been.
 
-
+When it comes to people, I think I do the same thing.
 
 I get it in my head about what they are thinking based solely on how I think about things. I cannot possible know what they are thinking. They have to tell me. And if they don't, I can't expect to know what they are actually thinking.
+
+
+Share what my expectations are to give them the opportunity to accept the responsibility or not.
+
+Ask clarifying questions to understand what my expectations should be.
