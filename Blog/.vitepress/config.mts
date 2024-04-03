@@ -285,8 +285,8 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: 'TBD',
-                        link: '/2024/04/02_'
+                        text: 'Wildflowers',
+                        link: '/2024/04/02_wildflowers'
                       }
                     ]
                   }
