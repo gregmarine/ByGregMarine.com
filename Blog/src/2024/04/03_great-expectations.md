@@ -12,11 +12,15 @@ When it comes to people, I think I do the same thing. But with people, things ge
 
 To further complicate matters, it isn't just about our interactions. There are elements such as what the other person may be thinking. How will they react to something I'm doing? How should I react to something they are doing? Do they have noble intentions? Do I have noble intentions myself? How do we feel in that moment? Are they having a bad day? Am I having a bad day? So many factors to consider when setting expectations that it can become overwhelming. And this is only scratching the surface of the complexities of being human.
 
+One of the problems I run into is I get it in my head about what they are probably thinking. But that's based solely on how I think about things. I cannot possible know what they are thinking or how their thought process works. They have to tell me. And if they don't, I can't expect to know what they are actually thinking. I need to ask questions to better understand them. Historically, I have not asked the questions I needed to in order to gain that understanding. Instead, I set expectations the other person cannot possibly meet.
 
+Likewise, I am certain it is the other way around. With a very specific exception, people do not generally ask me questions to better understand me or how I think. They are setting expectations of me that I cannot possibly meet.
 
+Either way I look at it, unreasonable expectations can lead to a great deal of misunderstanding. If I set my expectations too high, my image of someone may leave me feeling hurt or disappointed. If I don't set my expectations high enough, they may seem too good to be true, so to speak. I may also find myself being to trusting of the other person if my expectations are too low. And I feel as though I have either hurt and disappointed people or might have been viewed better than I really am by people who set the incorrect expectations of me.
 
+When I began, I stripped away the people, places, and things so I could only see my expectations. I wanted to examine the correlation between expectation and feelings; which at a very high level I have. At this point, I believe there is a very direct relationship between the two. What I expect out of or give to seems to have an impact on how I feel about the subject. So where do I go from here?
 
-I get it in my head about what they are thinking based solely on how I think about things. I cannot possible know what they are thinking. They have to tell me. And if they don't, I can't expect to know what they are actually thinking.
+My first instinct is to strip away expectations altogether. It then becomes an *expect nothing and appreciate everything* mindset. In the case of places and things, this seems healthy enough.
 
 
 Share what my expectations are to give them the opportunity to accept the responsibility or not.
