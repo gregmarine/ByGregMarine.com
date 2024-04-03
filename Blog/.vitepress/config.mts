@@ -279,6 +279,16 @@ export default defineConfig({
                         link: '/2024/03/31_my-path-food-for-thought-and-love'
                       }
                     ]
+                  },
+                  {
+                    text: 'April',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'Wildflowers',
+                        link: '/2024/04/02_wildflowers'
+                      }
+                    ]
                   }
                 ]
               }    
