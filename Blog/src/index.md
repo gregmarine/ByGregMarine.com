@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Read Me First
-      link: /read-me-first
+      link: /read-me
     - theme: brand
       text: Great Expectations
       link: /2024/04/03_great-expectations

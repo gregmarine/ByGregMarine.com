@@ -298,7 +298,7 @@ export default defineConfig({
               },
               {
                 text: 'Read Me First',
-                link: '/read-me-first'
+                link: '/read-me'
               }
             ]
           }
