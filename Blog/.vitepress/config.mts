@@ -27,6 +27,10 @@ export default defineConfig({
             text: 'Journal',
             items: [
               {
+                text: 'Read Me',
+                link: '/read-me'
+              },
+              {
                 text: '2024',
                 collapsed: true,
                 items: [
@@ -295,7 +299,7 @@ export default defineConfig({
                     ]
                   }
                 ]
-              }    
+              }
             ]
           }
         ]
