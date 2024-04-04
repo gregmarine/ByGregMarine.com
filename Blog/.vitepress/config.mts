@@ -295,6 +295,10 @@ export default defineConfig({
                       {
                         text: 'Great Expectations',
                         link: '/2024/04/03_great-expectations'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/04/04_'
                       }
                     ]
                   }
