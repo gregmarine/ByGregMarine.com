@@ -12,4 +12,12 @@ Depending on how much you read through my journal, you may come across contradic
 
 ## A Work in Progress
 
+I sometimes refer to my life in terms of software releases. In that case, there have been about 7 or 8 different versions of the software known as *Greg*...hehehe Each version of myself has been built on top of a previous version. From time to time, I'll start from *scratch*. But not really. Even when I do a *reset* on my *source code*, I'm still building new versions of myself on top of the concepts that formed who I am up to that point.
+
+But I suppose the point I'm trying to make is, I'm not finished yet. God has been working in and through my life, my entire life. That will never stop. I am evolving into the person God wants me to be. Who I am *today* is not who I will be *tomorrow*. So I encourage you to read my journal from that point of view. I would encourage you to not challenge what I say when I say it. Rather, be just as curious as I am and ask questions for clarification. That's what I'm doing as I write. I'm being *curious, not judgemental*.
+
 ## Making Progress
+
+Sometimes it feels as thought I'm living a *one step forward, two steps back* momentum. I deal with setbacks just like anyone else. One day, I may seem super positive in something I've written. The next day, I could be incredibly hard on myself and go down a darker path. As I'll state many times, that's okay!
+
+The thing I'm focusing on, and I hope you do as well, is the fact that I am making progress in this life. Although I'll sometimes refer to past pain or trauma, be rest assured that I am not stuck in my past. 
