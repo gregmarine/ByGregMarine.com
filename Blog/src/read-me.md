@@ -33,3 +33,9 @@ Who I am can be defined through my relationship with God. Simply put, I am a chi
 God and His name are Holy, set above and apart from all other things. I ask that He helps me have a Kingdom focus so that His good and perfect Will are done in and through me here on earth as it is being done in Heaven. God provides my daily provisions of food and drink to sustain me physically through the day. As well as prayer and His Word to sustain me both spiritually and mentally through the day. I ask His forgiveness for my sins as I forgive others, letting go of both the wrong and resentment. He not only leads me away from temptation, but He delivers me from evil. For His is the Kingdom, and the Power, and the Glory, forever (*Matthew 6:9-13*).
 
 God calls me to love Him with all my heart, soul, mind, and strength. He also calls me to love you and everyone as I love myself (*Mark 12:29-31*). These are what define who *Greg* is. Everything else, well, those are just the details...LOL
+
+## Thank You
+
+Since you are reading this, you are showing interest in knowing and understanding me. For that, I sincerely thank you. I hope we can learn so many wonderful things along our journeys. And I truly appreciate you joining me on mine. Each chapter of the book that makes up the story of my life has been a page turner so far. And each season has played its role in bringing me to this point here today.
+
+Again, welcome and thank you!
