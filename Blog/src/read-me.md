@@ -2,7 +2,7 @@
 
 ## Welcome
 
-If this is your first visit to my online journal (blog), welcome! If you have been here before and this is your first time reading this entry or you are reading it again, welcome back! The purpose of this entry is introduce you to what this site is and hopefully add some clarity to it's true purpose.
+If this is your first visit to my online journal (blog), welcome! If you have been here before and this is your first time reading this entry or you are reading it again, welcome back! The purpose of this entry is to introduce you to what this site is and hopefully add some clarity to it's true purpose.
 
 ## Behind the Curtain
 
@@ -32,7 +32,7 @@ Who I am can be defined through my relationship with God. Simply put, I am a chi
 
 God and His name are Holy, set above and apart from all other things. I ask that He helps me have a Kingdom focus so that His good and perfect Will are done in and through me here on earth as it is being done in Heaven. God provides my daily provisions of food and drink to sustain me physically through the day. As well as prayer and His Word to sustain me both spiritually and mentally through the day. I ask His forgiveness for my sins as I forgive others, letting go of both the wrong and resentment. He not only leads me away from temptation, but He delivers me from evil. For His is the Kingdom, and the Power, and the Glory, forever (*Matthew 6:9-13*).
 
-God calls me to love Him with all my heart, soul, mind, and strength. He also calls me to love you and everyone as I love myself (*Mark 12:29-31*). These are what define who *Greg* is. Everything else, well, those are just the details...LOL
+God calls me to love Him with all my heart, soul, mind, and strength. He also calls me to love you and everyone as I love myself (*Mark 12:29-31*). This is what defines who *Greg* is. Everything else? Well, those are just the details...LOL
 
 ## Thank You
 

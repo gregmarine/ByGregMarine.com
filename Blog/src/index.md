@@ -8,7 +8,7 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: Read Me First
+      text: Read Me
       link: /read-me
     - theme: brand
       text: Great Expectations
@@ -31,3 +31,4 @@ features:
     details: Check out my art through the navigation link at the top!
 ---
 
+Testing
