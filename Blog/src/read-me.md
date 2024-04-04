@@ -20,4 +20,16 @@ But I suppose the point I'm trying to make is, I'm not finished yet. God has bee
 
 Sometimes it feels as thought I'm living a *one step forward, two steps back* momentum. I deal with setbacks just like anyone else. One day, I may seem super positive in something I've written. The next day, I could be incredibly hard on myself and go down a darker path. As I'll state many times, that's okay!
 
-The thing I'm focusing on, and I hope you do as well, is the fact that I am making progress in this life. Although I'll sometimes refer to past pain or trauma, be rest assured that I am not stuck in my past. 
+The thing I'm focusing on, and I hope you do as well, is the fact that I am making progress in this life. Although I'll sometimes refer to past pain or trauma, be rest assured that I am not stuck in my past. I *keep moving forward*. It could be that I'm taking that one step forward and two steps back some days. But on other days, I'm sprinting ahead hundreds of steps.
+
+## Who Am I?
+
+> *I am Greg Marine, and I like warm hugs!* (A silly reference to my favorite Disney character, Olaf from the Frozen franchise.)
+
+A concept I've adopted, and often share with other people through encouragement, is that I am not what I have or what I do. I have sadness, depression, anxiety, physical ailments, and I'm sometimes very weak. But those are all things I have. I am not those things. I am a software engineer by trade, I write, I paint, I take photographs, and I sing. Again, I am not those things. They are all simply things that I do.
+
+Who I am can be defined through my relationship with God. Simply put, I am a child of God. Jesus Christ is my Lord and Savior. On December 24, 1998, I asked the Holy Spirit to enter into my life. I do not always represent this well, but that is who and what I am.
+
+God and His name are Holy, set above and apart from all other things. I ask that He helps me have a Kingdom focus so that His good and perfect Will are done in and through me here on earth as it is being done in Heaven. God provides my daily provisions of food and drink to sustain me physically through the day. As well as prayer and His Word to sustain me both spiritually and mentally through the day. I ask His forgiveness for my sins as I forgive others, letting go of both the wrong and resentment. He not only leads me away from temptation, but He delivers me from evil. For His is the Kingdom, and the Power, and the Glory, forever (*Matthew 6:9-13*).
+
+God calls me to love Him with all my heart, soul, mind, and strength. He also calls me to love you and everyone as I love myself (*Mark 12:29-31*). These are what define who *Greg* is. Everything else, well, those are just the details...LOL
