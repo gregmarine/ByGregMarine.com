@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Read Me First
+      link: /read-me-first
+    - theme: brand
       text: Great Expectations
       link: /2024/04/03_great-expectations
     - theme: alt

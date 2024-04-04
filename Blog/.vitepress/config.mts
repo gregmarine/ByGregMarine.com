@@ -295,7 +295,11 @@ export default defineConfig({
                     ]
                   }
                 ]
-              }    
+              },
+              {
+                text: 'Read Me First',
+                link: '/read-me-first'
+              }
             ]
           }
         ]
