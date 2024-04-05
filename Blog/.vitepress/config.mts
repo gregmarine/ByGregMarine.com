@@ -295,6 +295,10 @@ export default defineConfig({
                       {
                         text: 'Great Expectations',
                         link: '/2024/04/03_great-expectations'
+                      },
+                      {
+                        text: 'Zen and too Cold for Water',
+                        link: '/2024/04/04_zen-and-too-cold-for-water'
                       }
                     ]
                   }
