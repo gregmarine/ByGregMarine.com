@@ -1,4 +1,4 @@
-# TBD
+# Zen and too Cold for Water
 
 When I look at what I wrote yesterday, besides a typo or two, I see an incomplete thought. It seems there is more to what I was saying than what I actually said...hehehe On one hand, it seems like a complex idea. On the other, why make it so complicated? Is my overthinking nature getting the best of me? Most likely, yes. But that's okay. The whole point of this journal is to document my journey. Not the destination. Where I am going will be there when I get there. Until then, I can ramble on and on while trying to make sense of everything...HA!
 
@@ -10,3 +10,10 @@ So many important things have been weighing heavy on my mind and heart this week
 
 I'm meeting up with Kerry here in a little bit for our mostly weekly fellowship. Instead of him coming to my place this time, he and I are meeting up at a place called *ZEN Kitchen & Bar*. Apparently he knows the owners or something. It sounds like a great place to enjoy a Pan Asian dining experience. Could this become my local Asian restaurant?!? I've been in search of one for the 2 years I've lived here...LOL Stay tuned!!!
 
+Aaannnddd...we're back! Yep, I'd say ZEN Kitchen will become my new local Asian restaurant...LOL Although it was a tad loud, the overall experience was fantastic. The food was amazing, the service was impeccable, the ambience was pleasant (with the exception of it being a tad loud), and the price was quite reasonable. Kerry and I shared a few sushi rolls and I had a Zen Tofu dinner with a spice level of *Thai Hot* and brown rice.
+
+The weekend is almost here. Lately, I haven't been chasing after the weekend. I don't whether it is living in Florida or just my growing older, but I seem to be enjoying each day for what it is. I think I may have written about it before. I'm grateful for every day now. When it's the weekend, great! When it is Monday, great! Whatever the day is, I'm happy it came. I was hoping to get out on the water this weekend. I even tested out my new inflatable paddle board to ensure it holds air well. It turns out, it will be too cold this weekend to be out on the water...LOL That's okay...I think next weekend should work out well...hehehe
+
+No more news on the work front. Hopefully I'll have some clarity soon. I'm still not worried about it. God is my provider. I look forward to what He has planned next.
+
+What will tomorrow bring? Let's find out together, shall we?!?

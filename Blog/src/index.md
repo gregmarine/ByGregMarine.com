@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/04/04_
+      text: Zen and too Cold for Water
+      link: /2024/04/04_zen-and-too-cold-for-water
     - theme: alt
       text: Great Expectations
       link: /2024/04/03_great-expectations
