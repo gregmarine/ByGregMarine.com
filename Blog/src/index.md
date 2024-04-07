@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /2024/04/05_
+      link: /2024/04/06_
     - theme: alt
       text: Zen and too Cold for Water
       link: /2024/04/04_zen-and-too-cold-for-water

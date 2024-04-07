@@ -302,7 +302,7 @@ export default defineConfig({
                       },
                       {
                         text: 'TBD',
-                        link: '/2024/04/05_'
+                        link: '/2024/04/06_'
                       }
                     ]
                   }
