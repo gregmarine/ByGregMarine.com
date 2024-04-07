@@ -301,8 +301,8 @@ export default defineConfig({
                         link: '/2024/04/04_zen-and-too-cold-for-water'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/04/06_'
+                        text: 'Food for Thought, Woodpecker, and Sadness',
+                        link: '/2024/04/06_food-for-thought-woodpecker-and-sadness'
                       }
                     ]
                   }
