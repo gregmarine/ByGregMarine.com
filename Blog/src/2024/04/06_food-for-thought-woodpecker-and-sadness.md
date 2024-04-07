@@ -47,3 +47,13 @@ Dan posed the question, and I'm paraphrasing, *Do you feel it is concerning some
 Sadly, this affected my ability to do my devotional with Chérie last night. I opened my book and I couldn't see through the tears. I'm being literal here. I closed the book and told her I wasn't going to do it last night and that I'd double up today; which I did...hehehe But it crushed my spirit to *fail* her like that. I don't mean fail literally, though. It was just the first time I hadn't been able to do it consistently in 20 days...hehehe So I committed and followed through with doing yesterday's and today's this morning.
 
 When I moved here 2 years ago, my sister and her husband lived here. The day I moved into my apartment, my sister told me she was going to leave her husband. A few months later, neither one of them lived here anymore.
+
+My friends from church all live quite a ways away as well as the church is not nearby. But they do live closer than my sister currently does...hehehe I do get with Kerry most Thursdays. That has been a huge help in this area. As for Dan and his family, they live in Arcadia...a little over a 2 hour drive away.
+
+I'm not use to this. Back in Indiana, it wasn't difficult to find someone to hang out with on a moment's notice. Now, every engagement with friends or family must be planned out. Anytime I feel lonely and just want to sit and talk goes by without consolation.
+
+I need to get better about reaching out to my friends remotely. It just isn't quite the same not being in the same room. Phone calls help a little. Texting works sometimes. But what about times like last night when I really just needed to sit with someone? It was great that Dan was available today. It was just what I needed. But, again, what about last night!?
+
+God is teaching me something here. He is reminding me that I need to fully rely on Him in times of extreme loneliness. He is always here with me. ALWAYS! It isn't the responsibility of my friends and family to be here when I need someone to talk to. It's great when someone is around. But I cannot be dependant on that. I'm not saying that I don't have people to talk to. Because I do have people...hehehe Just because they aren't able to be here physically doesn't mean they aren't there, right? But God is *always* here.
+
+My loneliness does not need to consume me like it did last night. It shouldn't get in the way of me being who God created me to be. It shouldn't come between me and Him. I need to trust Him and know that I can call out to Him when I need a little jolt of happiness.
