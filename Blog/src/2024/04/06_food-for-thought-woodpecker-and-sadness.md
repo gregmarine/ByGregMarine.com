@@ -40,5 +40,10 @@ In my daily morning prayers, I first recite the Lord's Prayer from Matthew 6:9-1
 
 ## Sad Week
 
-I've been sad this week. I searched my heart today to better understand it as I felt like my sadness was affecting other people. I was a bit out of character for myself this week...hehehe I also went down to Arcadia to visit with Dan to talk about it.
+As was mentioned a few (*many*) times this week, I've been sad this week. I searched my heart today to better understand it as I felt like my sadness was affecting other people. I was a bit out of character for myself this week...hehehe I also went down to Arcadia to visit with Dan to talk about it.
 
+Dan posed the question, and I'm paraphrasing, *Do you feel it is concerning something specific or just a temporary emotion.* At first, I wasn't sure that it was something specific. But upon a quick ponder, I started to talk to him about how I don't have anyone here. And I truly do mean anyone. I live in a place where I have no friends or family. I've started to become friends with a few neighbors. However, I'm not remotely close to them. I invited Sam and Jan (some neighbors) to have ice cream with me last night. But they declined. Although I enjoyed the ice cream and shared the experience through video with a few of my friends via text, I completely lost it when I got home. I sobbed and ended up going to bed.
+
+Sadly, this affected my ability to do my devotional with Chérie last night. I opened my book and I couldn't see through the tears. I'm being literal here. I closed the book and told her I wasn't going to do it last night and that I'd double up today; which I did...hehehe But it crushed my spirit to *fail* her like that. I don't mean fail literally, though. It was just the first time I hadn't been able to do it consistently in 20 days...hehehe So I committed and followed through with doing yesterday's and today's this morning.
+
+When I moved here 2 years ago, my sister and her husband lived here. The day I moved into my apartment, my sister told me she was going to leave her husband. A few months later, neither one of them lived here anymore.
