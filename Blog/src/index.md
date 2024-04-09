@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/04/08_
+    - theme: alt
       text: Food for Thought, Woodpecker, and Sadness
       link: /2024/04/06_food-for-thought-woodpecker-and-sadness
     - theme: alt
