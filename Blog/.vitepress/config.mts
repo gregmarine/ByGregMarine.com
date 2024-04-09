@@ -303,6 +303,10 @@ export default defineConfig({
                       {
                         text: 'Food for Thought, Woodpecker, and Sadness',
                         link: '/2024/04/06_food-for-thought-woodpecker-and-sadness'
+                      },
+                      {
+                        text: 'Devotional Reflection Continued',
+                        link: '/2024/04/08_devotional-reflection-continued'
                       }
                     ]
                   }
