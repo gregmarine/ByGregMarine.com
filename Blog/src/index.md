@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Light
+      link: /2024/04/09_light
+    - theme: alt
       text: Devotional Reflection Continued
       link: /2024/04/08_devotional-reflection-continued
     - theme: alt
@@ -19,12 +22,6 @@ hero:
     - theme: alt
       text: Great Expectations
       link: /2024/04/03_great-expectations
-    - theme: alt
-      text: Wildflowers
-      link: /2024/04/02_wildflowers
-    - theme: alt
-      text: My Path, Food for Thought, and Love
-      link: /2024/03/31_my-path-food-for-thought-and-love
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
