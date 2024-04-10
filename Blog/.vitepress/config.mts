@@ -309,8 +309,8 @@ export default defineConfig({
                         link: '/2024/04/08_devotional-reflection-continued'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/04/09_'
+                        text: 'Light',
+                        link: '/2024/04/09_light'
                       }
                     ]
                   }

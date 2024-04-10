@@ -1,8 +1,8 @@
-# TBD
+# Light
 
 ## More Light Required
 
-The message on Sunday at theChapel resonated with me. I've been processing it these last few days to prepare myself to write about it. So many messages I've heard there, or at CCGS lately, seem to be a direct answer to prayer. The message, *More Light Required*, was one such message.
+The message on Sunday at theChapel resonated with me. I've been processing it these last few days to prepare myself to write about it. So many messages I've heard there, and at CCGS lately, seem to be a direct answer to prayer. The message at theChapel Sunday, *More Light Required*, was one such message.
 
 ::: details Luke 11:33-36 AMP
 > “No one lights a lamp and then puts it in a cellar nor under a basket [hiding the light], but [instead it is put] on the lampstand, so that those who come in may see the light. The eye is the lamp of your body. When your eye is clear [spiritually perceptive, focused on God], your whole body also is full of light [benefiting from God’s precepts]. But when it is bad [spiritually blind], your body also is full of darkness [devoid of God’s word]. Be careful, therefore, that the light that is in you is not darkness. So if your whole body is illuminated, with no dark part, it will be entirely bright [with light], as when the lamp gives you light with its bright rays.”
@@ -14,7 +14,7 @@ In his message, Pastor Jason talked about how we can miss something important if
 
 > With other *people*, more light is required for discernment.
 
-I have been praying for discernment in all of my relationships. I've even asked a few of my brothers in Christ to help pray for this as well. Over the years, I have had several friends and family members whom I have shared too much about my life with. Not everyone in my life has the same character or spirit as I do. Some will use the information I share and some will simply not even listen...hehehe
+I have been praying for discernment in all of my relationships. I've even asked a few of my brothers in Christ to help pray for this as well. Over the years, I have had several friends and family members whom I have shared with too much about my life. Not everyone in my life has the same character or spirit as I do. Some will use the information I share against me and some will simply not even listen...hehehe
 
 There are very few who genuinely care for and will love me with the compassion of Christ. So I need to discern who has and hasn't been chosen by God to share my life with. Furthermore, which relationship are worth investing in and which are to be treated more like acquaintances? Not every *friend* is a true friend, after all. I am to love everyone. Not everyone will love me. Likewise, no one needs to earn my love and I do not need to earn theirs.
 
@@ -44,8 +44,12 @@ I have found that by being in the Word daily lately, scripture bubbles up to my 
 
 Pastor Jason further went on to explain when we shine the light we've taken in, people in darkness will see Jesus. Jesus is the light of the world (John 1:9, John 8:12, John 9:5). And just like the light in the Luke passage above is placed on a lampstand, Jesus was lifted up on the cross (a *lampstand*) for all to see. In Matthew 5:14, Jesus also calls us the light of the world. In the Matthew passage, it is the same story as the one from Luke but with that additional statement. It is Christ in me that becomes the Light that my world sees.
 
-My daily discipline is incredibly important. Now more so than ever.
+My daily discipline is incredibly important. Now more so than ever. Having a daily routine for worship, the Word, and prayer has been a life changing experience. And the message I heard on Sunday and how I am processing it is now documented right here in my journal. It was like God saying, *Okay Greg, now here is how you can begin applying what I've been working on in your life. Go now and Shine!*
 
+## Hiding the Light
 
+The part of the Luke passage where it says you don't hide the light in the cellar or under a basket brings back a funny memory from my childhood. I had this really nice lamp that looked like a covered wagon from old settler days as the United States grew westward. Back in the 80s, we didn't have these fancy LED light bulbs that are cool to the touch...LOL We just had incandescent bulbs that got quite hot...hehehe (*Thinking about the Easy Bake Oven*)
 
-Almost caused a fire with a pillow over a lamp when I was a kid.
+Well, one night, I was trying to use the lamp to see but I didn't want to wake my brother. We shared a bedroom at the time. So, I placed a pillow on the lamp as to block the light from casting over to his side of the room. After a short while, I began to smell smoke and I panicked a little. I lifted the pillow and it had begun to catch on fire and had already burned through the lampshade! LOL
+
+That's how I feel it should be with the Light that is growing inside of me today. If I don't place the light on its lampstand for all to see, and instead try to hide it under a *pillow*, I want it to burn a hole in my heart so it bursts out of my chest!
