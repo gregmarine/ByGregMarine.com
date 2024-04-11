@@ -311,6 +311,10 @@ export default defineConfig({
                       {
                         text: 'Light',
                         link: '/2024/04/09_light'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/04/11_'
                       }
                     ]
                   }
