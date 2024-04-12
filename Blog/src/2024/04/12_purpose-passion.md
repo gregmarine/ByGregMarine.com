@@ -1,0 +1,31 @@
+# Purpose :point_right: Passion
+
+This has been a much better week than last week. When I am able to identify a possible reason for my emotions, I'm able to better understand them and figure out how to course correct. The same is true for when I am able to identify my personality treats, passions, and abilities. But then I struggle with how to balance it all...hehehe
+
+Balance has been a theme and key component for my life. When things are out of balance, I start to wobble and fall over. When things are in balance, I can remain stable and upright. I wonder how I can begin to identify when things are about to go out of balance so I can prevent my life from becoming unbalanced?..hmmm
+
+Sometimes I do wish that I wasn't such a thinker all of the time. Yeah, wishing I was not something that I am isn't the healthiest of thoughts...LOL I believe it is very human to want to be something other than we are. I don't know if everyone goes through this or not. But I definitely do. I'm not always content with who I am. I can be content with my circumstances and still feel like I'm not who I want to be.
+
+When people laugh at my jokes or tell me they love my humor, I want to be a comedian. When people tell me they enjoy my singing, I want to be a performer. When people tell me they love my art, I want to be a painter. And when people love what I say and write, I want to be a writer. Truth is, I'm all those things and more. Yet, none of them are my passion.
+
+I can be really good at just about anything I put my mind to. Even if I don't go all in, I've been able to do some pretty amazing things in my life. Now that I'm spending less time being consumed by the past pain and trauma I've endured and more time consuming the positive memories of my life, I can safely say that I've had such an incredible life these past 46 years. Although I'm sure many people can say the same, I have a strong feeling not so many would. I feel very blessed by the life I've had thus far. I really am finished with dwelling on any of the negative stuff...hehehe
+
+Over the past few weeks, I've been writing a thread of installments of *Food for Thought*. I've already settled the matter in my head. But I'm writing it all out in segments here in my journal to share what I have processed. It doesn't all yet cohesively make sense. That's okay. Once I am finished drafting it out here in my journal, I'll likely go back and work through it to become an official *by Greg Marine* article, or something, that I can share with others who have had similar struggles with attachments between *people, places, and things* and their emotions.
+
+But back to my passion. What is it? Good question?..hehehe I don't actually know. I suppose I can attempt to figure it out by wrapping my purpose around it. I haven't always known my purpose and therefore haven't been able to identify my passion. Sometimes I wonder if both can change over time? Yet, it isn't my purpose or passion that changes. It's really me that changes. And perhaps because I am constantly changing, I'm not yet able to hone in on what my passion and purpose is?
+
+The problem with being able to do so many things well is that I can't seem to decide what I like most. My interests are ever changing and that leads me to always try new things. That can be a good thing. But it has been a sort of hurdle in my finding passion and purpose. Sounds like I'm complaining about something silly, doesn't it?..hehehe Well, I suppose I am complaining. I shouldn't be. There are so many people who would love to be able to do what I am able to do. I'm not saying that they would be jealous of me. Just that I've had people tell me that they wish they could do something that is difficult for them that comes so naturally to me.
+
+Here I go overthinking again...LOL So, let's focus a bit on what my purpose truly is. Rather than diving too deep into purpose, I'm going to keep this at a high altitude and summarize with the following scripture:
+
+::: details Mark 12:28-31 AMP
+28 Then one of the scribes [an expert in Mosaic Law] came up and listened to them arguing [with one another], and noticing that Jesus answered them well, asked Him, “Which commandment is first and most important of all?” 29 Jesus answered, “The first and most important one is: ‘Hear, O Israel, the Lord our God is one Lord; 30 and you shall love the Lord your God with all your heart, and with all your soul (life), and with all your mind (thought, understanding), and with all your strength.’ 31 This is the second: ‘You shall [unselfishly] love your neighbor as yourself.’ There is no other commandment greater than these."
+:::
+
+I find purpose in those commandments. They define the condition of what my heart should be. Everything that I do needs to come from a place where I love the Lord with all my heart, soul, mind, and strength while also loving everyone else unselfishly. All of my thoughts and actions need to well up from this. All results from this are simply the details. Simply put, my purpose is to Love.
+
+As a human, I would love to further define my purpose into what actions and thoughts I should be doing and thinking. However, I'm going to stop doing that. As I said above, my interests are ever changing and I'm always doing or thinking new things. So my thoughts and actions aren't going to be what I focus on for what my purpose actually is. That may seem a little backward to some. As of late, I'm finding that I have overcomplicated my life. So I am striping away all of the details and finding the core. This leaves me with Love.
+
+By focusing on Love, I can then allow that purpose to drive the actions I do and thoughts I have, right? Sounds simple enough. And I believe that's the point. No need to complicate it.
+
+I think I can now find what I'm passionate about. Calming my mind by removing the details about my purpose can lend itself to my doing the same in regards to passion. Stopping the churning overthinking process I go through in my mind can hopefully help me hone in on true passion.
