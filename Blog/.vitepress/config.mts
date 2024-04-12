@@ -315,6 +315,10 @@ export default defineConfig({
                       {
                         text: 'Storm, Magical Moments, and Food for Thought',
                         link: '/2024/04/11_storm-magical-moments-and-food-for-thought'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/04/12_'
                       }
                     ]
                   }
