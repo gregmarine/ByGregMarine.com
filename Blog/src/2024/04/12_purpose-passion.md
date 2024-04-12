@@ -1,6 +1,4 @@
-# TBD
-
-## Purpose :point_right: Passion
+# Purpose :point_right: Passion
 
 This has been a much better week than last week. When I am able to identify a possible reason for my emotions, I'm able to better understand them and figure out how to course correct. The same is true for when I am able to identify my personality treats, passions, and abilities. But then I struggle with how to balance it all...hehehe
 
@@ -12,7 +10,7 @@ When people laugh at my jokes or tell me they love my humor, I want to be a come
 
 I can be really good at just about anything I put my mind to. Even if I don't go all in, I've been able to do some pretty amazing things in my life. Now that I'm spending less time being consumed by the past pain and trauma I've endured and more time consuming the positive memories of my life, I can safely say that I've had such an incredible life these past 46 years. Although I'm sure many people can say the same, I have a strong feeling not so many would. I feel very blessed by the life I've had thus far. I really am finished with dwelling on any of the negative stuff...hehehe
 
-Over the past few weeks, I've been writing a thread of installments of *Food for Thought*. I've already settled the matter in my head. But I'm writing it all out in segments here in my journal to share what I have processed. It doesn't all yet cohesively make sense. That's okay. Once I am finished draft it out here in my journal, I'll likely go back and work through it to become an official *by Greg Marine* article, or something, that I can share with others who have had similar struggles with attachments between *people, places, and things* and their emotions.
+Over the past few weeks, I've been writing a thread of installments of *Food for Thought*. I've already settled the matter in my head. But I'm writing it all out in segments here in my journal to share what I have processed. It doesn't all yet cohesively make sense. That's okay. Once I am finished drafting it out here in my journal, I'll likely go back and work through it to become an official *by Greg Marine* article, or something, that I can share with others who have had similar struggles with attachments between *people, places, and things* and their emotions.
 
 But back to my passion. What is it? Good question?..hehehe I don't actually know. I suppose I can attempt to figure it out by wrapping my purpose around it. I haven't always known my purpose and therefore haven't been able to identify my passion. Sometimes I wonder if both can change over time? Yet, it isn't my purpose or passion that changes. It's really me that changes. And perhaps because I am constantly changing, I'm not yet able to hone in on what my passion and purpose is?
 
@@ -31,23 +29,3 @@ As a human, I would love to further define my purpose into what actions and thou
 By focusing on Love, I can then allow that purpose to drive the actions I do and thoughts I have, right? Sounds simple enough. And I believe that's the point. No need to complicate it.
 
 I think I can now find what I'm passionate about. Calming my mind by removing the details about my purpose can lend itself to my doing the same in regards to passion. Stopping the churning overthinking process I go through in my mind can hopefully help me hone in on true passion.
-
-## Zen
-
-As I've expressed many times, I'm not really a religious person. It may seem like I am since I read and meditate on the scriptures from the Christian Bible. I pray to God my creator, and I capitalize words like Love, Peace, and Blessings when I refer to those coming from God. So on and so forth. What I'm truly saying is that I don't worship the organizational aspects of what Christianity has become in the world today. Or any other organized religion for that matter.
-
-What I lean more into is how can I apply my faith in God towards my everyday life. Anything that does not point me to God should be cut out. Anything that does lead me to God, I'll happy partake in. Just because something isn't specifically spoken about in the Word of God doesn't mean it isn't something that can lead me to Him. And just because it isn't in there doesn't mean it is something that will take me away from Him. Disney comes to mind...hehehe I love everything Disney. But I don't worship Disney...LOL
-
-*Zen* also comes to mind. I suppose in it's original form, Zen Buddhism is a religion. However, there are aspects of it that I feel I can extract to be applicable to my faith in the true and living God of all creation. Of course, I'm referring to the meditational practices and not the religion as it is also known as.
-
-I was once known for my desktop Zen gardens. It was a tool I used to help cope with the Covid-19 pandemic. I would begin my day by tending to a little Zen garden that sat on my work desk in my home office. At the end of the day, I would clear the garden. The idea behind it was to set my day on a course of calm and peace. At the end of the day, I would clear my mind of the details that made up the day by removing all elements from the Zen garden and smoothing out the sand.
-
-Note to self: you really should go back to maintaining desktop Zen gardens. You loved it. Why did you stop?!? It was a practice that truly made you happy and inspired so many people to have a peaceful day. Please, consider doing your Zen gardens again! Your friend Melanie even mentioned it recently. DO IT! hehehe
-
-I find that some of the Zen philosophy can help me focus on the scriptures I have recently read. For me, Zen has become more about meditation over what God is telling me more so than anything Zen can mean to a Buddhist. I won't delve more into that. What I'll focus on is how my own attachments to people, places, and things have caused me problems and how Zen has taught me to focus on God instead. Many of the things I talk about here in my journal are things I have actually already resolved with my relationship with Christ and I'm simply talking about what I have already gone through.
-
-I have often wondered if Jesus himself was exposed to some of the teachings of Buddhism during his time in Egypt. I've read that it was a possibility. Of course, I'm not saying that Jesus was in anyway a Buddhist. I'm simply speculating what He may have been exposed to in the time his family had to be in exile from King Herod.
-
-Anywhooo! LOL The idea of detaching myself and my emotions from *people, places, and things* in my life has becoming a central part of what I've been thinking and praying about lately. Zen, from its highest level, has taught me how I might do that. It has been allowing me to disconnect from a worldly way of thinking.
-
-Again, I'm not talking about a religious practice here. I'm only speaking from a philosophical perspective. A centering of the soul. And my center is on Christ. So my meditations are focused on Him and His teachings. I apologize that I feel I need to explain that. I wish to convey to anyone who reads this journal that I'm not a Buddhist. There is only one true God.

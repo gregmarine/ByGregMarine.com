@@ -317,8 +317,8 @@ export default defineConfig({
                         link: '/2024/04/11_storm-magical-moments-and-food-for-thought'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/04/12_'
+                        text: 'Purpose - Passion',
+                        link: '/2024/04/12_purpose-passion'
                       }
                     ]
                   }

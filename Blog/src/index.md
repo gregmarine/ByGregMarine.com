@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/04/12_
+      text: Purpose - Passion
+      link: /2024/04/12_purpose-passion
     - theme: alt
       text: Storm, Magical Moments, and Food for Thought
       link: /2024/04/11_storm-magical-moments-and-food-for-thought
