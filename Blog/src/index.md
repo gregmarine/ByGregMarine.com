@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/04/18_
+      text: So, I Ran Today...LOL
+      link: /2024/04/18_so-i-ran-today
     - theme: alt
       text: Purpose - Passion
       link: /2024/04/12_purpose-passion
