@@ -323,6 +323,10 @@ export default defineConfig({
                       {
                         text: 'So, I Ran Today...LOL',
                         link: '/2024/04/18_so-i-ran-today'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/04/19_'
                       }
                     ]
                   }
