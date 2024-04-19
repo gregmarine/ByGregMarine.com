@@ -319,6 +319,10 @@ export default defineConfig({
                       {
                         text: 'Purpose - Passion',
                         link: '/2024/04/12_purpose-passion'
+                      },
+                      {
+                        text: 'So, I Ran Today...LOL',
+                        link: '/2024/04/18_so-i-ran-today'
                       }
                     ]
                   }
