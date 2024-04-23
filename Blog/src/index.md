@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Sonshine Through the Valley
+      link: /2024/04/23_sonshine-through-the-valley
+    - theme: alt
       text: So, I Ran Today...LOL
       link: /2024/04/18_so-i-ran-today
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Light
       link: /2024/04/09_light
-    - theme: alt
-      text: Devotional Reflection Continued
-      link: /2024/04/08_devotional-reflection-continued
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
