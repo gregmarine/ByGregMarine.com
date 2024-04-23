@@ -327,6 +327,10 @@ export default defineConfig({
                       {
                         text: 'Sonshine Through the Valley',
                         link: '/2024/04/23_sonshine-through-the-valley'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/04/24_'
                       }
                     ]
                   }
