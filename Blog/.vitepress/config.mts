@@ -325,8 +325,8 @@ export default defineConfig({
                         link: '/2024/04/18_so-i-ran-today'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/04/23_'
+                        text: 'Sonshine Through the Valley',
+                        link: '/2024/04/23_sonshine-through-the-valley'
                       }
                     ]
                   }
