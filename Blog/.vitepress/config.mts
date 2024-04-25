@@ -329,8 +329,8 @@ export default defineConfig({
                         link: '/2024/04/23_sonshine-through-the-valley'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/04/24_'
+                        text: 'Preview Popping Corn',
+                        link: '/2024/04/24_preview-popping-corn'
                       }
                     ]
                   }

@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/04/24_
+      text: Preview Popping Corn
+      link: /2024/04/24_preview-popping-corn
     - theme: alt
       text: Sonshine Through the Valley
       link: /2024/04/23_sonshine-through-the-valley
