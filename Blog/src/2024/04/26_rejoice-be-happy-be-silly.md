@@ -1,4 +1,4 @@
-# TBD
+# Rejoice, Be Happy, Be Silly
 
 ## Be Happy
 
@@ -62,6 +62,6 @@ Okay, so a bit more of my weekend at Disney...hehehe I was sitting in Nomad Loun
 
 In typical *Greg Marine* fashion, this became a running joke the rest of the day. Anytime we saw water, we'd all wave at it...hehehe A few days later, I noticed the wind was causing the water in the pond near my apartment to have waves. So, naturally, I recorded myself waving back at the water...LOL I ended up sending that video to a few friends and family to give them a laugh.
 
-It's fun to be silly. I need to be silly sometimes. At the appropriate times, of course. This is part of who I am. If someone doesn't appreciate my silliness, that's okay. It's their loss...LOL I'm going to keep being who I am. Who else would I be?!? Up until early 2020 (you know, when the world shutdown), I would bend to what others wanted me to be. I stopped doing that in 2020. I'm not going back! I'm going keep waving at water...hehehe
+It's fun to be silly. I need to be silly sometimes. At the appropriate times, of course. This is part of who I am. If someone doesn't appreciate my silliness, that's okay. It's their loss...LOL I'm going to keep being who I am. Who else would I be, right?!? Up until early 2020 (you know, when the world shutdown), I would bend to what others wanted me to be. I stopped doing that in 2020. I'm not going back! I'm going keep waving at water...hehehe
 
-By the way, I believe those people on the bridge were waving down to one of the characters on a boat...hehehe
+By the way, I believe those people on the bridge were waving down to one of the Disney characters on a boat...hehehe

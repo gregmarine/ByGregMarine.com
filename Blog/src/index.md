@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/04/26_
+      text: Rejoice, Be Happy, Be Silly
+      link: /2024/04/26_rejoice-be-happy-be-silly
     - theme: alt
       text: TBD
       link: /2024/04/25_tbd

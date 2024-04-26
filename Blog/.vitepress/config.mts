@@ -337,8 +337,8 @@ export default defineConfig({
                         link: '/2024/04/25_tbd'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/04/26_'
+                        text: 'Rejoice, Be Happy, Be Silly',
+                        link: '/2024/04/26_rejoice-be-happy-be-silly'
                       }
                     ]
                   }
