@@ -331,6 +331,10 @@ export default defineConfig({
                       {
                         text: 'Preview Popping Corn',
                         link: '/2024/04/24_preview-popping-corn'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/04/25_tbd'
                       }
                     ]
                   }

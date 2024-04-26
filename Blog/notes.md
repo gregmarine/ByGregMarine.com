@@ -1,5 +1,3 @@
-# TBD
-
 ## Grocery Blessings
 
 ## Food for Thought
