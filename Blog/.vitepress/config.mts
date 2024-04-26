@@ -335,6 +335,10 @@ export default defineConfig({
                       {
                         text: 'TBD',
                         link: '/2024/04/25_tbd'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/04/26_'
                       }
                     ]
                   }

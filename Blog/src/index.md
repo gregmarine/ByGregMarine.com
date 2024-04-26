@@ -9,6 +9,9 @@ hero:
   actions:
     - theme: brand
       text: TBD
+      link: /2024/04/26_
+    - theme: alt
+      text: TBD
       link: /2024/04/25_tbd
     - theme: alt
       text: Preview Popping Corn
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: So, I Ran Today...LOL
       link: /2024/04/18_so-i-ran-today
-    - theme: alt
-      text: Purpose - Passion
-      link: /2024/04/12_purpose-passion
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
