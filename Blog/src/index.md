@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/04/25_tbd
+    - theme: alt
       text: Preview Popping Corn
       link: /2024/04/24_preview-popping-corn
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Purpose - Passion
       link: /2024/04/12_purpose-passion
-    - theme: alt
-      text: Storm, Magical Moments, and Food for Thought
-      link: /2024/04/11_storm-magical-moments-and-food-for-thought
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
