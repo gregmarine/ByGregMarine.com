@@ -1,5 +1,3 @@
-## Grocery Blessings
-
 ## Food for Thought
 
 ## Your Faith has Healed You
