@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: I'm Still Happy
+      link: /2024/04/28_im-still-happy
+    - theme: alt
       text: Arboretum Day
       link: /2024/04/27_arboretum-day
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Preview Popping Corn
       link: /2024/04/24_preview-popping-corn
-    - theme: alt
-      text: Sonshine Through the Valley
-      link: /2024/04/23_sonshine-through-the-valley
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
