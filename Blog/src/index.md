@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/04/27_
+      text: Arboretum Day
+      link: /2024/04/27_arboretum-day
     - theme: alt
       text: Rejoice, Be Happy, Be Silly
       link: /2024/04/26_rejoice-be-happy-be-silly
