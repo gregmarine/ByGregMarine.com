@@ -345,8 +345,8 @@ export default defineConfig({
                         link: '/2024/04/27_arboretum-day'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/04/28_'
+                        text: 'I\'m Still Happy',
+                        link: '/2024/04/28_im-still-happy'
                       }
                     ]
                   }
