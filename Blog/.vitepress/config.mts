@@ -347,6 +347,10 @@ export default defineConfig({
                       {
                         text: 'I\'m Still Happy',
                         link: '/2024/04/28_im-still-happy'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/04/29_'
                       }
                     ]
                   }
