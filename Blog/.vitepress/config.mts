@@ -349,8 +349,8 @@ export default defineConfig({
                         link: '/2024/04/28_im-still-happy'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/04/29_'
+                        text: 'Finding Joy in Passion and Blessings',
+                        link: '/2024/04/29_finding-joy-in-passion-and-blessings'
                       }
                     ]
                   }
