@@ -347,6 +347,10 @@ export default defineConfig({
                       {
                         text: 'I\'m Still Happy',
                         link: '/2024/04/28_im-still-happy'
+                      },
+                      {
+                        text: 'Finding Joy in Passion and Blessings',
+                        link: '/2024/04/29_finding-joy-in-passion-and-blessings'
                       }
                     ]
                   }
