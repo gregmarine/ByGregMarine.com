@@ -353,6 +353,16 @@ export default defineConfig({
                         link: '/2024/04/29_finding-joy-in-passion-and-blessings'
                       }
                     ]
+                  },
+                  {
+                    text: 'May',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'TBD',
+                        link: '/2024/05/01_'
+                      }
+                    ]
                   }
                 ]
               }
