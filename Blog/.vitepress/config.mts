@@ -353,6 +353,16 @@ export default defineConfig({
                         link: '/2024/04/29_finding-joy-in-passion-and-blessings'
                       }
                     ]
+                  },
+                  {
+                    text: 'May',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'Praying Away the Blessing?',
+                        link: '/2024/05/02_praying-away-the-blessing'
+                      }
+                    ]
                   }
                 ]
               }
