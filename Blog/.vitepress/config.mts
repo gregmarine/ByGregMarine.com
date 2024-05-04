@@ -361,6 +361,10 @@ export default defineConfig({
                       {
                         text: 'Praying Away the Blessing?',
                         link: '/2024/05/02_praying-away-the-blessing'
+                      },
+                      {
+                        text: 'Hello Weekend',
+                        link: '/2024/05/03_hello-weekend'
                       }
                     ]
                   }
