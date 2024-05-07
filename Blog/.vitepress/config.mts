@@ -369,6 +369,10 @@ export default defineConfig({
                       {
                         text: 'I Saw a Dolphin Today!',
                         link: '/2024/05/04_i-saw-a-dolphin-today.md'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/05/06_'
                       }
                     ]
                   }
