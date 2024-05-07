@@ -371,8 +371,8 @@ export default defineConfig({
                         link: '/2024/05/04_i-saw-a-dolphin-today.md'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/05/06_'
+                        text: 'A Day in the Life of Greg',
+                        link: '/2024/05/06_a-day-in-the-life-of-greg'
                       }
                     ]
                   }

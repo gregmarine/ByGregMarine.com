@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/05/06_
+      text: A Day in the Life of Greg
+      link: /2024/05/06_a-day-in-the-life-of-greg
     - theme: alt
       text: I Saw a Dolphin Today!
       link: /2024/05/04_i-saw-a-dolphin-today

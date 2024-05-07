@@ -1,4 +1,4 @@
-# TBD
+# A Day in the Life of Greg
 
 ## 8:45 am
 
@@ -68,3 +68,14 @@ This entry isn’t full of life lessons or profound statements today…hehehe It
 
 Along the way today, I got to thinking how nice it would be for me to do a timestamp entry and also one of my deep thoughts entry in the same day. Basically a two parter each day to view my day from both perspectives. I continued to do a lot of thinking throughout the day today that did not make it into this entry. I decided to focus on the *day in the life of* pattern. I do not do that often. Perhaps, in time, I’ll get into the habit of both? I’m not going to put any pressure on that. I’m just going to think about it and see if it happens…hehehe
 
+## 8:30 pm
+
+The bread’s done!!! Yay!!! And yum!!! It turned out pretty good. I used Heineken Zero (non-alcoholic) beer in place of water. This enhanced the flavor profile and gives the bread a little extra rise. I suppose you might say there’s a touch of Dutch in this loaf…hehehe That, combined with the green chilis and cheddar, really give it an earthy flavor. Of course, the buckwheat adds to that profile as well. Personally, I like buckwheat over standard flour. It doesn’t produce a loaf I can use for sandwich bread. But it satisfies my love for bread in general. I don’t consume many sandwiches now anyway. Most of the food I eat now doesn’t really go in a sandwich.
+
+![Slices of bread on a plate with a loaf of bread in the background on a cutting board.](./media/IMG_0815.jpeg)
+
+## 9:00 pm
+
+Well, it’s time to wrap up this entry. My day isn’t quite finished yet. But my time for writing has come to an end. It was a great day. I learned some new things. I was productive at work. I managed to cook multiple meals and bake bread. I went through 3 devotions and my *Bible in a Year* plan. I still have another devotion to finish in a little bit and I will be taking a shower. I’ll probably get in some TV time tonight as well. Oh, and I added a video to this entry…first time for that!
+
+Tomorrow is the 5 year anniversary of my paternal grandfather’s passing. I rejoice that he is with Jesus now. I’m looking forward to celebrating him tomorrow. I’m concerned for grandma, though. She really misses him. But she is surrounded by the family they both built. And it’s a good family. We aren’t all with her. However, there are still plenty of my family who will drop by and spend the day with her. I also worry about my dad. He missed grandpa too. I’ll be sure to send them both a note of encouragement tomorrow. I’m grateful for the impact my grandfather made on my life. I get emotional thinking about it. A good emotional. Happy tears of joy. I love you grandpa!
