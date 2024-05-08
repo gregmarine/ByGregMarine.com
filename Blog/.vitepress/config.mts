@@ -373,6 +373,10 @@ export default defineConfig({
                       {
                         text: 'A Day in the Life of Greg',
                         link: '/2024/05/06_a-day-in-the-life-of-greg'
+                      },
+                      {
+                        text: 'Stopping to Smell the Magnolia',
+                        link: '/2024/05/07_stopping-to-smell-the-magnolia'
                       }
                     ]
                   }
