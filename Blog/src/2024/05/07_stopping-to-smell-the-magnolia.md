@@ -20,7 +20,7 @@ In turn, I want to be a Blessing and shine Your Light on someone else. Show me w
 
 I’m on my morning walk. I just wanted to drop in and say just how amazing God is! I am truly Blessed. I rejoice and am glad for another day I get to learn more about Him.
 
-![Close up of an ant hill with plants, a fence, a wall, and the sun rising.](media/17150901936697.jpg)
+![Close up of an ant hill with plants, a fence, a wall, and the sun rising.](./media/IMG_0817.jpeg)
 
 ## 9:30 am
 
@@ -77,9 +77,9 @@ I’m taking an afternoon walk and there is a fire alarm going off at one of the
 
 I stopped and smelled this southern magnolia. It was beautiful and smelled equally so <3
 
-![Southern Magnolia blossom on a tree](media/17151112729278.jpg)
+![Southern Magnolia blossom on a tree](./media/IMG_0818.jpeg)
 
-![Selfie while smelling the magnolia blossom](media/17151112730144.jpg)
+![Selfie while smelling the magnolia blossom](./media/IMG_0819.jpeg)
 
 Well, it’s difficult to type and walk. So…LOL
 
