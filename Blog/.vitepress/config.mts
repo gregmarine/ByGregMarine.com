@@ -377,6 +377,10 @@ export default defineConfig({
                       {
                         text: 'Stopping to Smell the Magnolia',
                         link: '/2024/05/07_stopping-to-smell-the-magnolia'
+                      },
+                      {
+                        text: 'Canine Eclipse',
+                        link: '/2024/05/08_canine-eclipse'
                       }
                     ]
                   }
