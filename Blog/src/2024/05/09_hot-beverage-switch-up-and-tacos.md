@@ -66,8 +66,8 @@ I found an opportunity to photograph a magnolia blossom tonight that I also capt
 
 Sunrise:
 
-![Sunrise through a magnolia blossom](./media/IMG_0830.jpeg)
+![Sunrise through a magnolia blossom](./media/IMG_0831.jpeg)
 
 Sunset:
 
-![Sunset over a magnolia blossom](./media/IMG_0831.jpeg)
+![Sunset over a magnolia blossom](./media/IMG_0830.jpeg)
