@@ -42,7 +42,7 @@ My coffee arrived in time to have some this afternoon. Yay!!! I’m enjoying a C
 
 Afternoon coffee sure does hit differently xD Typically, coffee doesn’t really affect my mood or energy. It’s simply a hot beverage to me most of the time. Today, however, I was a little extra bouncy having it in the afternoon xD When I drink it in the morning, I’m just waking up for the most part. Even if I’ve been awake for more than an hour, I’m not really *awake*. So the coffee is sort of like a friendly tap on the shoulder and a warm *good morning* hug. Having it in the afternoon after being well awake for hours, it felt more like someone grabbing me, giving me a huge hug, and we both fell over xD I’m thinking about that scene in *The Office* where Michael does that to Jim…LOL
 
-<video controls src=“./media/IMG_6595.mov” />
+<video controls src="./media/IMG_6595.mov" />
 
 ## 4:45 pm
 
