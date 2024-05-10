@@ -381,6 +381,10 @@ export default defineConfig({
                       {
                         text: 'Canine Eclipse',
                         link: '/2024/05/08_canine-eclipse'
+                      },
+                      {
+                        text: 'Hot Beverage Switch Up and Tacos!',
+                        link: '/2024/05/09_hot-beverage-switch-up-and-tacos'
                       }
                     ]
                   }
