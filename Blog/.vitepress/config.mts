@@ -385,6 +385,10 @@ export default defineConfig({
                       {
                         text: 'Hot Beverage Switch Up and Tacos!',
                         link: '/2024/05/09_hot-beverage-switch-up-and-tacos'
+                      },
+                      {
+                        text: 'Exit Strategy, Dining Experiences, and Travel',
+                        link: '/2024/05/10_exit-strategy-dining-experiences-and-travel'
                       }
                     ]
                   }
