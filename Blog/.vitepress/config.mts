@@ -389,6 +389,10 @@ export default defineConfig({
                       {
                         text: 'Exit Strategy, Dining Experiences, and Travel',
                         link: '/2024/05/10_exit-strategy-dining-experiences-and-travel'
+                      },
+                      {
+                        text: 'Wonderful Weekend, Botanical Adventure, and Zen Luck Needed',
+                        link: '/2024/05/13_wonderful-weekend-botanical-adventure-and-zen-luck-needed'
                       }
                     ]
                   }
