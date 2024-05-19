@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: So Many Things and More to Come
+      link: /2024/05/19_so-many-things-and-more-to-come
+    - theme: alt
       text: Wonderful Weekend, Botanical Adventure, and Zen Luck Needed
       link: /2024/05/13_wonderful-weekend-botanical-adventure-and-zen-luck-needed
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Canine Eclipse
       link: /2024/05/08_canine-eclipse
-    - theme: alt
-      text: Stopping to Smell the Magnolia
-      link: /2024/05/07_stopping-to-smell-the-magnolia
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
