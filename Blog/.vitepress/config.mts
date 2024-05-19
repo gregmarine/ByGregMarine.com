@@ -393,6 +393,10 @@ export default defineConfig({
                       {
                         text: 'Wonderful Weekend, Botanical Adventure, and Zen Luck Needed',
                         link: '/2024/05/13_wonderful-weekend-botanical-adventure-and-zen-luck-needed'
+                      },
+                      {
+                        text: 'So Many Things and More to Come',
+                        link: '/2024/05/19_so-many-things-and-more-to-come'
                       }
                     ]
                   }
