@@ -401,6 +401,10 @@ export default defineConfig({
                       {
                         text: 'Return to Social Media',
                         link: '/2024/05/21_return-to-social-media'
+                      },
+                      {
+                        text: 'Appreciation, Love, and Slowing Down',
+                        link: '/2024/05/22_appreciation-love-and-slowing-down'
                       }
                     ]
                   }
