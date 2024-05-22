@@ -397,6 +397,10 @@ export default defineConfig({
                       {
                         text: 'So Many Things and More to Come',
                         link: '/2024/05/19_so-many-things-and-more-to-come'
+                      },
+                      {
+                        text: 'Return to Social Media',
+                        link: '/2024/05/21_return-to-social-media'
                       }
                     ]
                   }
