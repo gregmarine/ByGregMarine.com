@@ -3,7 +3,7 @@
 I’m incredibly blessed. I just needed to say that out loud.
 
 ::: warning
-Deep thought coming in…hehehe Read this another time or skip it if your headspace isn’t ready for the deep. These aren’t my deepest thoughts. But they feel much deeper than I’ve gone up to this point in my journal. Feel free to skip to [Church](./#church) if you’d like. That, and everything beyond, is pretty surface level…LOL
+Deep thought coming in…hehehe Read this another time or skip it if your headspace isn’t ready for the deep. These aren’t my deepest thoughts. But they feel much deeper than I’ve gone up to this point in my journal. Feel free to skip to [Church](#church) if you’d like. That, and everything beyond, is pretty surface level…LOL
 :::
 
 ## Deep Thoughts, by Greg Marine 🤭
