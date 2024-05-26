@@ -7,9 +7,6 @@ hero:
   text: "Musings by Greg Marine"
   tagline: Behind the curtain of a curious mind.
   actions:
-    - theme: brand
-      text: Deep Thoughts, Church, and Doing Really Well
-      link: /2024/05/23_deep-thoughts-church-and-doing-really-well
     - theme: alt
       text: Appreciation, Love, and Slowing Down
       link: /2024/05/22_appreciation-love-and-slowing-down
