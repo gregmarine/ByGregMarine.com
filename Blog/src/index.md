@@ -7,6 +7,9 @@ hero:
   text: "Musings by Greg Marine"
   tagline: Behind the curtain of a curious mind.
   actions:
+    - theme: brand
+      text: Job News, Power of Prayer, Meeting Friends
+      link: /2024/05/28_job-news-power-of-prayer-meeting-friends
     - theme: alt
       text: Appreciation, Love, and Slowing Down
       link: /2024/05/22_appreciation-love-and-slowing-down
