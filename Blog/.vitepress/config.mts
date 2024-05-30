@@ -409,6 +409,10 @@ export default defineConfig({
                       {
                         text: 'Job News, Power of Prayer, Meeting Friends',
                         link: '/2024/05/28_job-news-power-of-prayer-meeting-friends'
+                      },
+                      {
+                        text: 'Birthday, New Project, Diamond Bar, and Lamentation',
+                        link: '/2024/05/29_birthday-new-project-diamond-bar-and-lamentation'
                       }
                     ]
                   }
