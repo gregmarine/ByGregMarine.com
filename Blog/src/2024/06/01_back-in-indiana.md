@@ -16,5 +16,4 @@ Tomorrow morning I plan to go to my old church. My parents still attend church t
 
 After church, we’ll have family lunch at my parents’ house. Before I moved to Florida, I had lunch here almost weekly on Sunday. My brother’s family still does. I always enjoy that time. Due to my diet, my mom picked up some veggie burgers. My dad wants to give them a try. So he’ll have one tomorrow as well. I think Malachi will give one a try. She didn’t get ones I would have picked. But they aren’t Impossible or Beyond brand. The brand she got isn’t too bad. It isn’t full of bad stuff…hehehe
 
-Tomorrow night, I’m taking the entire family at one of Malachi’s favorite local restaurants for a celebration in his honor. His mom and her dad will be there, my grandma, parents, and my brother’s family will all be there. We will be going to A1 Japanese Steakhouse. He and I have been going there for years…since they first opened. They know me well…LOL I think they were sad when I moved…LOL
-
+Tomorrow night, I’m taking the entire family to one of Malachi’s favorite local restaurants for a celebration in his honor. His mom and her dad will be there, my grandma, parents, and my brother’s family will all be there. We will be going to A1 Japanese Steakhouse. He and I have been going there for years…since they first opened. They know me well…LOL I think they were sad when I moved…LOL
