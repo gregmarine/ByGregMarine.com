@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Back in Indiana
+      link: /2024/06/01_back-in-indiana
+    - theme: alt
       text: Birthday, New Project, Diamond Bar, and Lamentation
       link: /2024/05/29_birthday-new-project-diamond-bar-and-lamentation
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Return to Social Media
       link: /2024/05/21_return-to-social-media
-    - theme: alt
-      text: So Many Things and More to Come
-      link: /2024/05/19_so-many-things-and-more-to-come
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

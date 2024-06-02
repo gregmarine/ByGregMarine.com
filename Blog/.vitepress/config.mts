@@ -413,6 +413,10 @@ export default defineConfig({
                       {
                         text: 'Birthday, New Project, Diamond Bar, and Lamentation',
                         link: '/2024/05/29_birthday-new-project-diamond-bar-and-lamentation'
+                      },
+                      {
+                        text: 'Back in Indiana',
+                        link: '/2024/06/01_back-in-indiana'
                       }
                     ]
                   }
