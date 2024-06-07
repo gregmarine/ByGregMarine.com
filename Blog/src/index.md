@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Am I Positive?
+      link: /2024/06/06_am-i-positive
+    - theme: alt
       text: Back in Indiana
       link: /2024/06/01_back-in-indiana
     - theme: alt

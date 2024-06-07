@@ -417,6 +417,10 @@ export default defineConfig({
                       {
                         text: 'Back in Indiana',
                         link: '/2024/06/01_back-in-indiana'
+                      },
+                      {
+                        text: 'Am I Positive?',
+                        link: '/2024/06/06_am-i-positive'
                       }
                     ]
                   }
