@@ -427,6 +427,10 @@ export default defineConfig({
                       {
                         text: 'Am I Positive?',
                         link: '/2024/06/06_am-i-positive'
+                      },
+                      {
+                        text: 'Unsettled',
+                        link: '/2024/06/10_unsettled'
                       }
                     ]
                   }
