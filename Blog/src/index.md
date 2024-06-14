@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/06/13_
+      text: New Schedule, Who Dis?
+      link: /2024/06/13_new-schedule-who-dis
     - theme: alt
       text: Unsettled
       link: /2024/06/10_unsettled
