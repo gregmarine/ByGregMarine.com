@@ -431,6 +431,10 @@ export default defineConfig({
                       {
                         text: 'Unsettled',
                         link: '/2024/06/10_unsettled'
+                      },
+                      {
+                        text: 'New Schedule, Who Dis?',
+                        link: '/2024/06/13_new-schedule-who-dis'
                       }
                     ]
                   }
