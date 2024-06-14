@@ -435,6 +435,10 @@ export default defineConfig({
                       {
                         text: 'New Schedule, Who Dis?',
                         link: '/2024/06/13_new-schedule-who-dis'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/06/14_'
                       }
                     ]
                   }
