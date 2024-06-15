@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Bible"
+  name: "So, I was praying..."
   text: "Bible Resources by Greg Marine"
-  tagline: Resources I use to study the Bible
+  tagline: Behind the curtain of a work in progress.
   actions:
     - theme: brand
       text: Nothing yet
