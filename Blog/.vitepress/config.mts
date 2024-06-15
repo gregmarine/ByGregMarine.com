@@ -435,6 +435,10 @@ export default defineConfig({
                       {
                         text: 'New Schedule, Who Dis?',
                         link: '/2024/06/13_new-schedule-who-dis'
+                      },
+                      {
+                        text: 'Unsealing, Routine, and a Happy Heart',
+                        link: '/2024/06/14_unsealing-routine-and-a-happy-heart'
                       }
                     ]
                   }
