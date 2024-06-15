@@ -1,4 +1,4 @@
-# TBD
+# Unsealing, Routine, and a Happy Heart
 
 ::: warning Content Guidance
 Today's journal entry includes content that may be triggering. Please read with care.
