@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/06/16_
+    - theme: alt
       text: Unsealing, Routine, and a Happy Heart
       link: /2024/06/14_unsealing-routine-and-a-happy-heart
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Am I Positive?
       link: /2024/06/06_am-i-positive
-    - theme: alt
-      text: Back in Indiana
-      link: /2024/06/01_back-in-indiana
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

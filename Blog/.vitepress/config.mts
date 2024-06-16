@@ -439,6 +439,10 @@ export default defineConfig({
                       {
                         text: 'Unsealing, Routine, and a Happy Heart',
                         link: '/2024/06/14_unsealing-routine-and-a-happy-heart'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/06/16_'
                       }
                     ]
                   }
