@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/06/16_
+      text: Happy Father's Day!
+      link: /2024/06/16_happy-fathers-day
     - theme: alt
       text: Unsealing, Routine, and a Happy Heart
       link: /2024/06/14_unsealing-routine-and-a-happy-heart

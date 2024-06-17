@@ -441,8 +441,8 @@ export default defineConfig({
                         link: '/2024/06/14_unsealing-routine-and-a-happy-heart'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/06/16_'
+                        text: 'Happy Father\'s Day!',
+                        link: '/2024/06/16_happy-fathers-day'
                       }
                     ]
                   }
