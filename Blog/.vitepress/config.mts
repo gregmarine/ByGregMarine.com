@@ -443,6 +443,10 @@ export default defineConfig({
                       {
                         text: 'Happy Father\'s Day!',
                         link: '/2024/06/16_happy-fathers-day'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/06/17_'
                       }
                     ]
                   }
