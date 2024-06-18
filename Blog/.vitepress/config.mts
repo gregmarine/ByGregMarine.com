@@ -447,6 +447,10 @@ export default defineConfig({
                       {
                         text: 'So, I Bought Another Book',
                         link: '/2024/06/17_so-i-bought-another-book'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/06/18_'
                       }
                     ]
                   }
