@@ -1,4 +1,4 @@
-# TBD
+# So, I bought *another* book...
 
 ## Vitamin G
 
@@ -29,3 +29,13 @@ Something else I've noticed as a result of having met so many of my social media
 This brings me back to myself. For the most part, I'm really close to being the same person offline as I am online. There are two main exceptions to this. The first is that I do not post private details. Why would I?! Why does anyone?..LOL I'm referring to things like what I would only talk to my closest friends about. Case in point, I'd never publicly discuss how lonely I am sometimes. The second exception is that I don't always engage with people offline in the way I do online. I'm more shy at first until I get comfortable with someone. I can stand in front of a crowd and be Mr. Personality. But one-on-one is more of a challenge.
 
 I'm mostly just rambling on here. Some of what I originally wrote was more of a rant. I'm working on writing with a more positive attitude. So I'm glad I'm writing about this topic today. It gave me an opportunity to put into practice one of the many things God is working on in my heart. No one will ever see the rant I wrote...hehehe But now we get to see the result of processing my thoughts using the new lens God is polishing in my heart. My conclusion? Perhaps social media is like going to a party, meetup, or a reunion. Some folks will just pretend all is going great to make themselves look and feel better about what is really going on in their lives. Whereas I will just continue being authentic and genuine. I'll just be *me* and not worry about how people will respond or react...or if they'll just ignore me...LOL Worrying about all that won't make people like me. But the worry might take away from liking myself. Since my motivation isn't about likes, comments, or reposts, I'll just be happy I have somewhere to express myself. When it does help someone, my heart will be happy. When it doesn't, I'll be okay with that too. I'll be happy with myself. And I'll encourage others along the way as I see the need. I'll be a good listener for those who need a shoulder.
+
+## Unseal Your Best Life
+
+Well, she did it again! [Chérie](https://theunsealed.com/members/cherthing/) is published in a second book!!! Yay!!! Back in January, [I wrote](../01/30_so-i-bought-a-book#unseal-your-worth) about how she was published in [*Unseal Your Worth*](https://www.amazon.com/Unseal-Your-Worth-Stories-Empower-ebook/dp/B0CT4D7QWH). As was the case last time, this new book, [*Unseal Your Best Life*](https://www.amazon.com/Unseal-Your-Best-Life-Revealing-ebook/dp/B0D6NZF8QW), is a compilation from [The Unsealed](https://theunsealed.com) community. Yes, I mentioned some of this a [few days ago](./14_unsealing-routine-and-a-happy-heart). But that was tucked away in a larger topic. So today, I wanted to highlight this new achievement by Chérie. I'm so proud of her and the many accomplishments she is making on her own journey. This one is among many things I've had the privilege to witness since knowing her. She is such an inspiration for me. Sometimes, I can hardly understand how she wants to be *my* friend. But then I remember that's just who *she* is. She looks past my imperfections and sees *me* for who God created me to be. I cherish her and our friendship in ways I just cannot put into words. So, I bought *another* book 🤭 Showing her my support is but a small way I can tell her how grateful I am to have her in my life 🥹❤️🤗
+
+![Unseal Your Best Life book](./media/IMG_7826.jpeg)
+
+I'm really excited to be bringing both books along with me on my trip next month. I get to have her autograph both books!!! Yay!!! 🤭
+
+![Page showing Cherie's name, her username: cherthing, and the title of her poem, New Flowers](./media/IMG_7828.jpeg)

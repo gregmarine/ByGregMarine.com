@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/06/17_
+      text: So, I Bought Another Book
+      link: /2024/06/17_so-i-bought-another-book
     - theme: alt
       text: Happy Father's Day!
       link: /2024/06/16_happy-fathers-day
