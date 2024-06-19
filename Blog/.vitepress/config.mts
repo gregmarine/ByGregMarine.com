@@ -451,6 +451,10 @@ export default defineConfig({
                       {
                         text: 'So, I Wrote a Poem',
                         link: '/2024/06/18_so-i-wrote-a-poem'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/06/19_'
                       }
                     ]
                   }
