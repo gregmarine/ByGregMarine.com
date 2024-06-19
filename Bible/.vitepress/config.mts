@@ -28,19 +28,19 @@ export default defineConfig({
             link: '/read-me'
           },
           {
-            text: 'Reflection',
+            text: 'Bibles',
             items: [
               {
-                text: '2024',
+                text: 'Unnamed',
                 collapsed: true,
                 items: [
                   {
-                    text: 'January',
+                    text: 'John',
                     collapsed: true,
                     items: [
                       {
-                        text: 'New Year, New Blog',
-                        link: '/2024/01/05_new-year-new-blog'
+                        text: '01',
+                        link: '/bible/john/01'
                       }
                     ]
                   }
