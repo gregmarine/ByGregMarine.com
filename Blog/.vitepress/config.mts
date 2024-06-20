@@ -453,8 +453,8 @@ export default defineConfig({
                         link: '/2024/06/18_so-i-wrote-a-poem'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/06/19_'
+                        text: 'Scattered Spaghetti',
+                        link: '/2024/06/19_scattered-spaghetti'
                       }
                     ]
                   }

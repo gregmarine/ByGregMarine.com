@@ -1,4 +1,4 @@
-# TBD
+# Scattered Spaghetti
 
 It was a bit of a *rough* morning. I use that word loosely. At the 30k foot view, it was a fantastic morning. But there was a moment of stress that reminded me of a *scary* part of myself. Again, I'm using *that* word loosely as well...hehehe That brief moment of stress made me feel like I might have actually gotten angry. It has been so long since I've been angry that I don't even remember when that was. I didn't want today to be the day when I'd have to restart that clock...LOL But I didn't get angry...hehehe
 
@@ -34,7 +34,7 @@ I went on to explain how I am not yet settled. I do think moving to Florida was 
 
 There are pros and cons to every place I've considered. But something I've learned is that where I fix my gaze, that's where I'll look. If I look at the negative, I'll find it. If I look at the positive, I'll find that. If I were to focus on the positive, it doesn't mean I'm not aware of the negative. It just means I'm not allowing those parts to control me. With that said, I've come to the conclusion that I need to fix my gaze on God. Regardless of the negatives or positives, making myself available to His Will brings me to the contentment He wants for me.
 
-I need to get organized...hehehe Just as scattered as today's journal entry has been on topics, so are all of the things I am creative with. I have tons of photos, several written works, and paintings that are all over the place. I have started a few new projects I haven't yet even talked about. All of these things are somewhat all over the place. It is sort of like throwing spaghetti at the walk and seeing what sticks...hehehe (I had left over spaghetti for both lunch and dinner...so that analogy was fresh in my mind...hehehe)
+I need to get organized...hehehe Everything creative about me is scattered at the moment. I have tons of photos, several written works, and paintings that are all over the place. I have started a few new projects I haven't yet even talked about. All of these things are somewhat all over the place. It is sort of like throwing spaghetti at the wall and seeing what sticks...hehehe (I had left over spaghetti for both lunch and dinner...so that analogy was fresh in my mind...hehehe)
 
 As I've mentioned a time or two, I am working on setting up subdomains for my website. I did work on that over the weekend and it helped me get aligned on one of my new projects. I'd like to tackle the sites for my art and photography next. I have plenty to put up on those sub sites. I've technically already started the art one. I just haven't gotten into a cadence of updating it yet. With this new schedule and routine I'm on, I think I can start to make time for these things.
 

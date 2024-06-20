@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/06/19_
+      text: Scattered Spaghetti
+      link: /2024/06/19_scattered-spaghetti
     - theme: alt
       text: So, I Wrote a Poem
       link: /2024/06/18_so-i-wrote-a-poem
