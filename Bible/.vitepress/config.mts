@@ -39,8 +39,12 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: '01',
+                        text: 'John 1',
                         link: '/bible/john/01'
+                      },
+                      {
+                        text: 'John 2',
+                        link: '/bible/john/02'
                       }
                     ]
                   }
