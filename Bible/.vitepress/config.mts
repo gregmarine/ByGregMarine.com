@@ -1,4 +1,6 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
+import markdownItFootnote from 'markdown-it-footnote';
+import markdownItSup from 'markdown-it-sup';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -31,6 +33,22 @@ export default defineConfig({
             text: 'Bibles',
             items: [
               {
+                text: 'WEB Updated',
+                collapsed: true,
+                items: [
+                  {
+                    text: 'Genesis',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'Genesis 1',
+                        link: '/bibles/webu/genesis/01'
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 text: 'Unnamed',
                 collapsed: true,
                 items: [
@@ -62,5 +80,12 @@ export default defineConfig({
       { icon: 'facebook', link: 'https://www.facebook.com/bygregmarine' },
       { icon: 'github', link: 'https://github.com/gregmarine/ByGregMarine.com/tree/main/Bible' }
     ]
+  },
+  markdown: {
+    config: (md) => {
+      // use more markdown-it plugins!
+      md.use(markdownItFootnote);
+      md.use(markdownItSup);
+    }
   }
 })
