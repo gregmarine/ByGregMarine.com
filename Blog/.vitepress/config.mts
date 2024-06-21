@@ -455,6 +455,10 @@ export default defineConfig({
                       {
                         text: 'Scattered Spaghetti',
                         link: '/2024/06/19_scattered-spaghetti'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/06/21_'
                       }
                     ]
                   }
