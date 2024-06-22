@@ -31,6 +31,7 @@ export default defineConfig({
           },
           {
             text: 'Bibles',
+            collapsed: true,
             items: [
               {
                 text: 'Lightscape',
@@ -85,6 +86,42 @@ export default defineConfig({
                       {
                         text: 'John 2',
                         link: '/bible/john/02'
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Reading Plans',
+            collapsed: true,
+            items: [
+              {
+                text: 'Bible in a Year',
+                collapsed: true,
+                items: [
+                  {
+                    text: 'January',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '1',
+                        collapsed: true,
+                        items: [
+                          {
+                            text: 'Genesis 1',
+                            link: '/bibles/lightscape/genesis/01'
+                          },
+                          {
+                            text: 'Genesis 2',
+                            link: '/bibles/lightscape/genesis/02'
+                          },
+                          {
+                            text: 'Genesis 3',
+                            link: '/bibles/lightscape/genesis/03'
+                          }
+                        ]
                       }
                     ]
                   }
