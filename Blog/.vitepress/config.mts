@@ -457,8 +457,8 @@ export default defineConfig({
                         link: '/2024/06/19_scattered-spaghetti'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/06/21_'
+                        text: 'Happy Snowman',
+                        link: '/2024/06/21_happy-snowman'
                       }
                     ]
                   }

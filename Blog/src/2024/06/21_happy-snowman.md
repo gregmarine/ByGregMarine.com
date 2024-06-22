@@ -1,4 +1,4 @@
-# TBD
+# Happy Snowman
 
 ## You are Both Wrong
 
@@ -28,7 +28,14 @@ Yesterday ushered in a new season. My personal year begins on or around the firs
 
 If I were to choose a favorite, I'd go with Spring. It's the start of my personal year, yes. But it is also a symbol of awakening. Summer is a very close second. However, with where my heart is this year, I'm not so sure I can choose a season to call my favorite any longer. Everything has its pros and cons. As I tend to focus on the positive, I've learned to value each season for what it brings.
 
-A lot of folks do not like the heat of summer. Yet, that is one of the things I love most about summer. When I first moved here, I didn't use the air conditioner in my car all summer...hehehe I enjoyed the heat that much...LOL I use my air conditioner now, though. I've learned that I need to pay close attention to my body. I can overheat easily if I'm not careful. I don't feel hot most of the time. I actually feel cold all the time. But that doesn't mean I'm actually cold and not hot. I have to be careful...hehehe
+I'm one happy snowman...hehehe A lot of folks do not like the heat of summer. Yet, that is one of the things I love most about summer. When I first moved here, I didn't use the air conditioner in my car all summer...hehehe I enjoyed the heat that much...LOL I use my air conditioner now, though. I've learned that I need to pay close attention to my body. I can overheat easily if I'm not careful. I don't feel hot most of the time. I actually feel cold all the time. But that doesn't mean I'm actually cold and not hot. I have to be careful...hehehe
 
 Something else I love about summer is all the sunlight. The Spring time brings more sunshine here. The first day of Summer is the peak of that. So Spring and Summer have the most sunshine in my world. I suppose that's why both are technically my favorites...hehehe But I need to stop thinking that way...LOL There is plenty to love about Autumn and Winter...hehehe
 
+## Hudson Beach Ice Cream Parlor
+
+I don't get ice cream as often as I'd like. It isn't the healthiest of treats. But I don't *cheat* very often. And lately, I haven't even been eating out. So, the occasional treat is just fine for me...hehehe Tonight, I decided I wanted to treat myself to one of my favorite old fashioned ice cream parlors. My sister introduced me to it 3 years ago when she first moved down here. Now that I live here, I typically only go there when people visit me...LOL But I do make it there a few times in the year.
+
+This photo reminds me of one of the reasons I moved here. It looks like my version of paradise...
+
+![Bowl of ice cream with palm trees and a sunset](./media/IMG_8264.jpeg)

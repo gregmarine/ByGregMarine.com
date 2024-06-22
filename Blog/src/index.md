@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/06/21_
+      text: Happy Snowman
+      link: /2024/06/21_happy-snowman
     - theme: alt
       text: Scattered Spaghetti
       link: /2024/06/19_scattered-spaghetti
