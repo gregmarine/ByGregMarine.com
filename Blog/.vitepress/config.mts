@@ -455,6 +455,10 @@ export default defineConfig({
                       {
                         text: 'Scattered Spaghetti',
                         link: '/2024/06/19_scattered-spaghetti'
+                      },
+                      {
+                        text: 'Happy Snowman',
+                        link: '/2024/06/21_happy-snowman'
                       }
                     ]
                   }
