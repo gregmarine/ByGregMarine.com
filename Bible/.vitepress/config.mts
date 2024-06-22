@@ -51,6 +51,20 @@ export default defineConfig({
                       {
                         text: '2',
                         link: '/bibles/lightscape/genesis/02'
+                      },
+                      {
+                        text: '3',
+                        link: '/bibles/lightscape/genesis/03'
+                      }
+                    ]
+                  },
+                  {
+                    text: 'Ezekiel',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '10',
+                        link: '/bibles/lightscape/ezekiel/10'
                       }
                     ]
                   }
