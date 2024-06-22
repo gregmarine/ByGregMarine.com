@@ -60,6 +60,20 @@ export default defineConfig({
                     ]
                   },
                   {
+                    text: 'Proverbs',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '30',
+                        link: '/bibles/lightscape/proverbs/30'
+                      },
+                      {
+                        text: '31',
+                        link: '/bibles/lightscape/proverbs/31'
+                      }
+                    ]
+                  },
+                  {
                     text: 'Ezekiel',
                     collapsed: true,
                     items: [
@@ -120,6 +134,26 @@ export default defineConfig({
                           {
                             text: 'Genesis 3',
                             link: '/bibles/lightscape/genesis/03'
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    text: 'June',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '21',
+                        collapsed: true,
+                        items: [
+                          {
+                            text: 'Proverbs 30',
+                            link: '/bibles/lightscape/proverbs/30'
+                          },
+                          {
+                            text: 'Proverbs 31',
+                            link: '/bibles/lightscape/proverbs/31'
                           }
                         ]
                       }
