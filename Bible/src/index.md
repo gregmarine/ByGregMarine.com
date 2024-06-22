@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a work in progress.
   actions:
     - theme: brand
-      text: WEB Updated
-      link: /bibles/webu/genesis/01
+      text: Lightscape
+      link: /bibles/lightscape/genesis/00
     - theme: brand
       text: Unnamed
       link: /bible/john/01

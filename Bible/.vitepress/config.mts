@@ -33,7 +33,7 @@ export default defineConfig({
             text: 'Bibles',
             items: [
               {
-                text: 'WEB Updated',
+                text: 'Lightscape',
                 collapsed: true,
                 items: [
                   {
@@ -41,8 +41,30 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: 'Genesis 1',
-                        link: '/bibles/webu/genesis/01'
+                        text: 'Introduction',
+                        link: '/bibles/lightscape/genesis/00'
+                      },
+                      {
+                        text: '1',
+                        link: '/bibles/lightscape/genesis/01'
+                      },
+                      {
+                        text: '2',
+                        link: '/bibles/lightscape/genesis/02'
+                      },
+                      {
+                        text: '3',
+                        link: '/bibles/lightscape/genesis/03'
+                      }
+                    ]
+                  },
+                  {
+                    text: 'Ezekiel',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '10',
+                        link: '/bibles/lightscape/ezekiel/10'
                       }
                     ]
                   }
