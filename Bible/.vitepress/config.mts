@@ -76,6 +76,24 @@ export default defineConfig({
                     ]
                   },
                   {
+                    text: '1 Kings',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '12',
+                        link: '/bibles/lightscape/1-kings/12'
+                      },
+                      {
+                        text: '13',
+                        link: '/bibles/lightscape/1-kings/13'
+                      },
+                      {
+                        text: '14',
+                        link: '/bibles/lightscape/1-kings/14'
+                      }
+                    ]
+                  },
+                  {
                     text: 'Proverbs',
                     collapsed: true,
                     items: [
@@ -152,6 +170,10 @@ export default defineConfig({
                       {
                         text: '21',
                         link: '/plans/bible-in-a-year/06/21'
+                      },
+                      {
+                        text: '22',
+                        link: '/plans/bible-in-a-year/06/22'
                       }
                     ]
                   }
