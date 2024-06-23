@@ -56,6 +56,40 @@ export default defineConfig({
                       {
                         text: '3',
                         link: '/bibles/lightscape/genesis/03'
+                      },
+                      {
+                        text: '4',
+                        link: '/bibles/lightscape/genesis/04'
+                      },
+                      {
+                        text: '5',
+                        link: '/bibles/lightscape/genesis/05'
+                      },
+                      {
+                        text: '6',
+                        link: '/bibles/lightscape/genesis/06'
+                      },
+                      {
+                        text: '7',
+                        link: '/bibles/lightscape/genesis/07'
+                      }
+                    ]
+                  },
+                  {
+                    text: '1 Kings',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '12',
+                        link: '/bibles/lightscape/1-kings/12'
+                      },
+                      {
+                        text: '13',
+                        link: '/bibles/lightscape/1-kings/13'
+                      },
+                      {
+                        text: '14',
+                        link: '/bibles/lightscape/1-kings/14'
                       }
                     ]
                   },
@@ -121,21 +155,11 @@ export default defineConfig({
                     items: [
                       {
                         text: '1',
-                        collapsed: true,
-                        items: [
-                          {
-                            text: 'Genesis 1',
-                            link: '/bibles/lightscape/genesis/01'
-                          },
-                          {
-                            text: 'Genesis 2',
-                            link: '/bibles/lightscape/genesis/02'
-                          },
-                          {
-                            text: 'Genesis 3',
-                            link: '/bibles/lightscape/genesis/03'
-                          }
-                        ]
+                        link: '/plans/bible-in-a-year/01/01'
+                      },
+                      {
+                        text: '2',
+                        link: '/plans/bible-in-a-year/01/02'
                       }
                     ]
                   },
@@ -145,17 +169,11 @@ export default defineConfig({
                     items: [
                       {
                         text: '21',
-                        collapsed: true,
-                        items: [
-                          {
-                            text: 'Proverbs 30',
-                            link: '/bibles/lightscape/proverbs/30'
-                          },
-                          {
-                            text: 'Proverbs 31',
-                            link: '/bibles/lightscape/proverbs/31'
-                          }
-                        ]
+                        link: '/plans/bible-in-a-year/06/21'
+                      },
+                      {
+                        text: '22',
+                        link: '/plans/bible-in-a-year/06/22'
                       }
                     ]
                   }
