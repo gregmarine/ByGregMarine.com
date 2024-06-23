@@ -137,7 +137,6 @@ export default defineConfig({
                     items: [
                       {
                         text: '1',
-                        collapsed: true,
                         link: '/plans/bible-in-a-year/01/01'
                       },
                       {
@@ -152,17 +151,7 @@ export default defineConfig({
                     items: [
                       {
                         text: '21',
-                        collapsed: true,
-                        items: [
-                          {
-                            text: 'Proverbs 30',
-                            link: '/bibles/lightscape/proverbs/30'
-                          },
-                          {
-                            text: 'Proverbs 31',
-                            link: '/bibles/lightscape/proverbs/31'
-                          }
-                        ]
+                        link: '/plans/bible-in-a-year/06/21'
                       }
                     ]
                   }
