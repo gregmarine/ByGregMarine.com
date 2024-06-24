@@ -459,6 +459,10 @@ export default defineConfig({
                       {
                         text: 'Happy Snowman',
                         link: '/2024/06/21_happy-snowman'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/06/24_'
                       }
                     ]
                   }
