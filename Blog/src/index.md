@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/06/24_
+      text: I'm Glad I Wrote This
+      link: /2024/06/24_im-glad-i-wrote-this
     - theme: alt
       text: Happy Snowman
       link: /2024/06/21_happy-snowman

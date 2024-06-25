@@ -1,4 +1,4 @@
-# TBD
+# I'm Glad I Wrote This
 
 I was a little sad over the weekend. Nothing to be concerned about. In general, I'm still quite happy. It was just a feeling of sadness that kept me thinking. I suppose I've actually been a bit sad for a bit. I've been quiet sometimes. I've been holding back a bit too. Again, nothing to worry about, really. Last night I got to thinking...I'm just tired. I'm physically, mentally, and spiritually worn.
 
@@ -44,3 +44,4 @@ I mentioned earlier that I may go back to my typically lifestyle after my Califo
 
 One thing this schedule does not account for are early mornings for getting out on the water. The best time to be out there is around 7 am. I would have to go to bed early the night before getting out on the water. Either that or wake up early and maybe take a nap later in the day. In order to be on the water by 7-7:30 am, I would have to be awake around 5:45-6 am. Where I go takes me about 40 minutes to drive. The main reason it's best to be out early is due to the crowds. I don't like dealing with all the traffic there. If I get there early, I can be out for a few hours and be ready to leave around the time it starts getting busy...hehehe I don't mind people. There are just so many of them sometimes...LOL
 
+Aside from the pain I'm experiencing, I've had a really good day. At work, it's mostly tasks to prepare for the big change coming next Monday. It's funny how I'll be leaving for California right after the change. But that's better than if I would have planned my trip for this coming weekend. I might have had to cancel. There is another major *event* occurring the day I get back. But that one doesn't involve me directly. It'll be okay for me to deal with that upon my return. The one happening in a week is more hands on for me. So, it all worked out just fine. I didn't plan it to work out. It's as if God made it all work out...hehehe
