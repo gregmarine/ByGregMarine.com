@@ -463,6 +463,10 @@ export default defineConfig({
                       {
                         text: 'I\'m Glad I Wrote This',
                         link: '/2024/06/24_im-glad-i-wrote-this'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/06/26_'
                       }
                     ]
                   }
