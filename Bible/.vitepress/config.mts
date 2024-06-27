@@ -38,82 +38,34 @@ export default defineConfig({
                 collapsed: true,
                 items: [
                   {
-                    text: 'Genesis',
+                    text: 'Old Testament',
                     collapsed: true,
                     items: [
                       {
-                        text: 'Introduction',
-                        link: '/bibles/lightscape/genesis/00'
-                      },
-                      {
-                        text: '1',
-                        link: '/bibles/lightscape/genesis/01'
-                      },
-                      {
-                        text: '2',
-                        link: '/bibles/lightscape/genesis/02'
-                      },
-                      {
-                        text: '3',
-                        link: '/bibles/lightscape/genesis/03'
-                      },
-                      {
-                        text: '4',
-                        link: '/bibles/lightscape/genesis/04'
-                      },
-                      {
-                        text: '5',
-                        link: '/bibles/lightscape/genesis/05'
-                      },
-                      {
-                        text: '6',
-                        link: '/bibles/lightscape/genesis/06'
-                      },
-                      {
-                        text: '7',
-                        link: '/bibles/lightscape/genesis/07'
+                        text: 'Genesis',
+                        collapsed: true,
+                        items: [
+                          {
+                            text: '1',
+                            link: '/bibles/lightscape-berean/gen/01'
+                          }
+                        ]
                       }
                     ]
                   },
                   {
-                    text: '1 Kings',
+                    text: 'New Testament',
                     collapsed: true,
                     items: [
                       {
-                        text: '12',
-                        link: '/bibles/lightscape/1-kings/12'
-                      },
-                      {
-                        text: '13',
-                        link: '/bibles/lightscape/1-kings/13'
-                      },
-                      {
-                        text: '14',
-                        link: '/bibles/lightscape/1-kings/14'
-                      }
-                    ]
-                  },
-                  {
-                    text: 'Proverbs',
-                    collapsed: true,
-                    items: [
-                      {
-                        text: '30',
-                        link: '/bibles/lightscape/proverbs/30'
-                      },
-                      {
-                        text: '31',
-                        link: '/bibles/lightscape/proverbs/31'
-                      }
-                    ]
-                  },
-                  {
-                    text: 'Ezekiel',
-                    collapsed: true,
-                    items: [
-                      {
-                        text: '10',
-                        link: '/bibles/lightscape/ezekiel/10'
+                        text: 'John',
+                        collapsed: true,
+                        items: [
+                          {
+                            text: '1',
+                            link: '/bibles/lightscape-berean/john/01'
+                          }
+                        ]
                       }
                     ]
                   }
