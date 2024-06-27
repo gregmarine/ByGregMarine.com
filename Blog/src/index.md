@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/06/26_
+      text: I Get a Teekit!
+      link: /2024/06/26_i-get-a-teekit
     - theme: alt
       text: I'm Glad I Wrote This
       link: /2024/06/24_im-glad-i-wrote-this
