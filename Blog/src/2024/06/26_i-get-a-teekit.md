@@ -1,4 +1,4 @@
-# TBD
+# I Get a Teekit!
 
 Happy Stitch Day! Hehehe Today is one of those made up Disney holidays...LOL Stitch is experiment 626 in the *Lilo & Stitch* franchise. So June 26th (6/26) became Stitch Day...HAHAHA He's one of Malachi's favorite characters. I think my nephews also have him as a favorite. And, my sister-in-law's birthday is today...hehehe Happy Birthday to her!
 
@@ -16,7 +16,7 @@ When I consider that He so often provides better things for me than even what I 
 
 I found out that the colleague I mentioned the other day is getting extended through the end of July now. Just 2 days ago, he was looking at this being his last week with the company. Now, he's going to be around for another month...LOL I am reminded today that the only constant in life is change...hehehe I'm happy to get to continue working with him for another month. And I hope this change in status is a good thing for him.
 
-I noticed something about my routine this week. This sort of just happened and I believe it is a result of how I've been doing my schedule this month. I have become so efficient with my lunch hour that I now make and eat my lunch, do that day's *Bible in a Year* reading session, and go for a mile walk at an exercise pace. I don't feel rushed to get all of that done. It just happens. I really love this and hope it becomes a habit. If could even evolve into part of my lifestyle. We shall see...hehehe
+I noticed something about my routine this week. This sort of just happened and I believe it is a result of how I've been doing my schedule this month. I have become so efficient with my lunch hour that I now make and eat my lunch, do that day's *Bible in a Year* reading session, and go for a mile walk at an exercise pace. I don't feel rushed to get all of that done. It just happens. I really love this and hope it becomes a habit. It could even evolve into part of my lifestyle. We shall see...hehehe
 
 Today's *The Chosen* devotional (book 2, day 22) was another one of those *mind's eye* opening messages. It wasn't exactly about what I was talking about above. But it did spark a thought about what I said concerning not asking God for what I desire. Perhaps it isn't about me having the wrong desires. Perhaps I'm just not confident in what I desire. Or more accurately, I'm not confident God will give me what I desire because I feel unworthy.
 
@@ -29,3 +29,5 @@ Pain update: I'm feeling much better today. I haven't had to use any pain manage
 I've been able to watch tonight's Dodgers game against the White Sox. If they win tonight, it will be a sweep. Since I'll be in California next week, I've decided to get a *teekit* in honor of the sweep. I'm grateful I get to watch the game tonight. I don't get to see many of them...hehehe Gavin Stone has been pitching the whole game. He has done an excellent job. He and the team have kept the White Sox at bay.
 
 Well, Gavin Stone achieved a shutout! And the Dodgers sweep the White Sox!!! Yay!!! I'm getting a *teekit*!!!
+
+I have only 2 days left with my current company. This is bittersweet for me. I love my company. I'll miss it. It sounds like the new company is going to be nice. I was hoping to end my career with my current company. But then again, I've got a feeling God has something better waiting for me. My path will be changing in a few days. The work will be the same at first. The adventure will be different...hehehe
