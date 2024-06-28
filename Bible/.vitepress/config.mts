@@ -47,7 +47,7 @@ export default defineConfig({
                         items: [
                           {
                             text: '1',
-                            link: '/bibles/lightscape/gen/01'
+                            link: '/bibles/lightscape/genesis/01'
                           }
                         ]
                       }
