@@ -1,4 +1,4 @@
-# TBD
+# Moments God Gives
 
 I overslept today...HAHAHA It was weird. My alarm went off and I acknowledged it. I have to in order to turn it off. But I fell right back to sleep. And then my white noise app must have turned off on its own. But that didn't wake me up either...hehehe When I finally woke up, it was almost time to start work...LOL I suppose my body really needed that extra time! I almost never sleep that deeply...HA!
 
@@ -20,7 +20,7 @@ I see absolutely no reason to place any pressure of my trip to get in as much as
 
 If I recall correctly, it didn't cost anything to go into the park. We hiked trails both days. One of the trails led us to Rainbow Falls. It was amazing! I did a stupid thing and actually climbed up behind the water fall...hehehe I could have gotten myself killed and left my new wife a widow...LOL But I remember more about that hike and silly adventure than I do about any of that other stuff we paid for. And it really wasn't planned. When we arrived at the park, we picked a trail and just went!
 
-The point I'm trying to make is that I don't want to do a bunch of touristy things when I travel. I just want to go with the flow. With the exception of my time with Chérie and my going to church on Sunday, I really don't want to plan anything. I'd like to just get up and accept the moments God gives me that day.
+The point I'm trying to make is that I don't want to do a bunch of touristy things when I travel. I just want to go with the flow. With the exception of my time with Chérie and my going to church on Sunday, I really don't want to plan anything. I'd like to just get up and accept the *__moments God gives__* me that day.
 
 I hoping to get over to the coast and see the Pacific Ocean. Although I have been to the area of California I'm traveling to before, I didn't make it out to the coast. I was there on business and had a tight schedule. This time, it's all on my own time...hehehe Plus it will be for longer. I think my last trip there was 3 or 4 days, including travel. So only a few days of actual time there. This time, I'll be gone a total of 6 days. So I'll have about 4 and half days of me time...LOL
 
@@ -30,3 +30,4 @@ I've been working on a project. I'm not ready to write about it just yet. But I'
 
 I have another project I'd like to launch too. Again, not ready to talk about it. But I'm really excited about it. I just haven't made the time to get it started yet...LOL I may actually start it while I'm in California. I do plan to take some time while I'm there to work on these projects. Being away from home and taking time off from work really gets my creative juices flowing...hehehe
 
+Speaking of projects, I think I'd like to make some progress on the one I've already started. So that's it for today's journal...hehehe
