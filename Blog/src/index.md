@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Moments God Gives
+      link: /2024/06/27_moments-god-gives
+    - theme: alt
       text: I Get a Teekit!
       link: /2024/06/26_i-get-a-teekit
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Scattered Spaghetti
       link: /2024/06/19_scattered-spaghetti
-    - theme: alt
-      text: So, I Wrote a Poem
-      link: /2024/06/18_so-i-wrote-a-poem
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

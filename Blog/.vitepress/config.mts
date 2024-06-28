@@ -467,6 +467,10 @@ export default defineConfig({
                       {
                         text: 'I Get a Teekit!',
                         link: '/2024/06/26_i-get-a-teekit'
+                      },
+                      {
+                        text: 'Moments God Gives',
+                        link: '/2024/06/27_moments-god-gives'
                       }
                     ]
                   }
