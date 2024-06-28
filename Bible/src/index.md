@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Lightscape
-      link: /bibles/lightscape-berean/gen/01
+      link: /bibles/lightscape/gen/01
     - theme: brand
       text: Unnamed
       link: /bible/john/01
