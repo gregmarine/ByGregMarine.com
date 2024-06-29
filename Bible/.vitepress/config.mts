@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress';
-import markdownItFootnote from 'markdown-it-footnote';
-import markdownItSup from 'markdown-it-sup';
+import { footnote } from '@mdit/plugin-footnote';
+import { sup } from '@mdit/plugin-sup';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -147,8 +147,8 @@ export default defineConfig({
   markdown: {
     config: (md) => {
       // use more markdown-it plugins!
-      md.use(markdownItFootnote);
-      md.use(markdownItSup);
+      md.use(footnote);
+      md.use(sup);
     }
   }
 })
