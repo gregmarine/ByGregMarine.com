@@ -473,6 +473,16 @@ export default defineConfig({
                         link: '/2024/06/27_moments-god-gives'
                       }
                     ]
+                  },
+                  {
+                    text: 'July',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'TBD',
+                        link: '/2024/07/02_'
+                      }
+                    ]
                   }
                 ]
               }

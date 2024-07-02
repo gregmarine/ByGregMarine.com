@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/07/02_
+    - theme: alt
       text: Moments God Gives
       link: /2024/06/27_moments-god-gives
     - theme: alt
