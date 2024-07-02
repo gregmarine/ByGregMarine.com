@@ -1,4 +1,4 @@
-# TBD
+# Hear Ye, Hear Ye!
 
 I'm not sure how much I'll put in today's journal entry. But I wanted to write something today. I have a few things that are relevant for today...hehehe But I'm also about to go on a trip and wanted to kick that off in today's journal. I hope to journal each evening on the trip to catalog what I did that day and what I thought about. Part of the point of this trip is to get out of my own head and sort of do a reset to kick off the second half of this calendar year. It will also be a reflection on the first quarter of my personal year.
 
@@ -21,3 +21,7 @@ In one reaction, they expressed serious concerns and question my decision. That'
 Well, honestly, theChapel was exactly what I needed for the season I needed it in. That season has come to an end and a new one has begun. I'm very much looking forward to what comes next. I don't really know what is coming...hehehe But I'm excited for it! These past few seasons have been life changing! In the story of my life lately, these chapters have been real page turners. As my friend Chérie put it, *I trust the next chapter because I know the Author*.
 
 As I've been mentioning lately, I'm traveling to California this week. I leave super early tomorrow morning. I have to wake up around 2:30 am Eastern. My flight leaves around 6 am Eastern. But when I get to California, it'll be around 12:30 pm Pacific...hehehe I'll have been awake for 13 hours by then...LOL I thought about staying awake tonight through tomorrow night. But I've decided I'm going to bed super early and try to get some sleep this evening instead. I'll want to stay up as long as possible tomorrow night to acclimate to Pacific time and realign with my current schedule. So the next few days will be a little wacky, to say the least. It won't be quite as wacky on my return home next week, though.
+
+Chérie's birthday is on the 4th! I'm so excited for her new personal year to begin. And I get to help kick it off with her on Saturday! Yay!!! Yep, I'm pretty excited...hehehe I also get to have her autograph the 2 books she is in...hehehe I'll be shouting, *Hear ye, hear ye! May I have everyone's attention?!? Please join me in celebrating my deer (that's with 2 e's) friend, Chérie!* Okay...well, I'm only kidding. But in my heart, I'll be shouting...hehehe
+
+Is California ready for me? Probably! Am I ready for California? Nope! I have to finish packing...LOL

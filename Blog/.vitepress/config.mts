@@ -479,8 +479,8 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: 'TBD',
-                        link: '/2024/07/02_'
+                        text: 'Hear Ye, Hear Ye!',
+                        link: '/2024/07/02_hear-ye-hear-ye'
                       }
                     ]
                   }
