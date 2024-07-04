@@ -1,4 +1,4 @@
-# TBD
+# California!
 
 It has been a really long day...hehehe With the exception of a quick nap today, I've been up for nearly 24 hours now. By the time I go to sleep tonight, I'll have been up for at least 24 hours...hehehe Half of that time was my traveling to California, though. I took the nap so I could make it through church tonight...LOL
 
@@ -13,3 +13,11 @@ After my nap, I decided whether or not I'd go to church or just go to dinner. I 
 The service was amazing! Pastor Raul had one of his episodes. It's my understanding that they are little seizers of some kind that cause him to temporarily loose the ability to speak. Someone came out to finish out the service. It sounded like he was okay and it wasn't a major thing for him tonight. I'll keep him in prayer. He has mentioned this happens. But seeing it first hand gives me the inspiration to pray specifically.
 
 There were several folks who gave their lives to Christ tonight! I've seen that happen while I was attending virtually. But to see it in person was something special.
+
+The service was pretty long. I wasn't keeping track of the time. It was just an observation after it was over. There were so many worship songs. And, due to Pastor Raul's episode, there were technically 2 sermons.
+
+I don't have any set plans for tomorrow. I'll probably do some writing. I'll work on my special project. And I will likely do some exploring. It's a holiday. So I'm not sure what all I can actually do. I hope restaurants will be open. I think places typically are on most holidays except Thanksgiving and Christmas. So I'm sure I'll be able to find something to eat...hehehe
+
+I have some things to take care of before bed tonight. So I'll wrap this up by saying it was a great day. I'm glad to be here and I look forward to everything God as for my path this really long weekend.
+
+Side note: I didn't proof read this...hopefully it all makes sense...LOL

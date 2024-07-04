@@ -483,8 +483,8 @@ export default defineConfig({
                         link: '/2024/07/02_hear-ye-hear-ye'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/07/03_'
+                        text: 'California!',
+                        link: '/2024/07/03_california'
                       }
                     ]
                   }

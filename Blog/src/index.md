@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/07/03_
+      text: California!
+      link: /2024/07/03_california
     - theme: alt
       text: Hear Ye, Hear Ye!
       link: /2024/07/02_hear-ye-hear-ye
