@@ -481,6 +481,10 @@ export default defineConfig({
                       {
                         text: 'Hear Ye, Hear Ye!',
                         link: '/2024/07/02_hear-ye-hear-ye'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/07/03_'
                       }
                     ]
                   }
