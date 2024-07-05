@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/07/04_
+      text: I Climbed a Mountain Today!
+      link: /2024/07/04_i-climbed-a-mountain-today
     - theme: alt
       text: California!
       link: /2024/07/03_california

@@ -1,4 +1,4 @@
-# TBD
+# I Climbed a Mountain Today!
 
 First, and foremost, Happiest of Birthdays to Chérie! I know she reads this blog...hehehe So I wanted to say that to her, again, here...hehehe I can't wait to see her this weekend <3 It is so surreal that I'm currently only a few miles from her right now. We live over 2000 miles apart. But my trip has closed that gap quite a bit...hehehe
 

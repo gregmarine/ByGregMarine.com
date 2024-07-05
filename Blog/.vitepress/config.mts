@@ -487,8 +487,8 @@ export default defineConfig({
                         link: '/2024/07/03_california'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/07/04_'
+                        text: 'I Climbed a Mountain Today!',
+                        link: '/2024/07/04_i-climbed-a-mountain-today'
                       }
                     ]
                   }
