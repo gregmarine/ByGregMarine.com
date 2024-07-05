@@ -485,6 +485,10 @@ export default defineConfig({
                       {
                         text: 'California!',
                         link: '/2024/07/03_california'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/07/04_'
                       }
                     ]
                   }
