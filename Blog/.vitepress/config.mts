@@ -489,6 +489,10 @@ export default defineConfig({
                       {
                         text: 'I Climbed a Mountain Today!',
                         link: '/2024/07/04_i-climbed-a-mountain-today'
+                      },
+                      {
+                        text: 'I Saw the Pacific Ocean!',
+                        link: '/2024/07/05_i-saw-the-pacific-ocean'
                       }
                     ]
                   }
