@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/07/05_
+      text: I Saw the Pacific Ocean!
+      link: /2024/07/05_i-saw-the-pacific-ocean
     - theme: alt
       text: I Climbed a Mountain Today!
       link: /2024/07/04_i-climbed-a-mountain-today

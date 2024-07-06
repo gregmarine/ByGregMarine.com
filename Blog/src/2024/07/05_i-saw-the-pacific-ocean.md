@@ -1,4 +1,4 @@
-# TBD
+# I Saw the Pacific Ocean!
 
 Today was quite a bit different from yesterday...hehehe I didn't climb any mountains...LOL I attempted to go to Azusa Wilderness Park. However, when I got to the road it is on, the road was closed. I'm unlikely to attempt going again on this trip. I'm leaning toward the Arboretum for Sunday. But I'm unsure of even that. It is going to be hotter this weekend I think. Hotter than hot seems like an indoor kinda of day...LOL
 
@@ -29,44 +29,44 @@ This adventure isn't going by quickly. I've managed to keep it slow and I'm enjo
 I leave you now with this hymn I sang on my drive today. May it Bless you in the way it did me today...
 
 > *Take My Life*
-> 
+> <br/><br/>
 > Take my life and let it be\
 > Consecrated, Lord, to Thee\
 > Take my moments and my days\
 > Let them flow in ceaseless praise
->
+> <br/><br/>
 > Take my hands and let them move\
 > At the impulse of Thy love\
 > Take my feet and let them be\
 > Swift and beautiful for Thee
->
+> <br/><br/>
 > Take my voice and let me sing\
 > Always, only, for my King\
 > Take my lips and let them be\
 > Filled with messages from Thee
->
+> <br/><br/>
 > Take my silver and my gold\
 > Not a mite would I withhold\
 > Take my intellect and use\
 > Every power as You choose
->
+> <br/><br/>
 > Here I am\
 > All of me\
 > Take my life\
 > It's all for Thee
->
+> <br/><br/>
 > Take my will and make it Thine\
 > It shall be no longer mine\
 > Take my heart, it is Thine own\
 > It shall be Thy royal throne
->
+> <br/><br/>
 > Take my love, my Lord\
 > I pour at Your feet its treasure store\
 > Take my self and I will be
 > Ever, only, all for Thee\
 > Take my self and I will be\
 > Ever, only, all for Thee
->
+> <br/><br/>
 > Here I am\
 > All of me\
 > Take my life\

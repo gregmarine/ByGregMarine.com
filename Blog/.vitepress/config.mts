@@ -491,8 +491,8 @@ export default defineConfig({
                         link: '/2024/07/04_i-climbed-a-mountain-today'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/07/05_'
+                        text: 'I Saw the Pacific Ocean!',
+                        link: '/2024/07/05_i-saw-the-pacific-ocean'
                       }
                     ]
                   }
