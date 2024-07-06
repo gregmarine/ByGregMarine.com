@@ -493,6 +493,10 @@ export default defineConfig({
                       {
                         text: 'I Saw the Pacific Ocean!',
                         link: '/2024/07/05_i-saw-the-pacific-ocean'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/07/06_'
                       }
                     ]
                   }
