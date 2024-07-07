@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/07/06_
+      text: I Got to Hug Chérie!
+      link: /2024/07/06_i-got-to-hug-cherie
     - theme: alt
       text: I Saw the Pacific Ocean!
       link: /2024/07/05_i-saw-the-pacific-ocean
