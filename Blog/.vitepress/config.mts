@@ -497,6 +497,10 @@ export default defineConfig({
                       {
                         text: 'I Got to Hug Chérie!',
                         link: '/2024/07/06_i-got-to-hug-cherie'
+                      },
+                      {
+                        text: 'I Experienced God!',
+                        link: '/2024/07/07_i-experienced-god'
                       }
                     ]
                   }
