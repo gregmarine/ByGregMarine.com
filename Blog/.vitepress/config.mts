@@ -501,6 +501,10 @@ export default defineConfig({
                       {
                         text: 'I Experienced God!',
                         link: '/2024/07/07_i-experienced-god'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/07/08_'
                       }
                     ]
                   }
