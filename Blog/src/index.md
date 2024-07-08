@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/07/08_
+      text: Resetting
+      link: /2024/07/08_resetting
     - theme: alt
       text: I Experienced God!
       link: /2024/07/07_i-experienced-god

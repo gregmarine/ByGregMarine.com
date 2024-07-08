@@ -1,4 +1,4 @@
-# TBD
+# Resetting
 
 It's travel day once again...hehehe This time, I'm headed home from my visit to California. I'll be waiting at a few airports today. The one in Ontario, California. And then again in Las Vegas, Nevada. I'm going to use the wait time to reflect and write about my experience. Right now, I'm sitting at an airport restaurant in Ontario. I didn't eat at airport restaurants on my way here. I typically do eat. I'm not really sure why I didn't last week...hehehe Today I'm mostly doing so to have a place to write. It's easier with a table...hehehe It also helps me avoid some of the crowds since only restaurant guests are in the restaurant...LOL I just wish it wasn't so loud (in the whole airport...not just the restaurant area). I'd wear my headphones except I want to be aware of people around me. Not that I think someone would steal any of my stuff while I wasn't looking. After all, everyone here is paying to be here and no one wants their stuff taken. But being aware of those around you is just plain smart.
 
@@ -46,3 +46,10 @@ I normally do big things like this with someone or for someone. This experience,
 
 I'm a people person who didn't have people around me...hehehe But they are still there. Why was I so focused on wanting people closer? I was being a bit selfish. Sometimes that kind of selfishness is probably okay. We do need people around us. But I didn't like the feeling of loneliness. Well, most of what I did on this trip was all by myself. And I had a great time! I'm going to pray that this feeling of joy in being alone continues. I really like it. I'll still do things with other people. I'm just not going to chase after it anymore.
 
+I'm already mentally dreaming about and planning new trips...hehehe I haven't decided anything specifically yet with the exception of an already planned trip to Disneyland with Chérie in November. I do think traveling will become a regular thing for me. I think what I'd like to do are short weekend trips. This one was around the holiday. So I had extra time off to make it into a full length vacation. Long weekends are the best kind of trips for me, though. Friday to Monday at the longest. Even if I go far for a 1 or 2 days visit someplace, I would love to take this experience and continue it. I could also do the occasional mid-week trip if that helps with crowds. I do get time off from work. So I could do weekday trips too. If I'm going somewhere with crowds, like Disneyland, a weekday trip is probably better. But if I'm going to climb a mountain, weekends should be fine. Either way, I'm looking forward to where God will be taking me in the future.
+
+I'm going to prepare for my next flight now. So I'm going to call this journal entry complete. My flight should be boarding in a little less than an hour. But I need to use the bathroom, get some water, and maybe eat one or two of my food bars before the flight. I know this one is long. If you made it this far, congratulations! Thank you for listening. I am so happy. This reset is exactly what I needed.
+
+I leave you now with my favorite photo from this trip <3
+
+![Selfie with Chérie and I](./media/IMG_3734.jpeg)
