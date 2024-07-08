@@ -501,6 +501,10 @@ export default defineConfig({
                       {
                         text: 'I Experienced God!',
                         link: '/2024/07/07_i-experienced-god'
+                      },
+                      {
+                        text: 'Resetting',
+                        link: '/2024/07/08_resetting'
                       }
                     ]
                   }
