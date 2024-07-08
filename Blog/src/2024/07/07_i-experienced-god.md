@@ -1,4 +1,4 @@
-# TBD
+# I Experienced God!
 
 Today was my last full day on this adventure. And what a great day it was! But I'll admit, I'm not sad that this is my last. I'm already dreaming about my next visit...hehehe I would like to make this a regular thing...except maybe not in the summer again...hehehe I was fine with the heat. But it was a bit hot for Chérie yesterday. And also, the crowds were a bit much for me. But none of that is the point of today's journal entry...so let's get started!
 
@@ -13,6 +13,8 @@ There isn't a perfect church. They are all organized by humans, after all. Just 
 Anyway...hehehe After church, I headed over to the LA Arboretum. WOW!!! That places is AMAZING! I want to move here just so I can become a member and frequent the place! I already knew it was going to be really nice. But I honestly was not prepared for what I found there. I did take some photographs today. However, I spent most of my time just soaking it all in. I didn't take enough to showcase the beauty that makes up the entire experience. There was just too much to take in to be bothered with capturing it all. The funniest part, though, was the fact I was there for more than 8 hours...LOL So, technically, I probably could have captured it all...hehehe The following paragraphs will explain best why I didn't take a lot of photos even though I was there for so long...
 
 There is scripture referenced below. Feel free to read it here, in your preferred translation, later in your personal time with God, or not at all. It's up to you! I included for myself and anyone who is interested in what was inspired today...hehehe
+
+## God Time, Session 1
 
 ![Lake](./media/IMG_9083.jpeg)
 
@@ -29,6 +31,8 @@ Philippians 4:12-13
 
 I also found [this article](https://www.gotquestions.org/camel-eye-needle.html) that was related to the passage in Mark. (Including it here for reference...it wasn't actually mentioned in the devotional itself.)
 
+## God Time, Session 2
+
 ![Woods](./media/IMG_9105.jpeg)
 
 After the devotional, I walked around a bit. I think maybe an hour or so. At this point, I had been there 2 hours. The first hour doing the devotional...the second exploring. But then I came upon the above view. Here, I sat another hour praying about what God was revealing to me in the devotional.
@@ -39,6 +43,8 @@ The scripture reference the Spirit led me to during this session was:
 
 Psalms 107
 
+## God Time, Session 3
+
 ![Tree](./media/IMG_9138.jpeg)
 
 I started to walk around exploring for a bit again. I think this time was around 30 minutes or so. Then I came across the above view. It grabbed my attention in a new way for the day. Instead of just praying and reading scripture, I actually meditated with my eyes closed and taking in the ambience.
@@ -48,6 +54,8 @@ I did 2 separate 10 minute meditation sessions for this time. So about 20 minute
 This one hour session led me to the following scripture:
 
 Psalm 102
+
+## God Time, Session 4
 
 ![Desert](./media/IMG_9144.jpeg)
 
@@ -67,6 +75,8 @@ John 6:59-66
 Proverbs 18:24
 Psalms 34
 Proverbs 27:4-10
+
+## And Adventure Ends
 
 Okay, at this point, it was now 4pm and I had been at the arboretum for 6 hours. 4 of those hours were in prayer, meditation, and scripture reading/research and only 2 hours of exploring...LOL So I spent the remainder of my time there, about 2 hours 15 minutes, exploring. Although I did quite a bit of walking around and looking, I don't think I covered the entire place. It is huge! I did go to each *area*. But each area had some smaller areas within.
 

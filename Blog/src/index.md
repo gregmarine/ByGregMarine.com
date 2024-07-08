@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/07/07_
+      text: I Experienced God!
+      link: /2024/07/07_i-experienced-god
     - theme: alt
       text: I Got to Hug Chérie!
       link: /2024/07/06_i-got-to-hug-cherie
