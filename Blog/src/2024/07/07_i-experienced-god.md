@@ -26,8 +26,35 @@ This actually led to what I did for the rest of my time at the arboretum...heheh
 
 The scripture references associated with this are:
 
-Mark 10:17-31
-Philippians 4:12-13
+::: details Mark 10:17-31
+17As Jesus started on His way, a man ran up and knelt before Him. “Good Teacher,” he asked, “what must I do to inherit eternal life?”
+
+18“Why do you call Me good?” Jesus replied. “No one is good except God alone. 19You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not bear false witness, do not cheat others, honor your father and mother.’e”
+
+20“Teacher,” he replied, “all these I have kept from my youth.”
+
+21Jesus looked at him, loved him, and said to him, “There is one thing you lack: Go, sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.f”
+
+22But the man was saddened by these words and went away in sorrow, because he had great wealth.
+
+23Then Jesus looked around and said to His disciples, “How hard it is for the rich to enter the kingdom of God!”
+
+24And the disciples were amazed at His words.
+
+But Jesus said to them again, “Children, how hard it is to enterg the kingdom of God! 25It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”
+
+26They were even more astonished and said to one another, “Who then can be saved?”
+
+27Jesus looked at them and said, “With man this is impossible, but not with God. For all things are possible with God.”
+
+28Peter began to say to Him, “Look, we have left everything and followed You.”
+
+29“Truly I tell you,” Jesus replied, “no one who has left home or brothers or sisters or mother or father or children or fields for My sake and for the gospel 30will fail to receive a hundredfold in the present age—houses and brothers and sisters and mothers and children and fields, along with persecutions—and in the age to come, eternal life. 31But many who are first will be last, and the last will be first.”
+:::
+
+::: details Philippians 4:12-13
+12I know how to live humbly, and I know how to abound. I am accustomed to any and every situation—to being filled and being hungry, to having plenty and having need. 13I can do all things through Christ who gives me strength.b
+:::
 
 I also found [this article](https://www.gotquestions.org/camel-eye-needle.html) that was related to the passage in Mark. (Including it here for reference...it wasn't actually mentioned in the devotional itself.)
 
@@ -41,7 +68,94 @@ I hadn't planned to sit there for an hour. It just sort of happened. Along with 
 
 The scripture reference the Spirit led me to during this session was:
 
-Psalms 107
+::: details Psalms 107
+1Give thanks to the LORD, for He is good;
+His loving devotion endures forever.
+2Let the redeemed of the LORD say so,
+whom He has redeemed from the hand of the enemy
+3and gathered from the lands,
+from east and west, from north and south.a
+4Some wandered in desert wastelands,
+finding no path to a city in which to dwell.
+5They were hungry and thirsty;
+their soul fainted within them.
+6Then they cried out to the LORD in their trouble,
+and He delivered them from their distress.
+7He led them on a straight path
+to reach a city where they could live.
+8Let them give thanks to the LORD for His loving devotion
+and His wonders to the sons of men.
+9For He satisfies the thirsty
+and fills the hungry with good things.
+10Some sat in darkness and in the shadow of death,
+prisoners in affliction and chains,
+11because they rebelled against the words of God
+and despised the counsel of the Most High.
+12He humbled their hearts with hard labor;
+they stumbled, and there was no one to help.
+13Then they cried out to the LORD in their trouble,
+and He saved them from their distress.
+14He brought them out of darkness and the shadow of death
+and broke away their chains.
+15Let them give thanks to the LORD for His loving devotion
+and His wonders to the sons of men.
+16For He has broken down the gates of bronze
+and cut through the bars of iron.
+17Fools, in their rebellious ways,
+and through their iniquities, suffered affliction.
+18They loathed all food
+and drew near to the gates of death.
+19Then they cried out to the LORD in their trouble,
+and He saved them from their distress.
+20He sent forth His word and healed them;
+He rescued them from the Pit.
+21Let them give thanks to the LORD for His loving devotion
+and His wonders to the sons of men.
+22Let them offer sacrifices of thanksgiving
+and declare His works with rejoicing.
+23Others went out to sea in ships,
+conducting trade on the mighty waters.
+24They saw the works of the LORD,
+and His wonders in the deep.
+25For He spoke and raised a tempest
+that lifted the waves of the sea.
+26They mounted up to the heavens, then sunk to the depths;
+their courage melted in their anguish.
+27They reeled and staggered like drunkards,
+and all their skill was useless.b
+28Then they cried out to the LORD in their trouble,
+and He brought them out of their distress.
+29He calmed the storm to a whisper,
+and the waves of the seac were hushed.
+30They rejoiced in the silence,
+and He guided them to the harbor they desired.
+31Let them give thanks to the LORD for His loving devotion
+and His wonders to the sons of men.
+32Let them exalt Him in the assembly of the people
+and praise Him in the council of the elders.
+33He turns rivers into deserts,
+springs of water into thirsty ground,
+34and fruitful land into fields of salt,
+because of the wickedness of its dwellers.
+35He turns a desert into pools of water
+and a dry land into flowing springs.
+36He causes the hungry to settle there,
+that they may establish a city in which to dwell.
+37They sow fields and plant vineyards
+that yield a fruitful harvest.
+38He blesses them, and they multiply greatly;
+He does not let their herds diminish.
+39When they are decreased and humbled
+by oppression, evil, and sorrow,
+40He pours out contempt on the nobles
+and makes them wander in a trackless wasteland.
+41But He lifts the needy from affliction
+and increases their families like flocks.
+42The upright see and rejoice,
+and all iniquity shuts its mouth.
+43Let him who is wise pay heed to these things
+and consider the loving devotion of the LORD.
+:::
 
 ## God Time, Session 3
 
@@ -53,7 +167,69 @@ I did 2 separate 10 minute meditation sessions for this time. So about 20 minute
 
 This one hour session led me to the following scripture:
 
-Psalm 102
+::: details Psalm 102
+1Hear my prayer, O LORD;
+let my cry for help come before You.
+2Do not hide Your face from me
+in my day of distress.
+Incline Your ear to me;
+answer me quickly when I call.
+3For my days vanish like smoke,
+and my bones burn like glowing embers.
+4My heart is afflicted, and withered like grass;
+I even forget to eat my bread.
+5Through my loud groaning
+my flesh clings to my bones.
+6I am like a desert owl,
+like an owl among the ruins.
+7I lie awake;
+I am like a lone bird on a housetop.
+8All day long my enemies taunt me;
+they ridicule me and curse me.
+9For I have eaten ashes like bread
+and mixed my drink with tears
+10because of Your indignation and wrath,
+for You have picked me up and cast me aside.
+11My days are like lengthening shadows,
+and I wither away like grass.
+12But You, O LORD, sit enthroned forever;
+Your renown endures to all generations.
+13You will rise up and have compassion on Zion,
+for it is time to show her favor—
+the appointed time has come.
+14For Your servants delight in her stones
+and take pity on her dust.
+15So the nations will fear the name of the LORD,
+and all the kings of the earth will fear Your glory.
+16For the LORD will rebuild Zion;
+He has appeared in His glory.
+17He will turn toward the prayer of the destitute;
+He will not despise their prayer.
+18Let this be written for the generation to come,
+so that a people not yet created may praise the LORD.
+19For He looked down from the heights of His sanctuary;
+the LORD gazed out from heaven to earth
+20to hear a prisoner’s groaning,
+to release those condemned to death,
+21that they may proclaim the name of the LORD in Zion
+and praise Him in Jerusalem,
+22when peoples and kingdoms assemble
+to serve the LORD.
+23He has broken my strength on the way;
+He has cut short my days.
+24I say: “O my God, do not take me in the midst of my days!
+Your years go on through all generations.
+25In the beginning You laid the foundations of the earth,
+and the heavens are the work of Your hands.
+26They will perish, but You remain;
+they will all wear out like a garment.
+Like clothing You will change them,
+and they will be passed on.
+27But You remain the same,
+and Your years will never end.a
+28The children of Your servants will dwell securely,
+and their descendants will be established before You.”
+:::
 
 ## God Time, Session 4
 
@@ -65,16 +241,137 @@ This session was also quite different, except that it too was an hour. I loved h
 
 As I was sitting there, a peacock ran up to me, checked me out, and then ran off. It was a bit weird and fascinating at the same time...hehehe Like, why was he in a hurry? Where was he going? What made him stop and check me out? Come on Alex! WHY?!?
 
-Matthew 19:29-30
-Mark 10:29-31
-Luke 18:29-30
-Luke 14:25-33
-Matthew 8:18-22
-Luke 9:57-62
-John 6:59-66
-Proverbs 18:24
-Psalms 34
-Proverbs 27:4-10
+::: details Matthew 19:29-30
+ 29And everyone who has left houses or brothers or sisters or father or mother or wifeh or children or fields for the sake of My name will receive a hundredfold and will inherit eternal life. 30But many who are first will be last, and the last will be first.
+:::
+
+::: details Mark 10:29-31
+29“Truly I tell you,” Jesus replied, “no one who has left home or brothers or sisters or mother or father or children or fields for My sake and for the gospel 30will fail to receive a hundredfold in the present age—houses and brothers and sisters and mothers and children and fields, along with persecutions—and in the age to come, eternal life. 31But many who are first will be last, and the last will be first.”
+:::
+
+::: details Luke 18:29-30
+29“Truly I tell you,” Jesus replied, “no one who has left home or wife or brothers or parents or children for the sake of the kingdom of God 30will fail to receive many times more in this age—and in the age to come, eternal life.”
+:::
+
+::: details Luke 14:25-33
+25Large crowds were now traveling with Jesus, and He turned and said to them, 26“If anyone comes to Me and does not hate his father and mother and wife and children and brothers and sisters—yes, even his own life—he cannot be My disciple. 27And whoever does not carry his cross and follow Me cannot be My disciple.
+
+28Which of you, wishing to build a tower, does not first sit down and count the cost to see if he has the resources to complete it? 29Otherwise, if he lays the foundation and is unable to finish the work, everyone who sees it will ridicule him, 30saying, ‘This man could not finish what he started to build.’
+
+31Or what king on his way to war with another king will not first sit down and consider whether he can engage with ten thousand men the one coming against him with twenty thousand? 32And if he is unable, he will send a delegation while the other king is still far off, to ask for terms of peace.
+
+33In the same way, any one of you who does not give up everything he has cannot be My disciple.
+:::
+
+::: details Matthew 8:18-22
+18When Jesus saw a large crowd around Him, He gave orders to cross to the other side of the sea.e 19And one of the scribes came to Him and said, “Teacher, I will follow You wherever You go.”
+
+20Jesus replied, “Foxes have dens and birds of the air have nests, but the Son of Man has no place to lay His head.”
+
+21Another of His disciples requested, “Lord, first let me go and bury my father.”
+
+22But Jesus told him, “Follow Me, and let the dead bury their own dead.”
+:::
+
+::: details Luke 9:57-62
+57As they were walking along the road, someone said to Jesus, “I will follow You wherever You go.”
+
+58Jesus replied, “Foxes have dens and birds of the air have nests, but the Son of Man has no place to lay His head.”
+
+59Then He said to another man, “Follow Me.”
+
+The man replied, “Lord, first let me go and bury my father.”
+
+60But Jesus told him, “Let the dead bury their own dead. You, however, go and proclaim the kingdom of God.”
+
+61Still another said, “I will follow You, Lord; but first let me bid farewell to my family.”
+
+62Then Jesus declared, “No one who puts his hand to the plow and then looks back is fit for the kingdom of God.”
+:::
+
+::: details John 6:59-66
+59Jesus said this while teaching in the synagogue in Capernaum. 60On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?”
+
+61Aware that His disciples were grumbling about this teaching, Jesus asked them, “Does this offend you? 62Then what will happen if you see the Son of Man ascend to where He was before?
+
+63The Spirit gives life; the flesh profits nothing. The words I have spoken to you are spirit and they are life. 64However, there are some of you who do not believe.” (For Jesus had known from the beginning which of them did not believe and who would betray Him.)
+
+65Then Jesus said, “This is why I told you that no one can come to Me unless the Father has granted it to him.”
+
+66From that time on many of His disciples turned back and no longer walked with Him.
+:::
+
+::: details Proverbs 18:24
+24A man of many companions may come to ruin,
+but there is a friend who stays closer than a brother.
+:::
+
+::: details Psalms 34
+1I will bless the LORD at all times;
+His praise will always be on my lips.
+2My soul boasts in the LORD;
+let the oppressed hear and rejoice.
+3Magnify the LORD with me;
+let us exalt His name together.
+4I sought the LORD, and He answered me;
+He delivered me from all my fears.
+5Those who look to Him are radiant with joy;
+their faces shall never be ashamed.
+6This poor man called out, and the LORD heard him;
+He saved him from all his troubles.
+7The angel of the LORD encamps around those who fear Him,
+and he delivers them.
+8Taste and see that the LORD is good;
+blessed is the man who takes refuge in Him!
+9Fear the LORD, you His saints,
+for those who fear Him lack nothing.
+10Young lions go lacking and hungry,
+but those who seek the LORD lack no good thing.
+11Come, children, listen to me;
+I will teach you the fear of the LORD.
+12Who is the man who delights in life,
+who desires to see good days?
+13Keep your tongue from evil
+and your lips from deceitful speech.
+14Turn away from evil and do good;
+seek peace and pursue it.
+15The eyes of the LORD are on the righteous,
+and His ears are inclined to their cry.c
+16But the face of the LORD is against those who do evil,d
+to wipe out all memory of them from the earth.
+17The righteous cry out, and the LORD hears;
+He delivers them from all their troubles.
+18The LORD is near to the brokenhearted;
+He saves the contrite in spirit.
+19Many are the afflictions of the righteous,
+but the LORD delivers him from them all.
+20He protects all his bones;
+not one of them will be broken.e
+21Evil will slay the wicked,
+and the haters of the righteous will be condemned.
+22The LORD redeems His servants,
+and none who take refuge in Him will be condemned.
+:::
+
+::: details Proverbs 27:4-10
+4Wrath is cruel and anger is like a flood,
+but who can withstand jealousy?
+5Better an open rebuke
+than love that is concealed.
+6The wounds of a friend are faithful,
+but the kisses of an enemy are deceitful.
+7The soul that is full loathes honey,
+but to a hungry soul, any bitter thing is sweet.
+8Like a bird that strays from its nest
+is a man who wanders from his home.
+9Oil and incense bring joy to the heart,
+and the sweetness of a friend is counsel to the soul.
+10Do not forsake your friend or your father’s friend,
+and do not go to your brother’s house
+in the day of your calamity;
+better a neighbor nearby
+than a brother far away.
+:::
 
 ## And Adventure Ends
 
