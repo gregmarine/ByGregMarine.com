@@ -505,6 +505,10 @@ export default defineConfig({
                       {
                         text: 'Resetting',
                         link: '/2024/07/08_resetting'
+                      },
+                      {
+                        text: 'ReTBDsetting',
+                        link: '/2024/07/09_'
                       }
                     ]
                   }
