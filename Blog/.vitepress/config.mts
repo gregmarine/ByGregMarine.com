@@ -507,8 +507,8 @@ export default defineConfig({
                         link: '/2024/07/08_resetting'
                       },
                       {
-                        text: 'ReTBDsetting',
-                        link: '/2024/07/09_'
+                        text: 'Home and Friends',
+                        link: '/2024/07/09_home-and-friends'
                       }
                     ]
                   }

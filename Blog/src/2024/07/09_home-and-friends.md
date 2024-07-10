@@ -1,4 +1,4 @@
-# TBD
+# Home and Friends
 
 I'm *home*.
 
@@ -37,4 +37,3 @@ God called me to go pray with someone hundreds of miles away. I didn't even have
 In that instance, it was financial. But His provisions go well beyond money, food, clothing, or shelter. He also provides strength, comfort, wisdom, and healing. In my reflection notes for the devotional, I mentioned that oftentimes He is preparing me for and providing for something I don't even know is about to happen. Everything that happened Sunday prepared for and provided for what happened today. In a way, it was a *go and I'll provide* sort of thing. I went to California...LOL Also in a way, the trip was about faith and trusting in God. It wasn't about faith He would provide what I needed to go. But what He did provide through the experience was far greater than anything I could have expected. Being able to apply those provisions so immediately was also unexpected.
 
 The more I make myself available for more of Him, the more I am feeling more of His presence. That's a lot of *more*...hehehe And I know there's a lot...more...to come...LOL To other people, I could probably be considered a strong person. I seem strong in my faith. I seem strong in my career. I seem strong in my mental and physical health too. But I'm very much aware I am actually pretty weak. What others are seeing is the power of God being make perfect in my weakness. I'm not boasting about myself when I say any of this. It truly is God at work here. If it weren't for Him, I'd still be that same person suffered all of the mental, physical, and spiritual pain for more than 2 decades. What He has been doing these past few years is amazing!
-
