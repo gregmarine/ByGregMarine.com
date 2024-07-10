@@ -509,6 +509,10 @@ export default defineConfig({
                       {
                         text: 'Home and Friends',
                         link: '/2024/07/09_home-and-friends'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/07/10_'
                       }
                     ]
                   }
