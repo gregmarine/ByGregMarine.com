@@ -511,8 +511,8 @@ export default defineConfig({
                         link: '/2024/07/09_home-and-friends'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/07/10_'
+                        text: 'Random Thoughts',
+                        link: '/2024/07/10_random-thoughts'
                       }
                     ]
                   }

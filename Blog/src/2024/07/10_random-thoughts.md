@@ -1,4 +1,4 @@
-# TBD
+# Random Thoughts
 
 I'm a bit tired today...hehehe I did not sleep well last night. I kept dreaming about California. I woke up in the middle of the night around 3:14am; which would have been around 12:14am in California. I'm not really on California time right now, though. I got up to go to bathroom...LOL As for the poor sleep. Well, I think that was due to the anxiety of yesterday. So it's explainable...hehehe
 
@@ -18,8 +18,6 @@ I still need to get to the store, though. I've been eating from a few local trus
 
 Something I'm thinking about doing is getting one of those personal shopping carts. I don't mind using the ones at the store. But what I like about the personal ones is that the basket detaches from the cart for easy transport. I can fill up the cart with just what I need for that trip and not mess with multiple bags. It will help me keep from overdoing it and making the grocery an event. Plus the basket will help me carry everything from the car to my home. I currently use reusable bags for that. But like I said, when it was an event, I'd have so many to carry...hehehe
 
-I think I'll get back to my personal projects tonight. I've continued journaling since my return *home*. But I didn't get back into my projects last night. I mostly rested while watching the Dodgers game. I also called my parents to check in on them and tell them about my trip. They sounded like they are doing well and they seemed to enjoy my stories...hehehe
-
 For the last few days, I've moved my shaving routine to the morning. I had been doing it just before my nightly shower. I decided I wanted to move it to the morning...for *some* reason. I'm not really sure why...hehehe But I do like it. I've also cut the shave time in half. I found my self pretty much double shaving each time. Now I just do a single pass. It feels about the same at half the time. Just like why I moved the process to the morning, I have no idea why I was doing a double pass while shaving before...LOL Perhaps these 2 differences are another part of my resetting process...hehehe Evolving and growing as a person is good.
 
 Moving forward and making progress are good things. Some days do feel like a one step forward, two steps back progress. But other days feel like twenty steps forward, zero steps back. Whether it be as simple as a shaving routine, or as complex as a diet change, making progress in life feels good. It doesn't really take the big things in life to do this or to feel good about progress. Progress can simply be progress. I'm sure not everyone feels this way. But I'll celebrate both the little and the big things. It all adds up...at least to me...hehehe
@@ -30,3 +28,4 @@ I was talking about this very thing with a store clerk the other day. Something 
 
 I was able to work in my workout today...hehehe Technically, I did a lot of casual working out on my trip through my various adventures. But nothing formal. It was nice to be back in the zone today. I took it a bit easy. I'll be back to my normal level of intensity soon I think. Since I'm not training for anything this year, I'm not putting any pressure on myself. This is more for fun and physical maintenance now.
 
+Something I wasn't able to work in was getting back to one of my personal projects. Originally I wasn't going to journal today...hehehe But that's what I ended up doing instead. My brain isn't feeling like going much further. I still have another devotional to do here in a bit...hehehe
