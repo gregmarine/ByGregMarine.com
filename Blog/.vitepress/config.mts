@@ -513,6 +513,10 @@ export default defineConfig({
                       {
                         text: 'Random Thoughts',
                         link: '/2024/07/10_random-thoughts'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/07/12_'
                       }
                     ]
                   }
