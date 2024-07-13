@@ -515,8 +515,8 @@ export default defineConfig({
                         link: '/2024/07/10_random-thoughts'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/07/12_'
+                        text: 'Worth the Effort',
+                        link: '/2024/07/12_worth-the-effort'
                       }
                     ]
                   }
