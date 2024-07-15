@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /2024/07/12_worth-the-effort
+      link: /2024/07/15_
     - theme: alt
       text: Worth the Effort
       link: /2024/07/12_worth-the-effort
