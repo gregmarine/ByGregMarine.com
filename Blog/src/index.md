@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/07/15_
+      text: Jesus is Everything!
+      link: /2024/07/15_jesus-is-everything
     - theme: alt
       text: Worth the Effort
       link: /2024/07/12_worth-the-effort

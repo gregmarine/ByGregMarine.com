@@ -519,8 +519,8 @@ export default defineConfig({
                         link: '/2024/07/12_worth-the-effort'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/07/15_'
+                        text: 'Jesus is Everything!',
+                        link: '/2024/07/15_jesus-is-everything'
                       }
                     ]
                   }
