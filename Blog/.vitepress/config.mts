@@ -521,6 +521,10 @@ export default defineConfig({
                       {
                         text: 'Jesus is Everything!',
                         link: '/2024/07/15_jesus-is-everything'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/07/18_'
                       }
                     ]
                   }
