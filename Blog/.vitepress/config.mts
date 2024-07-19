@@ -523,8 +523,8 @@ export default defineConfig({
                         link: '/2024/07/15_jesus-is-everything'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/07/18_'
+                        text: 'YOLO, New Old Things, Creativity, and Childlike Wonder',
+                        link: '/2024/07/18_yolo-new-old-things-creativity-and-childlike-wonder'
                       }
                     ]
                   }

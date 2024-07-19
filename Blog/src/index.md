@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/07/18_
+      text: YOLO, New Old Things, Creativity, and Childlike Wonder
+      link: /2024/07/18_yolo-new-old-things-creativity-and-childlike-wonder
     - theme: alt
       text: Jesus is Everything!
       link: /2024/07/15_jesus-is-everything
