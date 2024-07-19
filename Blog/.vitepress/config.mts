@@ -521,6 +521,10 @@ export default defineConfig({
                       {
                         text: 'Jesus is Everything!',
                         link: '/2024/07/15_jesus-is-everything'
+                      },
+                      {
+                        text: 'YOLO, New Old Things, Creativity, and Childlike Wonder',
+                        link: '/2024/07/18_yolo-new-old-things-creativity-and-childlike-wonder'
                       }
                     ]
                   }
