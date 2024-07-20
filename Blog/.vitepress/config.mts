@@ -525,6 +525,10 @@ export default defineConfig({
                       {
                         text: 'YOLO, New Old Things, Creativity, and Childlike Wonder',
                         link: '/2024/07/18_yolo-new-old-things-creativity-and-childlike-wonder'
+                      },
+                      {
+                        text: 'Short Title',
+                        link: '/2024/07/19_short-title'
                       }
                     ]
                   }
