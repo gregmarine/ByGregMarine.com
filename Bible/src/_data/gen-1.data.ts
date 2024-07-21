@@ -1,9 +1,9 @@
 import { BibleClient } from '@gracious.tech/fetch-client'
-// Init client
-const client = new BibleClient()
 
 export default {
   async load(): Promise<string> {
+    // Init client
+    const client = new BibleClient()
 
     // Fetch the collection's meta data
     const collection = await client.fetch_collection()
