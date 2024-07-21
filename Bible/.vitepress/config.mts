@@ -48,6 +48,10 @@ export default defineConfig({
                           {
                             text: '1',
                             link: '/bibles/lightscape/genesis/01'
+                          },
+                          {
+                            text: '2',
+                            link: '/bibles/lightscape/genesis/02'
                           }
                         ]
                       }
