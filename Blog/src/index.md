@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Fingerprints
+      link: /2024/07/22_fingerprints
+    - theme: alt
       text: Short Title
       link: /2024/07/19_short-title
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Worth the Effort
       link: /2024/07/12_worth-the-effort
-    - theme: alt
-      text: Random Thoughts
-      link: /2024/07/10_random-thoughts
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
