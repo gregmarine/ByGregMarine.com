@@ -531,8 +531,8 @@ export default defineConfig({
                         link: '/2024/07/19_short-title'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/07/22_'
+                        text: 'Fingerprints',
+                        link: '/2024/07/22_fingerprints'
                       }
                     ]
                   }
