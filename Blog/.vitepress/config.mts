@@ -533,6 +533,10 @@ export default defineConfig({
                       {
                         text: 'Fingerprints',
                         link: '/2024/07/22_fingerprints'
+                      },
+                      {
+                        text: 'Lindsay',
+                        link: '/2024/07/24_lindsay'
                       }
                     ]
                   }
