@@ -541,6 +541,10 @@ export default defineConfig({
                       {
                         text: 'Rest and Reflection',
                         link: '/2024/07/28_rest-and-reflection'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/07/25_'
                       }
                     ]
                   }
