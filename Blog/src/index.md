@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Rest and Reflection
+      link: /2024/07/28_rest-and-reflection
+    - theme: alt
       text: Lindsay
       link: /2024/07/24_lindsay
     - theme: alt
