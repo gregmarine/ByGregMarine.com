@@ -537,6 +537,10 @@ export default defineConfig({
                       {
                         text: 'Lindsay',
                         link: '/2024/07/24_lindsay'
+                      },
+                      {
+                        text: 'Rest and Reflection',
+                        link: '/2024/07/28_rest-and-reflection'
                       }
                     ]
                   }
