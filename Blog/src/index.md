@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /2024/07/25_
+      link: /2024/07/29_
     - theme: alt
       text: Rest and Reflection
       link: /2024/07/28_rest-and-reflection
@@ -22,9 +22,6 @@ hero:
     - theme: alt
       text: Short Title
       link: /2024/07/19_short-title
-    - theme: alt
-      text: YOLO, New Old Things, Creativity, and Childlike Wonder
-      link: /2024/07/18_yolo-new-old-things-creativity-and-childlike-wonder
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

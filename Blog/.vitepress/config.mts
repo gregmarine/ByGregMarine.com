@@ -544,7 +544,7 @@ export default defineConfig({
                       },
                       {
                         text: 'TBD',
-                        link: '/2024/07/25_'
+                        link: '/2024/07/29_'
                       }
                     ]
                   }
