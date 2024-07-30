@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/07/29_
+      text: New Soap, Connected Journeys, and Wrong Choices
+      link: /2024/07/29_new-soap-connected-journeys-and-wrong-choices
     - theme: alt
       text: Rest and Reflection
       link: /2024/07/28_rest-and-reflection

@@ -543,8 +543,8 @@ export default defineConfig({
                         link: '/2024/07/28_rest-and-reflection'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/07/29_'
+                        text: 'New Soap, Connected Journeys, and Wrong Choices',
+                        link: '/2024/07/29_new-soap-connected-journeys-and-wrong-choices'
                       }
                     ]
                   }
