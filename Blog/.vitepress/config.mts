@@ -545,6 +545,10 @@ export default defineConfig({
                       {
                         text: 'New Soap, Connected Journeys, and Wrong Choices',
                         link: '/2024/07/29_new-soap-connected-journeys-and-wrong-choices'
+                      },
+                      {
+                        text: 'July 2024',
+                        link: '/2024/07/31_july-2024'
                       }
                     ]
                   }
