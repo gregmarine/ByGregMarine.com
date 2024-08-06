@@ -547,6 +547,16 @@ export default defineConfig({
                         link: '/2024/07/29_new-soap-connected-journeys-and-wrong-choices'
                       }
                     ]
+                  },
+                  {
+                    text: 'August',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'TBD',
+                        link: '/2024/08/06_'
+                      }
+                    ]
                   }
                 ]
               }
