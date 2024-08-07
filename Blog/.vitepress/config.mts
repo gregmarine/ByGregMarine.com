@@ -553,8 +553,8 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: 'TBD',
-                        link: '/2024/08/06_'
+                        text: 'Thought Playground',
+                        link: '/2024/08/06_thought-playground'
                       }
                     ]
                   }
