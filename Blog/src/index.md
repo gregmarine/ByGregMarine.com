@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/08/09_
+      text: Happy FriYAY
+      link: /2024/08/09_happy-friyay
     - theme: alt
       text: Thought Playground
       link: /2024/08/06_thought-playground
