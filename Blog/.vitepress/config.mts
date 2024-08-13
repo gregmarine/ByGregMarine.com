@@ -555,9 +555,14 @@ export default defineConfig({
                       {
                         text: 'Thought Playground',
                         link: '/2024/08/06_thought-playground'
-                      },{
+                      },
+                      {
                         text: 'Happy FriYAY',
                         link: '/2024/08/09_happy-friyay'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/08/13_'
                       }
                     ]
                   }
