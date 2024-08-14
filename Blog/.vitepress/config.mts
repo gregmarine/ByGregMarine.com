@@ -561,8 +561,8 @@ export default defineConfig({
                         link: '/2024/08/09_happy-friyay'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/08/13_'
+                        text: 'More to Come',
+                        link: '/2024/08/13_more-to-come'
                       }
                     ]
                   }

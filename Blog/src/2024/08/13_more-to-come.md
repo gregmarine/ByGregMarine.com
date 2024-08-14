@@ -1,10 +1,10 @@
-# TBD
+# More to Come
 
 ## New Port Richey
 
-On Friday, my sister reached out to me to see if I wanted to hang out with her on Saturday. Since I rarely see her, I made myself available. I had wanted to be out and about on that day anyway. Having someone come along was an added bonus...hehehe When I got to her place, she asked what I wanted to do. I was interested in doing a *downtown* sort of day. My first thought was downtown Dunedin where she lives. In the conversation I had mentioned downtown New Port Richey. She had never been. So I offered the suggestion we go there instead. So we did...hehehe
+On Friday, my sister reached out to me to see if I wanted to hang out with her on Saturday. Since I rarely see her, I made myself available. I had wanted to be out and about on that day anyway. Having someone come along was an added bonus...hehehe When I got to her place, she asked what I wanted to do. I was interested in doing a *downtown* sort of day. My first thought was downtown  where she lives. In the conversation I had mentioned downtown New Port Richey. She had never been. So I offered the suggestion we go there instead. So we did...hehehe
 
-NPR is one of the few places near me that I have considered as a possible place to move to next year. It seemed like a great idea to check it out. I've been there a few times. My favorite Asian restaurant is there, actually. But besides that, I've only ever checked out the ice cream parlor. I hadn't ever just spent the day exploring it.
+NPR is one of the few places near me that I have considered as a possible place to move to next year. It seemed like a great idea to check out. I've been there a few times. My favorite Asian restaurant is there, actually. But besides that, I've only ever checked out the ice cream parlor. I hadn't ever just spent the day exploring it.
 
 We were there for about 4 or 5 hours. We ate at that aforementioned restaurant, walked around Sims Park, checked out where a few apartment buildings were, had some ice cream, and walked up and down a few of the downtown streets. Everything we did was all within walking distance. It was quite lovely. At first it seemed like the sort of place I'd like to live. But then my sister pointed out that there were very few actual shops. Most of the businesses were eateries. She didn't really like it and I absorbed her vibe and started thinking it might not be a place I'd live after all.
 
@@ -48,31 +48,15 @@ I realized this month that ingredient lists are dictated by USA law...LOL The FD
 
 I've decided I'm going to just trust God with this one. I'm going to stay away from the obviously bad stuff. If I'm not 100% sure, I'll just not worry about it anymore. Some countries have stricter laws about these things. Alas, I do not live in other countries...LOL
 
-I also wanted to acknowledge I have reintroduced alcohol in my life. The 2 months I went without did my body good. Now, I have the occasional drink. It is more the fact that I'm not actively avoiding it now. But I'm also not keeping it in stock on a regular basis. And I don't always have a drink when I'm out. I haven't yet faced a social situation. For now, I'll probably continue to avoid alcohol in a social setting.
-
 ## North Carolina
 
 My plans for NC are mostly set. At least as far as where I'm staying and who I am seeing...hehehe I'll be working Monday through Wednesday. I'll be arriving on Saturday. I'll do my grocery shopping on Saturday or Sunday. I only need food for a few days, though. Thursday and Friday will likely be *eat out* days as I'll be going to the coast one day and the mountains another day. Basically, I won't be *home* those 2 days...hehehe
 
 Tyrese will be working the first half of the week as well. We are suppose to be meeting up Wednesday night to plan our time Thursday and Friday. She'll be working that following Saturday. So I'll be heading home that day.
 
-This Sunday, and perhaps the evenings of Monday and Tuesday, I'll be exploring some parks and gardens in the area. I'm hoping to journal this trip like I did for California.
+This Sunday, and perhaps the evenings of Monday and Tuesday, I'll be exploring some parks and gardens in the area. I'm hoping to journal this trip like I did for California. But I'm not sure what all I'll journal on my work days. If I experience much in those evenings, I'll write about it most likely.
 
 Since my main objective is to find a place to live, I find it important to journal these trips. I've imagined NC as a possible home for decades. California is a bit of surprise...hehehe And Florida is still on the table too...LOL
-
-## Labels
-
-Chérie and I were talking about *labels* the other day. I got to thinking about the parallel with western medicine. For my own life, I'm fine with medicine to treat symptoms long enough to resolve the problem that is causing the symptoms. I don't look at most medication as a means to avoid solving problems.
-
-I feel the same with *labels*. I'm fine being labeled a certain way so long as I use the label to resolve the source; if it identifies a problem. I've been labeled with mental illness. Well, I'm not okay being stuck with mental illness. So, I've worked hard to overcome what I deal with. And by the Grace of God, that goal is being met.
-
-I don't want these things to become a bandage that covers up the real problems.
-
-There are other labels I have that are a bit different, though. For example, I'm a Christian. That label is a bit skewed right now. I won't go too deep into that one...hehehe But what I try to be in that context is a Christ follower; which is the original definition. But I still don't like the current image of what the world sees as a Christian...LOL
-
-Another label I don't actually like is middle-aged white man...hehehe As is the case with Christian, that label has a bad image these days. And again, I just do my best to be a Christ follower and not be the typical middle-aged white man...LOL
-
-The point I'm making with all labels, I embrace the labels and do what I can to be the best *me* that I can be. If I'm going to be labeled, I plan to project a better image of those labels.
 
 ## Disney
 
@@ -82,9 +66,12 @@ Aside from spending part of the day with Dan and Corban on Friday, I don't reall
 
 When I was with them, I was more focused on their enjoyment than my own. They are doing really well. But they are reaching that age where I can't help but be focused on them when I'm with them...if that makes sense.
 
-This past weekend had many announcements coming to the world of Disney...hehehe Many of the announcements were for changes to Disney World. I dropped off of social media because so many people were talking about it...LOL There is absolutely nothing wrong with people talking about it. In fact, there are a few people I love to hear what they have to say about it. But most of it was people just reposting the same announcements everyone else was. That's why I dropped off for a few days...hehehe Seeing the same exact post a dozen times really got old over the weekend. When I hopped back on briefly, there were a few posts where people made comments of their own without reposting the same announcements. I loved hearing the real thoughts from real people...LOL
+This past weekend had many announcements coming to the world of Disney...hehehe Many of the announcements were for changes to Disney World. I dropped off of social media because so many people were talking about it...LOL There is absolutely nothing wrong with people talking about it. In fact, there are a few people I love to hear what they have to say about it. But most of it was people just reposting the same announcements everyone else was. That's why I dropped off for a few days...hehehe Seeing the same exact post a dozen times really got old over the weekend. When I hopped back on briefly, there were a few posts where people made comments of their own without reposting the same announcements. I loved hearing the real thoughts from real people...LOL Chérie made a post. Hers was the type I actually love. She didn't repost a Disney announcement. She posted a real thought.
 
 I personally like change. I like to see what they come up with. I just don't hold my breath on these announcements...hehehe I wait until real progress is being made. Some of the pre-pandemic announcements got me excited. Alas, they did not come to be. Some of the post-pandemic announcements are still yet to be realized as well. Once something actually comes to Disney, I'll give it a chance and my opinion.
 
 I loved Splash Mountain. Just over 3 weeks ago, I finally had the opportunity to try Tiana's Bayou Adventure. I loved it too. So, whatever they end up doing with the parks after these announcements, I'll keep an open mind to what they come up with.
 
+## Conclusion
+
+I have a few more things to write about. But I just realized this is a bit long. I'll save the rest for another day...maybe tomorrow...hehehe More to come...LOL
