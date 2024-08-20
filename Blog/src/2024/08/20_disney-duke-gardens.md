@@ -1,5 +1,11 @@
 # Disney, Duke Gardens
 
+## Seeking
+
+Once again, today's *The Chosen* devotional (*Book 3, Day 37*) is quite relatable to current circumstances. In [yesterday's entry](./19_more-continued#im-tired), I talked a little about something that was applicable from today's devotional...hehehe It isn't directly related. But it certain can be applied.
+
+Today's talked about *Hope in Trouble*.
+
 ## Disney
 
 The adventure I'm currently on began last Thursday night...hehehe I had plans to be at Disney World on Friday. As a last minute decision, I wanted to head there a little early and stay the night on property. Although it is expensive, I really do love staying at Disney World. Doing so a few times a year can be fun...hehehe I think this might be like the third time I've stayed there this year? This time, it was 2 nights at Disney's Port Orleans: French Quarter. I had stayed there with my parents back in May for 1 night. But I didn't really take in what that place is. Wow! It is amazing! I didn't spend enough time there this time either...LOL But I did take in more of the vibe and I truly enjoyed my brief time there.
