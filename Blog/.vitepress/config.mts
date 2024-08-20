@@ -563,6 +563,10 @@ export default defineConfig({
                       {
                         text: 'More to Come',
                         link: '/2024/08/13_more-to-come'
+                      },
+                      {
+                        text: 'More Continued',
+                        link: '/2024/08/19_more-continued'
                       }
                     ]
                   }

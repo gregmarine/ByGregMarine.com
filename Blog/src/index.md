@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: More Continued
+      link: /2024/08/19_more-continued
+    - theme: alt
       text: More to Come
       link: /2024/08/13_more-to-come
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: New Soap, Connected Journeys, and Wrong Choices
       link: /2024/07/29_new-soap-connected-journeys-and-wrong-choices
-    - theme: alt
-      text: Rest and Reflection
-      link: /2024/07/28_rest-and-reflection
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
