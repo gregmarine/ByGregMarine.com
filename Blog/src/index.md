@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/08/19_
+      text: More Continued
+      link: /2024/08/19_more-continued
     - theme: alt
       text: More to Come
       link: /2024/08/13_more-to-come
