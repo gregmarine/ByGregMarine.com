@@ -1,11 +1,5 @@
 # Disney, Duke Gardens
 
-## Seeking
-
-Once again, today's *The Chosen* devotional (*Book 3, Day 37*) is quite relatable to current circumstances. In [yesterday's entry](./19_more-continued#im-tired), I talked a little about something that was applicable from today's devotional...hehehe It isn't directly related. But it certain can be applied.
-
-Today's talked about *Hope in Trouble*.
-
 ## Disney
 
 The adventure I'm currently on began last Thursday night...hehehe I had plans to be at Disney World on Friday. As a last minute decision, I wanted to head there a little early and stay the night on property. Although it is expensive, I really do love staying at Disney World. Doing so a few times a year can be fun...hehehe I think this might be like the third time I've stayed there this year? This time, it was 2 nights at Disney's Port Orleans: French Quarter. I had stayed there with my parents back in May for 1 night. But I didn't really take in what that place is. Wow! It is amazing! I didn't spend enough time there this time either...LOL But I did take in more of the vibe and I truly enjoyed my brief time there.
@@ -40,42 +34,42 @@ There were a couple of little cottages. One was actually a restroom...hehehe I'm
 
 Here is a small photo dump from the day...hehehe
 
-![](./media/IMG_0525.jpeg)
+![Duke Gardens](./media/IMG_0525.jpeg)
 
-![](./media/IMG_0526.jpeg)
+![Duke Gardens](./media/IMG_0526.jpeg)
 
-![](./media/IMG_0531.jpeg)
+![Duke Gardens](./media/IMG_0531.jpeg)
 
-![](./media/IMG_0534.jpeg)
+![Duke Gardens](./media/IMG_0534.jpeg)
 
-![](./media/IMG_0537.jpeg)
+![Duke Gardens](./media/IMG_0537.jpeg)
 
-![](./media/IMG_0539.jpeg)
+![Duke Gardens](./media/IMG_0539.jpeg)
 
-![](./media/IMG_0544.jpeg)
+![Duke Gardens](./media/IMG_0544.jpeg)
 
-![](./media/IMG_0549.jpeg)
+![Duke Gardens](./media/IMG_0549.jpeg)
 
-![](./media/IMG_0558.jpeg)
+![Duke Gardens](./media/IMG_0558.jpeg)
 
-![](./media/IMG_0561.jpeg)
+![Duke Gardens](./media/IMG_0561.jpeg)
 
-![](./media/IMG_0563.jpeg)
+![Duke Gardens](./media/IMG_0563.jpeg)
 
-![](./media/IMG_0566.jpeg)
+![Duke Gardens](./media/IMG_0566.jpeg)
 
-![](./media/IMG_0567.jpeg)
+![Duke Gardens](./media/IMG_0567.jpeg)
 
-![](./media/IMG_0575.jpeg)
+![Duke Gardens](./media/IMG_0575.jpeg)
 
-![](./media/IMG_0584.jpeg)
+![Duke Gardens](./media/IMG_0584.jpeg)
 
-![](./media/IMG_0594.jpeg)
+![Duke Gardens](./media/IMG_0594.jpeg)
 
-![](./media/IMG_0615.jpeg)
+![Duke Gardens](./media/IMG_0615.jpeg)
 
-![](./media/IMG_0618.jpeg)
+![Duke Gardens](./media/IMG_0618.jpeg)
 
-![](./media/IMG_0619.jpeg)
+![Duke Gardens](./media/IMG_0619.jpeg)
 
-![](./media/IMG_0624.jpeg)
+![Duke Gardens](./media/IMG_0624.jpeg)
