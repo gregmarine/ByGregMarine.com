@@ -571,6 +571,10 @@ export default defineConfig({
                       {
                         text: 'Disney, Duke Gardens',
                         link: '/2024/08/20_disney-duke-gardens'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/08/21_'
                       }
                     ]
                   }
