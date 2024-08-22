@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/08/21_
+      text: Museum Park and Glorious Food
+      link: /2024/08/21_museum-park-and-glorious-food
     - theme: alt
       text: Disney, Duke Gardens
       link: /2024/08/20_disney-duke-gardens

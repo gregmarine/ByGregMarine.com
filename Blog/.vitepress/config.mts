@@ -573,8 +573,8 @@ export default defineConfig({
                         link: '/2024/08/20_disney-duke-gardens'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/08/21_'
+                        text: 'Museum Park and Glorious Food',
+                        link: '/2024/08/21_museum-park-and-glorious-food'
                       }
                     ]
                   }
