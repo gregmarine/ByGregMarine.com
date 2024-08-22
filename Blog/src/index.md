@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Museum Park and Glorious Food
+      link: /2024/08/21_museum-park-and-glorious-food
+    - theme: alt
       text: Disney, Duke Gardens
       link: /2024/08/20_disney-duke-gardens
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Happy FriYAY
       link: /2024/08/09_happy-friyay
-    - theme: alt
-      text: Thought Playground
-      link: /2024/08/06_thought-playground
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
