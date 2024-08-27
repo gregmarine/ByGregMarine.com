@@ -577,8 +577,8 @@ export default defineConfig({
                         link: '/2024/08/21_museum-park-and-glorious-food'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/08/26_'
+                        text: 'Okay With Who and Where I am',
+                        link: '/2024/08/26_okay-with-who-and-where-i-am'
                       }
                     ]
                   }
