@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/08/28_
+    - theme: alt
       text: Thursday at the Outer Banks
       link: /2024/08/27_thursday-at-the-outer-banks
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Disney, Duke Gardens
       link: /2024/08/20_disney-duke-gardens
-    - theme: alt
-      text: More Continued
-      link: /2024/08/19_more-continued
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
