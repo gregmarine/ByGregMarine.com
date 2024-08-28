@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/08/27_
+      text: Thursday at the Outer Banks
+      link: /2024/08/27_thursday-at-the-outer-banks
     - theme: alt
       text: Okay With Who and Where I am
       link: /2024/08/26_okay-with-who-and-where-i-am

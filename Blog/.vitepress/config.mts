@@ -581,8 +581,8 @@ export default defineConfig({
                         link: '/2024/08/26_okay-with-who-and-where-i-am'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/08/27_'
+                        text: 'Thursday at the Outer Banks',
+                        link: '/2024/08/27_thursday-at-the-outer-banks'
                       }
                     ]
                   }
