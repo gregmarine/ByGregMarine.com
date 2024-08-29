@@ -585,8 +585,8 @@ export default defineConfig({
                         link: '/2024/08/27_thursday-at-the-outer-banks'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/08/28_'
+                        text: 'Yoke Opportunities',
+                        link: '/2024/08/28_yoke-opportunities'
                       }
                     ]
                   }
