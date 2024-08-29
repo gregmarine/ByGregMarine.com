@@ -583,6 +583,10 @@ export default defineConfig({
                       {
                         text: 'Thursday at the Outer Banks',
                         link: '/2024/08/27_thursday-at-the-outer-banks'
+                      },
+                      {
+                        text: 'Yoke Opportunities',
+                        link: '/2024/08/28_yoke-opportunities'
                       }
                     ]
                   }
