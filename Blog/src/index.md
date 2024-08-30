@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/08/29_
+      text: Happy Hands
+      link: /2024/08/29_happy-hands
     - theme: alt
       text: Yoke Opportunities
       link: /2024/08/28_yoke-opportunities

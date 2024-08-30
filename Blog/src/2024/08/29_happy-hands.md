@@ -1,0 +1,27 @@
+# Happy Hands
+
+Today started out as a *weird* day for me. At one point, I thought it was Tuesday. At another point I was completely confused about something at work that I have never been confused about. I was late on my coffee and breakfast. My boss randomly pinged me about something and then just sort of ghosted me. Yeah, weird stuff...LOL On the boss thing, that happens sometimes. He's very busy...hehehe And he did get back to me hours later...LOL But as the day continued, everything seemed to go back to *normal*...
+
+This week, I have moved my devotional time back to the beginning of the day and slightly shifted my work start time. So far, I really like this adjustment. Before I switched my sleep schedule a few months ago, I was doing the devotional in the morning and I really liked that. It never felt right to be doing it after dinner as I have been for a few months. So, I'm glad to have it back at the start of my day. I hope to continue this. *Fingers crossed and hands folded*...hehehe
+
+I recently started washing all of my dishes by hand. That may not sound like an accomplishment. However, for someone who has had difficulty doing so for about 25 years, I am truly excited about it. I've had a benign tremor in my brain since the late 90s. Some medical impacts made it worse at times. I would easily drop dishes as I washed them and they would break. It also caused a lot of pain to hold things for more than a few seconds when I had to hold tightly to prevent dropping them. Due to some medication I was on, there was even a season when I couldn't shave my face easily and had the risk of cuts every day...that was a scary time...hehehe
+
+I had one house that didn't have a dishwasher. I got to the point where everything I ate off of or with was disposable. And I found some creative ways to cook food with disposable stuff. At the time, I did most of my cooking outdoors on a wood-fired grill I made. I would tough it out with some of the cooking tools I couldn't switch out for disposables and washed them by hand. Needless to say, that was a difficult season of my life. Everywhere else I've lived, I've had a dishwasher.
+
+I also had difficulty feeling things in my hands. I would hold tightly sometimes just so I knew it was in my hand. It was such a weird feeling to see something in the hand but not actually feel its presence. If I didn't hold tightly, I would often drop what I was holding because I simply wasn't holding it tightly enough. I can't tell you how many phone screens I've cracked because I'd drop my phone for no particular reason...LOL
+
+This all changed during my health journey. As I changed my diet, I could feel things in my hands again. I'm not quite sure why the tremor has improved, but even my shakes are almost nonexistent. It no longer hurts to hold anything no matter how lightly I hold on. I suppose it's possible that my diet and the sub-tropical climate I live in now may have had a positive impact on that tremor in my brain as well. After all, my migraines are also gone...hehehe
+
+Washing the dishes by hand has been therapeutic. Since I cook for one, I can do my dishes at the end of the day after a day's worth collect in the sink. There aren't many dishes each day...hehehe One thing I've noticed is the dishes seem cleaner than when I used the machine. I also switched to Seventh Generation dish soap. That makes my skin feel pretty good afterward and it isn't full of detergents. Happy hands...happy heart...happy *Greg*...hehehe
+
+I'm a big fan of the show *Ted Lasso*. I even have two Funko! Pops...hehehe It was canceled after three seasons. They are currently trying to get a forth season going. Because of the hype about the potential of a new season coming, I decided to start watching it again...LOL
+
+One of the episodes I watched tonight reminded me of the Jesus yoke passage we've been doing in *The Chosen* devotional (Book 4, Days 5 & 6) these past few days. The character *Higgins* says, *If you're with the right person, even the hard times are easy.* Of course, he was talking about his wife...hehehe But it triggered a train of thought about how being with Jesus makes the hard times so much easier.
+
+I called Malachi tonight. I just wanted to hear his voice. I didn't call for any particular reason. We had a nice chat. He mentioned a story from the Bible that he used as an example for a friend of his who was concerned that their best wasn't good enough for God. The passage was the one where the rich folks were giving a lot of money but a widow only gave two copper coins. Jesus called His disciples over and told them that the widow had given more because she gave all she had left to live one. Whereas, the rich folks were giving from their surplus.
+
+I'll have to admit, hearing that tonight was an answer to a prayer...didn't I mention yesterday that sort of thing has been happening a lot lately?..hehehe
+
+I'm on day two of dealing with my allergies. I've decided to stay off my medication for a bit to see how my body handles it this round. I've been on medication for so long that I'm interested to see how this new body of mine works...hehehe I stopped taking the medication last month. I only took it in NC because I was in a different region. I went through this earlier this year too even while on medication. I was over it within a few days. So I have hope that I'll be fine by the weekend...hehehe
+
+I've had a good week. I hope to finish it strong and enjoy a three day weekend...hehehe
