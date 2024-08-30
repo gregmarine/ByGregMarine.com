@@ -587,6 +587,10 @@ export default defineConfig({
                       {
                         text: 'Yoke Opportunities',
                         link: '/2024/08/28_yoke-opportunities'
+                      },
+                      {
+                        text: 'Happy Hands',
+                        link: '/2024/08/29_happy-hands'
                       }
                     ]
                   }
