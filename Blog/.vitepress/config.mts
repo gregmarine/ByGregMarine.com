@@ -593,8 +593,8 @@ export default defineConfig({
                         link: '/2024/08/29_happy-hands'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/08/30_'
+                        text: 'Flying Biscuits, Raven Rock, Bowstring',
+                        link: '/2024/08/30_flying-biscuits-raven-rock-bowstring'
                       }
                     ]
                   }
