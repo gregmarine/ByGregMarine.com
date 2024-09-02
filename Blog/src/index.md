@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/09/02_
+      text: Brain Dump
+      link: /2024/09/02_brain-dump
     - theme: alt
       text: Flying Biscuits, Raven Rock, Bowstring
       link: /2024/08/30_flying-biscuits-raven-rock-bowstring

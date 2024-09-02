@@ -603,8 +603,8 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: 'TBD',
-                        link: '/2024/09/02_'
+                        text: 'Brain Dump',
+                        link: '/2024/09/02_brain-dump'
                       }
                     ]
                   }
