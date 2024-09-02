@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/09/02_
+    - theme: alt
       text: Flying Biscuits, Raven Rock, Bowstring
       link: /2024/08/30_flying-biscuits-raven-rock-bowstring
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Thursday at the Outer Banks
       link: /2024/08/27_thursday-at-the-outer-banks
-    - theme: alt
-      text: Okay With Who and Where I am
-      link: /2024/08/26_okay-with-who-and-where-i-am
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

@@ -597,6 +597,16 @@ export default defineConfig({
                         link: '/2024/08/30_flying-biscuits-raven-rock-bowstring'
                       }
                     ]
+                  },
+                  {
+                    text: 'September',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'TBD',
+                        link: '/2024/09/02_'
+                      }
+                    ]
                   }
                 ]
               }
