@@ -88,3 +88,8 @@ I went back again today and one of the owners joked about putting a sign on *my*
 
 They felt bad about something today. One of my recent transactions with them was way off. I noticed it this morning on my bank account. I brought it up today when I went. I overheard them talking about it and it sounded like there was a really long explanation for what happened. I wasn't worried about it at all. I figured it was a mistake that could be corrected. As it turns out, the correction has already been made. But since it is a holiday, the bank doesn't reflect it yet...hehehe I explained that I wasn't concerned whatsoever. I mean, I keep coming back, right?!? And they want to put a sign on *my* chair...LOL So, I tried to ease their mind about the *trouble* because it wasn't any trouble at all. As they began to explain what happened, I was like, no worries...just glad it was something simple.
 
+## Conclusion
+
+As I've reviewed past journal entries, I've seen a few that were as long as this one. As it is a somewhat informal expression of my thoughts, I never do stick to any specific format or length. Sometimes, like in this one, I'll use subheadings throughout to separate individual thoughts. I like that simply because it is easier to search and link throughout.
+
+It was good to get some of this out of my head today. Some days, I just need to write, write, write...hehehe
