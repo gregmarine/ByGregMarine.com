@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/09/03_
+      text: Schedule, Lavender, Fish Tacos
+      link: /2024/09/03_schedule-lavender-fish-tacos
     - theme: alt
       text: Brain Dump
       link: /2024/09/02_brain-dump

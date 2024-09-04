@@ -1,4 +1,4 @@
-# TBD
+# Schedule, Lavender, Fish Tacos
 
 Back to work today...hehehe The day went well. I don't mind holidays in my work schedule. I tend to be able to pick up right where I left off. I do have times when I'm not sure what day of the week it is. But holidays rarely throw me off anymore. I've been mentally aware that today is, in fact, Tuesday...LOL
 
@@ -12,3 +12,6 @@ On my next pass around the pond, the pup saw me coming but her momma was leashin
 
 Once the running was over, I told momma that the puppy was so pretty. She was wearing tiny little pink bows on her ears...hehehe So adorable!!! Momma then told me that puppy's name is Lavender <3 I said that's the scent of my new laundry soap...hehehe I introduced myself and momma replied that her name is Autumn. We agreed it was nice to meet one another and she thanked me for my kindness.
 
+I had fish tacos tonight. I went to Catches to get them. I think they were the same ones I had when I got home from California. They were mid. They top them with shredded cheese. I don't like that. The salsa was very watery. I don't like that either. The flavor of the fish was fantastic though. I loved that...hehehe If I ever order them again, I may make some special requests to have something I like better. Either that, or I need to stop ordering tacos...LOL I'm not a great cook. But I do love to make tacos. So, it's something I'd rather just make at home...hehehe Other than the tacos, I typically love what I get at Catches. It's a great place.
+
+Today was one of those days I couldn't help but smile all day long. I didn't write much today. That's okay. I wrote things I wanted to remember...hehehe

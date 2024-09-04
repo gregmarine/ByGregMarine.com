@@ -607,8 +607,8 @@ export default defineConfig({
                         link: '/2024/09/02_brain-dump'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/09/03_'
+                        text: 'Schedule, Lavender, Fish Tacos',
+                        link: '/2024/09/03_schedule-lavender-fish-tacos'
                       }
                     ]
                   }
