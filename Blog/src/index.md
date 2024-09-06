@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Creative Focus and Zen Chow Mein
+      link: /2024/09/05_creative-focus-and-zen-chow-mein
+    - theme: alt
       text: Schedule, Lavender, Fish Tacos
       link: /2024/09/03_schedule-lavender-fish-tacos
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Happy Hands
       link: /2024/08/29_happy-hands
-    - theme: alt
-      text: Yoke Opportunities
-      link: /2024/08/28_yoke-opportunities
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

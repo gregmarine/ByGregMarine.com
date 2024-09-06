@@ -609,6 +609,10 @@ export default defineConfig({
                       {
                         text: 'Schedule, Lavender, Fish Tacos',
                         link: '/2024/09/03_schedule-lavender-fish-tacos'
+                      },
+                      {
+                        text: 'Creative Focus and Zen Chow Mein',
+                        link: '/2024/09/05_creative-focus-and-zen-chow-mein'
                       }
                     ]
                   }
