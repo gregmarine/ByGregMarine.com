@@ -611,8 +611,8 @@ export default defineConfig({
                         link: '/2024/09/03_schedule-lavender-fish-tacos'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/09/05_'
+                        text: 'Creative Focus and Zen Chow Mein',
+                        link: '/2024/09/05_creative-focus-and-zen-chow-mein'
                       }
                     ]
                   }
