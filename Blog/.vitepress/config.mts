@@ -613,6 +613,10 @@ export default defineConfig({
                       {
                         text: 'Creative Focus and Zen Chow Mein',
                         link: '/2024/09/05_creative-focus-and-zen-chow-mein'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/09/07_'
                       }
                     ]
                   }
