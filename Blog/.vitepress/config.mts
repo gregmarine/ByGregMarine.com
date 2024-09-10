@@ -613,6 +613,10 @@ export default defineConfig({
                       {
                         text: 'Creative Focus and Zen Chow Mein',
                         link: '/2024/09/05_creative-focus-and-zen-chow-mein'
+                      },
+                      {
+                        text: 'Thinking Through Writing',
+                        link: '/2024/09/09_thinking-through-writing'
                       }
                     ]
                   }
