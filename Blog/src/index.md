@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/09/07_
+      text: Thinking Through Writing
+      link: /2024/09/09_thinking-through-writing
     - theme: alt
       text: Creative Focus and Zen Chow Mein
       link: /2024/09/05_creative-focus-and-zen-chow-mein
