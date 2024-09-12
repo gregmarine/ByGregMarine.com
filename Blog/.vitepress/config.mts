@@ -617,6 +617,10 @@ export default defineConfig({
                       {
                         text: 'Thinking Through Writing',
                         link: '/2024/09/09_thinking-through-writing'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/09/11_'
                       }
                     ]
                   }
