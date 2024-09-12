@@ -619,8 +619,8 @@ export default defineConfig({
                         link: '/2024/09/09_thinking-through-writing'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/09/11_'
+                        text: 'Great Big Beautiful Tomorrow',
+                        link: '/2024/09/11_great-big-beautiful-tomorrow'
                       }
                     ]
                   }
