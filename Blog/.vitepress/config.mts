@@ -621,6 +621,10 @@ export default defineConfig({
                       {
                         text: 'Great Big Beautiful Tomorrow',
                         link: '/2024/09/11_great-big-beautiful-tomorrow'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/09/12_'
                       }
                     ]
                   }

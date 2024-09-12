@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/09/12_
+    - theme: alt
       text: Great Big Beautiful Tomorrow
       link: /2024/09/11_great-big-beautiful-tomorrow
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Schedule, Lavender, Fish Tacos
       link: /2024/09/03_schedule-lavender-fish-tacos
-    - theme: alt
-      text: Brain Dump
-      link: /2024/09/02_brain-dump
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
