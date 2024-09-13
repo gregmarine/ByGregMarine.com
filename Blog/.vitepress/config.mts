@@ -623,8 +623,8 @@ export default defineConfig({
                         link: '/2024/09/11_great-big-beautiful-tomorrow'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/09/12_'
+                        text: 'A Blessed Day',
+                        link: '/2024/09/12_a-blessed-day'
                       }
                     ]
                   }

@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/09/12_
+      text: A Blessed Day
+      link: /2024/09/12_a-blessed-day
     - theme: alt
       text: Great Big Beautiful Tomorrow
       link: /2024/09/11_great-big-beautiful-tomorrow

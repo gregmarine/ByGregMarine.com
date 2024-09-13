@@ -1,4 +1,4 @@
-# TBD
+# A Blessed Day
 
 ## 9:00am
 
@@ -32,7 +32,7 @@ I finally got around to posting some of my Duke Gardens photos on Instagram...LO
 
 A little bit ago, I decided I would focus more on my photography with Instagram. That was the main reason I joined that platform years ago anyway. I still post Vitamin G when I'm inspired to post those. But any photography specific posts will only be on Instagram. I still post photos on other platforms. But the photos aren't the point on those posts. On Instagram, I'm telling part of my story as seen through my lens <3
 
-## 01:30pm
+## 1:30pm
 
 I booked my flights for my November trip to California. I'll be arriving on November 2nd and come home on November 10th. The main reason for this trip is to go to Disneyland with Cherie on the 8th. But I also decided to make a week of the trip. I may stay in an AirBnb this time. I'll be working Monday through Thursday that week. I'll be finished with work by 2 or 3pm Pacific time. So, I'll have plenty of time to do various activities in the evenings those days. It gives me a little taste of what it will be like living in California while working for my company based in Missouri.
 
@@ -94,3 +94,12 @@ I am so glad I came tonight. I did so many things in such a short amount of time
 
 Now it's time to say goodbye...to all our company...M-I-C...see you real soon! K-E-Y...why? Because I love this place...hehehe
 
+## 12:15am
+
+The day has come to an end. It's technically the next day now. But that's how my schedule works. I go to sleep and wake on the same day most days...hehehe I made it home safely and now I'm wrapping up this journal entry.
+
+It was such an amazing day. I'm grateful for the journey God allowed me to go on throughout the day. And I'm grateful I wrote about most of it in this timestamp format. None of the day was planned. It just all sort of happened. I love days like this...hehehe
+
+Those first few hours before I started my journal were spent with God. Even when I do things like record warm hugs and such, I feel like I'm still in communion with God. The warm hugs often come with a prayer. I bring along my loved ones in my heart as I'm praying.
+
+Then the rest of the day is documented throughout this entry. It is a tad long today. But so was the day. A lot happened. Honestly, though, the one thing I cannot really put into words is how well I feel today. I did mention I felt well and even posted it on my socials. Deep down, there is more to it than those simple words. It was truly a blessed day <3
