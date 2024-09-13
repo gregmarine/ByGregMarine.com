@@ -625,6 +625,10 @@ export default defineConfig({
                       {
                         text: 'A Blessed Day',
                         link: '/2024/09/12_a-blessed-day'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/09/13_'
                       }
                     ]
                   }
