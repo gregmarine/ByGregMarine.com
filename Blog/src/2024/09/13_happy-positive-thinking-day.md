@@ -1,4 +1,4 @@
-# TBD
+# Happy Positive Thinking Day
 
 ## 8:00am
 
@@ -86,3 +86,10 @@ I'm watching the Dodgers game. It's one of the Friday MLB games this week on App
 
 A few days ago, I reached out to one of my cousins in Southern California to see about visiting with her while I'm there in November. I still haven't heard back yet...LOL I hope to visit. But I'm okay if it doesn't work out. I'd like to think we'd hangout if I live close to her. But I haven't visited with my cousins here in Florida...LOL I wasn't able to visit with my cousin in North Carolina either. I always find it interesting that a lot of the family I grew up with are now scattered all over and we never see each other anymore. We were so close when we were all younger...hehehe That said, my cousin in California isn't someone I grew up with. She's always lived there as far as I know. I only saw that part of my family at a few reunions.
 
+## 9:30pm
+
+These timestamp entries seem to be longer...LOL Thinking about stuff and then journaling throughout the day lends itself to babbling...LOL Is that okay? Yeah, it's my journal...but if it is nonsense, it becomes less okay...hehehe I have no idea if it is nonsense, though. I don't reread the entire entry when I do this. I do my best to proofread each time slot as I go. But that's it.
+
+When I write in other formats, I do end up rereading the whole thing. I still miss typos and whatnot. But I try to see that it all makes sense at least...hehehe One of my friends who blogs professionally gave me an idea. He uses Apple Safari's text to speech feature to have his posts read aloud. He says that catches a lot of typos and ensures it reads/sounds well enough to publish. I may start using that feature myself and see if that improves my writing. I should definitely do that for anything I want to put out into the world formally...such as books.
+
+I think I'm going to call this entry finished. I still have some time left in my day. But I'm ready to be done with this for the day...LOL
