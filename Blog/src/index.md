@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/09/14_
+    - theme: alt
       text: Happy Positive Thinking Day
       link: /2024/09/13_happy-positive-thinking-day
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Thinking Through Writing
       link: /2024/09/09_thinking-through-writing
-    - theme: alt
-      text: Creative Focus and Zen Chow Mein
-      link: /2024/09/05_creative-focus-and-zen-chow-mein
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
