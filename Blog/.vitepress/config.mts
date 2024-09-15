@@ -629,6 +629,10 @@ export default defineConfig({
                       {
                         text: 'Happy Positive Thinking Day',
                         link: '/2024/09/13_happy-positive-thinking-day'
+                      },
+                      {
+                        text: 'I\'ve Been',
+                        link: '/2024/09/14_i-ve-been'
                       }
                     ]
                   }
