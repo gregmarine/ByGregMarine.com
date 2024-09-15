@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/09/14_
+      text: I've Been
+      link: /2024/09/14_i-ve-been
     - theme: alt
       text: Happy Positive Thinking Day
       link: /2024/09/13_happy-positive-thinking-day

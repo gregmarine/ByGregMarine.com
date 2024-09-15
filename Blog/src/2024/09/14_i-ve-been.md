@@ -1,4 +1,4 @@
-# TBD
+# I've Been <3
 
 Happy Saturday!!! And welcome to another day with meeeeeee....LOL I'm not going to do a timestamp entry today. But I'll likely journal throughout the day anyway. When I do a timestamp entry, I try to say what I want to say within 15-20 minutes of time. The time I put down is the start time of that interval, rounded to the nearest five. I don't do this conscientiously really. It just sort of happens and is an observation. Today, I wanted to just try journaling all day without thinking about the time...hehehe
 
@@ -52,8 +52,8 @@ I have those sort of projects from time to time. The painting I did titled *Suns
 
 Of course, I'm not speaking in the literal since. These works are inanimate...LOL I just like to think of them as being alive...hehehe It's a fun way to experience being a creator.
 
-I've reached a moment in my day where I still have a lot to say, but my thoughts aren't truly coming together. I think I'm going to call it a day on this journal entry. In the same fashion as a timestamp entry, I haven't gone back through the whole thing. I hope most of it makes sense. The only different between today's and other timestamp entries is that this one isn't timestamped...LOL
+I've reached a moment in my day where I still have a lot to say, but my thoughts aren't truly coming together. I think I'm going to call it a day on this journal entry. In the same fashion as a timestamp entry, I haven't gone back through the whole thing. I hope most of it makes sense. The only difference between today's and other timestamp entries is that this one isn't timestamped...LOL
 
-I love to journal <3 I'm so sorry if there are day in this journal that don't make much sense. Sometimes I have incomplete thoughts. Other times the thoughts are so deep, even I don't know where I was going...LOL
+I love to journal <3 I'm so sorry if there are days in this journal that don't make much sense. Sometimes I have incomplete thoughts. Other times the thoughts are so deep, even I don't know where I was going...LOL
 
 I'll end today with a note: I've had a great few days lately. I've been deep in prayer. I've been deep in thought. I've been experiencing life. I've been working. I've been resting. I've been dreaming. I've been hoping. I've...been <3
