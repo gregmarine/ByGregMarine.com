@@ -633,6 +633,10 @@ export default defineConfig({
                       {
                         text: 'I\'ve Been',
                         link: '/2024/09/14_i-ve-been'
+                      },
+                      {
+                        text: 'Grateful',
+                        link: '/2024/09/15_grateful'
                       }
                     ]
                   }
