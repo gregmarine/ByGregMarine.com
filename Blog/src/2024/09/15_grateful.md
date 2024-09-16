@@ -1,4 +1,4 @@
-# TBD
+# Grateful
 
 The world tells me to do what feels good. It says that it's okay to put me first. It encourages me to do as much as I can because *you only live once (YOLO)*. That sounds pretty good, right?!?
 
@@ -39,3 +39,5 @@ I received my copy of *The Chosen* season one Bible study guide yesterday. It lo
 It seems only natural to transition over to the Bible study. It is going to be so great diving deeper into the Word itself. This one will take us through the connections between Jesus and the Old Testament. The format for this one isn't daily. This one will be more of a weekly thing. We will independently watch an episode each week, do the lesson in the study guide related to that episode, and then discuss it on our weekend calls.
 
 There are currently four of these study guides to go along with the four seasons currently available. I believe they plan to do them for the future seasons as well. This first one has a total of nine lessons. The first one is an introduction. The other eight align with the eight episodes of season one of *The Chosen*. As a result, it will take us nine weeks to go through this guide. Assuming all four seasons are the same, we'll be working through these up until about the time season five comes out next year...LOL That sounds perfect, doesn't it?..hehehe
+
+Well, I'd better call it a night. I still have some winding down to do before I take my shower and go to bed. Today was another great day. That makes four great days in a row, I believe. My day was already going swell. But being able to see Cherie truly took this day to a whole other level of great <3

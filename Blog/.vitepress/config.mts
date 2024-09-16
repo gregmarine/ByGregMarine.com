@@ -635,8 +635,8 @@ export default defineConfig({
                         link: '/2024/09/14_i-ve-been'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/09/15_'
+                        text: 'Grateful',
+                        link: '/2024/09/15_grateful'
                       }
                     ]
                   }
