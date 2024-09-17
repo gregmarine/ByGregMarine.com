@@ -637,6 +637,10 @@ export default defineConfig({
                       {
                         text: 'Grateful',
                         link: '/2024/09/15_grateful'
+                      },
+                      {
+                        text: 'Storing Goodness and Managing Changes',
+                        link: '/2024/09/16_storing-goodness-and-managing-changes'
                       }
                     ]
                   }
