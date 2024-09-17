@@ -641,6 +641,10 @@ export default defineConfig({
                       {
                         text: 'Storing Goodness and Managing Changes',
                         link: '/2024/09/16_storing-goodness-and-managing-changes'
+                      },
+                      {
+                        text: 'Don\'t Worry',
+                        link: '/2024/09/17_dont-worry'
                       }
                     ]
                   }
