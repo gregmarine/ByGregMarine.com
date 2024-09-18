@@ -645,6 +645,10 @@ export default defineConfig({
                       {
                         text: 'Journal Entry, Take Two',
                         link: '/2024/09/17_journal-entry-take-two'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/09/18_'
                       }
                     ]
                   }
