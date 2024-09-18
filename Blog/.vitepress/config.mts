@@ -643,8 +643,8 @@ export default defineConfig({
                         link: '/2024/09/16_storing-goodness-and-managing-changes'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/09/17_'
+                        text: 'Journal Entry, Take Two',
+                        link: '/2024/09/17_journal-entry-take-two'
                       }
                     ]
                   }

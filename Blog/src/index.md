@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/09/17_
+      text: Journal Entry, Take Two
+      link: /2024/09/17_journal-entry-take-two
     - theme: alt
       text: Storing Goodness and Managing Changes
       link: /2024/09/16_storing-goodness-and-managing-changes
