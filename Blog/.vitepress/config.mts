@@ -647,8 +647,8 @@ export default defineConfig({
                         link: '/2024/09/17_journal-entry-take-two'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/09/18_'
+                        text: 'Half Birthday, Growth, God Provides',
+                        link: '/2024/09/18_half-birthday-growth-god-provides'
                       }
                     ]
                   }

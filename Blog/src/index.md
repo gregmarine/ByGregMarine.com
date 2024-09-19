@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/09/18_
+      text: Half Birthday, Growth, God Provides
+      link: /2024/09/18_half-birthday-growth-god-provides
     - theme: alt
       text: Journal Entry, Take Two
       link: /2024/09/17_journal-entry-take-two
