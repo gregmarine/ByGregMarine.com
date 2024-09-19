@@ -649,6 +649,10 @@ export default defineConfig({
                       {
                         text: 'Half Birthday, Growth, God Provides',
                         link: '/2024/09/18_half-birthday-growth-god-provides'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/09/19_'
                       }
                     ]
                   }
