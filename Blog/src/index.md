@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Half Birthday, Growth, God Provides
+      link: /2024/09/18_half-birthday-growth-god-provides
+    - theme: alt
       text: Journal Entry, Take Two
       link: /2024/09/17_journal-entry-take-two
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: I've Been
       link: /2024/09/14_i-ve-been
-    - theme: alt
-      text: Happy Positive Thinking Day
-      link: /2024/09/13_happy-positive-thinking-day
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
