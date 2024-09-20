@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Food Fail/Win, Ohtani, Audio Messages, Tomorrow
+      link: /2024/09/19_food-fail-win-ohtani-audio-messages-tomorrow
+    - theme: alt
       text: Half Birthday, Growth, God Provides
       link: /2024/09/18_half-birthday-growth-god-provides
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Grateful
       link: /2024/09/15_grateful
-    - theme: alt
-      text: I've Been
-      link: /2024/09/14_i-ve-been
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
