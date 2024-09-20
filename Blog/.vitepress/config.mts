@@ -651,8 +651,8 @@ export default defineConfig({
                         link: '/2024/09/18_half-birthday-growth-god-provides'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/09/19_'
+                        text: 'Food Fail/Win, Ohtani, Audio Messages, Tomorrow',
+                        link: '/2024/09/19_food-fail-win-ohtani-audio-messages-tomorrow'
                       }
                     ]
                   }

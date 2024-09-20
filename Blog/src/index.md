@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/09/19_
+      text: Food Fail/Win, Ohtani, Audio Messages, Tomorrow
+      link: /2024/09/19_food-fail-win-ohtani-audio-messages-tomorrow
     - theme: alt
       text: Half Birthday, Growth, God Provides
       link: /2024/09/18_half-birthday-growth-god-provides
