@@ -653,6 +653,10 @@ export default defineConfig({
                       {
                         text: 'Food Fail/Win, Ohtani, Audio Messages, Tomorrow',
                         link: '/2024/09/19_food-fail-win-ohtani-audio-messages-tomorrow'
+                      },
+                      {
+                        text: 'Happy Birthday, Timmy!',
+                        link: '/2024/09/20_happy-birthday-timmy'
                       }
                     ]
                   }
