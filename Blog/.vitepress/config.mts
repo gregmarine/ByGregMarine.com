@@ -659,8 +659,8 @@ export default defineConfig({
                         link: '/2024/09/20_happy-birthday-timmy'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/09/22_'
+                        text: 'Church, Self Respect, Listening',
+                        link: '/2024/09/22_church-self-respect-listening'
                       }
                     ]
                   }

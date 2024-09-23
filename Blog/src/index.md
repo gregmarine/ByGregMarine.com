@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/09/22_
+      text: Church, Self Respect, Listening
+      link: /2024/09/22_church-self-respect-listening
     - theme: alt
       text: Happy Birthday, Timmy!
       link: /2024/09/20_happy-birthday-timmy
