@@ -661,6 +661,10 @@ export default defineConfig({
                       {
                         text: 'Church, Self Respect, Listening',
                         link: '/2024/09/22_church-self-respect-listening'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/09/24_'
                       }
                     ]
                   }
