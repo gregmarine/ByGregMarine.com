@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/09/24_
+      text: Showing Jesus, Storm, Parents Visiting
+      link: /2024/09/24_showing-jesus-storm-parents-visiting
     - theme: alt
       text: Church, Self Respect, Listening
       link: /2024/09/22_church-self-respect-listening

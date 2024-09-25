@@ -663,8 +663,8 @@ export default defineConfig({
                         link: '/2024/09/22_church-self-respect-listening'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/09/24_'
+                        text: 'Showing Jesus, Storm, Parents Visiting',
+                        link: '/2024/09/24_showing-jesus-storm-parents-visiting'
                       }
                     ]
                   }
