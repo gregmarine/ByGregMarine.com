@@ -661,6 +661,10 @@ export default defineConfig({
                       {
                         text: 'Church, Self Respect, Listening',
                         link: '/2024/09/22_church-self-respect-listening'
+                      },
+                      {
+                        text: 'Showing Jesus, Storm, Parents Visiting',
+                        link: '/2024/09/24_showing-jesus-storm-parents-visiting'
                       }
                     ]
                   }
