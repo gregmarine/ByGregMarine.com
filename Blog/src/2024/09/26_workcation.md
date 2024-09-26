@@ -36,3 +36,5 @@ It's 3:30pm now and a big gust of wind and lots of rain are hitting...hehehe It'
 
 3:35pm now and the rain stopped and the sun is shining again...LOL I'm watching some live coverage of the hurricane as focused on the west coast of Florida. Right now they are talking about near where I live...hehehe They are talking about it being close to a category 4 hurricane. Landfall is about 5 or 6 hours from now...
 
+I've been productive again this afternoon. Tracking the storm has been nice. I'm glad to be safe and sound. I've been keeping in contact with folks back home. All is still well there at 5pm. Praise the Lord!
+
