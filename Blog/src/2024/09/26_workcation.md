@@ -34,3 +34,5 @@ Tonight, I have plans to see Mack. I'm looking forward to seeing him. Weather pe
 
 It's 3:30pm now and a big gust of wind and lots of rain are hitting...hehehe It's so weird to see the rain going at an extreme angle or even sometimes straight sideways...LOL
 
+3:35pm now and the rain stopped and the sun is shining again...LOL I'm watching some live coverage of the hurricane as focused on the west coast of Florida. Right now they are talking about near where I live...hehehe They are talking about it being close to a category 4 hurricane. Landfall is about 5 or 6 hours from now...
+
