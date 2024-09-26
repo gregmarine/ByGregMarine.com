@@ -665,6 +665,10 @@ export default defineConfig({
                       {
                         text: 'Showing Jesus, Storm, Parents Visiting',
                         link: '/2024/09/24_showing-jesus-storm-parents-visiting'
+                      },
+                      {
+                        text: 'Calm Before the Storm',
+                        link: '/2024/09/25_calm-before-the-storm'
                       }
                     ]
                   }
