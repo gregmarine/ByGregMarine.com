@@ -6,3 +6,5 @@ The room's coffee maker makes horrible coffee. So I made a quick trip to the foo
 
 My workload is actually pretty light right now. Other people on my team seem to have heavier workloads than I do. However, they aren't the sort of tasks that can be shared with the likes of me. So, I'll just stick to my tasks and do my best not to worry about how others are doing on my team.
 
+It's raining pretty heavy at the moment (9:45am). But the wind isn't bad. So, it seems like the typical rain shower for here. That said, it is definitely one of the bands of rain from the hurricane. I love watching the rain. I have the curtain opened to watch it...hehehe Unfortunately, people keep walking by and looking in...LOL When I walk by a hotel room's window, I look straight ahead. I don't want to look inside rooms...LOL
+
