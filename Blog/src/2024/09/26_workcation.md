@@ -38,3 +38,12 @@ It's 3:30pm now and a big gust of wind and lots of rain are hitting...hehehe It'
 
 I've been productive again this afternoon. Tracking the storm has been nice. I'm glad to be safe and sound. I've been keeping in contact with folks back home. All is still well there at 5pm. Praise the Lord!
 
+I had a lovely dinner with Mack. We went to Sanaa at Animal Kingdom Lodge. We had their famous bread service. I had a seafood entrée. It was good to see Mack tonight. He had some things he needed to talk about. I'll also get to see him on Saturday. But that will be at Magic Kingdom for some magical fun...hehehe No deep conversations there.
+
+While I was at dinner, the hurricane was upgraded to a category 4. It's on its way to a category 5. But it doesn't appear it will quite get there. However, this one is powerful enough and going fast enough to remain a hurricane well into Georgia! Wow! They are saying it will still be a category 2 hurricane almost up to Atlanta. This one is a storm for the record books.
+
+I've been in contact with some neighbors. They are doing well. Power remains on and there wasn't any flooding. My heart is so happy that everyone is safe back home.
+
+I'll be working from Disney again tomorrow. I'll also be switching hotels. I may go to EPCOT between hotels. I'll take my laptop with me so I can work from EPCOT if I need to. There is a gap between my checkout time from the current hotel and the check-in time for the next. This, of course, depends on the weather. If it is raining, I'll see if I can find a spot at the second hotel to work from until my room is ready...hehehe
+
+This workcation has been an interesting experience. I stayed on top of the storm as if I was at home. I worked from a hotel room. And I enjoyed some time at a theme park. Experiencing God moments throughout this adventure has given me a lot to think and pray about too.
