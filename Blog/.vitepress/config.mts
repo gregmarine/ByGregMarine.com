@@ -669,6 +669,10 @@ export default defineConfig({
                       {
                         text: 'Calm Before the Storm',
                         link: '/2024/09/25_calm-before-the-storm'
+                      },
+                      {
+                        text: 'Workcation',
+                        link: '/2024/09/26_workcation'
                       }
                     ]
                   }
