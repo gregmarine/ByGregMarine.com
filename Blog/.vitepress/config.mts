@@ -673,6 +673,10 @@ export default defineConfig({
                       {
                         text: 'Workcation',
                         link: '/2024/09/26_workcation'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/09/27_'
                       }
                     ]
                   }
