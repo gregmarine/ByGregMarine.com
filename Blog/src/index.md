@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Good Day, But Goodnight
+      link: /2024/09/27_good-day-but-goodnight
+    - theme: alt
       text: Workcation
       link: /2024/09/26_workcation
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Church, Self Respect, Listening
       link: /2024/09/22_church-self-respect-listening
-    - theme: alt
-      text: Happy Birthday, Timmy!
-      link: /2024/09/20_happy-birthday-timmy
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
