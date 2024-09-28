@@ -1,4 +1,4 @@
-# TBD
+# Good Day, But Goodnight
 
 Wow! I just realized I've been writing a lot this month...LOL I haven't written this often since January. The few months prior to September were my least active months so far in this journal, I think. But this month, I seem to have a lot to say...hehehe
 
@@ -16,3 +16,10 @@ I've completed a few more tasks for work. I'm just wrapping up a few loose ends 
 
 I laid down for what I thought would be a 30 min nap. I ended up out for a little over an hour...LOL I guess I really needed the rest...hehehe A 20-30 min nap is typically all I need. Now I'm trying to decide what I'll be doing for the evening. I'm thinking about going to Hollywood Studios for part of the evening. I may also end up at EPCOT again. We shall see!
 
+I did end up going to Hollywood Studios and EPCOT. At Studios, I rode Star Tours and Rise of the Resistance. I wanted to ride Mickey and Minnie's Runaway Railway, but the line was a tad long. After Rise, I went to EPCOT to eat some festival food before heading back to the hotel. It was far more busy this evening than it was during the day. Oh well...LOL At least I got in a few rides and some food...hehehe
+
+I wasn't sure I would post this tonight. When I got back to the hotel, I ended up writing a lengthy email to explain some things from today's devotional journal. I haven't sent it yet because I'm getting tired. I want to give it the full attention Cherie deserves from our fellowship. I realize my journal entries with that have been a bit off lately. It seemed like I was holding back. Maybe that is part of it. But I think the main issue is that I know more about what I mean in the words I do write than she can. What I've written seems quite deep to me. But I know what I'm thinking when I write...LOL I think I prefer the times we do it face-to-face instead. We discuss it all during those times. She can always ask me questions to get clarity from what I say. That isn't as easy the other days of the week when we just share our handwritten entries. Today's sparked great questions that I wanted to clarify...hence the lengthy email I'll send to her tomorrow after a good night's sleep...hehehe
+
+Anyway, I'm going to cut this off early. I'm going to go ahead and publish because this is just my own little thinking journal. It doesn't need the same attention. I sometimes don't publish because thoughts aren't finished. Today's, well, the thoughts I did already write were finished...LOL Even if I have more to say, it is about different topics that can wait for another day...hehehe
+
+It was a good day...but for now, I'll bid thee a goodnight...hehehe

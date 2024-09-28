@@ -675,7 +675,7 @@ export default defineConfig({
                         link: '/2024/09/26_workcation'
                       },
                       {
-                        text: 'TBD',
+                        text: 'Good Day, But Goodnight',
                         link: '/2024/09/27_'
                       }
                     ]
