@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Good Day, But Goodnight
-      link: /2024/09/27_
+      link: /2024/09/27_good-day-but-goodnight
     - theme: alt
       text: Workcation
       link: /2024/09/26_workcation
