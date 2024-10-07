@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/06_
+      text: Important Week
+      link: /2024/10/06_important-week
     - theme: alt
       text: Good Day, But Goodnight
       link: /2024/09/27_good-day-but-goodnight
