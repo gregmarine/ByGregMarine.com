@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Important Week
+      link: /2024/10/06_important-week
+    - theme: alt
       text: Good Day, But Goodnight
       link: /2024/09/27_good-day-but-goodnight
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Showing Jesus, Storm, Parents Visiting
       link: /2024/09/24_showing-jesus-storm-parents-visiting
-    - theme: alt
-      text: Church, Self Respect, Listening
-      link: /2024/09/22_church-self-respect-listening
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

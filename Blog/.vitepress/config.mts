@@ -679,6 +679,16 @@ export default defineConfig({
                         link: '/2024/09/27_good-day-but-goodnight'
                       }
                     ]
+                  },
+                  {
+                    text: 'October',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'Important Week',
+                        link: '/2024/10/06_important-week'
+                      }
+                    ]
                   }
                 ]
               }
