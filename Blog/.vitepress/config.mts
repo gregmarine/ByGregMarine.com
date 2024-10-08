@@ -687,6 +687,10 @@ export default defineConfig({
                       {
                         text: 'Important Week',
                         link: '/2024/10/06_important-week'
+                      },
+                      {
+                        text: 'Fingerprints of God',
+                        link: '/2024/10/07_fingerprints-of-god'
                       }
                     ]
                   }
