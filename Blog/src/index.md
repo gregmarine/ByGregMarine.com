@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/07_
+      text: Fingerprints of God
+      link: /2024/10/07_fingerprints-of-god
     - theme: alt
       text: Important Week
       link: /2024/10/06_important-week

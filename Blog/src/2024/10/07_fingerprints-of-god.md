@@ -1,4 +1,4 @@
-# TBD
+# Fingerprints of God
 
 This is week three of a complete disruption of my routine...LOL Two weeks ago, a hurricane was coming through. I ended up at Disney for three days. I worked two of those days from a few hotels. I felt a little displaced. But it was a great time and God led me to some amazing things. Last week, my parents were here. So, once again, my routine was way off. I had such a great time with my parents and I was able to see my sister several times as well. This week, it's another hurricane...LOL
 
@@ -16,3 +16,16 @@ When I woke for the day, I was singing *Waymaker* as sung by HighPointe Worship.
 
 The storm coming is pretty strong at the moment. It is suppose to weaken as it approaches in the next few days. It is still too early to tell where it will actually make landfall. But as of now, the *cone* of probability covers a large portion of the west coast of Florida. I have peace about my area and have decided I will remain at home for this storm. I spoke with several of my neighbors today that I have already met and they have also decided to remain at home. I was able to meet a few of my other neighbors today as well who also indicated they plan to remain.
 
+One of those new (to me) neighbors decided to spend some extra time with me today...hehehe Her name is Valerie. I've seen her a few times before as I was walking. One of the things I had admired about her was her hat. It is such a lovely hat and I'm glad I finally had the opportunity to tell her how I loved it. Funny thing, though, she wasn't wearing it tonight when I introduced myself...LOL
+
+I had seen her earlier today, while she was actually wearing the hat, and I said hello to her and asked how she was doing. We were walking in opposite directions. But neither of us stopped to have an actual conversation. I was thinking about introducing myself to her the next time we passed each other on our separate walks. But when I got back around, she was already talking with someone else near the Bark Park. So, I didn't want to interrupt them and kept on walking. It felt like I had missed an opportunity. But I also prayed that if I was to ever strike up a conversation with her, God would provide another opportunity someday...hehehe
+
+This evening, I met up with Autumn and Maddi at the Bark Park where their dog, Lavender, could play. As we were wrapping up our fellowship there, Valerie was approaching. That's when I told her how I loved her hat...hehehe She thanked me and then made a comment about how we were leaving just as she was coming over to talk with us...hehehe I introduced myself and asked if I could take a walk with her. She happily accepted and we ended up walking for a mile. We had a lovely conversation on our walk. She made a comment about stopping to talk with someone earlier at the Bark Park since she recognized me from my earlier walk. Apparently she had noticed I saw her talking with that other person...hehehe I was blessed that she remembered me...hehehe
+
+As we were talking, she told me she wanted to give me her phone number so we could keep in touch and take walks again. We talked about a lot of subjects from what we did for a living, what we like to eat, having a relationship with God, and what we do in our free time. At the end of our walk, we exchanged our phone numbers. I also asked her what I could pray about for her. It all felt like an answer to prayer for both of us. We are both looking to make friends. I mentioned this interaction to Autumn and we both agreed it would be great to invite Valerie to join us for one of our Bark Park fellowship times. I'm looking forward to seeing if another friendship has been born. Again, an answer to prayer! Just like Autumn and Maddi have been.
+
+These new friendships remind me of how my friendship with Cherie began. And now our friendship has blossomed into a true friendship. Could these new friendships blossom into true friendships as well? I hope so <3
+
+Dreams, prayers, routine disruptions, storms, friendships...whatever has God's fingerprints, I am grateful. This has been one of those days when I could clearly see God's fingerprints. I pray that I always remember days like today. I never want to lose that awe and wonderful of God's providence.
+
+Side note: one of my old friends from back in Indiana checked in on me today...actually several friends checked in about the storm...But this particular friend called the hurricane a *Big Sky Water Donut* HAHAHA
