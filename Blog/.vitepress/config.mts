@@ -695,6 +695,10 @@ export default defineConfig({
                       {
                         text: 'New Friends, Fellowship, and Milton Berle',
                         link: '/2024/10/08_new-friends-fellowship-and-milton-berle'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/10/09_'
                       }
                     ]
                   }
