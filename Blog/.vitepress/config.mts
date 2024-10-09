@@ -693,8 +693,8 @@ export default defineConfig({
                         link: '/2024/10/07_fingerprints-of-god'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/10/08_'
+                        text: 'New Friends, Fellowship, and Milton Berle',
+                        link: '/2024/10/08_new-friends-fellowship-and-milton-berle'
                       }
                     ]
                   }

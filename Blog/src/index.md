@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/08_
+      text: New Friends, Fellowship, and Milton Berle
+      link: /2024/10/08_new-friends-fellowship-and-milton-berle
     - theme: alt
       text: Fingerprints of God
       link: /2024/10/07_fingerprints-of-god
