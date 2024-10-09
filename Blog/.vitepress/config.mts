@@ -691,6 +691,10 @@ export default defineConfig({
                       {
                         text: 'Fingerprints of God',
                         link: '/2024/10/07_fingerprints-of-god'
+                      },
+                      {
+                        text: 'New Friends, Fellowship, and Milton Berle',
+                        link: '/2024/10/08_new-friends-fellowship-and-milton-berle'
                       }
                     ]
                   }
