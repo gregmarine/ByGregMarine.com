@@ -1,4 +1,4 @@
-# TBD
+# Sophisticated Florida Man
 
 ## 08:30am
 
@@ -52,3 +52,12 @@ On live storm coverage I follow, one of the storm chasers almost ran into someon
 
 I've been in contact with some of my neighbors through this weather event as well. It was nice to be able to go through this with others even though we weren't in the same apartment...hehehe
 
+## 10:05pm
+
+I felt like a sophisticated Florida Man tonight...LOL I was sipping my coffee, while eating a red velvet cake, watching a playoff baseball game...during a hurricane...LOL
+
+Again, my heart breaks for those impacted the most by this storm. It will continue on through most of tomorrow too. The winds may die down. But the rain will keep falling and will cause flooding in places that aren't normally flooded. Those poor people.
+
+Overall, I've had a good day. I'm blessed and God is good!
+
+I'm going to call this journal entry complete...hehehe I'm glad I was able to write today.

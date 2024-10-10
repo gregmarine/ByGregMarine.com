@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/09_
+      text: Sophisticated Florida Man
+      link: /2024/10/09_sophisticated-florida-man
     - theme: alt
       text: New Friends, Fellowship, and Milton Berle
       link: /2024/10/08_new-friends-fellowship-and-milton-berle

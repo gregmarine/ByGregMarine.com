@@ -697,8 +697,8 @@ export default defineConfig({
                         link: '/2024/10/08_new-friends-fellowship-and-milton-berle'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/10/09_'
+                        text: 'Sophisticated Florida Man',
+                        link: '/2024/10/09_sophisticated-florida-man'
                       }
                     ]
                   }
