@@ -699,6 +699,10 @@ export default defineConfig({
                       {
                         text: 'Sophisticated Florida Man',
                         link: '/2024/10/09_sophisticated-florida-man'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/10/10_'
                       }
                     ]
                   }
