@@ -699,6 +699,10 @@ export default defineConfig({
                       {
                         text: 'Sophisticated Florida Man',
                         link: '/2024/10/09_sophisticated-florida-man'
+                      },
+                      {
+                        text: 'I am the Watchman',
+                        link: '/2024/10/14_i-am-the-watchman'
                       }
                     ]
                   }
