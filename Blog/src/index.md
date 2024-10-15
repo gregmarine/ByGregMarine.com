@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/14_
+      text: I am the Watchman
+      link: /2024/10/14_i-am-the-watchman
     - theme: alt
       text: Sophisticated Florida Man
       link: /2024/10/09_sophisticated-florida-man

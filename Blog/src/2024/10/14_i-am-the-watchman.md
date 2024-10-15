@@ -1,4 +1,4 @@
-# TBD
+# I am the Watchman
 
 Happy Monday! A new week! It's also a holiday...LOL I'm not sure which one to celebrate, though. Growing up, this was Columbus Day. I didn't know Columbus personally, but I hear he wasn't a pleasant fellow. So, someone somewhere decided this would be Indigenous Peoples' Day. I'm happy to celebrate Indigenous Peoples. But it is also Canada's Thanksgiving Day...LOL I have Canadian friends and happy to celebrate with them too!
 
@@ -25,3 +25,11 @@ Recovery from the hurricanes is going slowly here. I'm doing really well. But so
 The Dodgers lost tonight. The series is headed to New York next for three games. They are now tied one game to one. The good news is that the series is far from over...hehehe
 
 This week, we are going to be watching episode one of season one for *The Chosen*. We'll be doing a Bible study lesson for the episode. I'm really excited about it. I've seen all of the available episodes already. It is what prompted me to even consider the devotionals we have already done and this Bible study...hehehe I like that I'll be going through the series again with a new outlook on the content. Previously, it was mostly entertainment for me. This time, I'll get to go deeper into the source...the Word of God.
+
+Yesterday, I went through an exercise of writing out *I am* identity statements in an effort to resolve false identities. Autumn is the one who suggested it and we went through it together. I don't think I did it exactly the way she envisioned...hehehe However, it was enlightening to figure out some of the false identities I've felt for years. In the end of the exercise, it circled back to the meaning of my name.
+
+*Gregory* means watchful or alert. If I were to put my name into an *I am* statement, it would go something like *I am the Watchman*. If I were to paint a picture of what that looks like, I'd say I'm standing at the wall of the town keeping the lamps filled with oil. I'm keeping watch at night. When necessary, I call upon the *prayer* warriors to fight back the advancements of the *enemy* as we await the return of our Lord. All of this is figurative, of course.
+
+Tonight, I am making a connection between yesterday's *I am* identity exercise and this week's *The Chosen* episode. Isaiah 43:1 ends with *I have called you by name, you are mine*. God knows my name and He is calling it. I find comfort in that. My true identity is found in Him. It isn't so much that He has a plan for *me*. It's more about how He is including me in *His* plan. I have a purpose in that plan. I am chosen, by Him. He has chosen me as His watchman.
+
+Again, I'm glad I took the day as a holiday. The extra focused prayer time is just what I needed today.
