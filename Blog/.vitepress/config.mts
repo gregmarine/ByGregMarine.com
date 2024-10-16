@@ -703,6 +703,10 @@ export default defineConfig({
                       {
                         text: 'I am the Watchman',
                         link: '/2024/10/14_i-am-the-watchman'
+                      },
+                      {
+                        text: 'So, I was overthinking...',
+                        link: '/2024/10/15_so-i-was-overthinking'
                       }
                     ]
                   }
