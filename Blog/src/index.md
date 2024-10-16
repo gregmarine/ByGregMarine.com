@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/15_
+      text: So, I was overthinking...
+      link: /2024/10/15_so-i-was-overthinking
     - theme: alt
       text: I am the Watchman
       link: /2024/10/14_i-am-the-watchman

@@ -705,8 +705,8 @@ export default defineConfig({
                         link: '/2024/10/14_i-am-the-watchman'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/10/15_'
+                        text: 'So, I was overthinking...',
+                        link: '/2024/10/15_so-i-was-overthinking'
                       }
                     ]
                   }
