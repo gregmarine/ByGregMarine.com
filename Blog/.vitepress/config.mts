@@ -707,6 +707,10 @@ export default defineConfig({
                       {
                         text: 'So, I was overthinking...',
                         link: '/2024/10/15_so-i-was-overthinking'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/10/21_'
                       }
                     ]
                   }
