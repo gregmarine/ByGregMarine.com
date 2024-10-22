@@ -1,4 +1,4 @@
-# TBD
+# Soul Construction Ahead...Proceed with Prayer
 
 ## 07:45am
 
@@ -54,3 +54,18 @@ I also know the answer to the question. I'll know the miracle happened and that 
 
 And there you have it!
 
+## 09:35pm
+
+Final thoughts for the day...hehehe
+
+I didn't call mom and dad last night. After my weekly call with Cherie, I had dinner and rested a bit. I watched the Dodgers game, took a shower, and went to bed...LOL So tonight, I gave them a call. I talked to them about how my routine has been off for a month...hehehe I proceeded to tell them about the hurricanes and their visit...LOL They laughed and joked about how I lumped them in with the hurricanes...LOL So, yeah, I dealt with Hurricanes Helene, *Mike*, *Kathy*, and Milton...LOL j/k We had a good laugh.
+
+Then I explained it was just that I had to work around all of those things, including them, and it has finally caught up with me...hehehe I told them I've given up on trying to find my way back to my routine for now. After all, I'll be in California in less than two weeks. So, what I'm going to do is try to find some balance in my life for right now...hehehe No need for a routine exactly. Just balance <3
+
+Here is a journal exclusive announcement...hehehe I have finally decided I'm growing my hair and beard back! I'm not going to post any selfies for a while as I make the transition. And I'm not telling family just yet. The one person who reads this will know...LOL And the few people I see in person here will obviously notice...LOL But other than those few, I plan to start growing the hair for a few weeks as I go into my California trip.
+
+My beard will be all set by that trip. But my hair won't quite be a thing yet. It will be noticeable. But I'll also be wearing hats in all of those photos. What I plan to eventually do with my hair will take quite awhile, I think. So, it will be months before that really gets going. But the fact I'm growing my hair again will definitely be known in a few weeks.
+
+I'm glad I did this timestamp entry. I think I may do these for a little while. They help me focus my thoughts into manageable chunks. As I mentioned at the beginning of this entry, I've struggled with writing lately. I didn't struggle today...hehehe
+
+Ooh! Also, I'm really enjoying this Bible study we're doing. The videos, the deep dive into the scriptures, the shared notes, and the discussion are such a blessing for me. We are now on week three, or episode two for the season, and it has been drawing me into prayer and deep thought about what God is doing in my life. There is definitely Soul Construction Ahead...Proceed with Prayer!

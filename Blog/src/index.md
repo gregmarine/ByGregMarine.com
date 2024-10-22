@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/21_
+      text: Soul Construction Ahead...Proceed with Prayer
+      link: /2024/10/21_soul-construction-ahead-proceed-with-prayer
     - theme: alt
       text: So, I was overthinking...
       link: /2024/10/15_so-i-was-overthinking
