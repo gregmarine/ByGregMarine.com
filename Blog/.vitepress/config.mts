@@ -707,6 +707,10 @@ export default defineConfig({
                       {
                         text: 'So, I was overthinking...',
                         link: '/2024/10/15_so-i-was-overthinking'
+                      },
+                      {
+                        text: 'Soul Construction Ahead...Proceed with Prayer',
+                        link: '/2024/10/21_soul-construction-ahead-proceed-with-prayer'
                       }
                     ]
                   }
