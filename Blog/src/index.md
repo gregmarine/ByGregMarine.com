@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/22_
+      text: Poor Sleep, Great Day
+      link: /2024/10/22_poor-sleep-great-day
     - theme: alt
       text: Soul Construction Ahead...Proceed with Prayer
       link: /2024/10/21_soul-construction-ahead-proceed-with-prayer

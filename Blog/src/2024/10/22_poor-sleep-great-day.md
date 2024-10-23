@@ -1,4 +1,4 @@
-# TBD
+# Poor Sleep, Great Day
 
 ## 07:30am
 
@@ -66,3 +66,16 @@ She paid me a few kindnesses as we talked. I'm grateful she reached out tonight.
 
 I watched *this week's* episode of *The Chosen* twice last night. Then, I watched it again tonight...hehehe When I sat down to do tonight's session of the Bible lesson, I wasn't expecting to write much just yet. I figured I'd at least answer the *Your Turn* question and perhaps start some notes that I'd later flesh out more. I ended up writing quite a bit and even included a little personal note about Sunday dinners at my parents'. That's one of the many things I love about this Bible study. It triggers some amazing things in my soul. And it keeps getting better. I can't wait to share my notes with Cherie this weekend...hehehe
 
+## 10:05pm
+
+Final thoughts for the day...hehehe
+
+It is so weird...horrible night's sleep...had a great day...LOL Wow...I'm amazed at all God has been doing in my life this year <3
+
+I ran out of trash bags...hehehe I had planned to go to the grocery this past weekend. But that didn't happen. When I pulled out my latest trash to put it out, I remembered that I had run out and should have gotten a new supply in the weekend...oops! So I made a quick trip to get trash bags. I still need to do a proper grocery run, though.
+
+Something else impacted by my lack of a grocery trip is food. I'm back to frequenting Panera Bread this week. I decided to give their breakfast a try for the first time. I've been impressed so far!
+
+I'm hoping for a good night's sleep tonight. But even if I have trouble sleeping again tonight, I know God has given me all that I need to keep moving forward. After all, I used to never have a good night's sleep...LOL
+
+Thank You, Father God, for another day. I look forward to the next one! In Your Name, Amen <3
