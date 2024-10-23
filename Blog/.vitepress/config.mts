@@ -711,6 +711,10 @@ export default defineConfig({
                       {
                         text: 'Soul Construction Ahead...Proceed with Prayer',
                         link: '/2024/10/21_soul-construction-ahead-proceed-with-prayer'
+                      },
+                      {
+                        text: 'Poor Sleep, Great Day',
+                        link: '/2024/10/22_poor-sleep-great-day'
                       }
                     ]
                   }
