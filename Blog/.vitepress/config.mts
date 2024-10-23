@@ -715,6 +715,10 @@ export default defineConfig({
                       {
                         text: 'Poor Sleep, Great Day',
                         link: '/2024/10/22_poor-sleep-great-day'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/10/23_'
                       }
                     ]
                   }

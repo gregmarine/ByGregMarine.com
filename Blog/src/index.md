@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/10/23_
+    - theme: alt
       text: Poor Sleep, Great Day
       link: /2024/10/22_poor-sleep-great-day
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: I am the Watchman
       link: /2024/10/14_i-am-the-watchman
-    - theme: alt
-      text: Sophisticated Florida Man
-      link: /2024/10/09_sophisticated-florida-man
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
