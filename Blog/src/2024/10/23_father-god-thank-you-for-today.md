@@ -1,4 +1,4 @@
-# TBD
+# Father God, thank You for today
 
 ## 07:55am
 
@@ -52,3 +52,14 @@ It was fun thinking and talking about what Cherie and I will be doing. Later ton
 
 *Father God, You are so good to us! Thank You for this deer friendship and all You do for and through us. What will we experience next?*
 
+## 10:30pm
+
+Final thoughts for the day...hehehe
+
+After the walk I had with Valerie, I ended with another visit with Autumn at the Bark Park. It was another opportunity to minister to her. God keeps providing opportunities for us to fellowship. I'll miss our chats after she moves.
+
+I realized today that all of my friends here are moving away at the same time...LOL Autumn, Maddi, Valerie, Jan and Sam are all moving the week I'm in California...hehehe I find that quite interesting...interesting, indeed!
+
+Something else interesting, that satellite church of theChapel that will be down the street from me begins the week I return from my California trip. That's the same week I had intended to begin attending physical church again. I wasn't quite sure where yet. I'll be praying about checking out this new thing that week. Considering all else that I've been experiencing with God lately, I have a strong feeling I should attend this satellite of theChapel <3
+
+*Father God, thank You for today*

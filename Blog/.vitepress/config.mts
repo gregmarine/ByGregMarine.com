@@ -717,8 +717,8 @@ export default defineConfig({
                         link: '/2024/10/22_poor-sleep-great-day'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/10/23_'
+                        text: 'Father God, thank You for today',
+                        link: '/2024/10/23_father-god-thank-you-for-today'
                       }
                     ]
                   }
