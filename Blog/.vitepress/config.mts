@@ -719,6 +719,10 @@ export default defineConfig({
                       {
                         text: 'Father God, thank You for today',
                         link: '/2024/10/23_father-god-thank-you-for-today'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/10/24_'
                       }
                     ]
                   }
