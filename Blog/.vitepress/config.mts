@@ -723,6 +723,10 @@ export default defineConfig({
                       {
                         text: 'Growing Pains and the Unexpected',
                         link: '/2024/10/24_growing-pains-and-the-unexpected'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/10/25_'
                       }
                     ]
                   }
