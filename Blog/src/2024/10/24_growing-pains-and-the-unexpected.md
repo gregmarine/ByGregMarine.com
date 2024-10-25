@@ -1,4 +1,4 @@
-# TBD
+# Growing Pains and the Unexpected
 
 ## 07:45am
 
@@ -60,3 +60,20 @@ On our way back, we ended up getting Panera Bread. When I ordered my sandwich, t
 
 Today's section of the Bible study had a part that I made a connection to from the above (03:05pm) note on inner peace. It was in the *Wellspring of Rest* section of this week's lesson. God's presence is the source for the kind of rest He intends for us. I felt that related to my thoughts on my own inner peace. It is Christ in me that provides the inner peace. Therefore, it is also He who provides my rest. I loved that both the above thought and today's section aligned like that...hehehe There was more to that section and the following *Your Turn* questions, though. I am truly connecting to this Bible study. I love it! I think I'm writing more this week than I did the previous two...LOL
 
+## 10:05pm
+
+Final thoughts for the day...hehehe
+
+Another day without a routine. Another day going with the flow. I'll admit this is a little weird for me. I mean that in a good way. It's weird because I tend to like a routine. Being able to function well without some sort of routine is something new for me. I feel well rested, at peace, and full of hope.
+
+Tomorrow, I plan to work half my day from Zen. I did that last Friday and was able to be more productive than usual. I've had a really productive week ever since. I want to see if I can reproduce the momentum generated from last Friday. If it works, great! If I can't reproduce that, great! This new attitude encourages me to be open to whatever comes my way...hehehe
+
+## 10:30pm
+
+Final thoughts for the day continued...LOL
+
+I had to take a break from writing because I needed to fold my laundry...hehehe
+
+Tonight, I was relating my recent experiences to something I wrote about earlier this year. [Great Expectations](../04/03_great-expectations) and [Great Expectations Revisited](../06/18_so-i-wrote-a-poem#great-expectations-revisited), I wrote about expectations of myself and other people. I won't rehash any of that because you can read about that by visiting those links. But I can apply the principles I learned in those experiences to my expectations with my day-to-day circumstances today. And I can do the same with the big picture circumstances that impact my life most.
+
+In this case, I can't communicate to my life what I expect...LOL But I can change my view of what I expect from my life. Considering my life, and everything in it, is all a gift from God, I can simply stop expecting anything. I can just accept it for what it is and be grateful. But I can also communicate with God about my expectations. If they align with His Will, I imagine He'll bless the expectations? If they do not align with Him, I imagine He'll redirect me? So long as I am praying about what I expect from my life, I'm giving myself a better opportunity to listen to His Voice. Then it will no longer be about expectations. It becomes all about God. I'll want to give more thought to this, I think...

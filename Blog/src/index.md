@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/24_
+      text: Growing Pains and the Unexpected
+      link: /2024/10/24_growing-pains-and-the-unexpected
     - theme: alt
       text: Father God, thank You for today
       link: /2024/10/23_father-god-thank-you-for-today

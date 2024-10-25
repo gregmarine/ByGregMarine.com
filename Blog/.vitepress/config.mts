@@ -721,8 +721,8 @@ export default defineConfig({
                         link: '/2024/10/23_father-god-thank-you-for-today'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/10/24_'
+                        text: 'Growing Pains and the Unexpected',
+                        link: '/2024/10/24_growing-pains-and-the-unexpected'
                       }
                     ]
                   }
