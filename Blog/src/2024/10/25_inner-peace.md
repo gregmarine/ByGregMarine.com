@@ -1,4 +1,4 @@
-# TBD
+# Inner Peace
 
 ## 08:20am
 
@@ -48,3 +48,10 @@ It has been fun following along this year. Sure, it helps that the team I'm foll
 
 I'm not quite ready to write out my final thoughts for the day. But it was a great day. Once the game is over, I'll wrap up this entry...hehehe
 
+## 11:45pm
+
+CHERBOOM!!! DODGERS WIN!!! I jumped to my feet as if it were them winning the entire series...LOL Down by one run, Freeman hit a grand slam to win by three!!! Woohoo!!! One game down...three to go!
+
+Final thoughts for the day...hehehe
+
+I'm going to name this entry *Inner Peace*. I've been thinking about it quite a bit today. I've been doing well not overthinking for almost two weeks now. I've been drawing closer to God when I begin to spiral in thought. As a result, His peace has filled my soul. Having less of my own thoughts, and more of thoughts on Him, has been so freeing this and last week.

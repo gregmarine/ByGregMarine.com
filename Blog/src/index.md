@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/25_
+      text: Inner Peace
+      link: /2024/10/25_inner-peace
     - theme: alt
       text: Growing Pains and the Unexpected
       link: /2024/10/24_growing-pains-and-the-unexpected
