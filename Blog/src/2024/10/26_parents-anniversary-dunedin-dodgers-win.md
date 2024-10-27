@@ -1,6 +1,6 @@
-# TBD
+# Parents Anniversary, Dunedin, Dodgers Win
 
-Today is my parents' 51st wedding anniversary <3 I'm grateful for them beyond words. I haven't always made them proud. And honestly, I'm learning that they want me to live my life how I want it. They had their rules. But they were never controlling in any way. The rules were for their life. If I wanted to be in their life, I followed their rules. Meaning, as long as I was under their roof, I lived by those rules. They taught me many valuable lessons through the process. They weren't perfect parents. But they are my parents. God gave them to me. And he gave me to them.
+Today is my parents' 51st wedding anniversary <3 I'm grateful for them beyond words. I haven't always made them proud. And honestly, I'm learning that they want me to live my life how I want it. They had their rules. But they were never controlling in any way. The rules were for their life. If I wanted to be in their life, I followed their rules. Meaning, as long as I was under their roof, I lived by those rules. They taught me many valuable lessons through the process. They weren't perfect parents. But they are my parents. God gave them to me. And He gave me to them.
 
 I think I make them proud now. I don't always make the decisions they would. But I think they are proud I'm making the decisions with lots of prayer and Godly wisdom. Their pride in me is no longer something I'm chasing after, though. I use to. Not anymore. I've realized my journey is mine to take. They raised me and prepared me the best way they knew how. I've since taken those lessons and now look to God for parental guidance. Guess what?!? They taught me that...hehehe
 
@@ -36,3 +36,4 @@ I shopped for dog toys for a few of the neighbors' dogs. I didn't find anything 
 
 My hair and beard are still growing well. My sister noticed it, of course. My hair is very soft right now. It is past the fuzz stage and looks like a buzz cut mostly. My beard still has a little bit to go to be normal for a beard. But it is close. I'm trying to decide if I'll keep it as a beard or do the VanDyke. I'll decide before my California trip. I'll not do anything else for my hair before my trip. I may not do anything for quite a while, actually. I want to see how thin the hair is now after having shaved my head for four and half years. Then I'll decide what I'll do with it...hehehe
 
+DODGERS WON!!! Woohoo! Two games down! Two to go!

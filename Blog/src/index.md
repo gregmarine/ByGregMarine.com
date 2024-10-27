@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: Inner Peace
-      link: /2024/10/26_
+      text: Parents Anniversary, Dunedin, Dodgers Win
+      link: /2024/10/26_parents-anniversary-dunedin-dodgers-win
     - theme: alt
       text: Inner Peace
       link: /2024/10/25_inner-peace

@@ -729,8 +729,8 @@ export default defineConfig({
                         link: '/2024/10/25_inner-peace'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/10/26_'
+                        text: 'Parents Anniversary, Dunedin, Dodgers Win',
+                        link: '/2024/10/26_parents-anniversary-dunedin-dodgers-win'
                       }
                     ]
                   }
