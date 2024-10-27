@@ -727,6 +727,10 @@ export default defineConfig({
                       {
                         text: 'Inner Peace',
                         link: '/2024/10/25_inner-peace'
+                      },
+                      {
+                        text: 'Parents Anniversary, Dunedin, Dodgers Win',
+                        link: '/2024/10/26_parents-anniversary-dunedin-dodgers-win'
                       }
                     ]
                   }
