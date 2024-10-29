@@ -733,8 +733,8 @@ export default defineConfig({
                         link: '/2024/10/26_parents-anniversary-dunedin-dodgers-win'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/10/28_'
+                        text: 'Friendship Rollercoaster Ride',
+                        link: '/2024/10/28_friendship-rollercoaster-ride'
                       }
                     ]
                   }

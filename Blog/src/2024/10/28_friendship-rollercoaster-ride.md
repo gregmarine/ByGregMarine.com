@@ -1,4 +1,4 @@
-# TBD
+# Friendship Rollercoaster Ride
 
 ## 07:45am
 
@@ -86,3 +86,14 @@ I'd love to find such a place here in Florida. Or some other warmer climate plac
 
 The game is in the top of the 9th now. The Dodgers are ahead 4 to 0 now. Go Dodgers!!!
 
+## 11:45pm
+
+Dodgers win!!! Three down! One to go! Woohoo!!!
+
+Final thoughts for the day...hehehe
+
+Today's was a long entry. If you made it this far, thank you for joining me today. If you didn't, you won't see this...but I still thank you for joining me for as far as you could read today...hehehe
+
+I'm grateful for my time with Valerie tonight. It reminds me how grateful for all my friends. This has been an interesting year for my friendships. It has been a bit of a rollercoaster...LOL Even today was a bit of a rollercoaster ride...
+
+My goal is to become a better friend as my friendships grow. I always want to add to their journeys. I'm going to keep learning along the way and will grow.

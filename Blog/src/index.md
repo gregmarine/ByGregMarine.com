@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/28_
+      text: Friendship Rollercoaster Ride
+      link: /2024/10/28_friendship-rollercoaster-ride
     - theme: alt
       text: Parents Anniversary, Dunedin, Dodgers Win
       link: /2024/10/26_parents-anniversary-dunedin-dodgers-win
