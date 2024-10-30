@@ -737,8 +737,8 @@ export default defineConfig({
                         link: '/2024/10/28_friendship-rollercoaster-ride'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/10/29_'
+                        text: 'No Title',
+                        link: '/2024/10/29_no-title'
                       }
                     ]
                   }

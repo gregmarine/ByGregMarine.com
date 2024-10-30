@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: Friendship Rollercoaster Ride
-      link: /2024/10/28_friendship-rollercoaster-ride
+      text: No Title
+      link: /2024/10/29_no-title
     - theme: alt
       text: Friendship Rollercoaster Ride
       link: /2024/10/28_friendship-rollercoaster-ride

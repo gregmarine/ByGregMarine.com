@@ -1,4 +1,4 @@
-# TBD
+# No Title?
 
 ## 07:55am
 
@@ -80,3 +80,14 @@ I've been enjoying this timestamp journaling. I've noticed my entries seem much 
 
 The Dodgers haven't broken away in this game. They started off on top in the beginning. But they've now been behind most of the game. The game is in the top of 7th inning. They are only down by two and there is still plenty of time left to clinch the World Series sweep...hehehe
 
+## 11:15pm
+
+Final thoughts for the day...hehehe
+
+The game isn't quite over yet. But the score is 4-11 Yankees going into the 9th. I decided I'll wrap this entry for the day instead of waiting for the game to end. I'm not being pessimistic. Just being realistic that the Yankees have this one in the bag...LOL
+
+Overall, it was a really good day. I'm glad my mind finally settle back to its state from these past few weeks. I wasn't worried about my mind racing a bit. It just wasn't comfortable for a little while...hehehe Overthinking isn't fun and is one of those pesky things left over from anxiety and depression. I'll likely always deal with this from time to time. It has been nice to not deal with it for weeks...hehehe
+
+I still have a few things left to do to be ready for my trip. Mostly cloths related. Things like laundry, packing, stuff like that. The weather is looking good both here and there. So my flights on Saturday should be good. I haven't checked Las Vegas weather, though. I should do that since that is where my layover is...hehehe But I imagine there won't be an issue there.
+
+Well, just like that, the game is over. Yankees won...ugh! On to game five tomorrow...LOL
