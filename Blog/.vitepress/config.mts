@@ -739,6 +739,10 @@ export default defineConfig({
                       {
                         text: 'No Title',
                         link: '/2024/10/29_no-title'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/10/30_'
                       }
                     ]
                   }
