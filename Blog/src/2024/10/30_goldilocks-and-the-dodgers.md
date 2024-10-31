@@ -1,4 +1,4 @@
-# TBD
+# Goldilocks and the Dodgers
 
 ## 07:45am
 
@@ -56,3 +56,14 @@ Something somewhat related is when I try to deal with, fix, or handle my problem
 
 There are three "f" words that apply to some of what I'm thinking about today. They are *fear*, *focus*, and *faith*. Where I *focus* has an impact on whether my response is *fear* or *faith*. In my heart, having fear doesn't mean I lack faith. For me, I wonder if it is simply because my focus is misplaced?
 
+## 11:55pm
+
+Final thoughts of the day...hehehe
+
+WOOHOO!!! DODGERS ARE THE 2024 WORLD SERIES CHAMPIONS!!!
+
+What a wild year in Dodgers baseball...WOW! It started on my birthday and ended with them being champions tonight!
+
+This was a good day over all. I walked far. I worked hard. I prayed. I thought. I went through a session of the Bible study. I enjoyed an amazing win for the 2024 Dodgers.
+
+Now that today has become tomorrow...I'm calling it over...LOL

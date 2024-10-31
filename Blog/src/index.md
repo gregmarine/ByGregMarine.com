@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/10/30_
+      text: Goldilocks and the Dodgers
+      link: /2024/10/30_goldilocks-and-the-dodgers
     - theme: alt
       text: No Title
       link: /2024/10/29_no-title

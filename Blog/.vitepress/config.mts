@@ -741,8 +741,8 @@ export default defineConfig({
                         link: '/2024/10/29_no-title'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/10/30_'
+                        text: 'Goldilocks and the Dodgers',
+                        link: '/2024/10/30_goldilocks-and-the-dodgers'
                       }
                     ]
                   }
