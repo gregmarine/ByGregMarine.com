@@ -743,6 +743,10 @@ export default defineConfig({
                       {
                         text: 'Goldilocks and the Dodgers',
                         link: '/2024/10/30_goldilocks-and-the-dodgers'
+                      },
+                      {
+                        text: 'Happy Halloween',
+                        link: '/2024/10/31_happy-halloween'
                       }
                     ]
                   }
