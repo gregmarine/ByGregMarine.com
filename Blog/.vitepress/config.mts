@@ -749,6 +749,16 @@ export default defineConfig({
                         link: '/2024/10/31_happy-halloween'
                       }
                     ]
+                  },
+                  {
+                    text: 'November',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'TBD',
+                        link: '/2024/11/01_'
+                      }
+                    ]
                   }
                 ]
               }
