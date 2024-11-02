@@ -1,0 +1,27 @@
+# New Month, New Adventure
+
+Happy November!!! Can you believe I've been journaling here for 10 full months now?!? There are only two months left in this great year. What'll happen next!?! hehehe
+
+I've been reflecting on the lessons I was taught and the blessing that were brought in October, and end of September. Some of the lessons were blessings and some of the blessings were lessons...LOL Not everything that happened would have been something I'd hope for. But with the heart God is creating in me, I feel really good about everything.
+
+I went through a few hurricanes. I met some new friends. Some of those new friends are now moving away. A few existing friends are also moving. I had a nice visit with my parents and I've seen my sister more in the last month than I did the previous months. I took a small break from virtual church and now I'm planning to be back in physical church in a few weeks. I learned more about listening for God's voice and learned there is still quite a bit I don't know or understand about life. I reevaluated my current role as a father and realized how my parents parented me when I was at my son's age isn't how I should be parenting him. Life has become a splendid misery of sorts...LOL
+
+November should be off to a great start. I've wrapped up work for the week, as it is FriYAY! Tomorrow, I take flight for California!!! First order of business, DISNEYLAND and DCA!!! Woohoo!!! The way the vibe has been described to me, it sounds like DLR is more my speed. I'm setting my expectations at a reasonable level, though. I've learned to expect nothing and appreciate everything for what it is. I'll be doing that for this experience.
+
+I'm working Tuesday through Thursday from the little apartment I'm renting. It will be a little odd considering the timezone difference. It'll be breakfast time in California when it is lunchtime here. I'll be done with work for the day in the afternoon, around 2pm local time, instead of the evening. It will be getting dark for the evening early. The time change occurs on Sunday. Falling back an hour means the sun sets a little before 5pm next week there. So, only a few hours after work ends.
+
+On Friday, I'll have a magical day with Cherie!!! Yay!!! My plans to be in California the first week of November are because of this exciting Disney day with her. The trip was specifically so that we could spend time together at Disney. The rest of the week, I planned around that.
+
+I'm really excited for our Disney day! We have planned to wear matching outfits. It will be somewhat a personal dapper day for the two of us. Disney experiences have been extra special for us since September last year. This day will be extra special because we'll get to experience it in person together <3
+
+I'm applying the *expect nothing, appreciate everything* mantra to our special day. The *specialness* of the day is because I'm sharing it with Cherie. Everything that actually happens that day will be a plus on top of that. Also, the special bond we have is because it is a true friendship. In a way, we are *soulmates*, in that God placed us in each others' lives at just the right moment for a specific purpose. Ours is a friendship built on the foundation of Jesus. We are special because He makes us special. He created this friendship. And we are blessed to be in it. That's pretty special to me...hehehe
+
+Today, the city of LA celebrated the 2024 World Series champions, the Dodgers! Thankfully Cherie said something about it. I didn't realize that was happening today...LOL I pondered if I'd be able to see the celebration and she mentioned something about the MLB fubo. I checked the MLB app I have on my TV and saw that it was going to be available there. Coverage lasted three hours; at least for my access.
+
+This was an incredible year for the Dodgers. Top for the season, Division winners, Championship winners, and World Series winners. They had the Home Run Derby champion, the first 50 home runs/50 stole bases achiever, and the player with the first ever walk-off grand slam in a World Series game. I imagine there is more to it than that too. Ooh, the only winners of 2 World Series championships in this decade...hehehe Due to the pandemic, the 2020 World Series wasn't something they could celebrate as a city. So, this was the first celebration for them in 36 years; their 1988 World Series championship. This was an amazing year to become a citizen of Dodgers Nation...hehehe
+
+I'm almost done packing. I have a few things left to take care of in the morning. I've been very relaxed for such a big trip. My July trip really made a difference for me. My travel anxieties are completely gone now. I didn't even do what packing I've already done until around 9pm tonight...LOL I tried on my dapper outfits before packing <3 I love how they make me feel. I'll need to iron the clothes in the little apartment.
+
+I packed some towels and wash cloths. When I do an AirBnB, I don't like to use the available bathroom supplies. When I'm in a hotel, I don't mind it so much. But then again, perhaps I should change my thoughts on those too...LOL In a hotel, they tend to clean better in my opinion. Now I'm thinking my AirBnB philosophy is something I should adopt for all my travels...LOL It isn't an anxiety thing. It is just about hygiene.
+
+I've been looking forward to this trip. I'm grateful it is here. I'm grateful for the opportunity to take this trip. I can't wait to see what God does with it.

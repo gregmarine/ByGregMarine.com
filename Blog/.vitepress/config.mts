@@ -749,6 +749,16 @@ export default defineConfig({
                         link: '/2024/10/31_happy-halloween'
                       }
                     ]
+                  },
+                  {
+                    text: 'November',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'New Month, New Adventure',
+                        link: '/2024/11/01_new-month-new-adventure'
+                      }
+                    ]
                   }
                 ]
               }
