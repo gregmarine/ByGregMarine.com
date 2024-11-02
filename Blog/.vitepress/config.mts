@@ -755,8 +755,8 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: 'TBD',
-                        link: '/2024/11/01_'
+                        text: 'New Month, New Adventure',
+                        link: '/2024/11/01_new-month-new-adventure'
                       }
                     ]
                   }

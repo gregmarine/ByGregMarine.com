@@ -1,4 +1,4 @@
-# TBD
+# New Month, New Adventure
 
 Happy November!!! Can you believe I've been journaling here for 10 full months now?!? There are only two months left in this great year. What'll happen next!?! hehehe
 
@@ -24,3 +24,4 @@ I'm almost done packing. I have a few things left to take care of in the morning
 
 I packed some towels and wash cloths. When I do an AirBnB, I don't like to use the available bathroom supplies. When I'm in a hotel, I don't mind it so much. But then again, perhaps I should change my thoughts on those too...LOL In a hotel, they tend to clean better in my opinion. Now I'm thinking my AirBnB philosophy is something I should adopt for all my travels...LOL It isn't an anxiety thing. It is just about hygiene.
 
+I've been looking forward to this trip. I'm grateful it is here. I'm grateful for the opportunity to take this trip. I can't wait to see what God does with it.

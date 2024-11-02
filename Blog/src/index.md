@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/11/01_
+      text: New Month, New Adventure
+      link: /2024/11/01_new-month-new-adventure
     - theme: alt
       text: Happy Halloween
       link: /2024/10/31_happy-halloween
