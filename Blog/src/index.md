@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/11/05_
+      text: California Dreamin'
+      link: /2024/11/05_california-dreamin
     - theme: alt
       text: New Month, New Adventure
       link: /2024/11/01_new-month-new-adventure
