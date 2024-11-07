@@ -757,9 +757,14 @@ export default defineConfig({
                       {
                         text: 'New Month, New Adventure',
                         link: '/2024/11/01_new-month-new-adventure'
-                      },{
+                      },
+                      {
                         text: 'California Dreamin\'',
                         link: '/2024/11/05_california-dreamin'
+                      },
+                      {
+                        text: 'Faith, Hope, and Love',
+                        link: '/2024/11/06_faith-hope-and-love'
                       }
                     ]
                   }
