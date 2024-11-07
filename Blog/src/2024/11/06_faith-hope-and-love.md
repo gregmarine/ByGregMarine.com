@@ -1,4 +1,4 @@
-# TBD
+# Faith, Hope, and Love
 
 Sometimes it feels like life is getting more difficult each season. However, one thing this year has taught me is that I can trust God. The more I trust Him, the easier life begins to *feel*. It's like I've been saying quite often this year, my circumstances aren't always getting better. And some have gotten worse. But my heart is full of faith, hope, and love. Honestly, I sometimes wish I could share this with everyone I know. It just isn't how this works. God put me on a specific path and taught me specific lessons that brought *me* to where I am today. Perhaps that path will someday be one where He gives me the words to say and actions to do in order to help share this faith, hope, and love with others. Again, I need to trust God with the timing for all I can share with others. It's His Story to be told. I realize it has never been about me...hehehe Maybe we all need to go through trying circumstances to draw them closer to God too...hehehe
 
