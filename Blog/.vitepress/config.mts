@@ -767,8 +767,8 @@ export default defineConfig({
                         link: '/2024/11/06_faith-hope-and-love'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/11/07_'
+                        text: 'Extree Extree, read all about it!',
+                        link: '/2024/11/07_extree-extree-read-all-about-it'
                       }
                     ]
                   }

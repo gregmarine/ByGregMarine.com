@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/11/07_
+      text: Extree Extree, read all about it!
+      link: /2024/11/07_extree-extree-read-all-about-it
     - theme: alt
       text: Faith, Hope, and Love
       link: /2024/11/06_faith-hope-and-love
