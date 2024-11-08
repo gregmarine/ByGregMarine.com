@@ -765,6 +765,10 @@ export default defineConfig({
                       {
                         text: 'Faith, Hope, and Love',
                         link: '/2024/11/06_faith-hope-and-love'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/11/07_'
                       }
                     ]
                   }
