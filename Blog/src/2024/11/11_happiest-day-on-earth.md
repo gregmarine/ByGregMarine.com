@@ -12,4 +12,7 @@ DCA's opening was more memorable than DL's. I don't even remember anything speci
 
 As I was waiting for the day to begin, I was able to get a few PhotoPass opportunities in. I'll likely be posting some of those PhotoPass photos on my socials in a little while. I'm never in a rush to post these days...hehehe I like how they turned out. I think it is fun to get those photos. Especially when I'm all dressed up...LOL
 
-Once the part officially opened, I made my way over to the Monster's Inc. ride. It is basically the story of the first movie. I really liked it. It is more geared to the little ones. But that's one of the things I love about Disney rides...hehehe
+Once the part officially opened, I made my way over to the Monster's Inc. ride. It is basically the story of the first movie. I really liked it. It is more geared to the little ones. But that's one of the things I love about Disney rides...hehehe They are mostly calm and immersive. They don't have to include Disney IP to feel fun. But I'm also okay that they seem to be converting everything into IP themes.
+
+After Monster's Inc, I rode Mickey's Death Wheel, the swings, the zephyr, Incredicoaster, and Toy Story Midway Mania. While going on those rides, I was getting updates from Cherie on her travel from home to Disneyland. I'm not going to go into it, as it's her story to tell. But let's just say it was probably the worst traveling experience she has had! I cannot possibly imagine what she was feeling as she went through it all. But I'm glad God provided for her and got her to Disneyland Resort safely.
+
