@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Happiest Day on Earth
+      link: /2024/11/11_happiest-day-on-earth
+    - theme: alt
       text: Extree Extree, read all about it!
       link: /2024/11/07_extree-extree-read-all-about-it
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: New Month, New Adventure
       link: /2024/11/01_new-month-new-adventure
-    - theme: alt
-      text: Happy Halloween
-      link: /2024/10/31_happy-halloween
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

@@ -769,6 +769,10 @@ export default defineConfig({
                       {
                         text: 'Extree Extree, read all about it!',
                         link: '/2024/11/07_extree-extree-read-all-about-it'
+                      },
+                      {
+                        text: 'Happiest Day on Earth',
+                        link: '/2024/11/11_happiest-day-on-earth'
                       }
                     ]
                   }

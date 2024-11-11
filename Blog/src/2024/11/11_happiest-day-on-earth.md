@@ -1,0 +1,15 @@
+# Happiest Day on Earth
+
+Happy Veterans Day!!! I appreciate all who served <3
+
+After my day on Friday, I thought to myself, *this was my favorite day*. I was mostly thinking about it for the year in that moment. After the amazing weekend I had, I now realize Friday was the best day of my life. Since it relates to my Disneyland day with Cherie, I can call it my Happiest Day on Earth...hehehe
+
+The entire weekend was full of time with Cherie, actually. We spent the day together on Friday. But we also did our weekly video call with our Bible study fellowship and regular friendship experience. And then on Sunday, I brought her along on my travel journey in spirit. After I got home, we chatted over text until I went to bed. This was the best, and my favorite, weekend for my entire life. And that's saying a lot! Although I sometimes talk about some of the bad circumstances I've faced, I've actually had some really amazing things happen in my life. To say this past weekend was the most amazing weekend I have ever had means so much <3
+
+For me, the day started off pretty much as it did the Sunday before for my first ever visit to Disneyland. The main differences were that I started in Disney's California Adventure and that I knew I'd be meeting up with Cherie later. Other than that, I was still dressing up dapper for a day at the Disney parks in California...hehehe I arrived via Lyft and started my day!
+
+DCA's opening was more memorable than DL's. I don't even remember anything special about rope drop at DL...LOL But at DCA, they did an amazing presentation over the speakers that talked about Walt Disney coming to California in 1923 to begin his adventure. That felt quite special.
+
+As I was waiting for the day to begin, I was able to get a few PhotoPass opportunities in. I'll likely be posting some of those PhotoPass photos on my socials in a little while. I'm never in a rush to post these days...hehehe I like how they turned out. I think it is fun to get those photos. Especially when I'm all dressed up...LOL
+
+Once the part officially opened, I made my way over to the Monster's Inc. ride. It is basically the story of the first movie. I really liked it. It is more geared to the little ones. But that's one of the things I love about Disney rides...hehehe
