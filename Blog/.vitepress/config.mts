@@ -773,6 +773,10 @@ export default defineConfig({
                       {
                         text: 'Happiest Day on Earth',
                         link: '/2024/11/11_happiest-day-on-earth'
+                      },
+                      {
+                        text: 'No Words',
+                        link: '/2024/11/12_no-words'
                       }
                     ]
                   }
