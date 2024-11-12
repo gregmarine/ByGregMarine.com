@@ -24,3 +24,13 @@ Anyway, the way those work has really helped with my patience. It has taught me 
 
 Funny how a required training module can get me thinking about that...LOL
 
+Well, I finally got around to enrolling in my benefits for 2025. Open enrollment began last week while I was in California. I decided I would wait until I was home to go through it all. I basically went with what I already had and it will cost me $11 more. But something else was reduced by $100...so I'm actually saving $89 per paycheck next year...LOL
+
+I once had an employer who paid 100% of the premiums. I basically had free healthcare for about six years. I loved those bosses...hehehe Unfortunately, their generosity cost them in the end when the contract I was part of wasn't renewed. It was a huge contract worth millions if I recall. They kept most of us on for as long as they could. But eventually, everyone was let go and only the two founding partners remained. I think they might still be in business? I hope so because they were a couple of great dudes!
+
+I keep thinking about last week. I should probably journal about everything. I may have to do so in a private journal, though. Some of it is a *don't let your left hand know what your right hand is doing* sort of thing. Wednesday, Friday, and both Sundays had such experiences. The one Friday happened while I was with Cherie. But she didn't even know it happened.
+
+I think I should tell her about all of the things from the week, though. We are in fellowship and all that happened is a direct result of the devotionals and Bible study we have been doing most of the year. I've told her some of the amazing things that have happened this year and she has been a witness to at least one. My sharing with her would be boasting about what God is doing and not what I'm doing. I'm simply obeying. She knows this and I feel it is a safe conversation to share with her all that God has been doing through me. Especially last week.
+
+I told her Friday that I couldn't tell her what all happened. I now realize she is one person I actually can. Maybe even Dan too. I'll want to do so privately. Maybe on video calls since neither of them live nearby...hehehe I suppose my hesitation on Friday with Cherie was that we were in public. I truly take *don't let your left hand know what your right hand is doing* to heart. I never want anyone to feel like I'm boasting about something I'm doing. It was all God.
+
