@@ -777,6 +777,10 @@ export default defineConfig({
                       {
                         text: 'No Words',
                         link: '/2024/11/12_no-words'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/11/13_'
                       }
                     ]
                   }
