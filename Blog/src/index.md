@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: So, I Forgot I Was Journaling
+      link: /2024/11/13_so-i-forgot-i-was-journaling
+    - theme: alt
       text: No Words
       link: /2024/11/12_no-words
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Faith, Hope, and Love
       link: /2024/11/06_faith-hope-and-love
-    - theme: alt
-      text: California Dreamin'
-      link: /2024/11/05_california-dreamin
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

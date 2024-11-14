@@ -777,6 +777,10 @@ export default defineConfig({
                       {
                         text: 'No Words',
                         link: '/2024/11/12_no-words'
+                      },
+                      {
+                        text: 'So, I Forgot I Was Journaling',
+                        link: '/2024/11/13_so-i-forgot-i-was-journaling'
                       }
                     ]
                   }
