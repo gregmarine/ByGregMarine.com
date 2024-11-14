@@ -779,8 +779,8 @@ export default defineConfig({
                         link: '/2024/11/12_no-words'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/11/13_'
+                        text: 'So, I Forgot I Was Journaling',
+                        link: '/2024/11/13_so-i-forgot-i-was-journaling'
                       }
                     ]
                   }

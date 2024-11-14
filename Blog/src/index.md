@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/11/13_
+      text: So, I Forgot I Was Journaling
+      link: /2024/11/13_so-i-forgot-i-was-journaling
     - theme: alt
       text: No Words
       link: /2024/11/12_no-words
