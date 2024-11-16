@@ -785,6 +785,10 @@ export default defineConfig({
                       {
                         text: 'Happy Birthday Grandpa, and other things',
                         link: '/2024/11/15_happy-birthday-grandpa-and-other-things'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/11/16_'
                       }
                     ]
                   }
