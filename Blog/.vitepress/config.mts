@@ -781,6 +781,10 @@ export default defineConfig({
                       {
                         text: 'So, I Forgot I Was Journaling',
                         link: '/2024/11/13_so-i-forgot-i-was-journaling'
+                      },
+                      {
+                        text: 'Happy Birthday Grandpa, and other things',
+                        link: '/2024/11/15_happy-birthday-grandpa-and-other-things'
                       }
                     ]
                   }
