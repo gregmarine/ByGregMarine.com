@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/11/15_
+      text: Happy Birthday Grandpa, and other things
+      link: /2024/11/15_happy-birthday-grandpa-and-other-things
     - theme: alt
       text: So, I Forgot I Was Journaling
       link: /2024/11/13_so-i-forgot-i-was-journaling
