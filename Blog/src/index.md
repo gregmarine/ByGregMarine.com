@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /2024/11/16_
+      link: /2024/11/18_
     - theme: alt
       text: Happy Birthday Grandpa, and other things
       link: /2024/11/15_happy-birthday-grandpa-and-other-things
