@@ -785,6 +785,14 @@ export default defineConfig({
                       {
                         text: 'Happy Birthday Grandpa, and other things',
                         link: '/2024/11/15_happy-birthday-grandpa-and-other-things'
+                      },
+                      {
+                        text: 'My Favorite Job',
+                        link: '/2024/11/18_my-favorite-job'
+                      },
+                      {
+                        text: 'Food, Writing, and Other Things',
+                        link: '/2024/11/18_food-writing-and-other-things'
                       }
                     ]
                   }
