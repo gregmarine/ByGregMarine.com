@@ -793,6 +793,10 @@ export default defineConfig({
                       {
                         text: 'Food, Writing, and Other Things',
                         link: '/2024/11/18_food-writing-and-other-things'
+                      },
+                      {
+                        text: 'Great Unexpectations',
+                        link: '/2024/11/19_great-unexpectations'
                       }
                     ]
                   }
