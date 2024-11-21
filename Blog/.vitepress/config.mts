@@ -799,8 +799,8 @@ export default defineConfig({
                         link: '/2024/11/19_great-unexpectations'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/11/20_'
+                        text: 'Dapper G',
+                        link: '/2024/11/20_dapper-g'
                       }
                     ]
                   }

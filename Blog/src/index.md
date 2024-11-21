@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/11/20_
+      text: Dapper G
+      link: /2024/11/20_dapper-g
     - theme: alt
       text: Great Unexpectations
       link: /2024/11/19_great-unexpectations
