@@ -801,6 +801,10 @@ export default defineConfig({
                       {
                         text: 'Dapper G',
                         link: '/2024/11/20_dapper-g'
+                      },
+                      {
+                        text: 'Warm Hug',
+                        link: '/2024/11/23_warm-hug'
                       }
                     ]
                   }
