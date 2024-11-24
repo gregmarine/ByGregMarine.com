@@ -1,0 +1,39 @@
+# Warm Hugs
+
+I'm Greg and I like warm hugs <3
+
+Today was a special Disney day...hehehe I went to the last day for this year's Food and Wine Festival at EPCOT. And I did so in my Olaf Disney bound...hehehe Although I have worn that twice since I debuted it at EPCOT last year for Thanksgiving, this was my first time doing so again at Disney. And boy am I glad I did it again today...LOL I've now worn it a total of four times. I'll wear it again for sure. I may update it a bit. But it will happen again...LOL
+
+The day started off like most days with the exception of going to bed a little early last night and waking a little early. I wanted to snag a virtual queue group for Guardians of the Galaxy Cosmic Rewind. Since that happens before my usual wake up time as of late, I wanted to be sure to get up earlier...hehehe
+
+But before that, I did my morning prayer and read today's Bible in a Year reading. First things first, God! I don't always do the Bible reading that early, but I have been lately. The prayer, though, is always first. That has been the case since early October last year...hehehe After my time with God, I managed to shave the sides of my face and neck before the virtual queue time came. Then, after I got the group, I got dressed and headed out the door.
+
+I had to fight with my GPS app a little to convince it which path I wanted to take...LOL I always turn it on even though I typically take the same route. I do so because it can warn me of potential problems along the way. That reminded me of how God does the same thing along my journey to His Kingdom...hehehe I wrote a little note about that in my Bible study notes for this week. This morning was a great reminder of that analogy.
+
+I arrived at EPCOT around 9:20am. So a little after park open. I stayed until about 8:30pm and was heading out of the parking lot around 8:45pm. That got me home by 10:40pm. That seems like a long day. But I'll admit, my current sleep schedule has given me the ability to go all day like this and still have energy left over at the end of the day. As a matter of fact, I'm writing this entry after driving home...LOL
+
+It was too early when I arrived for the festival foods. Luckily, I had the foresight to have eaten a pair of *The Only Bar* food bars on my drive...hehehe
+
+Since I was bounding as Olaf, one of the goals for the day was to hit up as many PhotoPass opportunities as possible. I haven't counted how many photos I have from that yet. But I'm sure it is quite a bit.
+
+As I was walking toward the World Showcase, I ran into the JAMMitors. They are a percussion group themed as janitors that play percussion on trash cans. It is always amazing. No one was gathered to watch them. So I walked over and danced for them to their beat. After they were done, they thanked me for doing that...hehehe One of them noticed my hat with the Olaf twig hair. He called it an antler...LOL He proceeded to tell a dad joke...LOL It went something like, "That antler reminds me of my friend. He's a deer friend of mine." HAHAHA That reminded me of someone...hehehe I gave him a round of applause for his joke...LOL By round of applause, I mean that I clap while doing a circular motion with my hands...LOL A literal, *round* of applause...HAHAHA
+
+I love moments like those the most. They aren't captured by videos or photos. They just exist in our memories. I do like to capture some moments through a lens as to recall the memory later. But I also like it when things happen without being captured. Sort of like my favorite moment from today. More on that later...hehehe
+
+After that, I got several more PhotoPass pictures. One includes my posing in front of the Olaf statue they have there...hehehe And a few in front of the large Christmas tree at the World Showcase. I'll likely post some of those eventually.
+
+My next task was to get coffee...hehehe I hadn't had my morning coffee yet. While I drank my coffee, I waited in line for Frozen Ever After. I wanted to see my pal, Olaf, of course...LOL The line wasn't too bad considering it was so early in the morning. Later in the day, it gets way too long to wait in. I tried to do a funny pose for the attraction photo. It didn't get linked to me yet. I may have to contact them about getting it linked to my account. I want to see it!!! Luckily, it will be easy for them to spot me...LOL I'm front row and dressed as Olaf...LOL
+
+The logical thing to do after riding *Olaf's* ride was to go see Anna and Elsa...LOL I hadn't ever done their meet and greet before. It was a short line. With me being *Olaf* for the day, I wanted to have some fun with them. The meet and greets like that include PhotoPass photos. So I have a bunch of those to sift through...hehehe That was a lot of fun! They of course commented on my outfit...hehehe Later in the day, a Cast Member asked me if I had gone to see Anna and Elsa yet...hehehe I told them that I had...hehehe
+
+By far, more people commented on my Olaf bound this time than they did last year when I did this for Thanksgiving. This year, I wore white pants and shoes along with an orange bow tie. Those things were new. Perhaps those additions really made the outfit pop! I think so, at least...LOL Cast, men, women, and children all made kind comments throughout the day about how I looked today. My favorite moment of the day was when one child shouted *Hi Olaf!* and waved...hehehe I of course returned the gesture <3 I over heard him telling his family about it...hehehe
+
+There was one Cast that saw me and did the same as that child. She shouted *Hi Olaf!* and waved. I cannot express how warm these interactions made me feel today. In Japan and Italy, the Cast who served me my food lit up and complimented me on my outfit too. When I say lit up, I truly mean as if that was the greatest thing they saw all day...LOL All of these people made me feel like they were giving me warm hugs <3 *The warmest of those hugs came from Cherie as a response she gave to my telling her about the reception I received today from my outfit.* 🤭
+
+I won't go into the details of the food I ate today. Although I typically mark down what I eat at these festivals, I never do anything with those notes. So, I'll not go into it here. I did have several things I hadn't tried yet this season. I didn't go as often as I have for past festivals. Those first few visits weren't impressive. Today's food, however, was amazing! I don't know if my perception was off in the early days of this years Food and Wine or if the food just improved that much since then...LOL I managed to have enough of the cheese items to earn the special treat they had this year. The treat was quite good as well...hehehe
+
+I also rode several attractions. I didn't get around to doing them all. But I did enough to call it a successful attraction day as well. Being there for so long afforded me the opportunity to do quite a bit. PhotoPass, attractions, food, and chats with Cast and a few guests. What a wonderful day this was!
+
+I also shared the day with Cherie. One of the great things about doing that is I shared a lot of the Christmas decor with her. Some of that decor is something I hadn't really noticed before. Taking the time to admire it, capture it, and send it to her gave me the opportunity to look at EPCOT in a new way. I even saw the Encanto show for the first time. I absolutely loved it! I recorded a few scenes for her. But most of it I watched without a lens...hehehe A most excellent show that I hope they keep around for a while.
+
+Well, that pretty much sums up the highlights of the day. I grabbed a few souvenirs to commemorate the day. One is a pin to add to my collection. Another is a coffee mug to add to that collection as well. Today was important to me. I wouldn't call my favorite day. But today made an impact. I loved today.
