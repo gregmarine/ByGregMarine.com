@@ -803,8 +803,8 @@ export default defineConfig({
                         link: '/2024/11/20_dapper-g'
                       },
                       {
-                        text: 'Warm Hug',
-                        link: '/2024/11/23_warm-hug'
+                        text: 'Warm Hugs',
+                        link: '/2024/11/23_warm-hugs'
                       }
                     ]
                   }

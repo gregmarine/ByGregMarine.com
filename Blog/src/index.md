@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: Warm Hug
-      link: /2024/11/23_warm-hug
+      text: Warm Hugs
+      link: /2024/11/23_warm-hugs
     - theme: alt
       text: Dapper G
       link: /2024/11/20_dapper-g

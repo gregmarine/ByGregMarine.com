@@ -1,4 +1,4 @@
-# Warm Hug
+# Warm Hugs
 
 I'm Greg and I like warm hugs <3
 
@@ -23,4 +23,10 @@ I love moments like those the most. They aren't captured by videos or photos. Th
 After that, I got several more PhotoPass pictures. One includes my posing in front of the Olaf statue they have there...hehehe And a few in front of the large Christmas tree at the World Showcase. I'll likely post some of those eventually.
 
 My next task was to get coffee...hehehe I hadn't had my morning coffee yet. While I drank my coffee, I waited in line for Frozen Ever After. I wanted to see my pal, Olaf, of course...LOL The line wasn't too bad considering it was so early in the morning. Later in the day, it gets way too long to wait in. I tried to do a funny pose for the attraction photo. It didn't get linked to me yet. I may have to contact them about getting it linked to my account. I want to see it!!! Luckily, it will be easy for them to spot me...LOL I'm front row and dressed as Olaf...LOL
+
+The logical thing to do after riding *Olaf's* ride was to go see Anna and Elsa...LOL I hadn't ever done their meet and greet before. It was a short line. With me being *Olaf* for the day, I wanted to have some fun with them. The meet and greets like that include PhotoPass photos. So I have a bunch of those to sift through...hehehe That was a lot of fun! They of course commented on my outfit...hehehe Later in the day, a Cast Member asked me if I had gone to see Anna and Elsa yet...hehehe I told them that I had...hehehe
+
+By far, more people commented on my Olaf bound this time than they did last year when I did this for Thanksgiving. This year, I wore white pants and shoes along with an orange bow tie. Those things were new. Perhaps those additions really made the outfit pop! I think so, at least...LOL Cast, men, women, and children all made kind comments throughout the day about how I looked today. My favorite moment of the day was when one child shouted *Hi Olaf!* and waved...hehehe I of course returned the gesture <3 I over heard him telling his family about it...hehehe
+
+There was one Cast that saw me and did the same as that child. She shouted *Hi Olaf!* and waved. I cannot express how warm these interactions made me feel today. In Japan and Italy, the Cast who served me my food lit up and complimented me on my outfit too. When I say lit up, I truly mean as if that was the greatest thing they saw all day...LOL All of these people made me feel like they were giving me warm hugs <3 The warmest of those hugs came from a friend as a response to me telling them about the reception I received today from my outfit.
 
