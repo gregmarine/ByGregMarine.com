@@ -805,6 +805,10 @@ export default defineConfig({
                       {
                         text: 'Warm Hugs',
                         link: '/2024/11/23_warm-hugs'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/11/24_'
                       }
                     ]
                   }
