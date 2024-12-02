@@ -811,6 +811,16 @@ export default defineConfig({
                         link: '/2024/11/26_so-is-this-the-place-to-be'
                       }
                     ]
+                  },
+                  {
+                    text: 'December',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'TBD',
+                        link: '/2024/12/02_'
+                      }
+                    ]
                   }
                 ]
               }
