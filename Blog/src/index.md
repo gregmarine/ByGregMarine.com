@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Happy December
+      link: /2024/12/02_happy-december
+    - theme: alt
       text: So, is this the place to be?!?
       link: /2024/11/26_so-is-this-the-place-to-be
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Great Unexpectations
       link: /2024/11/19_great-unexpectations
-    - theme: alt
-      text: Food, Writing, and Other Things
-      link: /2024/11/18_food-writing-and-other-things
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
