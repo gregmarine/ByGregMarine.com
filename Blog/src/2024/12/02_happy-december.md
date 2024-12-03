@@ -1,4 +1,4 @@
-# TBD
+# Happy December
 
 My path hasn't been taking me to the keyboard much lately. By that I mean, I haven't been writing. It isn't that I have nothing to say. I have plenty to write about. Even with my creative writing, I have plenty churning in my mind. I just haven't been getting to the keyboard much to get it all out of my head...LOL
 
@@ -24,3 +24,6 @@ I'll go to DAK regardless on Sunday. I'll also hit up EPCOT. Both locations are 
 
 This also means I'll be *eating out* a little this weekend. And I think I'll have to go to the grocery on Friday instead of the weekend. I'll not have time over the weekend. I don't want to lose my discipline of cooking and eating at home for all meals except those at Disney. I'll not be eating as much at Disney this weekend as I did on Thanksgiving, though. Thanksgiving is a *foodie* holiday. This weekend is not...hehehe
 
+I wasn't sure I'd get around to journaling today...hehehe Looks like I was able to...LOL Funny thing is, I'm writing at about the time I typically wind down for the day. Technically, it is already *tomorrow* as I'm writing this...LOL I still dated it for Monday, though.
+
+Happy December! We made it!

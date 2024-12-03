@@ -817,8 +817,8 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: 'TBD',
-                        link: '/2024/12/02_'
+                        text: 'Happy December',
+                        link: '/2024/12/02_happy-december'
                       }
                     ]
                   }

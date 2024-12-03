@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/12/02_
+      text: Happy December
+      link: /2024/12/02_happy-december
     - theme: alt
       text: So, is this the place to be?!?
       link: /2024/11/26_so-is-this-the-place-to-be
