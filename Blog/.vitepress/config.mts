@@ -827,6 +827,10 @@ export default defineConfig({
                       {
                         text: 'I\'m the Rebel Spy',
                         link: '/2024/12/08_im-the-rebel-spy'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/12/09_'
                       }
                     ]
                   }
