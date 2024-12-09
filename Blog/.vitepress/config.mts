@@ -823,6 +823,10 @@ export default defineConfig({
                       {
                         text: 'The Sun is Rising',
                         link: '/2024/12/03_the-sun-is-rising'
+                      },
+                      {
+                        text: 'I\'m the Rebel Spy',
+                        link: '/2024/12/08_im-the-rebel-spy'
                       }
                     ]
                   }
