@@ -1,12 +1,8 @@
-# TBD
+# I'm the Rebel Spy
 
 We finished the first Bible study for season 1 of *The Chosen* this week. This study has been amazing. The show itself is pretty good. But the Bible study has been great as it takes us deeper. Especially in the connection between the Old Testament and the New when it comes to Jesus. I'm looking forward to the next one! It appears to be even deeper...hehehe
 
-As far as my walk with Jesus is concerned, this has been an amazing year overall. It kind of started last October when I made spending time with God first thing when I wake up a priority. It continued to grow into my Bible in a Year reading plan. I'm still going strong with that, by the way...hehehe Then I started a daily devotional with Cherie. And that evolved into the Bible study.
-
-I haven't become dependant on these things, though. It has all be in addition to what God was already doing in my heart. In fact, these things came about because of what He was already doing. I've found that every day there is something from my Bible reading and/or study that ties directly into something I've got going on in my life in the moment. So in a way, it's all an extension of God's guidance along my path. Which is pretty amazing <3
-
-I appreciate having a friend in Cherie to share some of this with. Fellowship is so important. I'm so glad to have this in my life right now. God is so Good.
+As far as my walk with Jesus is concerned, this has been an amazing year overall. It kind of started last October when I made spending time with God first thing when I wake up a priority. It continued to grow into my Bible in a Year reading plan. I'm still going strong with that, by the way...hehehe Then I started a daily devotional with Cherie. And that evolved into the Bible study. I appreciate having a friend in Cherie to share some of this with. Fellowship is so important. I'm so glad to have this in my life right now. God is so Good.
 
 The topic of how fast this year has gone came up again with my parents on my weekly call...LOL This time, mom asked me directly, *hasn't this year gone by so fast?* I'll admit, it feels a little strange for me to not feel that way this year. In the past, I've thought things went by fast. I simply do not feel it this year. I'm not sure if this will continue into 2025. If so, great. If not, also great. I'm not sure it really matter as much as the lessons I'm learning from it this year. The lessons are for me to accept things for what they are...this includes moments in time...and to cherish the important things. Both can be done regardless how fast moments go by. So, perhaps God gave me this year to help me realize these lessons. Did He need me to slow down to pay attention? Perhaps...LOL
 
@@ -28,3 +24,4 @@ I hope to get that third story started this week. I'm not going to pressure myse
 
 I'm heading up to Indiana this weekend. I haven't been up since the first weekend of June. Lord willing, I'll make more trips up next year. Only my parents have been coming down for visits. Malachi won't come anymore and my grandmother can't make the trip down. That leaves me needing to go up to see Malachi and grandma. This is the first year when I didn't make long visits. I had hoped to spent a few weeks this holiday season. But that didn't work out after all.
 
+I think I need to be making some changes to my *routine*. Things have been going well and smooth. But I have a sense that I need to tweak things a little bit from what I've somewhat stumbled upon lately.

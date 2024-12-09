@@ -825,8 +825,8 @@ export default defineConfig({
                         link: '/2024/12/03_the-sun-is-rising'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/12/08_'
+                        text: 'I\'m the Rebel Spy',
+                        link: '/2024/12/08_im-the-rebel-spy'
                       }
                     ]
                   }
