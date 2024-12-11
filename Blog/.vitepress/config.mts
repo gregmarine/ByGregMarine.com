@@ -827,6 +827,10 @@ export default defineConfig({
                       {
                         text: 'I\'m the Rebel Spy',
                         link: '/2024/12/08_im-the-rebel-spy'
+                      },
+                      {
+                        text: 'Identified, Authored, and Dappered',
+                        link: '/2024/12/10_identified-authored-and-dappered'
                       }
                     ]
                   }
