@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/12/10_
+    - theme: alt
       text: I'm the Rebel Spy
       link: /2024/12/08_im-the-rebel-spy
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: So, is this the place to be?!?
       link: /2024/11/26_so-is-this-the-place-to-be
-    - theme: alt
-      text: Warm Hugs
-      link: /2024/11/23_warm-hugs
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
