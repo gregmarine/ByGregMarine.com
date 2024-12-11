@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/12/10_
+      text: Identified, Authored, and Dappered
+      link: /2024/12/10_identified-authored-and-dappered
     - theme: alt
       text: I'm the Rebel Spy
       link: /2024/12/08_im-the-rebel-spy

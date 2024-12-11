@@ -1,4 +1,4 @@
-# TBD
+# Identified, Authored, and Dappered
 
 Last year, I embarked on an adventure to find out who *Greg* is. I searched in a lot of wrong places to find myself...hehehe I did some meetups that I thought were fun in the moment. But later realized they weren't so healthy for who I was...LOL At least I discovered something I didn't like doing. You live and you learn, right?!?
 
@@ -10,7 +10,7 @@ I find it amazing how when I was looking for myself last year, I found God. When
 
 I haven't been writing so much about what I've been doing lately. I would like to get back to doing that. I seem to have seasons of thinking and writing deep thoughts. While other seasons are more laid back and describe my life as it is happening. What I've been doing lately is meditating on my year. This is the last month of the year, after all...hehehe
 
-Aside from being in deep thought, I've been on a few adventures lately. I just haven't written much about them. I'm not sure if I'll get around to writing about everything. I'm a little sad about that. But I'm also excited about all deep thinking. This has been the best year of my life. So, I have so much to think about.
+Aside from being in deep thought, I've been on a few adventures lately. I just haven't written much about them. I'm not sure if I'll get around to writing about everything. I'm a little sad about that. But I'm also excited about all the deep thinking. This has been the best year of my life. So, I have so much to think about.
 
 I started off the year with a goal to finish writing my first official book. Even as I type, I'm looking at the Daruma doll I bought in the Japan pavilion at EPCOT last year as a *good luck charm* of sorts. Per tradition, I colored in its left eye. If the wish I made came true this year, I was to color in its right eye. My wish was to finish my first book...LOL I will not be coloring in that right eye...LOL
 
