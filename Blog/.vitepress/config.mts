@@ -831,6 +831,10 @@ export default defineConfig({
                       {
                         text: 'Identified, Authored, and Dappered',
                         link: '/2024/12/10_identified-authored-and-dappered'
+                      },
+                      {
+                        text: 'Blessings and Lessons',
+                        link: '/2024/12/17_blessings-and-lessons'
                       }
                     ]
                   }
