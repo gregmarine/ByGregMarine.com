@@ -833,8 +833,8 @@ export default defineConfig({
                         link: '/2024/12/10_identified-authored-and-dappered'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/12/17_'
+                        text: 'Blessings and Lessons',
+                        link: '/2024/12/17_blessings-and-lessons'
                       }
                     ]
                   }

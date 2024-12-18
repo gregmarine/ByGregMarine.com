@@ -1,4 +1,4 @@
-# TBD
+# Blessings and Lessons
 
 Wow! I haven't been writing much here in this journal this month...LOL Sure, I've been a little busier than normal. But not so busy that I didn't have time to write. I've actually had plenty of things to write about. But I doubt I'll get around to writing about it all. Hopefully I'll get better about that in the new year...hehehe I'm happy I wrote all that I have this year. Especially considering this is the first year I've actively journaled in so long...LOL
 
@@ -10,9 +10,9 @@ They caught up with me at Animal Kingdom. I had arrived there at *rope drop*. I 
 
 By the time they got there, I had pretty much completed all that I was there for. So, we were able to do some things they wanted to do. It was fun! After that, we moved over to EPCOT to finish the rest of our time together. We had a lovely lunch at Coral Reef. We walked around the World Showcase. We briefly saw a few of the holiday presentations they have in the countries. Although, it was difficult to hear the presentations.
 
-After Disney, I took off my dapper clothes and drove to the airport. I flew up to Indiana for a weekend trip. It was difficult to plan time for Indiana this year because of work. As it turned out, work has been going well. I probably could have gone with my original hope and spent a few weeks up there. Well, I live and learn, right...LOL Anyway, it was a nice weekend and I was able to spend quality time with Malachi.
+After Disney, I took off my dapper clothes and drove to the airport. I flew up to Indiana for a weekend trip. It was difficult to plan time for Indiana this year because of work. As it turned out, work has been going well. I probably could have gone with my original hope and spent a few weeks up there. Well, I live and learn, right...LOL But staying home allowed me to have some amazing experiences that I haven't written about...LOL
 
-I was also able to see my parents, my brother and his family, my grandma, one of her sisters, and Malachi's mom. Overall, it was a pleasant weekend. I'm definitely glad I was able to go.
+Anyway, it was a nice weekend and I was able to spend quality time with Malachi. I was also able to see my parents, my brother and his family, my grandma, one of her sisters, and Malachi's mom. Overall, it was a pleasant weekend. I'm definitely glad I was able to go.
 
 I was able to get about 8 hours of sleep last night. My tracker says 7 and a half. I did toss and turn most of the night. Perhaps that's where the half hour went...LOL I had a lot of dreams. And I got up a few times to go to the bathroom. I needed the rest last night. I was so tired all day yesterday. I'm not really sure why. But I'm glad I went to bed early last night and was able to rest, for the most part, for the full 8 hours I set my white noise app for.
 
@@ -20,5 +20,12 @@ I'm doing a lot of thinking and praying. Part of that is because of the Bible st
 
 I never go into details here on my public journal. Most of the thoughts the Bible studies and devotionals have provoked aren't something to publicly discuss. But my private notes keep getting more detailed. I really like having that outlet for such things. None of it is anything bad. It's just private stuff...hehehe
 
-I was given the opportunity to travel to Indiana again this weekend. I decided to make this trip a surprise. As of now, only 2 other people know about it. And they only know it because they are directly impacted by it...hehehe Everyone else, including my son, haven't a clue I'll be visiting. I'm looking forward to spending more time with Malachi. And it so happens I'll also be able to attend a few family gatherings as well. I'm grateful I'll have a little holiday time with family after all.
+I was given the opportunity to travel to Indiana again this weekend. I decided to make this trip a surprise. As of now, only 2 other people know about it. And they only know it because they are directly impacted by it...hehehe Everyone else, including my son, haven't a clue I'll be visiting. I'm looking forward to spending more time with Malachi. And it so happens I'll also be able to attend a few family gatherings as well. I'm grateful I'll have a little holiday time with family after all. And this is on top of the amazing experiences I've had this holiday season while mostly staying here in Florida. God is so good!
 
+Tonight, I posted what I'd qualify as a *dad joke*. I hope people see it as funny. It wasn't meant to come across as self-degrading or anything...hehehe
+
+*So, I was thinking... Some people are a blessing. Some people are a lesson. I hope all of the people who know me learned a valuable lesson 🤭 Hahaha 🤣*
+
+![Selfie looking up and off into the distance.](./media/IMG_3728.jpeg)
+
+I guess I didn't say a lot today. But I'm glad I popped in for a bit...hehehe I'll get back my rhythm for journaling soon, I'm sure.
