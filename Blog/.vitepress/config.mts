@@ -835,6 +835,10 @@ export default defineConfig({
                       {
                         text: 'Blessings and Lessons',
                         link: '/2024/12/17_blessings-and-lessons'
+                      },
+                      {
+                        text: 'Trashcan',
+                        link: '/2024/12/18_trashcan'
                       }
                     ]
                   }
