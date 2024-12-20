@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/12/20_
+    - theme: alt
       text: Bad, Good, and Cherished Moments
       link: /2024/12/19_bad-good-and-cherished-moments
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Identified, Authored, and Dappered
       link: /2024/12/10_identified-authored-and-dappered
-    - theme: alt
-      text: I'm the Rebel Spy
-      link: /2024/12/08_im-the-rebel-spy
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
