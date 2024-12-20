@@ -841,8 +841,8 @@ export default defineConfig({
                         link: '/2024/12/18_trashcan'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/12/19_'
+                        text: 'Bad, Good, and Cherished Moments',
+                        link: '/2024/12/19_bad-good-and-cherished-moments'
                       }
                     ]
                   }

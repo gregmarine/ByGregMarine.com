@@ -1,22 +1,22 @@
-# TBD
+# Bad, Good, and Cherished Moments
 
 ## 07:55am
 
 Another day to thank the Lord. Every day is a gift. Every sleep is God renewing my body for another day. My gratitude continues to grow.
 
-Last night I was blessed with a precious gift. This was on top of the gift my friendship with Cherie already is. She expressed the friendship further through a poem she has written for me. It is published through The Unsealed community. You can read [Garden of Memories](https://theunsealed.com/activity/p/25379/) to see for yourself. I'm grateful for the friendship that inspired the words. We continue to plant seeds and water the garden of this friendship. And God is the One who makes it grow. It's a beautiful garden that I cherish very much. Tending to this garden with my deer friend has been one of the best experiences of my life.
+Last night I was blessed with a precious gift. This was on top of the gift my friendship with Cherie already is. She expressed the friendship further through a poem she has written for me. It is published through The Unsealed community. You can read [Garden of Memories](https://theunsealed.com/activity/p/25379/) to see it for yourself. I'm grateful for the friendship that inspired the words. We continue to plant seeds and water the garden of this friendship. And God is the One who makes it grow. It's a beautiful garden that I cherish very much. Tending to this garden with my deer friend has been one of the best experiences of my life.
 
 ## 08:40am
 
 Well, I was blessed again this morning. Tyrese shared with me that she had an *awesome dream* about Animal Kingdom last night. She told me it was solely based on things she'd seen through my eyes <3
 
-I don't often share my experiences on social media. I toss out little bits here and there of things I'd like to share from time to time. But privately, I quite often share my experiences with my closest friends. Some of the photos and video clips are to a an individual as they are inspired by that person. However, I also have several things that I capture for myself and then share with multiple people like Cherie, Tyrese, and Dan.
+I don't often share my experiences on social media anymore. I toss out little bits here and there of things I'd like to share from time to time. But privately, I quite often share my experiences with my closest friends. Some of the photos and video clips are to an individual as they are inspired by that person. However, I also have several things that I capture for myself and then share with multiple people like Cherie, Tyrese, and Dan.
 
 I'm glad I am able to do that. It is not only a blessing for them, it is also a blessing for me to have friends to share with. I'm physically alone most of the time. God has been showing me that I'm never truly alone, though. He is always with me. And he has also provided some close friends I can share moments with through technology. I'm learning to let go of the physical presence of people. It has been rough this year dealing with that. But I'm grateful for the peace God is growing in my heart. I wrote about this topic in my Bible study notes this week. It's something God is healing me with. What once was a burden is becoming a blessing <3
 
 ## 09:25am
 
-I'm not sure if I talked about the healing in my Bible study notes. I may need to revise my notes if I did not. I'll be sure and have a look at that tonight...hehehe Part of that question was about what deeper need did something I lack expose. In the process of exposing that deeper need, healing has taken place. God's process is so beautiful to me. I sometimes talk about the circumstances as I answer the questions from the devotionals and Bible studies. I hope I also talk about the healing God is doing. The questions don't always ask about that part and I feel like sometimes I may not talk about it all as a result...hehehe
+I'm not sure if I talked about the healing in my Bible study notes. I may need to revise my notes if I did not. Part of that question was about what deeper need did something I lack expose. In the process of exposing that deeper need, healing has taken place. God's process is so beautiful to me. I sometimes talk about the circumstances as I answer the questions from the devotionals and Bible studies. I hope I also talk about the healing God is doing. The questions don't always ask about that part and I feel like sometimes I may not talk about it all as a result...hehehe
 
 It's kind of interesting how not everything I say or write fully conveys what is in my heart. I do not intentionally leave out details. Sometimes I think I've included the details I leave out. That's because I have given it all sorts of thought. Later, I realize they were just thoughts that I didn't write down or say...LOL It's as if I have had the conversation in my head but not in real life. Having it in my head gives me the false illusion that I had the conversation. I hope to get better at this. I'm growing and learning how to communicate better. It's a process. I'm making progress...hehehe
 
@@ -30,7 +30,7 @@ As part of dealing with the loss of another marriage at the end of 2021, I had a
 
 Of course, grandma loved it...hehehe Unfortunately, some folks in the family seemed to expressed how that gift overshadowed everything else she was given that year. I felt horrible. So bad, in fact, that my old self would have given up painting again...LOL Fortunately, though, my reconnecting with who I am led me to my continuing to paint. I had already experienced some healing of my past even as early as that Christmas.
 
-Now that I am heading back to Indiana this weekend and will be going to this year's family gathering, I'll be facing what happened 3 years ago. I highly doubt anyone even remembers that. So it will be an internal encounter. I'm thrilled that I've healed even more over these past 3 years. Especially the growth I've experienced this year. I'm glad I can write about it as part of my processing what happened. It doesn't hurt anymore...hehehe
+Now that I am heading back to Indiana this weekend and will be going to this year's family gathering, I'll be facing what happened 3 years ago. I highly doubt anyone even remembers that. So it will be an internal encounter. I'm thrilled that I've healed even more over these past 3 years. Especially the growth I've experienced this year. I'm glad I can write about it as part of my processing what happened. This is my first time even talking about this. It doesn't hurt anymore...hehehe
 
 Here is grandma looking at the painting after she opened the box...
 
@@ -40,7 +40,7 @@ Here is the painting next to the photo that inspired it...
 
 ![Painting next to a photograph](./media/IMG_2331.jpeg)
 
-I honestly don't know why people say what they do and in the tone they say it in. I've said some things over the years and in a tone that was very much like this. I'm sorry I've ever made anyone feel horrible by what I've said and how I've said it. And I forgive them for what they've said and how they said things that made me feel horrible. The truth is, we all do this. And we all react in our own ways. They didn't intend to hurt me. So my feelings in that moment were just a reaction. Today, I choose to respond with grace.
+I honestly don't know why people say what they do and in the tone they say it in. I've said some things over the years and in a tone that was very much like this. I'm sorry I've ever made anyone feel horrible by what I've said and how I've said it. And I forgive others for what they've said and how they said things that made me feel horrible. The truth is, we all do this. And we all react in our own ways. They didn't intend to hurt me. So my feelings in that moment were just a reaction. Today, I choose to respond with grace.
 
 ## 12:55pm
 
@@ -66,7 +66,7 @@ One good thing about looking for favorite moments is that it helps me review how
 
 I also have memories and stories that weren't so much fun. And some of them are with people who do not love me. I'm grateful for those memories and stories as well. When I think about how God works all things for the good of those who love him, and are called to his purpose, I can be grateful for all moments.
 
-Case in point, something seemingly horrible happened to me just over 3 years ago when my last marriage ended. It reignited my joy for painting, though. I then painted that portrait above. God's healing me kept me going despite a few reactions. I continued to paint. I made a Twitter post inviting others to tell me who their favorite Disney characters were. I painted several of them and gifted the paintings to those people. One of those people became one of my deerest, most cherished, and best friends who gifted me with a friendship that made an impact on my favorite year...this year <3
+Case in point, something seemingly horrible happened to me just over 3 years ago when my last marriage ended. It reignited my joy for painting, though. I then painted that portrait above. God's healing me kept me going despite a few reactions. I continued to paint. I made a Twitter post inviting others to tell me who their favorite Disney characters were. I painted several of them and gifted the paintings to those people. One of those people became one of my deerest, most cherished, and best friends who gifted me with a friendship that made an impact on my favorite year...this year! *Thank you, Cherie* <3
 
 When I have a look at the journey as a whole, I realize there aren't good or bad moments. There are just moments that, when chained together, make up a good life. God's goodness gives me the hope we all crave. I just need to endure the circumstances I don't like and learn from them. This builds my character to appreciate those circumstances for what they are and gives me new eyes through the Holy Spirit to see God's goodness. And that leads to hope. If this sounds familiar, it should...it's a life with Romans 5:3-5 applied to it.
 
@@ -94,5 +94,10 @@ I had a lot of those moments this year. I've written about many of them in this 
 
 I'm glad I wrote [Great Unexpectations](../11/19_great-unexpectations) a month ago. That better explains my thoughts on this topic. That entry was about expectations...or the unexpected. But the principles spelled out apply to moments.
 
-My cod dinner was lovely. I didn't take any photos or post about it. But I really enjoyed it. I don't always feel the need to share my food experiments. Some nights I just want to eat...LOL Tonight was one of those nights. I air fried the cod and seasoned it with salt, pepper, garlic powder, onion powder, and cayenne pepper. I poured a little garlic rice vinegar over it after it was done cooking. I used the same seasonings for the veggie friend rice. But instead of the garlic rice vinegar, I used coco aminos. I crowned both with the kraut...hehehe
+My cod dinner was lovely. I didn't take any photos or post about it. But I really enjoyed it. I don't always feel the need to share my food experiments. Some nights I just want to eat...LOL Tonight was one of those nights. I air fried the cod and seasoned it with salt, pepper, garlic powder, onion powder, and cayenne pepper. I poured a little garlic rice vinegar over it after it was done cooking. I used the same seasonings for the veggie fried rice. But instead of the garlic rice vinegar, I used coco aminos. I crowned both with the kraut...hehehe
 
+## 10:10pm
+
+This week's Bible study has been thought provoking and eye opening. I sure hope I'm capturing my thoughts well in words with my notes. Unfortunately, we won't have the opportunity to discuss our notes in person this week. My surprise trip to Indiana prevents us from having our call. That's okay, though. Prior to our devotional time in LA in July, we never discussed our notes in person...LOL Having these occasional times when we can't now will be fine. We can still ask each other questions through text and email if we have any. The sad part is missing how much we love doing these together. Well, spiritually speaking, we are still doing it together. We always have been. That's what makes it okay.
+
+Ooh! My *Bible in a Year* plan is almost complete. That finish line is just ahead...hehehe With it being Leap Year, I'll actually be finished on the 30th. This has been quite the journey this year. I'm so glad I did it and that I'll have actually read the entire Bible this year.
