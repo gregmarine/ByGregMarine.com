@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/12/20_
+      text: Lovely Lessons in Litter
+      link: /2024/12/20_lovely-lessons-in-litter
     - theme: alt
       text: Bad, Good, and Cherished Moments
       link: /2024/12/19_bad-good-and-cherished-moments

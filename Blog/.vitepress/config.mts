@@ -845,8 +845,8 @@ export default defineConfig({
                         link: '/2024/12/19_bad-good-and-cherished-moments'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/12/20_'
+                        text: 'Lovely Lessons in Litter',
+                        link: '/2024/12/20_lovely-lessons-in-litter'
                       }
                     ]
                   }
