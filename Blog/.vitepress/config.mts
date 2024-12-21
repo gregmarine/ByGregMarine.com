@@ -843,6 +843,10 @@ export default defineConfig({
                       {
                         text: 'Bad, Good, and Cherished Moments',
                         link: '/2024/12/19_bad-good-and-cherished-moments'
+                      },
+                      {
+                        text: 'Lovely Lessons in Litter',
+                        link: '/2024/12/20_lovely-lessons-in-litter'
                       }
                     ]
                   }
