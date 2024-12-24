@@ -10,3 +10,5 @@ I've talked about my past hangups with celebrating these holidays as *religious*
 
 I love that 26 years ago I gave my heart to Jesus in a United Methodist Church. Today, I celebrate Christmas at a United Methodist Church. My path between that night and tonight wasn't a straight one...hehehe But nonetheless, God has been with me at all times. And I'm grateful for all he has done. And I am grateful for connections such at these I'm experiencing today.
 
+For our fellowship time today, Cherie and I will take communion and I'll read both the birth of Jesus and the visit of the Magi. It will be a blessed time. All while also doing a marathon of worship services through CUMC. Praise the Lord for his gift of salvation. Praise the Lord for the gift of friendship and fellowship. Praise the Lord!
+
