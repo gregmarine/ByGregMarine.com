@@ -8,3 +8,5 @@ Christmas Day itself has been different for me most years after my childhood. In
 
 I've talked about my past hangups with celebrating these holidays as *religious* holidays...LOL I'm grateful God answered our prayers about this. He's helped me find a balance between the *flesh* and the *spiritual* aspects of my celebration. First of all, it isn't about *meeeeeee*...LOL It's all about Him. Second of all, everything about us wells up from the heart. If I keep my heart in the right place, there isn't any wrong way for me to celebrate these as Holy Holidays.
 
+I love that 26 years ago I gave my heart to Jesus in a United Methodist Church. Today, I celebrate Christmas at a United Methodist Church. My path between that night and tonight wasn't a straight one...hehehe But nonetheless, God has been with me at all times. And I'm grateful for all he has done. And I am grateful for connections such at these I'm experiencing today.
+
