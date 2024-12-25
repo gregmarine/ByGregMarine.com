@@ -16,3 +16,9 @@ The first service just wrapped up. It was a lot of fun. It was a bit disjoined. 
 
 I'm going to have an early dinner today. I'll be making it here soon. I decided to go to the grocery after work so I could get taco supplies. I'll be having chorizo tacos this week. I'm doing it an hour early because the next service begins at 5pm. After that service will be my call with Cherie. So I wouldn't be doing dinner after the 5pm service...hehehe I didn't want to wait until after the 7pm service to have a meal. So, early it is! I'll just have my usual snack after the 7pm service. That will be a little early for me as well. But then again, I'll be heading to bed early...LOL I'd like to get up early tomorrow for my Christmas Disney Day...LOL
 
+The second service was pretty much like what I've experienced on a typical Sunday with CUMC. It was labeled the modern service. So, that makes perfect sense...hehehe
+
+It was wonderful to see Cherie again. It had been a few weeks due to my traveling to Indiana. We opened up the call with some fellowship. I read from the Word, we did communion, and she spoke a prayer. Then we opened our gifts for each other. After gifts, we had a wonderful time of friendship.
+
+The gift time was amazing...hehehe She gave me an exclusive original drawing of Budford and Joshie. She included the Mickey ears that were supposed to arrive for our November Disneyland/DCA adventure. There was a postcard that dates back to when she went to Disneyland when she was six...hehehe She gave me a LA Dodgers World Series Champions shirt that matchers her's. And there is a beautiful and unique, handmade wooden cross that was made in Jerusalem. All of this was in a few gift boxes that were so beautiful. I feel incredibly blessed to have such an amazing friend. All of the gifts have special meaning and I cherish them all. All this came with a hand written note that explains all of the gifts as well. My heart is so full <3
+
