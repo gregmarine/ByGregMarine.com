@@ -26,4 +26,6 @@ The third service was a traditional worship. Traditional meaning more like vinta
 
 Something I've said a bit lately is that *it isn't about me, it's about him*. Cherie and I talked about that phrase a little today. Something I rarely do is take the phrase deep to what it really means for me. But we did talk about it and I discovered she might feel the same as I do. Yes, it's about God. But it's also about the relationship with God. We aren't the point. He is. But it isn't a one way street. Like in any healthy relationship, it goes both ways. It requires a certain level of connection. That is different for all of us. Each of us need to connect to God in our own unique ways. So, things like church aren't about me...they are about us (he and I).
 
-As part of the conversation, I admitted that 
+As part of the conversation, I admitted that it seemed like I was forcing myself to go to church. I stopped going for other people, such as my parents. And I finally got to where I was only going for my relationship with God. But I also had this feeling of obligation to go...LOL You know, as if it were my duty as a Christian. Sort of like that idea of trying to earn his favor or something. In a way, it was like I was making it about me.
+
+Now that I no longer feel that way, I have a new hope for finding a church I can connect with. I think I'll continue going to the satellite location for theChapel for now. But I'm thinking I'll explore next year. I'll find connection.
