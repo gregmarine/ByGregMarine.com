@@ -847,6 +847,10 @@ export default defineConfig({
                       {
                         text: 'Lovely Lessons in Litter',
                         link: '/2024/12/20_lovely-lessons-in-litter'
+                      },
+                      {
+                        text: 'Happy Christmas Eve',
+                        link: '/2024/12/24_happy-christmas-even'
                       }
                     ]
                   }
