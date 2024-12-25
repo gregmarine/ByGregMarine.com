@@ -24,3 +24,6 @@ The gift time was amazing...hehehe She gave me an exclusive original drawing of 
 
 The third service was a traditional worship. Traditional meaning more like vintage to me. The sort of experience I had in church back in the 80s. Of course, church was like that before the 80s...but I wasn't around before then...hehehe Although the sound wasn't available for some of it, the traditional service is more my vibe. I didn't realize how much I missed that *style* of worship. I may need to explore this more...
 
+Something I've said a bit lately is that *it isn't about me, it's about him*. Cherie and I talked about that phrase a little today. Something I rarely do is take the phrase deep to what it really means for me. But we did talk about it and I discovered she might feel the same as I do. Yes, it's about God. But it's also about the relationship with God. We aren't the point. He is. But it isn't a one way street. Like in any healthy relationship, it goes both ways. It requires a certain level of connection. That is different for all of us. Each of us need to connect to God in our own unique ways. So, things like church aren't about me...they are about us (he and I).
+
+As part of the conversation, I admitted that 
