@@ -10,3 +10,9 @@ There wasn't any traffic to speak of on my way to Disney. That was to be expecte
 
 Arriving at Disney's Ticket and Transportation Center (TTC) so early meant I was able to get a great parking spot. It wasn't too far from security. I don't mind parking far now that I'm healthier. But I knew my day would be long and I'm glad I didn't have far to walk after such a long day...hehehe
 
+After I made it through security, I headed over to the Joffrey's kiosk for a cup of coffee. I then headed to the fiery that goes across Seven Seas Lagoon. The wait on the boat before we set sail across the lagoon was so long that I drank the entire cup of coffee before we left the dock...LOL But that meant that I didn't need to hassle with that cup once I arrived at Magic Kingdom...hehehe
+
+I arrived at MK shortly after 8am. Technically, I missed *rope drop*...LOL But that's okay. It was still early enough to count as at least being there about the time it opened. After I took some quick videos, I made my way to get my first set of PhotoPass pictures for the day! I enjoy doing the photos. I don't always like looking at them. I mostly do those to share with others. But it is fun to have them taken. I feel famous...LOL jk And the *magic shots* are always fun. It gives me the chance to feel *animated*...hehehe
+
+Next, I made my way to a quick service to get some breakfast. Yeah, I'll not be doing that breakfast again. I went to *The Friar's Nook*. I had a sausage, egg, and cheese bagel with *potato barrels* (tater tots). Those were mid at best. I did enjoy the eggnog shake, though. I went there for the shake mostly. But I also had never been there before. So, I thought I'd try something new. A one and done experience for me...LOL
+
