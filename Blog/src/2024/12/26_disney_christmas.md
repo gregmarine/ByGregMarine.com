@@ -16,3 +16,16 @@ I arrived at MK shortly after 8am. Technically, I missed *rope drop*...LOL But t
 
 Next, I made my way to a quick service to get some breakfast. Yeah, I'll not be doing that breakfast again. I went to *The Friar's Nook*. I had a sausage, egg, and cheese bagel with *potato barrels* (tater tots). Those were mid at best. I did enjoy the eggnog shake, though. I went there for the shake mostly. But I also had never been there before. So, I thought I'd try something new. A one and done experience for me...LOL
 
+I wasn't sure what attraction(s) I was going to ride at MK. I started to walk around and came across Space Mountain. I realized it had been a while since I've ridden it. The wait time was 50 minutes. I didn't really have any set plans in the morning. So I decided I'd do it. I soon realized they do a special holiday edition...hehehe So I quickly became happy with the choice. I hadn't ever ridden that version.
+
+The wait was much shorter than 50 minutes. Plus I told them I was a single rider and they sent me down a special path. I skipped about 15 minutes worth of people after having only been in line for about 20 minutes...LOL I really enjoyed the special holiday edition. It's basically Christmas lights and music. In the ride photo, I look like I'm a time travel visiting from the 1920s...LOL
+
+After that, I did Carousel of Progress. And I tried to do some shopping. They didn't have what I was looking for, though. Before I left MK, I decided to see if the barbour shop had availability for my first haircut in about 5 years. They did and I got a trim...hehehe That was a fun experience. My last haircut was at the same place just before the pandemic shut the world down. Technically, I had another haircut after that...but it was to remove my hair so that I could shave my head...LOL
+
+Shortly after I put my name in for the haircut, someone else came to put their name in. I was told I'd be waiting about 10 minutes. They were told it would be 20...LOL I wasn't in any hurry. So, I went to the Cast and asked them to switch our names so *Rick* could go before me...hehehe
+
+As I continued to wait, someone came up to me to ask where the Starbucks was. I went ahead and directed them to it since I knew where it was. They thought I was Cast with my dapper attire...LOL I enjoyed being able to help them, though.
+
+I was called for my haircut and got *Cari*. She did a great job and was a lot of fun to talk to. We did a video selfie after I was done. They don't allow tipping on credit cards and I didn't have any cash. So the Cast that took my payment told me where the ATM was. I walked over to the ATM to get some cash and then returned to the barbour shop to give Cari her tip...hehehe
+
+That was the end of my time at MK. So I made my way over to EPCOT for my lunch reservation.
