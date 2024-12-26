@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: TBD
+      link: /2024/12/26_
+    - theme: alt
       text: Happy Christmas Eve
       link: /2024/12/24_happy-christmas-even
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Trashcan
       link: /2024/12/18_trashcan
-    - theme: alt
-      text: Blessings and Lessons
-      link: /2024/12/17_blessings-and-lessons
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

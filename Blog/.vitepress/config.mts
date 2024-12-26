@@ -851,6 +851,10 @@ export default defineConfig({
                       {
                         text: 'Happy Christmas Eve',
                         link: '/2024/12/24_happy-christmas-even'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/12/26_'
                       }
                     ]
                   }
