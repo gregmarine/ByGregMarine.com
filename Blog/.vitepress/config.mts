@@ -859,6 +859,10 @@ export default defineConfig({
                       {
                         text: 'I Love My Cross!',
                         link: '/2024/12/26_i-love-my-cross'
+                      }},
+                      {
+                        text: 'TBD',
+                        link: '/2024/12/27_'
                       }
                     ]
                   }
