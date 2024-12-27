@@ -8,8 +8,11 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/12/26_
+      text: I Love My Cross!
+      link: /2024/12/26_i-love-my-cross
+    - theme: brand
+      text: Disney Christmas
+      link: /2024/12/26_disney_christmas
     - theme: alt
       text: Happy Christmas Eve
       link: /2024/12/24_happy-christmas-even

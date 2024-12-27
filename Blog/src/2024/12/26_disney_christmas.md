@@ -1,6 +1,6 @@
 # Disney Christmas
 
-Today is a doubleheader journal entry day...hehehe The other entry is a timestamp entry for my day. This one will be about my Disney Christmas yesterday. I failed to journal about Disney Thanksgiving. Which is perfectly fine. It wasn't my first time doing Disney for Thanksgiving. But this is my first Christmas at Disney. It is so special.
+Today is a doubleheader journal entry day...hehehe The [other entry](./26_i-love-my-cross) is a timestamp entry for my day. This one will be about my Disney Christmas yesterday. I failed to journal about Disney Thanksgiving. Which is perfectly fine. It wasn't my first time doing Disney for Thanksgiving. But this is my first Christmas at Disney. It is so special.
 
 I went to bed *early* on Christmas Eve expecting that I'd want to get up early Christmas morning and *rope drop* Magic Kingdom. Early is relative. So, going to bed early just meant I wasn't going to stay up past midnight as I usually do. I think I was in bed by 10:30pm that night...hehehe So not that early for this timezone...LOL I think I was awake around 4am Christmas morning.
 

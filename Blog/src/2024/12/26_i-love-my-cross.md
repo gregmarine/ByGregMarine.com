@@ -1,4 +1,4 @@
-# TBD
+# I Love My Cross!
 
 ## 07:45am
 
@@ -20,11 +20,11 @@ What my parents got was through Amazon. So the beans were probably roasted earli
 
 I've missed having the Sumatra beans from Joffrey's. So, I order that again. I also ordered a gingerbread themed flavor that is new this year. And I went with an African blend for a third option. It will be nice to have a variety again...hehehe When I order directly, they roast to order. It will take a few weeks to get them. But they'll be fresh roasted; which makes it all taste so much better than store bought...LOL I may need to get a little more from Sprouts before the order arrives, though. I'm not sure I have enough to make it a few weeks...LOL
 
-I originally planned to go to Disney for NYE again this year. I'm on the fence about it, now. I haven't canceled my park reservations yet. I was thinking about staying in a hotel that night and enjoying the parks both days. I did decide not to take NYE off. I'm hoping to still get a half day like I did for Christmas Eve. But I may not go to WDW as originally planned. I'll want to decide soon, though. I'd like to free up the reservations. Although, that doesn't seem to matter so much at WDW. They don't care if you don't show up...LOL They are more lax about it than DLR is...LOL
+I originally planned to go to Disney for NYE again this year. I'm on the fence about it, now. I haven't canceled my park reservations yet. I was thinking about staying in a hotel that night and enjoying the parks both days. I did decide not to take NYE off. I'm hoping to still get a half day free like I did for Christmas Eve. But I may not go to WDW as originally planned. I'll want to decide soon, though. I'd like to free up the reservations. Although, that doesn't seem to matter so much at WDW. They don't care if you don't show up...LOL They are more lax about it than DLR is...LOL
 
 I'm thinking I'd like to relax as this year comes to a close and the new year begins. New Year being on January first no longer has the same meaning to me. This year, I adopted the concept of my personal New Year being on my birthday. That'll be on March 20th. I'll probably do something special around that time. I have been doing that for a few years now. And now, the day has more meaning as my personal New Year's Day...hehehe
 
-That said, I'll still stay up until 12am to ring in the *new year*. I am also thinking about saying up until 3am to ring in California's *new year*...hehehe
+That said, I'll still stay up until 12am to ring in the *new year*. I am also thinking about staying up until 3am to ring in California's *new year*...hehehe
 
 ## 11:00am
 
@@ -40,7 +40,7 @@ The cross is nothing more than a symbol, really. But deep down, I really wanted 
 
 Having a cross, such as the one she gave me, is something truly special. It wasn't the sort of thing I was going to passively look for and buy just to have one. But it also wasn't something I was actively praying God to lead me to. So, this particular cross is a true Godsend I was not expecting. Just like my friendship and fellowship with Cherie.
 
-I didn't take the time to write this on Tuesday. The day was full and I cut it short by going to bed *early*. And having a few days to process my thoughts and feelings internally as been a good thing. This is one of the most significant gifts I've received from someone in all my life. Thank you, Cherie, for my cross <3 It was as if you read my heart like a story and just knew what the story needed <3
+I didn't take the time to write this on Tuesday. The day was full and I cut it short by going to bed *early*. And having a few days to process my thoughts and feelings internally has been a good thing. This is one of the most significant gifts I've received from someone in all my life. Thank you, Cherie, for my cross <3 It was as if you read my heart like a story and just knew what the story needed <3
 
 ## 01:30pm
 
@@ -56,9 +56,9 @@ One thing I'm considering is journaling every day. Even if it is only a few para
 
 Speaking of goals this year, I have just 4 days left in my *Bible in a Year* plan...YAY!!! In those 4 days, I'll be reading all of Revelation. So, I'm finished with all but the *yet to be fulfilled prophecy*. I'm really happy that this was a goal I am able to accomplish this year.
 
-Also, I'm continuing to be disciplined in eating at home when not traveling or out all day...such as my time at Disney. And I've been doing really well at keeping the dishes cleaned by hand. I very rarely use the dishwasher now. I tend to clean by hand shortly after meals. I've also been in the habit of drying those dishes and putting them away after I've finished washing. Sometimes I still leave them in the dish drainer. But I mostly put them away now.
+Also, I'm continuing to be disciplined in eating at home when not traveling or out all day...such as my time at Disney. And I've been doing really well at keeping the dishes cleaned by hand. I very rarely use the dishwasher now. I tend to clean by hand shortly after meals. I've also been in the habit of drying those dishes and putting them away after I've finished washing. Sometimes I still leave them in the dish drainer. But I mostly put them away immediately now.
 
-These new(ish) habits are setting the groundwork for more growth in my health in the coming year. The food is healthy for me body. The habits are good for my mental health. Combined, my spirit is impacted as well.
+These new(ish) habits are setting the groundwork for more growth in my health in the coming year. The food is healthy for my body. The habits are good for my mental health. Combined, my spirit is impacted as well.
 
 ## 03:00pm
 
@@ -78,9 +78,16 @@ I'm a little tired this evening. I'm not sure that I'll go to be early tonight. 
 
 I did two days worth of the Bible study...hehehe I'll probably go back over what I did tonight on Saturday <3 I did it earlier than I usually do the Bible study in the evening. It was nice.
 
-I posted by outfit from yesterday in two of my new Facebook groups. I've gotten a few comments and a lot of reactions. I think people are liking what I did as much as I like it. Actually, I love how it turned out...not just like...LOL The one group is Dapper Orlando. It seems to be a group just for the Orlando area; which makes sense, of course. It's mostly Disney. But I think Universal is included. The other group is a Disney Bounding group. I see people from both DLR and WDW in that group. I posted in that one because I was bounding as a *Dapper Dan*...hehehe
+I posted my outfit from yesterday in two of my new Facebook groups. I've gotten a few comments and a lot of reactions. I think people are liking what I did as much as I like it. Actually, I love how it turned out...not just like...LOL The one group is Dapper Orlando. It seems to be a group just for the Orlando area; which makes sense, of course. It's mostly Disney. But I think Universal is included. The other group is a Disney Bounding group. I see people from both DLR and WDW in that group. I posted in that one because I was bounding as a *Dapper Dan*...hehehe
 
 Speaking of that, I did have a few people ask me if I was a Dapper Dan. I thanked them for the compliment and then explained I was just dressed as one. I thanked them because that look is exactly what I was going for. To have them believe I might be a Dapper Dan was one of the greatest compliments for a bounding like this <3
 
 I'll be writing up about my day from yesterday in another journal entry. I'll try to have it finished tonight. If I don't, I'll still finish it up this week.
 
+## 10:00pm
+
+I just finished writing up a summary of my day yesterday. You can read it [here](./26_disney_christmas). At the end, I made note of having captured some videos to send to share my day. I'm glad I did that. It gives me something to go back to for reliving the day. It also got me thinking about how I'd like to start doing a video journal with a montage of those videos. Something I'll probably start doing in 2025. I can then link to the videos from this journal as I make them.
+
+Between the two entries, I wrote a lot today...LOL I also wrote a lot in my Bible study notes. And I think I'll do some work on the short story, *Strawberry Patch*, for *The Porch*. Wow! HAHAHA
+
+I'm not dragging this evening like I presumed I would be...LOL
