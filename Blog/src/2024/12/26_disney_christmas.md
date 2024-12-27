@@ -48,3 +48,16 @@ By the end of that chat, it was time for me to head back over to EPCOT. I wanted
 
 Because of that ride's popularity at Christmas, the line was a tad long and the ride got backed up a bit at the end of the attraction. After I got off, I had to walk very fast over to the American pavilion to get in the line for my spot where the Candlelight Processional was...hehehe But I made it in time just before they started to seat people. When I got into the seating area, I noticed a lot of empty space on the front row. So I headed on down there to get a seat.
 
+As I got to talking with the lady next to me on the front row, we got to talking about the importance of a daily relationship with God. That it is a lifestyle and not just something we do on Sunday or Wednesday (as some churches have a Wednesday service too). We got on the subject because she asked me if I played an instrument...LOL I told her I used to. And the conversation ended up on how my brother is now playing his electric bass in the worship band from time to time. The conversation was such a blessing.
+
+The Candlelight Processional was amazing! Edward James Olmos was the narrator. The live choir and orchestra were amazing. It is basically a presentation of the *greatest story ever told* with scripture being read and music to accompany the story. Seeing that at Disney is pretty special. Between the parks in California and here in Florida, I believe they've been doing this for over 60 years now.
+
+The entire presentation was about 55 minutes long. So, I didn't end up having time to go over to Hollywood Studios to do all that I wanted to over there. I technically could have gone over just to say I hit all 4 parks. But I wouldn't have had time to really do anything. I would have wanted to see a show, do a ride, and have something to eat in order to declare that I actually visited the park...hehehe So, I stayed a little longer than planned at EPCOT and ate a few things there.
+
+On my way out of EPCOT, I did one last PhotoPass experience to have my pictures in front of a Christmas tree at night. I love how those turned out. I then made my way back to the TTC and headed home.
+
+In total, I was away from home about 18 hours after only having about 5 hours sleep. That's why I'm so surprised I'm functioning today...LOL
+
+It was a blessed day. It was my time being away from home (Indiana) on Christmas. But I was at home (Disney) on Christmas...hehehe
+
+I sort of said this earlier...but I think my favorite thing was helping people. It was a little thing...but perhaps it meant a lot to them in the moment. I'm so glad God provided the path for me to be there yesterday. I don't really know if I'll ever do Christmas at Disney again. But I'm grateful I did it this year <3
