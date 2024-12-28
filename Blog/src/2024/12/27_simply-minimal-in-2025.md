@@ -1,0 +1,37 @@
+# Simply Minimal in 2025?
+
+Happy FriYAY!!! It's the last Friday of 2024. I'm really happy about the year. And I'm not sad it is coming to a close. Lord willing, 2025 will be here next week. I'm excited to continue this journey <3
+
+I do not have a formal process for deciding what my goals are each year. I haven't ever really made New Year's resolutions or anything. But I do informally make some goals and themes for each year now; after my 2021 renaissance. 2022 was a year of escape. 2023 was a year of health and self-discovery with some self-awareness. 2024 has been a year of faith, hope, love and reconnecting with God. 2025...well, I believe I have settled in on simplicity and minimalism.
+
+I attempted to be minimalistic at the end of 2021. But over the last few years, I tended to bring complexity back to my life...hehehe That's easy to do...LOL I hope to give simplicity a try again in 2025.  For a little while, I've been thinking and praying about what the theme for this coming year might be. This morning, it came to me.
+
+This is an informal goal really. I'll make some plans to put this into action. But since the theme is *simplicity* and *minimalism*, I'm not going to over complicate this with a strategic plan...LOL I'll take small steps as I go along and see what happens throughout the year. And I'll leave plenty of room for flexibility <3
+
+Most of this year was unplanned and unexpected. Through the process God has been taking me through these past 3 years, I've learned that if I seek comfort and validation from people, places, and things not meant for me, I might never be satisfied with my life. When I wait and hope for what is meant for me, comfort and validation often comes from unexpected people, places, and things.
+
+So, I'm setting the *simple* goal of keeping things simple in 2025...LOL I'll likely do little goals to achieve that which support the idea each month. I'll start off with at least one thing each month. But I'll leave room for more if the spirit leads. I think for January, I'll start off with finding something in my home to remove. I may start with the extra desks I'm not using. For now, I may just put them in my storage garage. At the moment, all they're doing is taking up space and provide a spot to dump things...LOL After that, I'll find something else each month to remove. I'm sure I can find 12 or more things to take out of my living space...LOL
+
+Beyond that, I may find other things to simplify. Removing things from the home is more about becoming minimal. There are other things I can do to also simplify. I've already started doing that with my food. And I've canceled most of my TV streaming services already. Just like when I started the process of growing closer to God through a daily walk with him in October 2023, and it spilled into this year, I've kind of done the same this year. I started to simplify already and I'm just carrying that momentum into 2025.
+
+As I said, this will not be anything formal. Just small sustainable changes that will lead to new habits. And those new habits will lead into a changed lifestyle. Plus removing unnecessary things from my home will de-clutter the space I live in. If all goes well, I'll have a simpler and more minimal life a year from now.
+
+For the time being, I think I may continue to worship at theChapel's satellite location here in Port Richey. A week from Sunday, we'll begin the new year's prayer and fasting season. I think I'd like to participate again this year. I'm not sure I'll stay after that. So, it might be a good way to officially end my time there.
+
+It still isn't clear where I belong in today's church. In February, I may try a more traditional worship. I can spend the month of January checking out other churches in the area through their websites. Most churches these days have their services available as recordings on YouTube. So I can try out their experiences before actually going. And I'll continue tuning into CUMC out of Virginia Beach.
+
+In a way, this supports my goal of simplifying. These modern worship experiences are loud and distracting for me...LOL It's as if I'm a really old person or something...LOL But I still see folks my parents' age attending theChapel...hehehe So, I think it's just that I haven't found connection in the modern churches. That is perfectly fine. I think the reason there are so many churches is because we all have different ways to connect. I just haven't found my connection yet, is all. God will lead me...and I will follow <3
+
+I sure did write a lot yesterday...hehehe I did a timestamp journal entry, journaled about my day at Disney on Christmas, and I finished the first draft of the short story I was working on. Plus, I did 2 days worth of this week's Bible study. The only reason I stopped writing last night was because time came to an end for the day...LOL And as you can see from this journal entry, I still have quite a bit to say today as well...LOL
+
+I've really enjoyed writing so much this year. I've missed it for years. Anyone who has been following me on social media since the pandemic knows I am a thinker. The pandemic is what triggered me to start sharing my thoughts with the world again. Long ago, I once shared my thoughts. But I eventually stopped due to life's circumstances. Getting back into journaling this year has opened the floodgates of my soul, so to speak...hehehe
+
+Technically, I started journaling last year. I have 27 entries in a private journal from last year that began in August. But it wasn't until January this year before I started this blog. Of course, I've also journaled privately with the devotionals and Bible study. Only Cherie and I get to read those notes...hehehe I've talked about doing another private journal for my eyes only. I may make that a goal for 2025 too...hehehe
+
+The main purpose of a private journal, for me, is to be completely raw. I can write anything on my mind without concern for who is reading it or whether or not it makes sense to anyone. I don't have to even complete my thoughts. I can just write. I don't have any super secret things to write about. I just don't feel everything I think about needs to be out here in the public. I could even argue that some of what I did publish this year would have been best left in a private journal.
+
+I did a little more of the Bible study lesson tonight. I'll finish that up tomorrow I think. I'm a bit too tired to keep working on it tonight to finish catching up on my usual routine with it. Christmas really took up a lot of my extra time this week. There is nothing wrong with that, of course. It was an amazing Christmas <3
+
+I'm going to see *Mufasa: The Lion King* tomorrow. I'll be seeing it *with* Cherie and her mom. They will go to a theatre where they live and I'll see it in a theatre near me. I was able to secure a ticket at the exact same time as theirs...hehehe It will be another fun shared experience with her. This time, also with her mom...LOL
+
+I took a step forward in one of my new writing projects today. I can't wait to see how this one works out. It isn't anything like what I've ever thought of doing. It will be a fun project. If it all works out, I'll have an amazing work to get published. It seems the [writer's block](../01/18_writers-block-squared#writer-s-block-part-2) I experienced almost 2 years ago is becoming a distant memory...LOL
