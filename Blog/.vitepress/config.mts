@@ -859,10 +859,10 @@ export default defineConfig({
                       {
                         text: 'I Love My Cross!',
                         link: '/2024/12/26_i-love-my-cross'
-                      }},
+                      },
                       {
-                        text: 'TBD',
-                        link: '/2024/12/27_'
+                        text: 'Simply Minimal in 2025?',
+                        link: '/2024/12/27_simply-minimal-in-2025'
                       }
                     ]
                   }
