@@ -863,6 +863,10 @@ export default defineConfig({
                       {
                         text: 'Simply Minimal in 2025?',
                         link: '/2024/12/27_simply-minimal-in-2025'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/12/28_'
                       }
                     ]
                   }
