@@ -865,8 +865,8 @@ export default defineConfig({
                         link: '/2024/12/27_simply-minimal-in-2025'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/12/28_'
+                        text: 'Rough Day, In a Good Way',
+                        link: '/2024/12/28_rough-day-in-a-good-way'
                       }
                     ]
                   }

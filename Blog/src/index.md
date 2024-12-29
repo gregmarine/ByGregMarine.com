@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/12/28_
+      text: Rough Day, In a Good Way
+      link: /2024/12/28_rough-day-in-a-good-way
     - theme: alt
       text: Simply Minimal in 2025?
       link: /2024/12/27_simply-minimal-in-2025
