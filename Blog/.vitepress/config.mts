@@ -869,8 +869,9 @@ export default defineConfig({
                         link: '/2024/12/28_rough-day-in-a-good-way'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/12/29_
+                        text: 'Just Being Me',
+                        link: '/2024/12/29_just-being-me'
+                      }
                     ]
                   }
                 ]
