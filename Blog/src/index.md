@@ -11,6 +11,9 @@ hero:
       text: Shave and a Haircut, Two Bits
       link: /2024/12/30_shave-and-a-haircut-two-bits
     - theme: alt
+      text: Shave and a Haircut, Two Bits
+      link: /2024/12/30_shave-and-a-haircut-two-bits
+    - theme: alt
       text: Just Being Me
       link: /2024/12/29_just-being-me
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Simply Minimal in 2025?
       link: /2024/12/27_simply-minimal-in-2025
-    - theme: alt
-      text: I Love My Cross!
-      link: /2024/12/26_i-love-my-cross
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

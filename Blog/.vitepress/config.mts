@@ -875,6 +875,10 @@ export default defineConfig({
                       {
                         text: 'Shave and a Haircut, Two Bits',
                         link: '/2024/12/30_shave-and-a-haircut-two-bits'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2024/12/31_'
                       }
                     ]
                   }
