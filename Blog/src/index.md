@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2024/12/30_
+      text: Shave and a Haircut, Two Bits
+      link: /2024/12/30_shave-and-a-haircut-two-bits
     - theme: alt
       text: Just Being Me
       link: /2024/12/29_just-being-me
