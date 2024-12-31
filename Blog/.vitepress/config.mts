@@ -871,6 +871,10 @@ export default defineConfig({
                       {
                         text: 'Just Being Me',
                         link: '/2024/12/29_just-being-me'
+                      },
+                      {
+                        text: 'Shave and a Haircut, Two Bits',
+                        link: '/2024/12/30_shave-and-a-haircut-two-bits'
                       }
                     ]
                   }
