@@ -1,4 +1,4 @@
-# TBD
+# Goodbye 2024, Hello 2025
 
 I was talking with Dan this morning about how I planned to stay home tonight for NYE. This was one of my responses to him...
 
@@ -28,3 +28,22 @@ I found so many new ways to express myself this year. Whether it be making silly
 
 It really is all about balancing my life. Being serious and deep while also being silly and playful. Same goes for diet and exercise. Laughter and crying. You name it! Yin yang...hehehe I use to think I had times when my balance would be off and I would go into an uncontrolled spin or something. I never feel that anymore. What I had to do was give control over to God...LOL
 
+Work let us out a few hours early today. It wasn't as early as they did on Christmas Eve. But I always appreciate all the blessings I have with them. 2 hours was still amazing. It also gave me a chance to get in a nice nap...LOL I won't be working until Thursday as I have tomorrow off for New Year's Day :)
+
+I took a couple of leisurely walks today. It was nice to just walk and pray. I've been walking at an exercise pace for so long now, it was really nice to just walk instead...LOL I was able to capture some videos. Some of them are of a few birds. One of them is the one I named Bob...hehehe I have no idea if it is always the same bird. But it has been fun seeing the birds this year. I may try to get some photos out of the videos. Something else that has been fun the last few months...hehehe
+
+I made a list of my New Year's Resolutions and things I'd like to do in 2025. The resolutions are things I plan to be unwavering with. The other things are just some basic stuff I'd like to try. I'm sure there will be other things added to the list throughout the year...well, not really added. I have a good feeling that some unexpected things will come to the journey again this year...hehehe I'm looking forward to all of it <3
+
+As I said above, I'll be dressing up for my private NYE *party*...hehehe I had planned to dress dapper for my time at the Disney parks. But since I decided to stay home, I wasn't going to bother. But then I realized, I have fun dressing up. I'm not going anywhere. So it is a bit silly and weird. That's okay...hehehe It'll be fun!
+
+I'll be celebrating the new year twice again this year...LOL The first one will be in my timezone. The second is the Pacific timezone for California. I did that last year too. But last year, I was at Disney. I got back to my room before 3am for the California celebration. It was mostly just me staying awake and then sending a few texts...hehehe This year, Cherie and I will be starting the new year with communion.
+
+I'll also be listening Guy Lombardo's *Auld Lang Syne* at the California celebration. Cherie always listens to it. After we listen to that, we'll do communion. For my timezone, I'll watch the Time Square ball drop. I may make a few phone calls too...hehehe In order for me to watch the ball drop again for California, though, I'd have to watch it on like YouTube or something. I don't have any west coast feeds of it. Cherie mentioned they show it there too on the 3 hour delay for the time difference.
+
+I'm going to have a second dinner tonight. Staying up through 3am tonight will take a little more fuel than I typically have in a day...LOL I actually didn't eat much at my normal dinner. I don't eat nearly as much as I did before my health journey began...LOL I'm glad I don't overeat anymore.
+
+Well, I feel like I'm babbling now...hehehe I really wanted to journal today since it is the last day of the year.
+
+Goodbye 2024! You've been great! Thank you for being on the journey <3
+
+Hello 2025! It's nice to meet you! Welcome to the journey <3

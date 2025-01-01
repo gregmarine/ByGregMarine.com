@@ -877,8 +877,8 @@ export default defineConfig({
                         link: '/2024/12/30_shave-and-a-haircut-two-bits'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2024/12/31_'
+                        text: 'Goodbye 2024, Hello 2025',
+                        link: '/2024/12/31_goodbye-2024-hello-2025'
                       }
                     ]
                   }
