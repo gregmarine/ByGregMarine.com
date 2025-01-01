@@ -1,10 +1,10 @@
 {
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.4",
-    "vitepress": "^1.2.3",
-    "vue": "^3.4.27"
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "vitepress": "^1.5.0",
+    "vue": "^3.5.13"
   },
   "scripts": {
     "docs:dev": "vitepress dev",
