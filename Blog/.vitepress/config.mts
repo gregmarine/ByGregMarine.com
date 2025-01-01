@@ -883,6 +883,22 @@ export default defineConfig({
                     ]
                   }
                 ]
+              },
+              {
+                text: '2025',
+                collapsed: true,
+                items: [
+                  {
+                    text: 'January',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'Happy New Year!',
+                        link: '/2025/01/01_happy-new-year'
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
