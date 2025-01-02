@@ -14,7 +14,30 @@ Today was pleasant as well. I've managed to touch most of the items on my goals 
 
 I started a *Bible in a Year* plan today that is called *The Bible Recap*. It is very similar to the one I did last year except it also includes some videos that highlight some things about what was read that day. So, it is more of a deeper dive than just reading it. Something I'm considering also doing with this is journaling daily about what I've read. I didn't do that today. I may do some catch up on that this weekend. I need to set up my journaling flow. Saturday will be a good day for that. I didn't start it early enough today to work it out today. Since I work the next 2 days, I'll likely not have enough time to work it out either. So, Saturday is when I'd like to work out my journaling workflow for the Bible in a Year.
 
-One of my things in the Goals category for this year is to do a daily photo and post it on Instagram, Threads, and Facebook. The latter 2 because it's easy to cross post from Instagram...hehehe I've called it *Year Through My Lens*. I've decided to make it a goal instead of a resolution. It is art and a form of expression. It may or may not impact my life in some profound way; which is how I view resolutions. But it will be fun. If I do indeed to it daily, I'll have 365 photos for the year. There'll be many more than that. I capture a lot each day. But for this, I'll pick my favorite.
+One of my things in the Goals category for this year is to do a daily photo and post it on Instagram, Threads, and Facebook. The latter 2 because it's easy to cross post from Instagram...hehehe I've called it *Year Through My Lens*. I've decided to make it a goal instead of a resolution. It is art and a form of expression. It may or may not impact my life in some profound way. I view resolutions as being something that will make a considerable impact on my life. But the photos will be fun. If I do indeed to it daily, I'll have 365 photos for the year. There'll be many more than that. I capture a lot each day. But for this, I'll pick my favorite.
 
 ![Flower](./media/IMG_4726.jpeg)
 
+I'll include the honorable mentions at the end of this entry...hehehe
+
+I took down my Christmas tree and put it back into storage. I also cleared one of my desks and consolidated those workspaces into another desk. I still have 2 other desks to clear up. I have 4 desk total...LOL My aim is to get it down to 1. I may still keep 1 other desk around if I get my 3D printer back up and running. That work needs it's own desk. But everything else I do can be done from a single desk. I have ideas for simplifying that even more. But that'll be a task for another month. For this month, my goal is to simplify down to a single desk...hehehe Making some effort toward that today felt good.
+
+I didn't get around to doing any creative writing today. I had hoped to. I thought about doing some of that last night too. But didn't get to it last night either. My thinker is just tired...hehehe December was a really full month for me...in a good way. I think I'll be able to get some creative work done tomorrow night, though. I have some things cooking in my brain that I'm ready to get out.
+
+What will happen in 2025? I don't know what to expect. And I will refrain from having any expectations beyond knowing that God is good and his loving kindness endures forever. I'll work on my resolutions everyday and my goals on the days that are applicable. I'm going to keep moving forward on this journey and will remain alert to what God is doing. Happy New Year!
+
+As promised, the honorable mentions...hehehe
+
+![](./media/IMG_4721.jpeg)
+
+![](./media/IMG_4722.jpeg)
+
+![](./media/IMG_4723.jpeg)
+
+![](./media/IMG_4724.jpeg)
+
+![](./media/IMG_4725.jpeg)
+
+![](./media/IMG_4727.jpeg)
+
+![](./media/IMG_4728.jpeg)
