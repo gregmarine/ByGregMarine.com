@@ -16,7 +16,11 @@ This train of thought took me back over 20 years to a Bible study I was leading 
 
 The pastors believed we are responsible for everything in the Bible. The pastors and I had some debate about the whole thing. I can't say that I could completely understand what they were saying. But after the group was finished, several of the group members came up to me concerned about what the pastors said. To this day, I don't know what was right and what was wrong about either side of the debate.
 
-No matter how responsible we are to the things we don't understand about it, we are very responsible for what we say, share, or teach about the Bible. I feel accountable to what I've said about the Bible and what it is teaching me. *My Book* is full of occasions when *I was wrong* about what it says. I've missed the context. I've read it in ways it was never written to be read. And I've forgotten it is about God and not about me.
+No matter how responsible we are to the things we don't understand about it, we are very responsible for what we say, share, or teach about the Bible. I feel accountable to what I've said about the Bible and what it is teaching me. *My Book* is full of occasions when *I was wrong* about what it says. I've missed the context. I've read it in ways it was never written to be read. And at times I've forgotten it is about God and not about me.
+
+I also feel we are responsible to how we apply it to our lives. How I live my life in response to what I've read is important. Other people are watching how I live out this life. I want to be a light in this world so that others will Glorify God. I don't want to cause someone to stumble because I've misinterpreted the Bible and I'm doing something I shouldn't be doing.
+
+This is all abstract thought today. It takes balance to work all of this out. Focusing on my relationship with God is key to that balance. And it is a *relationship*. It's not a one way street I'm talking about. The Bible is all about God. But my relationship with him is all about us...he and I.
 
 I have replaced my mini paintings on the one shelf with a series of ensō paintings I did in late 2021. I feel they best represent how I feel going into this new year. God painted my life in a single stroke from beginning to end. I came from him and I'm going back to him. That's my *circle of life*...hehehe
 
