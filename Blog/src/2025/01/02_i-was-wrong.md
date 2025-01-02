@@ -24,5 +24,11 @@ This is all abstract thought today. It takes balance to work all of this out. Fo
 
 And, of course, I could be completely *wrong* about everything except the relationship part...LOL Admitting when *I am wrong* is the only way I can keep moving forward on the path to understanding. It's a humbling experience and one I must do to remain a good student of Jesus.
 
+This all is one of the many reasons I love to have a daily walk with God. Last year, part of that daily walk was doing a Bible in a year plan. I'm continuing that this year. I think originally it was a task to be able to have read the entire Bible. To clarify, it wasn't that I wanted to be able to *say* I have ready the entire thing...LOL The best way to know God is to read the Word of God.
+
+There are parts I simply do not understand. There are other parts that I thought I understood, but clearly did not. And still other parts that I'm learning new understanding with. Reading the Word has become just as important to me as eating, drinking, sleeping, and breathing...hehehe I also like to do some deeper studying as well. You can equate my *daily bread* to that of having breakfast, lunch, and dinner. Each thing I do has different ingredients to it. But it all nourishes my soul. The key ingredient is the Bible. All other ingredients must be wholesome as well. Just as I don't always eat ever meal each day, I don't always do my *daily bread* the same way every day. Must overall, it is a consistent balance.
+
+There isn't a right or wrong way to be doing these things for the most part. Each of us needs to find the balance we need to maintain our relationship with God. How that looks for each person could be different. I'd say the only wrong things are not to be in a relationship with God and to be finding *daily bread* from the wrong sources. Having a relationship with God is very important and it really does take a daily walk with him. And just like with the food we eat, the sources we consume God's Word from matter.
+
 I have replaced my mini paintings on the one shelf with a series of ensō paintings I did in late 2021. I feel they best represent how I feel going into this new year. God painted my life in a single stroke from beginning to end. I came from him and I'm going back to him. That's my *circle of life*...hehehe
 
