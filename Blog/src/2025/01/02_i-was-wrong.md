@@ -12,3 +12,11 @@ There isn't anything particular on my mind today that I was wrong about. A lot o
 
 I wonder how many of us are wrong about certain things and either carry on with ignorance of it or with pride and ignore it? I can think of times in my life when I have been guilty of both. I don't like to be ignorant or prideful. When I find out I'm wrong, I want to do something about it. If it is just knowledge, I'll seek it and the understanding of it to correct my thinking. If it is an action, I want to correct the mistake or make up for it somehow.
 
+This train of thought took me back over 20 years to a Bible study I was leading through my church at the time. One of the questions asked something to the effect of, *How responsible are we to the parts of the Bible we don't understand?* I chuckled at the question because I thought how could we be responsible at all for things we don't understand? Our pastors would go to a different small group each week during that study. The week we had that question was the week they came to my group...LOL
+
+The pastors believed we are responsible for everything in the Bible. The pastors and I had some debate about the whole thing. I can't say that I could completely understand what they were saying. But after the group was finished, several of the group members came up to me concerned about what the pastors said. To this day, I don't know what was right and what was wrong about either side of the debate.
+
+No matter how responsible we are to the things we don't understand about it, we are very responsible for what we say, share, or teach about the Bible. I feel accountable to what I've said about the Bible and what it is teaching me. *My Book* is full of occasions when *I was wrong* about what it says. I've missed the context. I've read it in ways it was never written to be read. And I've forgotten it is about God and not about me.
+
+I have replaced my mini paintings on the one shelf with a series of ensō paintings I did in late 2021. I feel they best represent how I feel going into this new year. God painted my life in a single stroke from beginning to end. I came from him and I'm going back to him. That's my *circle of life*...hehehe
+
