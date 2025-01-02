@@ -895,6 +895,10 @@ export default defineConfig({
                       {
                         text: 'Happy New Year!',
                         link: '/2025/01/01_happy-new-year'
+                      },
+                      {
+                        text: 'I Was Wrong',
+                        link: '/2025/01/02_i-was-wrong'
                       }
                     ]
                   }
