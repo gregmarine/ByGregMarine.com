@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: I Was Wrong
-      link: /2025/01/02_i-was-wrong
+      text: TBD
+      link: /2025/01/02_
     - theme: alt
       text: Happy New Year!
       link: /2025/01/01_happy-new-year
