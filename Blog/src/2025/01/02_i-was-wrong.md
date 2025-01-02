@@ -22,5 +22,7 @@ I also feel we are responsible to how we apply it to our lives. How I live my li
 
 This is all abstract thought today. It takes balance to work all of this out. Focusing on my relationship with God is key to that balance. And it is a *relationship*. It's not a one way street I'm talking about. The Bible is all about God. But my relationship with him is all about us...he and I.
 
+And, of course, I could be completely *wrong* about everything except the relationship part...LOL
+
 I have replaced my mini paintings on the one shelf with a series of ensō paintings I did in late 2021. I feel they best represent how I feel going into this new year. God painted my life in a single stroke from beginning to end. I came from him and I'm going back to him. That's my *circle of life*...hehehe
 
