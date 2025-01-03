@@ -1,10 +1,10 @@
-# TBD
+# Circle of Life
 
 *This year was supposed to be great. It's only the second day and I'm a loser...* ~ Ross Geller (FRIENDS S5.E11, *The One with All the Resolutions*)
 
-I'm on day two of no coffee...I'm not doing so well...LOL j/k I knew it would be hard. But listen, I've gone a few days without coffee before. Why is it so hard *this time*?!? LOL Actually, I think my body might be fighting something...hehehe I got 7 and half great hours of sleep last night. Yet, I've been dragging all day long...LOL I haven't felt this tired in years. But every time I have something to eat, I suddenly feel energetic and wide awake. I think this might mean it is more than just about not having coffee for a few days...LOL But I would really love a cup of coffee...or two...LOL
+I'm on day two of no coffee...I'm not doing so well...LOL j/k I knew it would be hard. But listen, I've gone a few days without coffee before. Why is it so hard *this time*?!? LOL I got 7 and half great hours of sleep last night. Yet, I've been dragging all day long...LOL I haven't felt this tired in years. But every time I have something to eat, I suddenly feel energetic and wide awake. I think this might mean it is more than just about not having coffee for a few days...LOL But I would really love a cup of coffee...or two...LOL
 
-I've decided I'm not doing the prayer and fasting plan that I intended to start next week. I don't feel like I need to go through the same plan I have done for the last few years. I can still connect with God in new ways. He's always doing new things in my life. Why not embrace that and change it up this year? The plan I was going to do was the same one theChapel will be doing. I think I'll do something different after all. I won't be attending that church anymore anyway.
+I've decided I'm not doing the prayer and fasting plan that I intended to start next week. I don't feel like I need to go through the same plan I have done for the last few years. I can still connect with God in new ways. He's always doing new things in my life. Why not embrace that and change it up this year? The plan I was going to do was the same one theChapel will be doing. I'll do something different. I won't be attending that church anymore anyway.
 
 I have replaced my mini paintings on the one shelf with a series of ensō paintings I did in late 2021. I feel they best represent how I feel going into this new year. God painted my life in a single stroke from beginning to end. I came from him and I'm going back to him. That's my *circle of life*...hehehe I placed 4 of them on the shelf. There's no significance to that number. It just happens to be the number of them I pulled out of my art tote...LOL
 
@@ -24,3 +24,6 @@ I really love how this one turned out. I don't love the *Year Through My Lens* t
 
 I watched *The Lion King II: Simba's Pride* tonight. It was silly but fun. Kind of like *Bambi II* was. I had heard of the movie long ago. But watching *Mufasa: The Lion King* last weekend got me thinking about how I had only ever seen the original and the live-action remake for watching Mufasa. I hadn't seen any of the other animated films. Time to catch up!
 
+Walt Disney passed away in 1966. Buzz Aldrin and Neil Armstrong landed on the moon in 1969. Imagine what the world would be like today had Walt Disney been alive to see people walking on the moon! Disney's imagination was beautiful. I wasn't around yet when he passed. But I feel like I miss him. I didn't know the man. I only know the stories about the man. I wonder what he was really like...hehehe
+
+Where will I travel and what will I do this year? Having no expectations leaves me to daydream about an amazing year ahead. One that I'm very much looking forward to <3

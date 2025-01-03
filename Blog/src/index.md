@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2025/01/02_
+      text: Circle of Life
+      link: /2025/01/02_circle-of-life
     - theme: alt
       text: Happy New Year!
       link: /2025/01/01_happy-new-year

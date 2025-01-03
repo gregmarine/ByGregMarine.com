@@ -897,8 +897,8 @@ export default defineConfig({
                         link: '/2025/01/01_happy-new-year'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2025/01/02_'
+                        text: 'Circle of Life',
+                        link: '/2025/01/02_circle-of-life'
                       }
                     ]
                   }
