@@ -899,6 +899,10 @@ export default defineConfig({
                       {
                         text: 'Circle of Life',
                         link: '/2025/01/02_circle-of-life'
+                      },
+                      {
+                        text: 'I Saw an Eagle!',
+                        link: '/2025/01/03_i-saw-an-eagle'
                       }
                     ]
                   }
