@@ -1,16 +1,16 @@
-# TBD
+# I Saw an Eagle!
 
-Three days into the new year and I've journaled each day. Will I journal every day this year? I don't know. It wasn't one of my resolutions...LOL But it was a goal, like last year, to journal as often as inspired.
+Three days into the new year and I've journaled each day. Will I journal every day this year? I don't know. It wasn't one of my resolutions...LOL But it is a goal, like last year, to journal as often as inspired.
 
 Although I am not putting timestamps to this, I have been writing throughout the day these last few days. That would be why I sometimes jump to a completely different topic suddenly...hehehe
 
 After my morning prayer, I took a walk. I had missed getting outside so early in the morning. Well, not so early. But before work. I don't recall the last time I took my first walk before work. I was able to see what I call the sunrise. It technically isn't the actual sunrise because there are too many things around here to block it. But just as the sun is rising above the nearby mall, I see a beautiful sight. It was great to see that today. It had been far too long.
 
-I feel completely different now than I did on Tuesday. It is as if the new year started was a switched that got flipped. I'm not sure I can explain it well today. But perhaps, as the year progresses, my journal will reflect what I feel. Of course, things rarely happen overnight. It is actually something that had begun after my California trip in November. But ringing in the new year has made a noticeable change in my spirit. It was as if all that happened between November 10th and December 31st was preparing me for January 1st, 2025.
+I feel completely different now than I did on Tuesday. It is as if the new year starting was a switched that got flipped. I'm not sure I can explain it well today. But perhaps, as the year progresses, my journal will reflect what I feel. Of course, things rarely happen overnight. It is actually something that had begun after my California trip in November. But ringing in the new year has made a noticeable change in my spirit. It was as if all that happened between November 10th and December 31st was preparing me for January 1st, 2025.
 
-In a way, I have been training myself for things like this for quite a while. A few years ago, I had gotten tired of messing up the year when I wrote out dates on things. To fix that, I would start using the next year's numbered year for certain things. I would still use the current year when applying actual dates to things. But I would use the next year for random stuff. What would then happen is I would use the correct year on January 1st. Once again, that worked this year...hehehe
+In a way, I have been training myself for things like this for quite a while. Years ago, I had gotten tired of messing up the year when I wrote out dates on things. To fix that, I would start using the next year's numbered year for certain things. I would still use the current year when applying actual dates to things. But I would use the next year for random stuff. What would then happen is I would use the correct year on January 1st. Once again, that worked this year...hehehe
 
-These past few years, I've been doing something similar going into each new year. If I had some goals for the new year, I would actually begin working on them the last quarter of the current year. The 2023 into 2024 example would be how I start my day with God. I began that in October 2023. That has now continued to this day. Going from 2024 into this year, one of my major goals was to eat at home more often and to wash my dishes by hand most of the time. I began that process in November and it has now continued into 2025. So far, so good...LOL
+These past few years, I've been doing something similar going into each new year. If I had some goals for the new year, I would actually begin working on them the last quarter of the current year. The 2023 into 2024 example would be how I start my day with God. I began that in October 2023. That has now continued to this day. Going from 2024 into this year, two of my major goals were to eat at home more often and to wash my dishes by hand most of the time. I began that process in November and it has now continued into 2025. So far, so good...LOL
 
 I admire those who can dive into things. I'm one who needs to gradually transition into things. I've had to dive into things from time to time in my life. It's a little scary. My preference is to make small sustainable changes, though. If I dive in, sometimes I quickly burn out. I'm more like a kerosene lamp with a wick. Slowly burning and providing just enough light to get through the night...LOL If I were jet fuel, I'll be more like a missile that destroys the target upon impact...LOL Not a great analogy...but you get the picture...slow burning light vs total mess and destruction...LOL
 
@@ -40,13 +40,13 @@ I'll include the honorable mentions at the end once again. I had a really good d
 
 My Bible in a Year plan and this week's Bible study have been amazing. I've always known a *daily walk with Jesus* was important. But whoa! What began in October 2023 has become something I never expected from this journey. I'm discovering that being in the Word and studying it isn't just about applying it's teachings in my life. Sure, that's a good thing. But I'm learning about God Himself. As in, God the LORD. Being in a true relationship with Him is what it has been all about.
 
-I'm hoping to spend some time tomorrow working on my Bible journaling workflow. I'd like to have a site similar to this journal that will contain all of my thoughts on what I'm reading. There will be notes from my daily reading. As well as some notes from my studies and devotionals. I'll add to each day and year. For example, if I do a Bible in a Year plan every year, I'll be adding new thoughts to what is already there from previous years. Over time, it will become a great resource for me to keep tabs on my Bible study.
+I'm hoping to spend some time tomorrow working on my Bible journaling workflow. I'd like to have a site similar to this journal that will contain all of my thoughts on what I'm reading. There will be notes from my daily reading. As well as some notes from my studies and devotionals. I'll add to it each day and year. For example, if I do a Bible in a Year plan every year, I'll be adding new thoughts to what is already there from previous years. Over time, it will become a great resource for me to keep tabs on my Bible study.
 
 I'll probably make it a public site for others to read if they'd like. I'll not include any personal information on that site. Some of the devotional and Bible study questions get a little personal. I'll either leave those things out or generalize the answers for the site. It'll also be my thoughts mostly. When I'm doing a devotional or study with someone else, I'll not include their notes. I'll look at it as more of an open commentary on the Bible.
 
 We'll see if something comes of that. I really don't know...LOL
 
-
+For my [video journal](https://youtube.com/shorts/K2is59uGd7Q) today, there is a brief 10 seconds where the audio is muted. The sound from that clip was horrible. But the video was great. So I dropped the audio for 10 seconds...LOL
 
 Here are the *honorable mentions* photos:
 

@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2025/01/03_
+      text: I Saw an Eagle!
+      link: /2025/01/03_i-saw-an-eagle
     - theme: alt
       text: Circle of Life
       link: /2025/01/02_circle-of-life
