@@ -903,6 +903,10 @@ export default defineConfig({
                       {
                         text: 'I Saw an Eagle!',
                         link: '/2025/01/03_i-saw-an-eagle'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2025/01/04_'
                       }
                     ]
                   }
