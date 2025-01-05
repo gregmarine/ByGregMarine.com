@@ -907,6 +907,10 @@ export default defineConfig({
                       {
                         text: 'Weird Day',
                         link: '/2025/01/04_weird-day'
+                      },
+                      {
+                        text: 'Dawn',
+                        link: '/2025/01/05_dawn'
                       }
                     ]
                   }
