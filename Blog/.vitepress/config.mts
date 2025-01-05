@@ -905,8 +905,8 @@ export default defineConfig({
                         link: '/2025/01/03_i-saw-an-eagle'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2025/01/04_'
+                        text: 'Weird Day',
+                        link: '/2025/01/04_weird-day'
                       }
                     ]
                   }
