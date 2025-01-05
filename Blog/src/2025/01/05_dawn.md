@@ -16,3 +16,15 @@ I read and listened to John 1. *In the beginning was the Word, and the Word was 
 
 So it begins...for the third year in a row. Aside from partaking in communion as I celebrated the new year, I see no better way to start a year than with prayer and fasting. The dawn is here, and the Son is rising <3
 
+## Dogs
+
+I forgot to mention yesterday that I was able to interact with some dogs...hehehe I was able to this morning as well. One of the great things about my walks is I tend to come across folks walking their dogs. I wrote about a few last year as I got to interact with them. And they recognized me and loved when they got to hang out with their pal, Greg...LOL
+
+One of the dogs yesterday was one I have seen quite often. I interact with the humans each time. But the dog always barked at me. So yesterday, I said *hello* to the dog...hehehe He immediately stopped barking and got excited. I guess he just wanted some attention...LOL
+
+I also got to run with one of the dogs yesterday as I walked by the Bark Park. The humans thanked me as their dog was having fun running with me...hehehe
+
+I also got to run a little with a dog this morning. I think this one might have still been a puppy. He was being extra playful beyond the run. Had I been in the Bark Park itself, he might have wanted to jump on me...LOL
+
+I'm grateful when the humans allow interactions with their dogs. Of course, some dogs aren't socially trained to be around other humans or dogs. I do live in an apartment complex, after all. I imagine some people move here with dogs that won't interact well. So, I understand when the humans don't welcome me to interact. I completely get it.
+
