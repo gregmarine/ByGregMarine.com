@@ -28,3 +28,11 @@ I also got to run a little with a dog this morning. I think this one might have 
 
 I'm grateful when the humans allow interactions with their dogs. Of course, some dogs aren't socially trained to be around other humans or dogs. I do live in an apartment complex, after all. I imagine some people move here with dogs that won't interact well. So, I understand when the humans don't welcome me to interact. I completely get it.
 
+## Back Pain
+
+I've been experiencing some back pain lately. It's something I've dealt with my whole adulthood. My dad has the same issue. Bad times like now don't happen all that often, fortunately. The kind I'm experience this time I haven't had in quite some time. It feels like it might be close to a spasm. If that happens, I'll be down for a day or so.
+
+It *dawned* on me this morning that I have a heat pad. I had forgotten about it because it had been a while since it was this bad...LOL I feel God reminded me about it through my prayers today...hehehe I did tell Him I didn't understand why He doesn't just heal it instead of me needing the heat pad...LOL I get the feeling I still have these back issues to keep me humble...HAHAHA
+
+It isn't important whether or not it was actually the Spirit prompting me to get the heat pad or my simply remembering I had one. The important thing is that God is good and provides me the means to get through this. He is always with me. So, I'm happy to give Him the credit and Glory for the heat pad.
+
