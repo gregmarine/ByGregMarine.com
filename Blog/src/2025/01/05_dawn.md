@@ -32,7 +32,38 @@ I'm grateful when the humans allow interactions with their dogs. Of course, some
 
 I've been experiencing some back pain lately. It's something I've dealt with my whole adulthood. My dad has the same issue. Bad times like now don't happen all that often, fortunately. The kind I'm experience this time I haven't had in quite some time. It feels like it might be close to a spasm. If that happens, I'll be down for a day or so.
 
-It *dawned* on me this morning that I have a heat pad. I had forgotten about it because it had been a while since it was this bad...LOL I feel God reminded me about it through my prayers today...hehehe I did tell Him I didn't understand why He doesn't just heal it instead of me needing the heat pad...LOL I get the feeling I still have these back issues to keep me humble...HAHAHA
+It *dawned* on me this morning that I have a heat pad. I had forgotten about it because it had been a while since it was this bad...LOL It was as if God reminded me about it through my prayers today...hehehe I did tell Him I didn't understand why He doesn't just heal it instead of me needing the heat pad...LOL I get the feeling I still have these back issues to keep me humble...HAHAHA j/k
 
-It isn't important whether or not it was actually the Spirit prompting me to get the heat pad or my simply remembering I had one. The important thing is that God is good and provides me the means to get through this. He is always with me. So, I'm happy to give Him the credit and Glory for the heat pad.
+It isn't important whether or not it was actually the Spirit prompting me to get the heat pad or my simply remembering I had one. The important thing is that God is good and provides me the means to get through this. He is always with me. So, I'm happy to give Him the credit for the heat pad. But He gave me a memory to remember such things and the intelligence to act upon the memory...LOL
 
+## Third Year in a Row
+
+So, apparently I have sat out by the pool on the first Sunday of the year for the third year in a row...LOL Basically, ever first Sunday I've lived here...hahaha Two years ago, I took a selfie that shows how I looked at over 240 lbs. Then last year, it shows how I had lost nearly 70 lbs, was still bald, and had a full beard. This year, I'm down another 10 lbs, have a full head of hair, and I'm back to a VanDyke...hehehe
+
+2023
+
+![Selfie 2023](./media/IMG_0125.jpeg)
+
+2024
+
+![Selfie 2024](./media/IMG_1624.jpeg)
+
+Today
+
+![Selfie 2025](./media/IMG_4885.jpeg)
+
+It's fun to see progression. I wasn't thinking about it today until I was sitting out there for a bit. I was like, *oh wait a minute! I've done this before!* HAHAHA
+
+## Bible Study
+
+Today's Bible study discussion was amazing! So much insight shared. So many things to apply to our lives. I'm looking forward to the coming week. Each week keeps building...hehehe I'm grateful for the devotionals and Bible studies we've been doing. In mid-March, we will have been doing them for a year. It's one of the best parts of this journey <3
+
+## Photo of the Day
+
+I saw an alligator!!!
+
+
+
+## Wrapping Up
+
+I had an amazing day. I didn't write about it all and I didn't make a video journal. Frankly, I'm out of time...LOL Perhaps I can write about it tomorrow?
