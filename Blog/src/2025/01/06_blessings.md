@@ -14,3 +14,5 @@ I for one have been blessed beyond my understanding. I can imagine people have p
 
 *It is with gratitude, thanksgiving, and in Your Name, I pray. AMEN!*
 
+Today's scripture reading was John 2. Here we see the first of His signs when He turned water into wine. This is always where we see Him drive out the money changers from the temple. He also spoke of His death in resurrection when He told them that if they destroy *this* temple, He would *raise* it again in 3 days.
+
