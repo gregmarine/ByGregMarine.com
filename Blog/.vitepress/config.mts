@@ -907,6 +907,10 @@ export default defineConfig({
                       {
                         text: 'Weird Day',
                         link: '/2025/01/04_weird-day'
+                      },
+                      {
+                        text: 'Dawn',
+                        link: '/2025/01/05_dawn'
                       }
                     ]
                   }
@@ -919,7 +923,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'twitter', link: 'https://twitter.com/bygregmarine' },
+      { icon: 'x', link: 'https://x.com/bygregmarine' },
       { icon: 'instagram', link: 'https://www.instagram.com/bygregmarine/' },
       { icon: 'facebook', link: 'https://www.facebook.com/bygregmarine' },
       { icon: 'github', link: 'https://github.com/gregmarine/ByGregMarine.com/tree/main/Blog' }
