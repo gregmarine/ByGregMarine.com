@@ -56,3 +56,6 @@ The morning was so beautiful today. I love how these *video to photo* things wor
 
 ## Wrapping Up
 
+Today was a Blessed day. [Here is a little video journal]() about some of the things I saw on my walks. About half way through, I added some music to cover the wind sounds. The wind got so strong that the audio was horrible...hehehe Some of the wind sounds from the clips without music are rough. But that's okay...it wasn't as bad as those last few clips...LOL Pay close attention to the one clip where it looked like the water was dancing as the wind blew across it...hehehe It's the clip before the music begins.
+
+I decided not to do any creative writing tonight after all. My mind is tired. My body is still wide awake...hehehe
