@@ -47,3 +47,12 @@ HAHAHA...I just remembered...I made a silly little friendship video this morning
 I managed to get in my 3 one mile walks today. I've also scheduled those near my meal times. It's a nice balance of time with God, exercise, and nourishment. I'd love for this to be my daily routine always. But you know...life happens...LOL
 
 I haven't gotten back to creative writing recently. It isn't from a lack of creativity...hehehe It has mostly been a matter of time. I thought about squeezing in some time tonight. If I do, great. If I don't, great. I'm really happy with how my routine is balanced right now. I don't get everything I'd like accomplished. But I get all of the right things done...hehehe
+
+## Photo of the Day
+
+The morning was so beautiful today. I love how these *video to photo* things work out. I remember how I would take a sunrise photo most mornings. Back then, I'd use the photo camera. They always turned out well. But they never really looked the way I saw it with my eyes. I would apply filters to get them close. But these new photos I make from video screenshots turn out more natural to what my eye sees. I still apply some filtering. But I love these so much better now. My creative side definitely prefers these and it inspired me to capture my year through video and photos. The photos are the snapshot over time. The videos are for me to look back upon and connect to the moments. Two very distinct ways to view the same moment...and I LOVE IT!!!
+
+![Sunrise](./media/IMG_4915.jpeg)
+
+## Wrapping Up
+
