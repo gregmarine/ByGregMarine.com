@@ -50,12 +50,12 @@ I haven't gotten back to creative writing recently. It isn't from a lack of crea
 
 ## Photo of the Day
 
-The morning was so beautiful today. I love how these *video to photo* things work out. I remember how I would take a sunrise photo most mornings. Back then, I'd use the photo camera. They always turned out well. But they never really looked the way I saw it with my eyes. I would apply filters to get them close. But these new photos I make from video screenshots turn out more natural to what my eye sees. I still apply some filtering. But I love these so much better now. My creative side definitely prefers these and it inspired me to capture my year through video and photos. The photos are the snapshot over time. The videos are for me to look back upon and connect to the moments. Two very distinct ways to view the same moment...and I LOVE IT!!!
+The morning was so beautiful today. I love how these *video to photo* things work out. I remember how I would take a sunrise photo most mornings. Back then, I'd use the photo camera. They always turned out well. But they never really looked the way I saw it with my eyes. I would apply filters to get them close. But these new photos I make from video screenshots turn out more natural to what my eye sees. I still apply some filtering. But I love these so much better now. My creative side definitely prefers these and it inspired me to capture my year through video and photos daily. The photos are the snapshot over time. The videos are for me to look back upon and connect to the moments. Two very distinct ways to view the same moment...and I LOVE IT!!!
 
 ![Sunrise](./media/IMG_4915.jpeg)
 
 ## Wrapping Up
 
-Today was a Blessed day. [Here is a little video journal]() about some of the things I saw on my walks. About half way through, I added some music to cover the wind sounds. The wind got so strong that the audio was horrible...hehehe Some of the wind sounds from the clips without music are rough. But that's okay...it wasn't as bad as those last few clips...LOL Pay close attention to the one clip where it looked like the water was dancing as the wind blew across it...hehehe It's the clip before the music begins.
+Today was a Blessed day. [Here is a little video journal](https://youtube.com/shorts/hBfBbDFEKS4) about some of the things I saw on my walks.
 
 I decided not to do any creative writing tonight after all. My mind is tired. My body is still wide awake...hehehe

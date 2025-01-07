@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Blessings
-      link: /2025/01/06_
+      link: /2025/01/06_blessings
     - theme: alt
       text: Dawn
       link: /2025/01/05_dawn
