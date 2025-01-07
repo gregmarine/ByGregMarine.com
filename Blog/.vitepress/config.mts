@@ -911,6 +911,10 @@ export default defineConfig({
                       {
                         text: 'Dawn',
                         link: '/2025/01/05_dawn'
+                      },
+                      {
+                        text: 'Blessings',
+                        link: '/2025/01/06_blessings'
                       }
                     ]
                   }
