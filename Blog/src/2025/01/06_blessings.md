@@ -14,5 +14,18 @@ I for one have been blessed beyond my understanding. I can imagine people have p
 
 *It is with gratitude, thanksgiving, and in Your Name, I pray. AMEN!*
 
-Today's scripture reading was John 2. Here we see the first of His signs when He turned water into wine. This is always where we see Him drive out the money changers from the temple. He also spoke of His death in resurrection when He told them that if they destroy *this* temple, He would *raise* it again in 3 days.
+Today's scripture reading was John 2. Here we see the first of His signs when He turned water into wine. This is always where we see Him drive out the money changers from the temple. He also spoke of His death and resurrection when He told them that if they destroy *this* temple, He would *raise* it again in 3 days.
 
+## Enemies
+
+I don't actually have any enemies. So I emphasized the word above. Who I mean by that are those who have harmed or wronged me or my loved ones. Or even the people I've heard about having wronged or harmed someone in general. The simple truth is, in God's eyes, we are all *bad*. Also, I'm the *enemy* or *villain* of others stories. I'm by no means an innocent person myself.
+
+What praying for them has done for me is help soften my heart toward them. For the ones who wronged or harmed me, I've had to forgive them. That doesn't really impact them directly. Forgiveness has cleared my heart of the resentment and some of the pain. Some of the pain remains. But as I pray for them, the pain is beginning to go away as well.
+
+This is by no means an easy thing to do. It has gotten a little easier over time. I still won't call it easy...LOL But you know what?!? Jesus prayed for His enemies too. And He asked the Father to *forgive them for they know not what they do.*
+
+## Blessing
+
+The definition of *blessing* for the context of my prayers today is *God's favor or protection*.
+
+It's easy to pray that over family, friends, and generally anyone I don't know. It is incredibly difficult to pray that over people I know did *bad* things. God didn't call me to be a judge. So, I'm glad this was the focus of my prayers today. It helped remind me that He is the only Judge who can weigh people's hearts.
