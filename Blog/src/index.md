@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2025/01/07_
+      text: God Revealed in the Journey
+      link: /2025/01/07_god-revealed-in-the-journey
     - theme: alt
       text: Blessings
       link: /2025/01/06_blessings

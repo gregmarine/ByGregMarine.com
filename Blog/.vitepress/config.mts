@@ -917,8 +917,8 @@ export default defineConfig({
                         link: '/2025/01/06_blessings'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2025/01/07_'
+                        text: 'God Revealed in the Journey',
+                        link: '/2025/01/07_god-revealed-in-the-journey'
                       }
                     ]
                   }

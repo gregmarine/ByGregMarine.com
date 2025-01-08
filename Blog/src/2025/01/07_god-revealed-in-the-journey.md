@@ -1,18 +1,18 @@
-# TBD
+# God Revealed in the Journey
 
 ## 21 Days of Prayer and Fasting
 
-As I began to pray this morning, I meditated on what these seasons of prayer and fasting have meant and done since I began this two years ago. In 2023, the first one, it led me to taking care of my heart, soul, mind, and strength. I became a spiritual act of worship to face my past and to begin taking care of the body God gave me. As my heart, soul, mind, and strength were being restored, it gave me a new capacity to love God with all my heart, soul, mind, and strength. It was amazing!
+As I began to pray this morning, I meditated on what these seasons of prayer and fasting have meant and done since I began this two years ago. In 2023, the first one, it led me to taking care of my heart, soul, mind, and strength. It became a spiritual act of worship to face my past and to begin taking care of the body God gave me. As my heart, soul, mind, and strength were being restored, it gave me a new capacity to love God with all my heart, soul, mind, and strength. It was amazing!
 
 In 2024, last year and the the second season, my heart was transformed as I began just a few months earlier to seek first His Kingdom and Righteousness every day. This led me to doing Bible devotionals and eventually the current Bible study I'm doing in fellowship. In this process, it has helped me learn how to love what God created in me and then how to love others as I love myself. It was amazing as well!
 
-As I wait and hope in the Lord for this year's season of prayer and fasting, I am excited as I look back and realize He has been showing me how to live out the greatest commandments. How cool is that?!? So far this time, I get a sense that He is showing me how to be dependent solely and wholly on Him. He is my provider and the provider for everyone and everything. I created it all and all of us. Everything comes from Him and actually belongs to Him. By seeking Him and His Kingdom first, everything else will work out.
+As I wait and hope in the Lord for this year's season of prayer and fasting, I am excited as I look back and realize He has been showing me how to live out the greatest commandments. How cool is that?!? So far this time, I get a sense that He is showing me how to be dependent solely and wholly on Him. He is my provider and the provider for everyone and everything. He created it all and all of us. Everything comes from Him and actually belongs to Him. By seeking Him and His Kingdom first, everything else will work out.
 
 Through this process, I come to today's prayer focus. God is revealing Himself to those He has chosen. I am one He is revealing Himself to. As I continue to ask Him to show me more of Himself so that I can know Him more, He has been pouring out into my daily prayers and time in the Word new things everyday. I suppose this is one of the reasons I had a desire to continuing doing a *Bible in a Year* plan this year. And to continue doing a season of praying and fasting to begin the year even though I'm no longer attending the church where I began this practice. He is revealing Himself to me and establishing that this is a relationship between He and I. A two way spiritual relationship.
 
 *Father God in Heaven, I thank you today! You are the creator of all things. You know all things and are in control of it all. And You have chosen to reveal Yourself to me in new ways each day. I praise You for revealing Yourself to me yesterday, today, and forever. Thank You so much for helping me know You more. You did not have to do this. Yet, You did it anyway! THANK YOU!*
 
-*As I wait on and hope in You for the church community You want me to be a part of, I further thank and praise You for revealing Yourself and Your perfect Will to the imperfect church I'm going to be going to someday. Please remind us daily of who You are and that You are our Provider. Helps to know what it means to take up Your yoke as You help carry the burdens of the church.*
+*As I wait on and hope in You for the church community You want me to be a part of, I further thank and praise You for revealing Yourself and Your perfect Will to the imperfect church I'm going to be going to someday. Please remind us daily of who You are and that You are our Provider. Help us to know what it means to take up Your yoke as You help carry the burdens of the church.*
 
 *I lay at Your feet the pastor of that church and his family. Reveal to him Your Will and help him to love You with all his heart, soul, mind, and strength. Help him to love others as he loves himself. Guide and direct Him on the path You have chosen for him. Please bless his family everyday.*
 
@@ -46,3 +46,10 @@ I had 8 photos to choose from today. A few I was able to eliminate rather quickl
 
 It is very similar to yesterday's in that it features the sun. Yesterday, I posted one of the *sunrise*. Today's is a *sunset*. Today's is actually unfiltered digitally. What I did was place my sunglasses over the camera lens. It created the starburst effect. And since the angle I chose caught the reflection off the pond, it has a double effect. I love the composition of the photo, the technique to capture it, and the fact that I didn't use any digital filters to make it appear the way I saw it in the moment.
 
+## Wrapping Up
+
+I don't have a lot to say about the day, really. I made some progress with work. All of my meals were delicious. I enjoyed my 3 prayer walks. My morning devotional was inspiring. The *Bible in a Year* reading was also inspiring. Today's Bible study session was amazing. Overall, a terrific day <3
+
+So far so good with all of my New Year's Resolutions...hehehe As far as the informal goals, there are a few I haven't tackled yet. But most of them are already daily. I'm pretty happy that, after a week, I'm doing well with my resolutions and goals. I'm actually a bit surprised at my progress. Yes, I know it's early in the year. But I have hope...hehehe
+
+Today's prayer focus was about God revealing Himself. There were a few areas of note in regard to Him revealing who He is today. The first was in creation. On one of my walks today, I observed the birds in the area and the clouds in the sky. I marveled at how He created all of it. I could see His fingerprints all over the sky. The second was through a text a received from a friend who was asking for prayer for a few people. He reveals Himself through the fellowship of agreement in prayer. To be asked to intercede through prayer is a gift I cherish. Both of these things brought me closer to God today <3
