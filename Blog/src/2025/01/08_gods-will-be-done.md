@@ -36,3 +36,9 @@ The chapter does conclude with a miracle, though. Just not in Samaria. He and th
 
 ## Wrapping Up
 
+I was reminded of something today about God's Will. On occasion, I've said something like *God told me* or *the Spirit led me* or something similar. I want to be very careful with such phrases. The reality is I don't actually know that I'm doing something God wants me to do until after it happens. If something happens, of course it is His Will. Although we have free will to make our choices, we are still living out everything exactly as He expects it to go. He is sovereign over the entire universe. Nothing can happen without Him allowing it.
+
+But back to my point. I plan to stop saying things like *the Spirit led me*. A don't recall ever saying something like *God told me to tell you* or some such thing. But those other phrases aren't any better. I'm often inspired by what I read in the Bible. And let's not forget that there really is the Holy Spirit living in those of us who chose to follow Jesus. But unless my heart and mind are aligned and attuned with His, I'm most likely acting on my own will.
+
+So, in order for me to know and do His Will, I'll remain in the Word daily, I'll commune with Him constantly, and I'll seek His Kingdom first and His righteousness. I need to be in right standing with God. By the way, today's prayer focus aligns quite nicely with this week's Bible study lesson...hehehe
+
