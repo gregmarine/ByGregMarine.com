@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: YOUR Will be Done
-      link: /2025/01/08_your-will-be-done
+      text: God's Will be Done
+      link: /2025/01/08_gods-will-be-done
     - theme: brand
       text: God Revealed in the Journey
       link: /2025/01/07_god-revealed-in-the-journey

@@ -921,8 +921,8 @@ export default defineConfig({
                         link: '/2025/01/07_god-revealed-in-the-journey'
                       },
                       {
-                        text: 'YOUR Will be Done',
-                        link: '/2025/01/08_your-will-be-done'
+                        text: 'God\'s Will be Done',
+                        link: '/2025/01/08_gods-will-be-done'
                       }
                     ]
                   }

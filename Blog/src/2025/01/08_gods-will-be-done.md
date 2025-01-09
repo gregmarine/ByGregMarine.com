@@ -1,4 +1,4 @@
-# YOUR Will be Done
+# God's Will be Done
 
 ## 21 Days of Prayer and Fasting
 
