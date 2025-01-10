@@ -927,6 +927,10 @@ export default defineConfig({
                       {
                         text: 'Lighthouse',
                         link: '/2025/01/09_lighthouse'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2025/01/10_'
                       }
                     ]
                   }
