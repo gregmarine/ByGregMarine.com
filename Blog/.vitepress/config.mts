@@ -925,8 +925,8 @@ export default defineConfig({
                         link: '/2025/01/08_gods-will-be-done'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2025/01/09_'
+                        text: 'Lighthouse',
+                        link: '/2025/01/09_lighthouse'
                       }
                     ]
                   }
