@@ -931,6 +931,10 @@ export default defineConfig({
                       {
                         text: 'Faith, Don\'t Fail Me Now!',
                         link: '/2025/01/10_faith-dont-fail-me-now'
+                      },
+                      {
+                        text: 'Strengthen Me to Strengthen Others',
+                        link: '/2025/01/11_strengthen-me-to-strengthen-others'
                       }
                     ]
                   }
