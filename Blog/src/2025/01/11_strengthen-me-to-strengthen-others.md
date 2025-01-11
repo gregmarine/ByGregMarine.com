@@ -14,9 +14,21 @@ Speaking of strengthening, that is today's prayer focus. It is the second part o
 
 *Thank You for Your faithfulness, oh Lord! With gratitude, and in Your Name, I pray. AMEN!*
 
-
+I'll have to study John 7 a little more in the future...well the whole Bible in general for that matter...LOL But I wouldn't say I connected with John 7 in the same level as I have the first 6 chapters. In this chapter, Jesus is teaching at the Feast of Tabernacles. In this week's episode of *The Chosen*, we see that the Feast is about to begin. I wonder if next week's episode will be based on this chapter of John? I honestly don't recall. I've seen in once, last year. I just don't remember it well...LOL Some folks in this chapter begin to wonder if Jesus is the Christ and there is further division happening among the people.
 
 ## My Day
+
+My day started off much like it has all week. I started with my morning prayer. I got dressed. I did my 21 days of prayer devotional and then read John 7. After that, I went for my first 1 mile prayer walk. Normally I would wait to have my breakfast until just before my 9am daily meeting. Since today isn't a work day, I went ahead and had my breakfast about 20 minutes early. I knew I wanted to get some routine maintenance done on my car. So I didn't want to wait...hehehe
+
+I'm at the dealership now for that routine maintenance. It's a nice place full of a diverse set of people with one thing in common...we all have a vehicle...LOL When I arrived, there was a large line to get to the Service Center. I guess a lot of folks needed some work done today. I don't recall how long I waited in that line. But I imagine it was about 30 minutes. I wonder if that is an indication of how long I'll be waiting for the work to actually get done. I don't mind really. I look at it as an opportunity to continue growing in patience.
+
+I've been here a few times since I bought my car. I think this might be the third or forth? I bought it at the end of September in 2023. My old car had broken down about a month before that, I think. So, I've had this car a little over a year now. I love it and it has been a pleasant experience.
+
+I call having a vehicle a necessary evil...LOL There are only two types of places I can think of where I wouldn't need a car. A large city with plenty of public transportation options. Or a small town where I can literally walk everywhere. There are various other options in a place like where I live. They are very expensive, though. I could have groceries and other supplies delivered. And I could use ride shares like Uber or Lyft. Again, that cost could add up more than owning a car...which is also expensive.
+
+In my Bible study notes this week, I briefly admit that I love where I live now. I lamented quite often last year how I felt it was time to move on. But my heart has changed. I stopped looking at the things I hate about it and focus on what I love about it. I still see the things I hate. But it just doesn't bother me so much now.
+
+I mention that now because of my next thought. I still want to live in a small town where I can walk everywhere. I see a time when I no longer need a car. I don't live in such a place now. But perhaps I'll be able to find that when I do end up moving. It brings me joy to think about that and I have hope. Funny thing is, though, I'm not sure that is in the near future...LOL I still see myself living in places like where I am now or even in a city for a little while longer. I have this feeling God isn't finished with the process a place like this is helping transform my heart. If I were comfortable, I might stop growing...LOL
 
 
 
