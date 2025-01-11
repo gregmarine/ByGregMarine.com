@@ -929,8 +929,8 @@ export default defineConfig({
                         link: '/2025/01/09_lighthouse'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2025/01/10_'
+                        text: 'Faith, Don\'t Fail Me Now!',
+                        link: '/2025/01/10_faith-dont-fail-me-now'
                       }
                     ]
                   }

@@ -1,12 +1,12 @@
-# TBD
+# Faith, Don't Fail Me Now!
 
 ## 21 Days of Prayer and Fasting
 
 We've reached the first Friday of this 21 day season. And it's the second Friday of the year. Happy FriYAY!!! I often say the YAY part for other people. For me, I'm still excited everyday now. Each day is a gift from God. Each day has its tasks and special meanings. However, I'm not one to concern myself with what day of the week it actually is. I'm just happy to have another day and that it is one more day closer to God's Kingdom.
 
-Today's prayer focus is about faith. Specifically, asking for God's strength in helping our faith to not fail. We ourselves will fail from time to time. That's different than our faith failing. In Luke 22:31-32, Jesus told Peter that He had prayed that Peter's faith may not fail. This was just before Jesus told Peter that he would deny Him three times before the rooster crowed. But He went further and told Peter that *when* he turned back, to strengthen his brothers (looking ahead, it appears strengthening others is tomorrow's focus). So, although Peter would fail, Jesus knew that his faith would not and that he would return to it.
+Today's prayer focus is about faith. Specifically, asking for God's strength in helping our faith to not fail. We ourselves will fail from time to time. That's different than our faith failing. In Luke 22:31-32, Jesus told Peter that He had prayed that Peter's faith may not fail. This was just before Jesus also told Peter that he would deny Him three times before the rooster crowed. But He went further and told Peter that *when* he turned back, to strengthen his brothers (looking ahead, it appears strengthening others is tomorrow's focus). So, although Peter would fail, Jesus knew that his faith would not and that he would return to it.
 
-The prayer for today is one for asking God's strength and Spirit to keep us faithful through our circumstances and failures. There is a lot going on in all our lives. And there is a lot to distract us. One of the fruit of the Spirit is faithfulness. With God's strength and guidance, we too can remain faithful. Praise the Lord that He prayed such a prayer to show us know that we can pray the same over others and ourselves.
+The prayer for today is one for asking God's strength and Spirit to keep us faithful through our circumstances and failures. There is a lot going on in all our lives. And there is a lot to distract us. One of the fruit of the Spirit is faithfulness. With God's strength and guidance, we too can remain faithful. Praise the Lord that He prayed such a prayer to show us that we can pray the same over others and ourselves.
 
 *Father in Heaven, thank You that I can come before You today. Thank You for this prayer that You prayed over Peter. Lord, I pray that when I fail, You give me strength so that my faith may not fail too. I am a sinner unworthy of even speaking to You. But Your mercies allow me to come to You today. My faith and trust is in the One You sent, Jesus! In the same Spirit of the prayer You prayed over Peter, I too ask for Your strength. Help me to always turn back to You in faith when I fail and when my circumstances overcome me.*
 
@@ -16,7 +16,7 @@ The prayer for today is one for asking God's strength and Spirit to keep us fait
 
 *Thank You, again, that I can come before You today and everyday. I love You, Lord! With gratitude, and in Your Name, I pray. AMEN!*
 
-
+John 6 was full of amazing things. It starts off with 5000 men (and most likely a lot more women and children) getting fed from just 5 barley loaves and 2 small fish! Then Jesus walks on water! Then He talks about being the Bread of Life! Then many of the disciples turn away from Jesus! Finally, Peter confesses his faith in Jesus...hehehe Wow! That's a lot of stuff...and it ends with Peter's faith...the very thing Jesus would later pray about for Peter <3 I love when completely different readings and studies align at the same time like this.
 
 ## My Day
 
@@ -44,7 +44,7 @@ I've said something like I don't need things to bring meaning to my life. I brin
 
 Ooh! My back is doing really well now. I had written about how it was giving me trouble over the weekend. I also had some trouble with it, along with other parts in my body, after my trips to Indiana. I'm happy to report it is feeling pretty good now. There is still some achiness. But I can't complain. I didn't take any pain relief medication for this bout with it. So, it has been worse before. I'm grateful the pain was manageable and that it is almost completely gone now.
 
-Oops! I messed something up at work today. Fortunately, it was in a non-production environment. It is a case of how I should have checked with someone before I did what I did...LOL I thought I was helping out. But I ended up broking something. It isn't a big deal and we'll be able to fix it on Monday. It was with the new project I inherited this week. I'm looking forward to the learning opportunity I just created...HAHAHA Seriously, though, it will be a good way to educate myself on what went wrong. That way, things will go well in production in a few months.
+Oops! I messed something up at work today. Fortunately, it was in a non-production environment. It is a case of how I should have checked with someone before I did what I did...LOL I thought I was helping out. But I ended up braking something. It isn't a big deal and we'll be able to fix it on Monday. It was with the new project I inherited this week. I'm looking forward to the learning opportunity I just created...HAHAHA Seriously, though, it will be a good way to educate myself on what went wrong. That way, things will go well in production in a few months.
 
 Today's *Bible in a Year* reading had some relatable messages to that of this week's Bible study lesson. It inspired me to think about and pray about righteousness. Specifically the right standing with God. It concluded with a little gem I hadn't noticed before. My *God shot* was this...
 
@@ -54,11 +54,20 @@ On my evening walk, I saw something peculiar. The pigeons typically fly away whe
 
 This reminded me of the part of Jesus' story when He was arrested. The disciples scattered. In today's prayer devotional, I mentioned Luke 22:31-32 above. This all got me thinking about *The Chosen* and how I look forward to seeing a depiction of Holy Week, the betrayal, the arrest, the crucifixion, and...*drumroll please*...Peter's denial 3 times of having known Jesus...LOL Shahar Isaac's portrayal of the Simon Peter character is inspiring. I cannot wait to see how he handles that scene when it comes...presuming it will be part of the series...LOL I've seen all through season 4. Season 5 comes out in a few months. So far, we aren't that far into the story just yet...hehehe
 
+I'm looking forward to the weekend. I'm planning to take the car in for an oil change, possibly a tire rotation, and likely a brake pad check. I'm a little overdue for this. But my December was too busy to get it taken care of when I should have. I'm not that far over the recommended mileage, though. So, I should be good...hehehe
 
+I'll also be checking out another local church through their website and previously recorded services.
 
 ## Photo of the Day
 
+I didn't take a lot of videos or photos today. So, it was really hard to pick one. I only had 4 at first. Then I heard some major wind blowing outside. After I briefly observed the beauty of the wind, I realized I could capture a video of it. So, today's photo ended up coming from the beauty of the night.
 
+![Palm tree](./media/IMG_5035.jpeg)
+
+I think the palm tree looks like Sideshow Bob from *The Simpsons*...HAHAHA
 
 ## Wrapping Up
 
+It was another great day. I'm grateful for these prayer and fasting seasons. I do other such things throughout the year. But these 21 day seasons are special.
+
+I'm looking forward to Sunday's fellowship and friendship. I'm so grateful for God providing us these very special times. He has blessed our friendship in ways we never expected and certainly do not deserve. His grace abounds and I praise Him for it. With how amazing this week's lesson was, I'm very excited for our discuss Sunday! And I'm excited for the casual conversation we'll have after. Ooh! And we've decided to take communion each time now! It is amazing how we get to witness each others spiritual growth. It is truly special <3

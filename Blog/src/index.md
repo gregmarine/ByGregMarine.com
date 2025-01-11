@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2025/01/10_
+      text: Faith, Don't Fail Me Now!
+      link: /2025/01/10_faith-dont-fail-me-now
     - theme: alt
       text: Lighthouse
       link: /2025/01/09_lighthouse
