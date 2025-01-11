@@ -32,6 +32,10 @@ I mention that now because of my next thought. I still want to live in a small t
 
 I'm still at the dealership. It is full of temptation...LOL They have a little café here that serves really good food. Good as in that it tastes good. I highly doubt it is actually good for my body. I have always gotten a meal here. Not today...LOL I brought some *The Only Bar* food bars if I'm here through lunch. I'm also smelling coffee...LOL It is free as far as I know. And we all know how much I love coffee. It's what I'm fasting...HAHAHA It was clearly a great choice to fast this month. I'm reminded of it often...hehehe
 
+I received the text that my car was finished. They include an amazing video rundown of all they did and explain everything in great detail. They do the video from the shop itself. So, it's like they take me on a tour of my vehicle's time in the shop as if I were back there...hehehe It's pretty neat!
+
+Then I received the text that I was to go see the service account manager that is taking care of me. I went up to his desk and he wasn't there...hehehe I waited for several minutes and then gave up. I'm back to sitting and waiting...LOL I wonder if he is at lunch as it is was just before noon when the car was complete and it's now a little after noon...hehehe
+
 
 
 ## Photo of the Day
