@@ -10,11 +10,11 @@ Speaking of strengthening, that is today's prayer focus. It is the second part o
 
 *As I continue to wait on and hope in You for my future church home, I lift up that church to You today. I pray that You also strengthen their faith in Your faithfulness. Empower the congregation to strengthen each other as they complete the mission You have called them to in the community. May their unity in faith be a beacon to encourage the community. And as that faithful beacon shines and draws more people to You, may the process further strengthen those who come.*
 
-*Finally, I pray for the pastor. Renew his faith today as he prepares for tomorrows teaching. Strengthen his faith with Your spirit and truth. May the words You speak through his sermon strengthen all of the people who hear. Open their ears to hear and their hearts to listen. May the faith of the pastor be an inspiration to the congregation always. And please strengthen the faith of the pastor's family. Bless them to be a blessing to others.*
+*Finally, I pray for the pastor. Renew his faith today as he prepares for tomorrow's teaching. Strengthen his faith with Your spirit and truth. May the words You speak through his sermon strengthen all of the people who hear. Open their ears to hear and their hearts to listen. May the faith of the pastor be an inspiration to the congregation always. And please strengthen the faith of the pastor's family. Bless them to be a blessing to others.*
 
 *Thank You for Your faithfulness, oh Lord! With gratitude, and in Your Name, I pray. AMEN!*
 
-I'll have to study John 7 a little more in the future...well the whole Bible in general for that matter...LOL But I wouldn't say I connected with John 7 in the same level as I have the first 6 chapters. In this chapter, Jesus is teaching at the Feast of Tabernacles. In this week's episode of *The Chosen*, we see that the Feast is about to begin. I wonder if next week's episode will be based on this chapter of John? I honestly don't recall. I've seen in once, last year. I just don't remember it well...LOL Some folks in this chapter begin to wonder if Jesus is the Christ and there is further division happening among the people.
+I'll have to study John 7 a little more in the future...well the whole Bible in general for that matter...LOL But I wouldn't say I connected with John 7 in the same level as I have the first 6 chapters. In this chapter, Jesus is teaching at the Feast of Tabernacles. In this week's episode of *The Chosen*, we see that the Feast is about to begin. I wonder if next week's episode will be based on this chapter of John? I honestly don't recall. I've seen it once, last year. I just don't remember it well...LOL Some folks in this chapter begin to wonder if Jesus is the Christ and there is further division happening among the people.
 
 ## My Day
 
@@ -52,7 +52,7 @@ When I mention how far I've walked, I'm typically just referring to the prayer/e
 
 After my long walk, I did my *Bible in a Year* reading. I had a little trouble connecting with it today like I did with John 7. But the recap video really brought it around for me. It explained some things I didn't quite understand when I was reading. I'm grateful to have those recap videos this year!
 
-I wasn't quite ready for dinner yet, so I went to my pet store. Yeah, I have a pet store now...LOL Mr. Long Legs' adoption day anniversary is coming up...hehehe My deer pal needs a new toy from his Florida pal, you know! HAHAHA This one is a through back to my childhood...LOL Seeing his reactions to the toy I got him for Christmas tells me he is going to really love this new one...LOL
+I wasn't quite ready for dinner yet, so I went to my pet store. Yeah, I have a pet store now...LOL Mr. Long Legs' adoption day anniversary is coming up...hehehe My deer pal needs a new toy from his Florida pal, you know! HAHAHA This one is a throwback to my childhood...LOL Seeing his reactions to the toy I got him for Christmas tells me he is going to really love this new one...LOL
 
 Next was dinner. I had fried rice again...LOL This was the last of my batch of rice for the week. I'll not have rice again until at least Wednesday. I have chow mein and tacos planned for the next few nights. Although, tomorrow I'll probably just heat up some soup.
 
@@ -66,7 +66,7 @@ Which leads me to this moment. I'm writing in this journal...HAHAHA
 
 ## Photo of the Day
 
-As my day was significant impacted by a trip to the service center for my vehicle, it is only fitting that today's photo comes from the dealership...LOL I took several videos while there. I ended up with 21 photos for the entire day, though. I had other video candidates after my time at the shop. But this is the one that won over all...hehehe
+As my day was significantly impacted by a trip to the service center for my vehicle, it is only fitting that today's photo comes from the dealership...LOL I took several videos while there. I ended up with 21 photos for the entire day, though. I had other video candidates after my time at the shop. But this is the one that won over all...hehehe
 
 ![Balloons](./media/IMG_5058.jpeg)
 
@@ -76,7 +76,7 @@ I love how this one turned out. I don't know if they were celebrating or if ball
 
 Although I didn't get to all of the tasks I hoped to get to today, it was a very blessed day. Yes, TV was part of why I didn't get everything in...LOL But I also did a lot more praying. The one task I really wanted to get to is something I can either do tomorrow, or I can try to tackle later in the week. I basically have a couple of desks I want to clear and prepare for the next phase of my simplification process. Not a big deal...LOL
 
-This mornings prayer walk was the best walk I have ever taken. I do not say this lightly.
+This morning's prayer walk was the best walk I have ever taken. I do not say this lightly.
 
 Something I haven't talked about yet is that I have been partaking in communion at all meals and some snacks this entire week. In the past, I felt that communion was too special to make it a frequent thing. Then on Christmas Eve, I did it 4 times the same day. That changed my whole perspective on how often I do it. It connected me to how Jesus said *as often as you...do this in remembrance*. As I began this 21 day season, I thought I would like to experience communion more and keep it holy each time. It has been an amazing experience, to say the least. A life changing experience, to be more precise <3
 
