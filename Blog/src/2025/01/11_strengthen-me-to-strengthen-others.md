@@ -64,7 +64,11 @@ Which leads me to this moment. I'm writing in this journal...HAHAHA
 
 ## Photo of the Day
 
+As my day was significant impacted by a trip to the service center for my vehicle, it is only fitting that today's photo comes from the dealership...LOL I took several videos while there. I ended up with 21 photos for the entire day, though. I had other video candidates after my time at the shop. But this is the one that won over all...hehehe
 
+![Balloons](./media/IMG_5058.jpeg)
+
+I love how this one turned out. I don't know if they were celebrating or if balloons are typically a part of the decor. But I loved how they were cheery...hehehe They made my heart happy <3
 
 ## Wrapping Up
 
