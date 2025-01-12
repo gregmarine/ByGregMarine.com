@@ -36,7 +36,31 @@ I received the text that my car was finished. They include an amazing video rund
 
 Then I received the text that I was to go see the service account manager that is taking care of me. I went up to his desk and he wasn't there...hehehe I waited for several minutes and then gave up. I'm back to sitting and waiting...LOL I wonder if he is at lunch as it is was just before noon when the car was complete and it's now a little after noon...hehehe
 
+Well, it's night time now...LOL Yes, the service guy was on lunch break. I had to wait over an hour for his return...hehehe I wasn't sure about the timing, so I didn't do anything further on my computer. My day has been full since; which is why I'm just now getting back to journaling...hehehe
 
+While I waited, I ate the food bars I brought. I'm so glad I brought them! My car did a good job at the shop...HAHAHA I say that like it is a pet at the vet or groomers...HAHAHA All looked good to the service technician. Through the video walkthrough, he complimented me on keeping it well maintained. I've never been complimented for that on a vehicle before...LOL It felt very good...HAHAHA
+
+I did my grocery shopping next. I got a lot of the things I wanted for food for the week. But I also got some other necessities that I don't get every grocery trip. I loved the laundry soap I got last year so much, I went with the double size bottle this time. It was only a few dollars more than the one that is half the size...LOL And this will last me quite a while. I also got more body soap. I seem to need that once a month. I could buy extra bars. But once a month works fine for my brain organization...LOL
+
+I stocked up on fish with 5 different kinds. I'll be good with fish for quite some time! One of the fish is a Chilean sea bass. It was expensive and only has 2 servings. But it will be a nice treat the couple of times I have it. I'll be sure to save it for a few *special* occasions...LOL
+
+I've somehow found myself back on the pescatarian diet again. I didn't plan it. But I stopped craving chicken, pork, and beef. I'll not avoid it if I eat out. I may still get fish when out. But I'm not exactly against those meats. For some reason, I just don't feel like cooking with them at home for now. I've also gone back to tofu. I do both the soy-free and the traditional. It depends on my mood...hehehe
+
+With my day being a little wonky with the car maintenance, I didn't do my usual lunch walk. So, once I got home from the grocery, I ended up walking 3 miles! I had already done my usual 1 mile walk this morning. As a result of both walks, I ended up doing 4 miles for prayer walks.
+
+When I mention how far I've walked, I'm typically just referring to the prayer/exercise walks I do. I actually walk further each day when you include all the other walking I do just by being alive and mobile in general.
+
+After my long walk, I did my *Bible in a Year* reading. I had a little trouble connecting with it today like I did with John 7. But the recap video really brought it around for me. It explained some things I didn't quite understand when I was reading. I'm grateful to have those recap videos this year!
+
+Next was dinner. I had fried rice again...LOL This was the last of my batch of rice for the week. I'll not have rice again until at least Wednesday. I have chow mein and tacos planned for the next few nights. Although, tomorrow I'll probably just heat up some soup.
+
+I caught up on some TV tonight. There is a show on Apple TV, *Severance*, who's next season is about to begin streaming. I wanted to familiarize myself with the show again. I watched it a few nights this week. I'm all caught up now...hehehe
+
+I checked out [First United Methodist Church of New Port Richey](https://fumcnpr.com) online tonight. They only have a traditional service. This church very much reminds me of how things were at my church in the 80's. The only real difference was the additional UMC specific traditions. I love it <3 I may watch a few more of their services this coming week.
+
+My search will continue next weekend with another UMC in Hudson. Just like New Port Richey, it isn't far from me. I may also check out a fourth church the week after that before deciding between the one I checked out last week, the one this weekend, and those for the next 2 weekends. And I'll prayerfully consider if any of the four are the church I'm drawn to.
+
+Which leads me to this moment. I'm writing in this journal...HAHAHA
 
 ## Photo of the Day
 
