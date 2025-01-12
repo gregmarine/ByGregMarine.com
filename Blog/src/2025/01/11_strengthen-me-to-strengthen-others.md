@@ -52,6 +52,8 @@ When I mention how far I've walked, I'm typically just referring to the prayer/e
 
 After my long walk, I did my *Bible in a Year* reading. I had a little trouble connecting with it today like I did with John 7. But the recap video really brought it around for me. It explained some things I didn't quite understand when I was reading. I'm grateful to have those recap videos this year!
 
+I wasn't quite ready for dinner yet, so I went to my pet store. Yeah, I have a pet store now...LOL Mr. Long Legs' adoption day anniversary is coming up...hehehe My deer pal needs a new toy from his Florida pal, you know! HAHAHA This one is a through back to my childhood...LOL Seeing his reactions to the toy I got him for Christmas tells me he is going to really love this new one...LOL
+
 Next was dinner. I had fried rice again...LOL This was the last of my batch of rice for the week. I'll not have rice again until at least Wednesday. I have chow mein and tacos planned for the next few nights. Although, tomorrow I'll probably just heat up some soup.
 
 I caught up on some TV tonight. There is a show on Apple TV, *Severance*, who's next season is about to begin streaming. I wanted to familiarize myself with the show again. I watched it a few nights this week. I'm all caught up now...hehehe
@@ -72,3 +74,10 @@ I love how this one turned out. I don't know if they were celebrating or if ball
 
 ## Wrapping Up
 
+Although I didn't get to all of the tasks I hoped to get to today, it was a very blessed day. Yes, TV was part of why I didn't get everything in...LOL But I also did a lot more praying. The one task I really wanted to get to is something I can either do tomorrow, or I can try to tackle later in the week. I basically have a couple of desks I want to clear and prepare for the next phase of my simplification process. Not a big deal...LOL
+
+This mornings prayer walk was the best walk I have ever taken. I do not say this lightly.
+
+Something I haven't talked about yet is that I have been partaking in communion at all meals and some snacks this entire week. In the past, I felt that communion was too special to make it a frequent thing. Then on Christmas Eve, I did it 4 times the same day. That changed my whole perspective on how often I do it. It connected me to how Jesus said *as often as you...do this in remembrance*. As I began this 21 day season, I thought I would like to experience communion more and keep it holy each time. It has been an amazing experience, to say the least. A life changing experience, to be more precise <3
+
+I've had a lot to write about this week...and this whole month so far. I hope it hasn't been exhausting to read. It's good to write about all of this. I won't keep silent. And I can't keep this all inside. I have to share it. Thank you for reading it all <3
