@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2025/01/12_
+      text: Heart Shaped Potato Chip
+      link: /2025/01/12_heart-shaped-potato-chip
     - theme: alt
       text: Strengthen Me to Strengthen Others
       link: /2025/01/11_strengthen-me-to-strengthen-others
