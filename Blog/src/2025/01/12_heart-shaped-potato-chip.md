@@ -1,4 +1,4 @@
-# TBD
+# Heart Shaped Potato Chip
 
 ## 21 Days of Prayer and Fasting
 
@@ -18,9 +18,9 @@ The author of the devotional where I'm learning these things suggests that it is
 
 That said, this order and plan is one man's plan. He is a pastor and leads others. I imagine and hope that he interpreted the Spirit's guidance in this faithfully and correctly. I'm learning so much and will try to adapt and apply these lessons to my own life. I interpret that the Spirit led me to this book for a reason. It is strengthening my prayer time so far. I'm very grateful for the opportunity to learn more about how Jesus prayed. After all, He is the model of a God fearing and turning away from evil lifestyle, right?!? hehehe
 
-John 8 starts off with the story of the woman caught in adultery. The Pharisees and scribes try to trap Jesus in His words here. He begins to write in the dirt on the ground. We don't really know what He wrote. But I have come to imagine He was writing down all of the things those people were guilty of. Of all, He did say that whoever was without sin should throw the first stone. But no one threw a single stone.
+John 8 starts off with the story of the woman caught in adultery. The Pharisees and scribes try to trap Jesus in His words here. He begins to write in the dirt on the ground. We don't really know what He wrote. But I have come to imagine He was writing down all of the things those people were guilty of. After all, He did say that whoever was without sin should throw the first stone. But no one threw a single stone.
 
-The rest of the chapter was more of Jesus saying things that seemed to divide the crowd. Even claims to be God Himself at one point. The wanted to stone Him after that...LOL I need to study these things a little more. I want to learn about this side of Jesus. It seem confrontational. But there must be something in it that shows His attributes found throughout scripture. Of course, one key context here is *who* He was speaking to. I just want to understand it all better...hehehe
+The rest of the chapter was more of Jesus saying things that seemed to divide the crowd. Even claims to be God Himself at one point. They wanted to stone Him after that...LOL I need to study these things a little more. I want to learn about this side of Jesus. It seem confrontational. But there must be something in it that shows His attributes found throughout scripture. Of course, one key context here is *who* He was speaking to. I just want to understand it all better...hehehe
 
 ## My Day
 
@@ -34,7 +34,7 @@ The CUMC sermon was about baptism. I recalled that I've been baptized twice...he
 
 I was able to get in 4 miles of walks today. I did it in 3 walks by doing 4 laps each around the pond. It was a little chilly for that first walk. But the others were warmer.
 
-I had a wonderful fellowship and friendship video call with my deer friend. I really enjoyed the devotionals we used to do. But these Bible studies we've been doing are so amazing. We do them throughout the week separately. And then we come together on Sunday to discuss. This has truly been a blessing I did not expect before we started doing this fellowship almost a year ago.
+I had a wonderful fellowship and friendship video call with my deer friend. I really enjoyed the devotionals we used to do. But these Bible studies we've been doing are so amazing. We do them throughout the week separately. And then we come together on Sunday to discuss. This has truly been a blessing I did not expect before we started doing this fellowship almost a year ago. Although our friendship began long before that, it was March last year when we started doing this fellowship experience through our first devotional.
 
 I also had a pleasant phone call with mom and dad. It is always nice to talk to them on Sundays. I don't recall when I started making it a weekly thing. But it has been a while now. I appreciate these calls as much as they do.
 
@@ -48,4 +48,4 @@ I had one of those amazing days...seeing a heart shaped potato chip just seems p
 
 ## Wrapping Up
 
-I didn't write as much today as I have been. It was a full day. Sundays tend to be days of family, friends, and fellowship. Such days are full, and they make my heart full as well.
+I didn't write as much today as I have been. It was a full day, though. Sundays tend to be days of family, friends, and fellowship. Such days are full, and they make my heart full as well.
