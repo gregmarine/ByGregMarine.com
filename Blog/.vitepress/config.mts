@@ -935,6 +935,10 @@ export default defineConfig({
                       {
                         text: 'Strengthen Me to Strengthen Others',
                         link: '/2025/01/11_strengthen-me-to-strengthen-others'
+                      },
+                      {
+                        text: 'Heart Shaped Potato Chip',
+                        link: '/2025/01/12_heart-shaped-potato-chip'
                       }
                     ]
                   }
