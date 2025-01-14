@@ -941,8 +941,8 @@ export default defineConfig({
                         link: '/2025/01/12_heart-shaped-potato-chip'
                       },
                       {
-                        text: 'Please Forgive Us',
-                        link: '/2025/01/13_please-forgive-us'
+                        text: 'Please Forgive Me',
+                        link: '/2025/01/13_please-forgive-Me'
                       }
                     ]
                   }

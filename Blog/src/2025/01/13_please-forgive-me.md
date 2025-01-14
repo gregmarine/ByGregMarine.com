@@ -1,4 +1,4 @@
-# Please Forgive Us
+# Please Forgive Me
 
 ## 21 Days of Prayer and Fasting
 
@@ -17,8 +17,6 @@ Today's prayer focus is forgiveness. While hanging on the cross, Jesus said, *Fa
 *And please forgive the pastors. They are all human just like me. And they have the added burden of responsibility for everything they speak at the pulpit! I cannot imagine the weight of that! So please forgive them of their sins against You and others. They do not know what they are doing.*
 
 *Thank You that I can ask for forgiveness for myself and others. It is a gift I cherish very much. Help me live a life that reflects my gratitude for You gift of salvation. Please empower me with Your Holy Spirit to do the good work You have planned for me today as I seek first Your Kingdom and Your righteousness. In Your Name, AMEN!*
-
-
 
 ## My Day
 

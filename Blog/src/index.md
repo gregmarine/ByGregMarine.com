@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: Please Forgive Us
-      link: /2025/01/13_please-forgive-us
+      text: Please Forgive Me
+      link: /2025/01/13_please-forgive-me
     - theme: alt
       text: Heart Shaped Potato Chip
       link: /2025/01/12_heart-shaped-potato-chip
