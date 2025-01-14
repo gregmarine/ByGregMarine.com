@@ -24,7 +24,11 @@ Today's prayer focus is forgiveness. While hanging on the cross, Jesus said, *Fa
 
 ## Photo of the Day
 
+The pine trees in my community aren't quite that mighty just yet. They are only a few years old. But they are full of potential already.
 
+![Pinecone](./media/IMG_5140.jpeg)
+
+As long as I continue to seek growth in my life, I'll remain full of potential too. I can imagine I sometimes make life look easy. But the struggle, it's real. There is always hope. All moments are precious. Good or bad.
 
 ## Wrapping Up
 
