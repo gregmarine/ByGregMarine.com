@@ -943,6 +943,10 @@ export default defineConfig({
                       {
                         text: 'Please Forgive Me',
                         link: '/2025/01/13_please-forgive-me'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2025/01/14_'
                       }
                     ]
                   }
