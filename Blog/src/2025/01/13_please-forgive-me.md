@@ -20,6 +20,16 @@ Today's prayer focus is forgiveness. While hanging on the cross, Jesus said, *Fa
 
 ## My Day
 
+Once I started work, I had a really strange morning. It was a good test of some of the work related attitudes I've been trying to adopt over the last year.
+
+I'm one who doesn't like to have meetings before 9am. No sooner than I logged on, someone hit me up saying they were scheduling a meeting at 8:30am...LOL I have a daily 9am meeting. I was concerned at first that this popup meeting would interfere. But I remained calm. I also typically make some toast around 8:30. So, I knew *that* wasn't going to happen now...LOL
+
+I almost asked him if we could have it later in the day. But there were a few other things to consider. One, my not liking meetings before 9am is a *me* problem...not a *them* problem...LOL Also, I had various other meetings today. Moving that one would just gum up another part of the day.
+
+Well, the meeting started late and I grew concerned about my 9am meeting...hehehe Fortunately, we were done just before 9 and I was able to quickly hop over to the other meeting. (wipes brow) All was well in the world...LOL Except my toast...LOL
+
+I don't know if that pop up meeting threw me off, or if it was something else. But I had something going on in my body all day. When I would eat, I felt great. But shortly after eating, I would feel fatigued. Once I ate again, I was back to *normal*...until a little while later...LOL But, when I went on my walks, I had energy again. It was so weird. I doubt being delayed on breakfast could have impacted my entire day. I'm doing fine...just an observation in some weirdness today...LOL I feel completely fine otherwise.
+
 
 
 ## Photo of the Day
@@ -32,3 +42,6 @@ As long as I continue to seek growth in my life, I'll remain full of potential t
 
 ## Wrapping Up
 
+I think I'd like to do a timestamp entry tomorrow. I have a variety of types of days. But I am struggling to find the words to describe the day once it is over. I was doing really well documenting the day without timestamps by hopping on the computer to describe things as the day goes on. But I've lost that momentum again...LOL
+
+When this happens, a good old classic timestamp entry usually does the trick. What I'll likely do is continue with the format I've been using during this brief season. I'll just do the timestamp writing in the *My Day* section...hehehe
