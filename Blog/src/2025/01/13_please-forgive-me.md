@@ -30,7 +30,17 @@ Well, the meeting started late and I grew concerned about my 9am meeting...heheh
 
 I don't know if that pop up meeting threw me off, or if it was something else. But I had something going on in my body all day. When I would eat, I felt great. But shortly after eating, I would feel fatigued. Once I ate again, I was back to *normal*...until a little while later...LOL But, when I went on my walks, I had energy again. It was so weird. I doubt being delayed on breakfast could have impacted my entire day. I'm doing fine...just an observation in some weirdness today...LOL I feel completely fine otherwise.
 
+I did my morning and lunch walks at their usual time. But there was a growing chance for rain around the time I take my evening walk. So I ended up doing that one early. Around 3:30pm I think. That was the walk where I captured *today's* photo. I also captured a video that I posted as a Instagram and Facebook story.
 
+It was a bit gloomy here all day. I don't mind days like that here. They are few and far between. They don't bring me down like this kind of day did in Indiana. Up there, the *Sunshine State like* days were the ones few and far between. It was glooming most of the time...especially in the winter. I don't miss that part of Indiana life...LOL
+
+I went to the post office today. I mailed a new dog toy to my deer pal for his upcoming *Gotcha Day*. He brings me so much joy and it makes my heart so happy to see how much he loves his last toy. This one is similar to that one in the type of play it provides. So, I hope he loves this one too. I know it is a little silly, but I wrote *him* a letter...LOL It was fun. I made several mistakes, though. I handwrote it...LOL There is a certain beauty in the mistakes of a handwritten letter. I'm full of *oops* moments myself. My letters reflect that sometimes...hehehe I had to write the address label twice...LOL I even messed that up...LOL
+
+I made chowmein for dinner. The sauce I used was the spicy orange. I hadn't had that in a while. It was a nice meal to enjoy as I watched this week's episode of *The Chosen* for the Bible study. I'm not sure if the study itself will provide me an opportunity to say this. So, I'll say it here for now. I relate to the Mary M. character in this episode. I don't recall how many episodes the story arc is for this part of *her* story. But I do recall the story line itself. I've been there *Mary*. Hang on...you'll get through this <3
+
+I love Mondays...LOL Unlike *Garfield*...LOL Who, by the way, was also *born* in Indiana in the 70's...LOL But like Garfield, I once did hate Mondays. I would get those Sunday evening blues dreading the arrival of the work week. It hasn't been for long that I stopped chasing the weekends and dreading Mondays, though. In my own way, I find that all days are equally precious.
+
+I wonder what tomorrow will be like?
 
 ## Photo of the Day
 
