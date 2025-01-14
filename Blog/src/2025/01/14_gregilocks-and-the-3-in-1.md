@@ -60,6 +60,24 @@ I wish I would have had the opportunity to write after my second walk. I had som
 
 Well, time for some kiwi...hehehe
 
+### 5:30pm
+
+I just got in from my evening walk. It is such a lovely evening. I like that word, *lovely*. It better describes certain things more so than words like *beautiful*. At least to me, anyway...hehehe
+
+I was reminded of what I wanted to write about before after my second walk. Prayer walks have a tendency to do that to me. I wanted to talk about how changing who I am committing something to has made a difference in my life.
+
+I have often made certain commitments to other people. I would do this or that *for* that other person. That sounds just lovely doesn't it...LOL Well, I often found myself failing at those commitments. Of course, I'm referring to things like getting healthier or going to church.
+
+I still have times when I feel like I'm committed to something for others. But a lot of social media posts over the years got me thinking that I need to make these commitments for myself. And for a time, that did work. In fact, my current health journey began two years ago with the thought that I just wanted to feel better...for *MEEEEEEE*...LOL However, in order for this journey to stick and become a true commitment, I had to turn it into a commitment to take care of *my* temple of the Holy Spirit. I needed to turn it into an act of worship.
+
+This leds me into today's prayer focus...on commitment. Namely, committing *everything* to God. As I look back at all of the commitments I have ever made, the only ones that didn't flop around on the ground like a fish out of water are the ones I committed to God.
+
+What a difference a simply focus change can make. Yet, it isn't very easy to change focus. I'm so easily distracted by my world. I say *my* in the since of everything that impacts me or the things I myself impact. It isn't actually *my* world...hehehe Philippians 4:8 helps me retrain my focus. Whenever I am distracted, I look to the things that help lead me back to God, Jesus, and the Holy Spirit. The Godhead, three in one <3
+
+These past 3 years have been quite the journey. I'm still growing and learning. I'm getting to know God more everyday. I have spent a lot of time today praying about committing various things to God. I'm going to keep those prayers going. I was encouraged by His reminders of all of the things I have already committed to Him and how He is brought me through some tough times.
+
+I think I themed this year incorrectly. I wanted to think of this year as one to *simplify* and *minimize* my lifestyle more. In reality, I am seeing it as a year of committing to God. I started the year off with my first ever New Year's Resolutions. When I prayed about them, I made a commitment to God to be unwavering and determined while asking for His strength. I had no intention of doing any of those things for myself. So, maybe this is the year of commitment? Or, maybe I should stop theming my years...HAHAHA
+
 
 
 ## Photo of the Day
