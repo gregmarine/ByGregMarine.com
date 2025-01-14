@@ -1,4 +1,4 @@
-# TBD
+# Gregilocks and the 3 in 1
 
 ## 21 Days of Prayer and Fasting
 
@@ -49,6 +49,16 @@ I have meetings that interfere with my lunch hour today. This rarely happens. I'
 ### 1:15pm
 
 I didn't end up eating a food bar. I had time to warm up some soup between meetings...hehehe But I did get my afternoon walk in a little early before the a meeting. I haven't had time to do my Bible in a Year plan yet, though. I'll have to break later for that. One of the big meetings this afternoon was moved to tomorrow. So, I'll have time this afternoon.
+
+### 3:15pm
+
+It has been weird to split up my *lunch* break today. I took my walk at 11am. Now, I'm breaking for my Bible in a Year plan...LOL Well, actually, I just finished reading that and listening to the recap video. And now I'm adding to my journal...hehehe
+
+The day is going well. It hasn't been too fast or too slow. It has been just right. You can call me Gregilocks...HAHAHA j/k Having a minor disruption in my routine a second day in a row has been okay. I've managed and handled it well.
+
+I wish I would have had the opportunity to write after my second walk. I had some things on my mind after praying that I can't seem to recall at the moment. Perhaps I need to come up with a workflow that allows me to write some journal notes from my phone and then later transpose them here.
+
+Well, time for some kiwi...hehehe
 
 
 
