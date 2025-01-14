@@ -945,8 +945,8 @@ export default defineConfig({
                         link: '/2025/01/13_please-forgive-me'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2025/01/14_'
+                        text: 'Gregilocks and the 3 in 1',
+                        link: '/2025/01/14_gregilocks-and-the-3-in-1'
                       }
                     ]
                   }

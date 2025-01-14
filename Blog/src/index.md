@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2025/01/14_
+      text: Gregilocks and the 3 in 1
+      link: /2025/01/14_gregilocks-and-the-3-in-1
     - theme: alt
       text: Please Forgive Me
       link: /2025/01/13_please-forgive-me
