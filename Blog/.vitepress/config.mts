@@ -943,6 +943,10 @@ export default defineConfig({
                       {
                         text: 'Please Forgive Me',
                         link: '/2025/01/13_please-forgive-me'
+                      },
+                      {
+                        text: 'Gregilocks and the 3 in 1',
+                        link: '/2025/01/14_gregilocks-and-the-3-in-1'
                       }
                     ]
                   }
