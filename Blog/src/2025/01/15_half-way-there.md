@@ -20,6 +20,12 @@ The context of His prayer was that Lazarus had died a few days prior and He was 
 
 ## My Day
 
+### 8:20am
+
+Today's reading from John 11 included the passage that is from today's prayer focus. I love when things like that align. It's like a little message from God telling me just how important such things are...hehehe It was also great to expand the context of the passage to include everything that was going on. It wasn't just about the Father hearing the Son or who was there who needed to know the Son was sent by the Father. This part of scripture is also where we find *Jesus wept*. This shows us that He is right there with us in our sorrow. Not only does He hear our prayers, He hears our hearts. He knows what we feel and feels it right along with us <3
+
+Even if there are more bad moments that good moments, it doesn't mean we have a bad life. The bad can help us appreciate the good. And we can learn from it all. We must balance it in our hearts. God is the One who will bring the balance to that scale.
+
 
 
 ## Photo of the Day
