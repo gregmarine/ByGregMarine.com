@@ -100,7 +100,18 @@ Well, that's my day in an acorn button...HAHAHA Yes, I know the phrase ends *in 
 
 ## Photo of the Day
 
+This morning's walk was so lovely. There was some morning dew on the grass and weeds...hehehe When I shot the video this photo came from, I somewhat hoped it would be the photo today. Perhaps I derailed the rest of the day as I didn't take many memorable videos today...LOL
 
+![Dew on a leaf](./media/IMG_5171.jpeg)
+
+I was pretty amazed at how well this was captured. It's hard to believe this leaf is smaller than my thumb...LOL I used to try to capture imagery like this from my mirror-less digital camera. But this is from an iPhone video...hehehe I've thought about upgrading my device to a pro version. Yet, it appears I just need to sharpen my skills instead...hehehe
+
+I may still upgrade eventually. I do *regret* going with the normal iPhone when I got this one. I did so because I made heavy use of my mirror-less when I got the iPhone I have now. Now, I rarely use that big camera. It's so inconvenient...HAHAHA I still like it, though. It takes really good photos when I do use it.
 
 ## Wrapping Up
 
+My heart is full. I'm having fulfilling days lately. This year is starting out well. There was a time I wouldn't say such a thing believing I might jinx it. But I don't believe in such things. I'm getting to the point where I'm going to call out moments for what they are. Good or bad, all moments are precious. This is la vie en rose <3 Or perhaps, more like looking at life through Jesus colored glasses...hehehe
+
+Committing my day didn't mean I was free from some anxiety. It crept up a few times today. But those moments drew me to the One who wants to comfort and strengthen me. I don't think I'd know how to appreciate and be grateful for my life if it weren't for the balance of good and bad moments. I no longer try to attach my feelings and emotions to moments. I simply cherish them all. The bad ones are great reminders of who I need to turn to and the good ones are great reminders that He's always there, right?!?
+
+I'm going to keep running this race until I cross that finish line. I'll take my breaks along the way. I'll consume refreshments. But I will get there. I just need to keep going <3
