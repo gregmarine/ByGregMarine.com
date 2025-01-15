@@ -6,7 +6,7 @@ Today marks the half way point in this season. And it just so happens to be the 
 
 If I were to live the same number of years as my grandparents, I'm also half way through my life. I was also born in that half way point between generations. By some, I'd be considered to be a [Xennial](https://en.wikipedia.org/wiki/Xennials). And I have a special birthday that falls in all four seasons depending on the year and what hemisphere I'm in. I'm always in between, it seems. Especially today. I'm half way there...LOL
 
-Today's prayer focus is probably the most simple, while at the same time, the most impactful. It to thank God for listening and hearing my prayers. And to know that He always is. In Luke 11:41-42 Jesus says, *...Father, I thank You that You have heard Me. I knew that You always hear me...*
+Today's prayer focus is probably the most simple, while at the same time, the most impactful. It to thank God for listening and hearing my prayers. And to know that He always is. In John 11:41-42 Jesus says, *...Father, I thank You that You have heard Me. I knew that You always hear me...*
 
 The context of His prayer was that Lazarus had died a few days prior and He was resurrecting him. He said this prayer for the benefit of those who were standing there that day, so that they would know Jesus was sent by God. Although I will not be using that same context myself today, thanking God for always hearing my prayers seems significant. I've prayed this before. Many times, in fact. But I've never truly focused on the meaning of such a prayer. I'm glad to be doing that today.
 
