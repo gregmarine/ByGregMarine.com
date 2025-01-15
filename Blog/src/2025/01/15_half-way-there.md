@@ -28,7 +28,7 @@ Even if there are more bad moments that good moments, it doesn't mean we have a 
 
 ### 2:25pm
 
-Wow! This day hasn't gone as expected or in any way I would call *normal* for me...LOL The meeting from yesterday afternoon that got moved to today was scheduled for an hour. It took 2 and half hours. And there is more to come with that as we didn't resolve everything...hehehe So, I had a late walk and lunch. This is the third day in a row that my routine has been altered due to work. I'm doing far better with that than I thought I would. My heart is so different than it used to be. I'm not stressing about it. The few moments when I got a little irritated at the thought that things weren't going like *normal*, I committed my thoughts to God. I'm grateful He listens to my prayers and then *speaks* peace into my heart to keep me focused on what I'm supposed to be doing.
+Wow! This day hasn't gone as expected or in any way I would call *normal* for me...LOL The meeting from yesterday afternoon that got moved to today was scheduled for an hour. It took 2 and half hours. And there is more to come with that as we didn't resolve everything...hehehe So, I had a late walk and lunch. This is the third day in a row that my routine has been altered due to work. I'm doing far better with that than I thought I would.
 
 I wonder what's in store when I log back into work in a few minutes...LOL There were some tasks left unfinished from my morning because of that meeting. Hopefully I can wrap those up this afternoon.
 
