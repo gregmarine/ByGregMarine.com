@@ -14,13 +14,11 @@ The author of the devotional challenges us to commit everything to the Father to
 
 *Also Father, into Your hands, I commit my church. I pray that we give you absolutely everything. I don't mean like giving a portion of our finances or talents or time. I mean fully giving the mission you have for us in the community. I pray we commit to You our worship and our hearts. I pray we commit it all and not just a portion. Take all of us, Lord, I pray!*
 
-*Finally, Father, I pray for the pastors. I pray this also commit all of themselves today to the ministry You have called them to. I pray they commit their families to You as well. May they give themselves wholly and fully over to You to carry them in their struggles and in their celebrations.*
+*Finally, Father, I pray for the pastors. I pray they also commit all of themselves today to the ministry You have called them to. I pray they commit their families to You as well. May they give themselves wholly and fully over to You to carry them in their struggles and in their celebrations.*
 
 *Thank You so much Lord for leading me to a season in my life where I desire to be fully committed to You. To lay aside all of my own desires to focus on what it is You want. Today, and everyday forward, I commit myself and give myself to You. I want to know You more! In this I pray in Your Name, AMEN!*
 
-Starting my days like this has been a blessing. I need to start my everything like this. Committing whatever it is to God first. So, for today, I commit my day to God. When I start something new...a relationship, a job, a creative project, a Bible study, a phone call...you name it...I want to commit them to God from the start. Not just when I'm at my wit's end or even after I've succeed in something. I did this with my New Year's Resolutions...and so far, those are going quite well 2 weeks into the year. Yes, there is a long way to go. But committing these things to God first, I believe, was the best way to start!
-
-
+Starting my days like this has been a blessing. I need to start my everything like this. Committing whatever it is to God first. So, for today, I commit my day to God. When I start something new...a relationship, a job, a creative project, a Bible study, a phone call...you name it...I want to commit them to God from the start. Not just when I'm at my wit's end or even after I've succeeded in something. I did this with my New Year's Resolutions...and so far, those are going quite well 2 weeks into the year. Yes, there is a long way to go. But committing these things to God first, I believe, was the best way to start!
 
 ## My Day
 
@@ -30,11 +28,11 @@ I just completed my morning prayer and devotional time. Now it is time to do my 
 
 ### 08:45am
 
-It was a little chilly today for that walk. It wasn't too bad, though. It was the time that made my hands and face tingle. But not so cold that I needed an extra jacket or gloves. And at the pace I walk, I warmed up rather quickly. I captured a few moments that will make for some good photo candidates today.
+It was a little chilly today for that walk. It wasn't too bad, though. It was the type that made my hands and face tingle. But not so cold that I needed an extra jacket or gloves. And at the pace I walk, I warmed up rather quickly. I captured a few moments that will make for some good photo candidates today.
 
 I've made some toast and I've heated up some water. I'm still drinking hot water. I did add a morning glass of room temp water that I drink during my morning devotional. I realized waiting a few hours to have my first water was a bad idea. I didn't plan to wait. It just sort of happened...hehehe
 
-My first meeting of the day is going to begin soon. I have a lot of meeting today. I'll try to be productive in between them...LOL
+My first meeting of the day is going to begin soon. I have a lot of meetings today. I'll try to be productive in between them...LOL
 
 ### 10:40am
 
@@ -48,7 +46,7 @@ I have meetings that interfere with my lunch hour today. This rarely happens. I'
 
 ### 1:15pm
 
-I didn't end up eating a food bar. I had time to warm up some soup between meetings...hehehe But I did get my afternoon walk in a little early before the a meeting. I haven't had time to do my Bible in a Year plan yet, though. I'll have to break later for that. One of the big meetings this afternoon was moved to tomorrow. So, I'll have time this afternoon.
+I didn't end up eating a food bar. I had time to warm up some soup between meetings...hehehe But I did get my afternoon walk in a little early before the one meeting. I haven't had time to do my Bible in a Year plan yet, though. I'll have to break later for that. One of the big meetings this afternoon was moved to tomorrow. So, I'll have time this afternoon.
 
 ### 3:15pm
 
@@ -70,7 +68,7 @@ I have often made certain commitments to other people. I would do this or that *
 
 I still have times when I feel like I'm committed to something for others. But a lot of social media posts over the years got me thinking that I need to make these commitments for myself. And for a time, that did work. In fact, my current health journey began two years ago with the thought that I just wanted to feel better...for *MEEEEEEE*...LOL However, in order for this journey to stick and become a true commitment, I had to turn it into a commitment to take care of *my* temple of the Holy Spirit. I needed to turn it into an act of worship.
 
-This leds me into today's prayer focus...on commitment. Namely, committing *everything* to God. As I look back at all of the commitments I have ever made, the only ones that didn't flop around on the ground like a fish out of water are the ones I committed to God.
+This leads me into today's prayer focus...on commitment. Namely, committing *everything* to God. As I look back at all of the commitments I have ever made, the only ones that didn't flop around on the ground like a fish out of water are the ones I committed to God.
 
 What a difference a simply focus change can make. Yet, it isn't very easy to change focus. I'm so easily distracted by my world. I say *my* in the since of everything that impacts me or the things I myself impact. It isn't actually *my* world...hehehe Philippians 4:8 helps me retrain my focus. Whenever I am distracted, I look to the things that help lead me back to God, Jesus, and the Holy Spirit. The Godhead, three in one <3
 
@@ -80,7 +78,7 @@ I think I themed this year incorrectly. I wanted to think of this year as one to
 
 ### 9:15pm
 
-The evening as gone pretty much like normal. I made salmon tacos for the first time tonight. They were amazing! I got the idea when I saw a friend of mine post their salmon tacos a few weeks ago. I hadn't ever thought to use salmon...LOL I suppose you can use just about any protein...hehehe
+The evening has gone pretty much like normal. I made salmon tacos for the first time tonight. They were amazing! I got the idea when I saw a friend of mine post their salmon tacos a few weeks ago. I hadn't ever thought to use salmon...LOL I suppose you can use just about any protein...hehehe
 
 ![Taco](./media/IMG_5159.jpeg)
 
@@ -88,7 +86,7 @@ As I was eating, I watch this week's *The Chosen* episode again. I tend to watch
 
 This week's lesson is, once again, speaking to me. I'm really connecting with it. As always, the lesson is very timely and very much needed.
 
-I checked my mail for the first time this year...LOL I think it had been at least 3 weeks. I had a Christmas card from a friend. It is one of this family picture cards. So, I hung it on my fridge...hehehe It'll remain up there for a while. It's next to a postcard they sent me as well and both are being held there by a magnet I got from the same friend...it's there little corner of my freezer door...LOL
+I checked my mail for the first time this year...LOL I think it had been at least 3 weeks since I last checked. I had a Christmas card from a friend. It is one of those family picture cards. So, I hung it on my fridge...hehehe It'll remain up there for a while. It's next to a postcard they sent me as well and both are being held there by a magnet I got from the same friend...it's their little corner of my freezer door...LOL
 
 ### 9:45pm
 
@@ -112,6 +110,4 @@ I may still upgrade eventually. I do *regret* going with the normal iPhone when 
 
 My heart is full. I'm having fulfilling days lately. This year is starting out well. There was a time I wouldn't say such a thing believing I might jinx it. But I don't believe in such things. I'm getting to the point where I'm going to call out moments for what they are. Good or bad, all moments are precious. This is la vie en rose <3 Or perhaps, more like looking at life through Jesus colored glasses...hehehe
 
-Committing my day didn't mean I was free from some anxiety. It crept up a few times today. But those moments drew me to the One who wants to comfort and strengthen me. I don't think I'd know how to appreciate and be grateful for my life if it weren't for the balance of good and bad moments. I no longer try to attach my feelings and emotions to moments. I simply cherish them all. The bad ones are great reminders of who I need to turn to and the good ones are great reminders that He's always there, right?!?
-
-I'm going to keep running this race until I cross that finish line. I'll take my breaks along the way. I'll consume refreshments. But I will get there. I just need to keep going <3
+Committing my day didn't mean I was free from some anxiety. It crept up a few times today. I didn't journal about any of that. But those moments drew me to the One who wants to comfort and strengthen me. I don't think I'd know how to appreciate and be grateful for my life if it weren't for the balance of good and bad moments. I no longer try to attach my feelings and emotions to moments. I simply cherish them all. The bad ones are great reminders of who I need to turn to and the good ones are great reminders that He's always there <3
