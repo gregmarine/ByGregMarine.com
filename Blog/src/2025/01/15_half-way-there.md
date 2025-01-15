@@ -32,6 +32,14 @@ Wow! This day hasn't gone as expected or in any way I would call *normal* for me
 
 I wonder what's in store when I log back into work in a few minutes...LOL There were some tasks left unfinished from my morning because of that meeting. Hopefully I can wrap those up this afternoon.
 
+### 4:00pm
+
+The afternoon as been going well at work. Just one more hour to go for today. I thought my evening might have been thrown off a bit by the mid-day mayhem...LOL But no, it looks like I'll be finished with work at my normal time. And I'll be hungry for dinner at the normal time as well. Having a late lunch just meant I didn't have an afternoon snack like I usually do.
+
+I'm making a batch of rice. I've gotten into a pattern of making rice on Wednesdays. Then making something with the rice for 4 nights. I didn't plan to get into that habit. It just sort of happened...hehehe For now, I'll keep with it. I'm enjoying my weekly rice.
+
+Due to today's weirdness, I have only take 2 videos to pull a photo from for today. Both on my morning walk. And both I'm unlikely to source today's photo from. I hope to grab some videos later. I guess today just isn't one of those to capture...LOL We'll see. I'll find at least 1 photo for today from something I'm doing. My goal was to get 1 per day this year regardless...hehehe It's just a goal, though. It wasn't a resolution...LOL
+
 
 
 ## Photo of the Day
