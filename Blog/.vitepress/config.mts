@@ -947,6 +947,10 @@ export default defineConfig({
                       {
                         text: 'Gregilocks and the 3 in 1',
                         link: '/2025/01/14_gregilocks-and-the-3-in-1'
+                      },
+                      {
+                        text: 'Half Way There',
+                        link: '/2025/01/15_'
                       }
                     ]
                   }
