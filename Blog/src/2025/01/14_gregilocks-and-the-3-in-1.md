@@ -78,6 +78,18 @@ These past 3 years have been quite the journey. I'm still growing and learning. 
 
 I think I themed this year incorrectly. I wanted to think of this year as one to *simplify* and *minimize* my lifestyle more. In reality, I am seeing it as a year of committing to God. I started the year off with my first ever New Year's Resolutions. When I prayed about them, I made a commitment to God to be unwavering and determined while asking for His strength. I had no intention of doing any of those things for myself. So, maybe this is the year of commitment? Or, maybe I should stop theming my years...HAHAHA
 
+### 9:15pm
+
+The evening as gone pretty much like normal. I made salmon tacos for the first time tonight. They were amazing! I got the idea when I saw a friend of mine post their salmon tacos a few weeks ago. I hadn't ever thought to use salmon...LOL I suppose you can use just about any protein...hehehe
+
+![Taco](./media/IMG_5159.jpeg)
+
+As I was eating, I watch this week's *The Chosen* episode again. I tend to watch it most nights. Seeing the same episode multiple days in a row helps the story sink in. Yeah, I know it's mostly fiction. But it has been drawing me into to the Bible study; which is only about the Bible...hehehe I really like the show. It's good quality for starters. The stories are always good. They are inspired by the life and times of Jesus. They have to fill in some holes to make it a show, though. I look at it as entertainment that points to Jesus...hehehe
+
+This week's lesson is, once again, speaking to me. I'm really connecting with it. As always, the lesson is very timely and very much needed.
+
+I checked my mail for the first time this year...LOL I think it had been at least 3 weeks. I had a Christmas card from a friend. It is one of this family picture cards. So, I hung it on my fridge...hehehe It'll remain up there for a while. It's next to a postcard they sent me as well and both are being held there by a magnet I got from the same friend...it's there little corner of my freezer door...LOL
+
 
 
 ## Photo of the Day
