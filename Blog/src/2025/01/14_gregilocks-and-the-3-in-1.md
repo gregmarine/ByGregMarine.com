@@ -90,7 +90,13 @@ This week's lesson is, once again, speaking to me. I'm really connecting with it
 
 I checked my mail for the first time this year...LOL I think it had been at least 3 weeks. I had a Christmas card from a friend. It is one of this family picture cards. So, I hung it on my fridge...hehehe It'll remain up there for a while. It's next to a postcard they sent me as well and both are being held there by a magnet I got from the same friend...it's there little corner of my freezer door...LOL
 
+### 9:45pm
 
+As part of my trip to my mailbox, I did a lunar eclipse...HAHAHA It didn't turn out anything like the solar eclipses I've done...HAHAHA Imagine that!
+
+![Selfie with the moon](./media/IMG_5166.jpeg)
+
+Well, that's my day in an acorn button...HAHAHA Yes, I know the phrase ends *in a nutshell*...but this is my journal ;-P
 
 ## Photo of the Day
 
