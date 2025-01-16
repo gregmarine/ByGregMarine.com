@@ -24,8 +24,6 @@ The context of His prayer was that Lazarus had died a few days prior and He was 
 
 Today's reading from John 11 included the passage that is from today's prayer focus. I love when things like that align. It's like a little message from God telling me just how important such things are...hehehe It was also great to expand the context of the passage to include everything that was going on. It wasn't just about the Father hearing the Son or who was there who needed to know the Son was sent by the Father. This part of scripture is also where we find *Jesus wept*. This shows us that He is right there with us in our sorrow. Not only does He hear our prayers, He hears our hearts. He knows what we feel and feels it right along with us <3
 
-Even if there are more bad moments that good moments, it doesn't mean we have a bad life. The bad can help us appreciate the good. And we can learn from it all. We must balance it in our hearts. God is the One who will bring the balance to that scale.
-
 ### 2:25pm
 
 Wow! This day hasn't gone as expected or in any way I would call *normal* for me...LOL The meeting from yesterday afternoon that got moved to today was scheduled for an hour. It took 2 and half hours. And there is more to come with that as we didn't resolve everything...hehehe So, I had a late walk and lunch. This is the third day in a row that my routine has been altered due to work. I'm doing far better with that than I thought I would.
@@ -38,7 +36,7 @@ The afternoon as been going well at work. Just one more hour to go for today. I 
 
 I'm making a batch of rice. I've gotten into a pattern of making rice on Wednesdays. Then making something with the rice for 4 nights. I didn't plan to get into that habit. It just sort of happened...hehehe For now, I'll keep with it. I'm enjoying my weekly rice.
 
-Due to today's weirdness, I have only take 2 videos to pull a photo from for today. Both on my morning walk. And both I'm unlikely to source today's photo from. I hope to grab some videos later. I guess today just isn't one of those to capture...LOL We'll see. I'll find at least 1 photo for today from something I'm doing. My goal was to get 1 per day this year regardless...hehehe It's just a goal, though. It wasn't a resolution...LOL
+Due to today's weirdness, I have only taken 2 videos to pull a photo from for today. Both on my morning walk. And both I'm unlikely to source today's photo from. I hope to grab some videos later. I guess today just isn't one of those to capture...LOL We'll see. I'll find at least 1 photo for today from something I'm doing. My goal was to get 1 per day this year regardless...hehehe It's just a goal, though. It wasn't a resolution...LOL
 
 ### 8:15pm
 
@@ -58,7 +56,7 @@ This week's Bible study is opening up some things that were hidden in my heart. 
 
 This past weekend, I picked up some Ranch Rocket Space Balls. The previous weekend I picked up Planet Pizza Space Balls. Between the two, I think I like the Ranch Rocket better. They are both good, though. It's nice to have snacks like those now. They make my soul happy without sacrificing my health. I never eat the suggested serving size. I get just enough to satisfy my soul...hehehe They are *Lesser Evil* brand...I like the name...LOL
 
-The same goes with all my snacks now. They all taste really good. And I never eat as much as the serving size suggests. The cookies are a bit small. But I don't feel like eating 4 of them. I only eat 2 at a time. The chocolate bars I eat suggest half the bar...LOL I eat *half* of that...LOL
+The same goes with all my snacks now. They all taste really good. And I never eat as much as the serving size suggests. The cookies are a bit small. But I don't feel like eating 4 of them. I only eat 2 at a time. The chocolate bars I eat suggest half the bar...LOL I eat *half* of *that*...LOL
 
 I watched the finale of *Star Wars: Skeleton Crew*. I enjoyed the series pretty much. But the finale was bleh. It was one of those that could have been 2, or maybe 3, episodes instead of one. Most of the scenes seemed rushed just to conclude the story. That last movie in the Skywalker Saga (Star Wars 9) was like that too. Oh well...it's just for entertainment. I don't live my life for that stuff anymore...hehehe
 
@@ -82,6 +80,6 @@ The birds here in Florida are far different than those from Indiana. There are a
 
 Today, and much of this week, has not gone quite as expected. And I mean that in a good way. Here is how I look at it now. I could get upset that things don't go as expected. Or I can accept that things went exactly how they were supposed to be. I'm grateful for how things are going. The unexpected keeps bringing with it blessings that would not have otherwise come.
 
-Had my day gone the way I expected when I woke up this morning, I would not have come across that person on my evening walk. The timing landed them in my path at just the right moment. If I would have taken the walk at the time I prefer, I would not have be where I was supposed to be.
+Had my day gone the way I expected when I woke up this morning, I would not have come across that person on my evening walk. The timing landed them in my path at just the right moment. If I would have taken the walk at the time I prefer, I would not have been where I was supposed to be when I was supposed to be.
 
 I love when things like this happen now. I can imagine that's how things have always gone in my life. I just wasn't paying attention...LOL A lot of the amazing things and people I have in my life now are because of the path I've taken. That's one of the many reasons why I don't look at the bad stuff as all that bad after all...LOL

@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Half Way There
-      link: /2025/01/15_
+      link: /2025/01/15_half-way-there
     - theme: alt
       text: Gregilocks and the 3 in 1
       link: /2025/01/14_gregilocks-and-the-3-in-1
