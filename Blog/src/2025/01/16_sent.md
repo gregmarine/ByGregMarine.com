@@ -76,6 +76,10 @@ I'm writing some thoughts about how I am feeling concerning the wildfires in LA.
 
 I think I'll be finished with work on time today. Today has felt more *normal* than the rest of the week has...hehehe
 
+### 5:30pm
+
+Inspiration struck on my evening walk. I have a short story I'm working on that I've put on pause for the moment. But some ideas for it popped up in my head tonight. I jotted down some notes for it, lest I forget the details...LOL When I get back to creative writing, those notes will be there waiting for me <3
+
 
 
 ## Photo of the Day
