@@ -54,7 +54,21 @@ I was able to enjoy some fried rice for dinner. It turned out fantastic.
 
 This week's Bible study is opening up some things that were hidden in my heart. They needed exposed to the Light of Jesus. I'm so grateful for this process. The heart transformation I've been experiencing continues!!! Yay!!!
 
+### 9:40pm
 
+This past weekend, I picked up some Ranch Rocket Space Balls. The previous weekend I picked up Planet Pizza Space Balls. Between the two, I think I like the Ranch Rocket better. They are both good, though. It's nice to have snacks like those now. They make my soul happy without sacrificing my health. I never eat the suggested serving size. I get just enough to satisfy my soul...hehehe They are *Lesser Evil* brand...I like the name...LOL
+
+The same goes with all my snacks now. They all taste really good. And I never eat as much as the serving size suggests. The cookies are a bit small. But I don't feel like eating 4 of them. I only eat 2 at a time. The chocolate bars I eat suggest half the bar...LOL I eat *half* of that...LOL
+
+I watched the finale of *Star Wars: Skeleton Crew*. I enjoyed the series pretty much. But the finale was bleh. It was one of those that could have been 2, or maybe 3, episodes instead of one. Most of the scenes seemed rushed just to conclude the story. That last movie in the Skywalker Saga (Star Wars 9) was like that too. Oh well...it's just for entertainment. I don't live my life for that stuff anymore...hehehe
+
+I remember when TV was a huge part of my life. I finally broke that 2 years ago during my first 21 days of prayer and fasting season. Before that, my TV was on all the time. Even if I wasn't *watching* it. Sometimes it was for background noise. But most of the time it was to occupy my mind.
+
+Growing up, dad would call TV *worthless mind rot*...HAHAHA Yep, I can say the same thing now that I've broken the addiction 2 years running. What little TV I do watch now seems a little worthless too...LOL I still enjoy movies, though. And the few shows I watch keep me engaged in the story. It just doesn't have the same value it once did in my life. Again, movies are a different thing. I don't think I'll fall out of love for movies...hehehe
+
+Last year's addiction of candy was broken by the 21 day season. I don't eat it anymore. I still have sweets like cookies and chocolate in very small doses. I'll also eat the occasional cake based treat. But all that stuff like Sweettarts, gummies, and taffy...all gone! It has now been just over a year since I've had anything like that.
+
+Coffee is this year's main fasted indulgence. But I'll be going back to drinking it after this season is over. Maybe just a little less of it, though. I'll admit, it was a good choice. I sure do miss it...hehehe
 
 ## Photo of the Day
 
@@ -62,3 +76,8 @@ This week's Bible study is opening up some things that were hidden in my heart. 
 
 ## Wrapping Up
 
+Today, and much of this week, has not gone quite as expected. And I mean that in a good way. Here is how I look at it now. I could get upset that things don't go as expected. Or I can accept that things went exactly how they were supposed to be. I'm grateful for how things are going. The unexpected keeps bringing with it blessings that would not have otherwise come.
+
+Had my day gone the way I expected when I woke up this morning, I would not have come across that person on my evening walk. The timing landed them in my path at just the right moment. If I would have taken the walk at the time I prefer, I would not have be where I was supposed to be.
+
+I love when things like this happen now. I can imagine that's how things have always gone in my life. I just wasn't paying attention...LOL A lot of the amazing things and people I have in my life now are because of the path I've taken. That's one of the many reasons why I don't look at the bad stuff as all that bad after all...LOL
