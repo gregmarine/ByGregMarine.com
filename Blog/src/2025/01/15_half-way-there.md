@@ -40,6 +40,20 @@ I'm making a batch of rice. I've gotten into a pattern of making rice on Wednesd
 
 Due to today's weirdness, I have only take 2 videos to pull a photo from for today. Both on my morning walk. And both I'm unlikely to source today's photo from. I hope to grab some videos later. I guess today just isn't one of those to capture...LOL We'll see. I'll find at least 1 photo for today from something I'm doing. My goal was to get 1 per day this year regardless...hehehe It's just a goal, though. It wasn't a resolution...LOL
 
+### 8:15pm
+
+I captured some new videos on my evening walk. I hope they turned out well enough for some good photos...hehehe I haven't reviewed them yet.
+
+That last hour of work went a little past an hour...LOL I finally decided it was *quittin'* time so I could rest my work brain tonight and tackle an issue I'm working on tomorrow instead. I can't solve anything if I'm *beating my head against the wall*, so to speak.
+
+I ended up going 5 laps instead of 4 for my walk. I wasn't finished praying...LOL And that last lap put someone in my literal path to pray for. I stopped to talk to them and pet their puppy...hehehe They are here from out of state visiting their child. They expressed a desire to move down here to be closer to their kid. So, I'll be praying for blessings for a successful relocation. I'm very familiar with how such an adventure can get overwhelming...LOL It got me thinking again about how I don't live near my son and communication with him has been difficult lately.
+
+I was able to enjoy some fried rice for dinner. It turned out fantastic.
+
+![Fried rice](./media/IMG_5179.jpeg)
+
+This week's Bible study is opening up some things that were hidden in my heart. They needed exposed to the Light of Jesus. I'm so grateful for this process. The heart transformation I've been experiencing continues!!! Yay!!!
+
 
 
 ## Photo of the Day
