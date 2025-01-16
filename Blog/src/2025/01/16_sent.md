@@ -38,6 +38,14 @@ With the assistance of my boss, we discovered the issue with one of our applicat
 
 I was added to a new daily meeting for user acceptance testing of the systems I'm responsible for. This is part of the big migration I've been working on for 6 months. Things are finally becoming real :-) This is the season I've been working toward and been looking forward to. I like to solve problems. And with things like a migration, there will be problems. I'm glad I am prepared for this. I've learned so much through this process.
 
+### 1:30pm
+
+Today's Bible in a Year reading took quite a while. It took me from Job back to Genesis. It was a new section of Genesis where Abram's (Abraham's) story truly begins. So, there was an extra video to introduce the section. That's on top of the reading itself and the recap that follows...hehehe
+
+I'm thinking about building out this plan on my website and linking to some of the resources I come across along the way. If I do, the pages will be in the *Bible in a Year* format so I can follow along in future years. And anyone else who wants to follow the plan can join in as well. Over the years, I can keep collecting resources that help the study of what is read each day. It could become quite a nice tool to have each day as I continue reading the Bible daily. Plus, as I dive deeper into certain sections in focused Bible study sessions, I can keep building and building. That would be fun!
+
+Work is going really well today. My morning, and the start of the afternoon, has allowed me to keep to my preferred routine today. Unlike the previous 3 days this week...LOL
+
 
 
 ## Photo of the Day
