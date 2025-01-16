@@ -950,7 +950,7 @@ export default defineConfig({
                       },
                       {
                         text: 'Half Way There',
-                        link: '/2025/01/15_'
+                        link: '/2025/01/15_half-way-there'
                       }
                     ]
                   }
