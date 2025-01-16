@@ -21,7 +21,7 @@ The second part of John 11:42 shows Jesus saying, *...so they may believe that Y
 ## Eaton Canyon
 
 ::: warning
-I have some thoughts about a place that holds a special place in my heart. Eaton Canyon and the surrounding area were impacted by a wildfire. Some of my thoughts might be triggering. I pour out my broken heart of those impacted by this tragedy. I wanted to warn you before you read on. I've folded up this part of the entry so it can be easily bypassed <3
+I have some thoughts about a place that holds a special place in my heart. Eaton Canyon and the surrounding area were impacted by a wildfire. Some of my thoughts might be triggering. I pour out my broken heart of those impacted by this tragedy. I wanted to warn you before you read on. Sometimes, the words need to be written. But they don't always need read. If today is not the kind of day to read this, I've collapsed this part of the entry so it can be easily bypassed <3
 :::
 
 ::: details Some thoughts on the Eaton Canyon Fire
@@ -69,6 +69,12 @@ Today's Bible in a Year reading took quite a while. It took me from Job back to 
 I'm thinking about building out this plan on my website and linking to some of the resources I come across along the way. If I do, the pages will be in the *Bible in a Year* format so I can follow along in future years. And anyone else who wants to follow the plan can join in as well. Over the years, I can keep collecting resources that help the study of what is read each day. It could become quite a nice tool to have each day as I continue reading the Bible daily. Plus, as I dive deeper into certain sections in focused Bible study sessions, I can keep building and building. That would be fun!
 
 Work is going really well today. My morning, and the start of the afternoon, has allowed me to keep to my preferred routine today. Unlike the previous 3 days this week...LOL
+
+### 4:00pm
+
+I'm writing some thoughts about how I am feeling concerning the wildfires in LA. More specifically, the Eaton Canyon fire. You may have already read those thoughts before getting to this part of my entry today. But perhaps not? I'm wrapping it in a collapsible section with a trigger warning. Sometimes, the words need to be written. But they don't always need read.
+
+I think I'll be finished with work on time today. Today has felt more *normal* than the rest of the week has...hehehe
 
 
 
