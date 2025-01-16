@@ -72,7 +72,11 @@ Coffee is this year's main fasted indulgence. But I'll be going back to drinking
 
 ## Photo of the Day
 
+Today's photo did end up coming from my evening walk. I haven't seen this guy around here much. I'm glad I was able to experience him today.
 
+![Bird](./media/IMG_5183.jpeg)
+
+The birds here in Florida are far different than those from Indiana. There are a few species in both places. But not many. And this time of year, I have some northern visitors who migrate here for the winter. The wildlife here is something I do not take for granted. It is truly a blessing to me.
 
 ## Wrapping Up
 
