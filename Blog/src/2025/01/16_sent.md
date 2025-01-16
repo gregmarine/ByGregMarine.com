@@ -28,6 +28,10 @@ The second part of John 11:42 shows Jesus saying, *...so they may believe that Y
 
 What a morning already! I love my morning prayer walk the most, I think...hehehe I love starting my day with prayer and a devotional. I think after this brief season, I'd like to go back to doing some sort of devotional or Bible study in the morning. I used to do that. But when I changed my sleep schedule, I had less time in the mornings. Right now, I have more time as I've gradually moved to a more *normal* schedule. It has been a blessing. Every morning is a blessing regardless. But mornings like these are ones I feel more connected with God with.
 
+### 9:00am
+
+My 9am meeting is about to start. But I wanted to hop on here real quick...hehehe Today, I switched to 3 slices of toast for breakfast. I like it. The loaf has 21 slices. 3 a day for 7 days is...*drumroll please*...21...LOL It fits well with how my brain works...LOL The first and last days will be a little lighter because of the heel. But that's okay.
+
 
 
 ## Photo of the Day
