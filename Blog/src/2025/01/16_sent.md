@@ -32,6 +32,12 @@ What a morning already! I love my morning prayer walk the most, I think...hehehe
 
 My 9am meeting is about to start. But I wanted to hop on here real quick...hehehe Today, I switched to 3 slices of toast for breakfast. I like it. The loaf has 21 slices. 3 a day for 7 days is...*drumroll please*...21...LOL It fits well with how my brain works...LOL The first and last days will be a little lighter because of the heel. But that's okay.
 
+### 9:30am
+
+With the assistance of my boss, we discovered the issue with one of our applications that I've been troubleshooting. It's the one I briefly mentioned yesterday as to why I worked a little over yesterday...hehehe I'm glad I walked away from it last night. The issue seems to be a permissions issue with a service account id...LOL It isn't code or configuration. The accounts need the right permissions to work, you know...LOL
+
+I was added to a new daily meeting for user acceptance testing of the systems I'm responsible for. This is part of the big migration I've been working on for 6 months. Things are finally becoming real :-) This is the season I've been working toward and been looking forward to. I like to solve problems. And with things like a migration, there will be problems. I'm glad I am prepared for this. I've learned so much through this process.
+
 
 
 ## Photo of the Day
