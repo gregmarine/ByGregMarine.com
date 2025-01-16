@@ -24,6 +24,10 @@ The second part of John 11:42 shows Jesus saying, *...so they may believe that Y
 
 ## My Day
 
+### 7:55am
+
+What a morning already! I love my morning prayer walk the most, I think...hehehe I love starting my day with prayer and a devotional. I think after this brief season, I'd like to go back to doing some sort of devotional or Bible study in the morning. I used to do that. But when I changed my sleep schedule, I had less time in the mornings. Right now, I have more time as I've gradually moved to a more *normal* schedule. It has been a blessing. Every morning is a blessing regardless. But mornings like these are ones I feel more connected with God with.
+
 
 
 ## Photo of the Day
