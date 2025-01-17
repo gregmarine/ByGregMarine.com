@@ -96,7 +96,13 @@ I'm finished writing my thoughts on the LA county fires. I feel like there is mo
 
 I'm going to eat my evening snack next. I'll relax a little bit too. I'm not sure what I'll do the rest of the evening yet. I've already worked through today's session of the Bible study...hehehe
 
+### 10:05pm
 
+I spent some time reading some of last year's journal entries. I read up through January 13th. When I started this year, I had planned to read the entry from a year ago each day, if there was one. I did not get into that habit yet. I still have some catching up to do. But I needed to stop for the night. I still hadn't wrapped up today's entry...hehehe
+
+It was nice looking back. I'm glad I started this journal last year. I've already discovered some things I thought I would do in 2024 that never happened...HAHAHA Such as, I didn't finish writing my first book...LOL My health goals also changed since the begin of 2024. But there were some things that definitely happened or where things I thought a year ago that I still feel the same about today. It's fun to look back.
+
+I had forgotten what the date was for when I began my health journey. In reading the entries from a year ago, I was reminded it was January 13th. I missed the anniversary this year...hehehe That was this past Monday...LOL Oh well! I'm still going strong on this journey!
 
 ## Photo of the Day
 
