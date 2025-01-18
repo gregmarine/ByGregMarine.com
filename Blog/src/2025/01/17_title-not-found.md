@@ -1,8 +1,8 @@
-# TBD
+# Title Not Found
 
 ## 21 Days of Prayer and Fasting
 
-Today, I take another break from a specific prayer focus to reflect at the previous 4 days. The next section of this devotional is on *the longest prayer*. After that week is over, it concludes with another break to finish out the 21 days. And then there are a few days of recaps that will take me just past my 21 days.
+Today, I take another break from a specific prayer focus to reflect on the previous 4 days. The next section of this devotional is on *the longest prayer*. After that week is over, it concludes with another break to finish out the 21 days. And then there are a few days of recaps that will take me just past my 21 days.
 
 On my last break this past Sunday, I had mentioned I hadn't yet gone back to last year's journal entries. But then last night, I mentioned I finally started to do that. I love to see the progress I'm making on this journey called life. Journaling has been a blessing that I'm so glad I started last year. Well, technically, I started it the year before in a private journal. But it wasn't well organized like this one is...hehehe
 
@@ -17,13 +17,13 @@ Here is a recap of the last 4 prayer focuses:
 
 The fasting is helping me focus on asking, seeking, and knocking. I'm asking for God to guide me in some areas of my life this year that I feel are important to my relationship to Him and others. In my pursuit to love God with all my heart, soul, mind, and strength, and to love others as myself, I need all the help I can get...hehehe I'm seeking His Will in these matters so that I'll know which doors I need to be knocking on.
 
-This devotional is a way for me to change the way I pray. I wanted a better understanding of what prayer is and how I should be prayer. I felt led to this devotional in my pursuit to better understand these things. It has been taking me through the actual prayers of Jesus from the Word. It goes beyond the infamous *Lord's Prayer*. I feel I needed this and I'm grateful to be on this journey.
+This devotional is a way for me to change the way I pray. I wanted a better understanding of what prayer is and how I should be praying. I felt led to this devotional in my pursuit to better understand these things. It has been taking me through the actual prayers of Jesus from the Word. It goes beyond the infamous *Lord's Prayer*. I feel I needed this and I'm grateful to be on this journey.
 
 ## My Day
 
 ### 9:30am
 
-It's been a busy morning...hehehe But I wanted jump in a make a quick timestamp. I enjoyed my morning walk once again. I'm so glad to be back to doing those this year. I'm now up to 4+ miles per day overall. And most of the time spent walking includes prayer. And with the prayers, sometimes it's me talking and sometimes I'm just listening.
+It's been a busy morning...hehehe But I wanted to jump in a make a quick timestamp. I enjoyed my morning walk once again. I'm so glad to be back to doing those this year. I'm now up to 4+ miles per day overall. And most of the time spent walking includes prayer. And with the prayers, sometimes it's me talking and sometimes I'm just listening.
 
 I have more thoughts on the Eaton fire. I made a placeholder for it above. I'm not yet sure if I'll write anything or just remove it. If I do write, you'll likely have read it already...hehehe But as of writing this timestamp entry, I don't yet know if I'll do it or not. If you didn't see it above, I removed it...LOL I mostly have thoughts based on this week's Bible study on mercy.
 
@@ -86,3 +86,5 @@ I'm almost caught up on reading last year's journal entries up to the current da
 I write so differently now. I'm more conversational than I used to be. I still have my moments that are like how I wrote a year ago. But I feel this is becoming more like a chat.
 
 Well, it's time to proofread. I'm sure I'll still miss something...HAHAHA
+
+Ooh! And now I have walked consistently for 17 days straight now...LOL Is this some kind of personal record?!? HAHAHA

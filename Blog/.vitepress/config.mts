@@ -957,8 +957,8 @@ export default defineConfig({
                         link: '/2025/01/16_sent'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2025/01/17_'
+                        text: 'Title Not Found',
+                        link: '/2025/01/17_title-not-found'
                       }
                     ]
                   }

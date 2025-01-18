@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2025/01/17_
+      text: Title Not Found
+      link: /2025/01/17_title-not-found
     - theme: alt
       text: Sent
       link: /2025/01/16_sent
