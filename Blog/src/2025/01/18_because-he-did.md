@@ -32,6 +32,16 @@ I'm about to go on my morning walk. I spent a little extra time on my prayer and
 
 I'm grateful for my new cross. My deer friend gave it to me for Christmas. She has a wooden cross that she cherishes and wanted me to have one too. They are both unique in that they are hand carved. It is just a symbol. But spiritually speaking, it does help me focus. It is also a great reminder to go to prayer often beyond my habitual prayer times. Prayer has become a lifestyle for me. And this cross has been a blessing to support that.
 
+### 1:25pm
+
+I'm having a great day. I increased my walk distance by adding another lap. By the end of the day, I'll have walked 5 miles around the pond...hehehe It is a little warmer today. So no jacket needed. It will get cold again this coming week, though. I don't recall it being cold for so long last year. But, considering how warm and hot it gets most of the year, these cold weeks just seem longer for some reason...LOL
+
+I've begun the final clean up of my desks. I've gone through the remaining stacks and organized it all into manageable piles. Most of it will get boxed up and placed in storage. Sometime later, I'll go through those boxes to decide what stays with me and what goes away. I didn't want to make those decisions this year. Next weekend, I'll decide the new arrangement for all of my desks.
+
+In the recap for today's Bible in a Year plan, Tara-Leigh Cobble mentioned John 17:20...LOL You might recall from above, that's a verse I honed in on this morning...hehehe This is an important passage today!
+
+Well, it's time for a grocery trip!
+
 
 
 ## Photo of the Day
