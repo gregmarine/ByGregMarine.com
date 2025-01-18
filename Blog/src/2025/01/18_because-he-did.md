@@ -54,6 +54,18 @@ As I was leaving my apartment complex, I saw a Ford Mustang coming into the comp
 
 I wasn't looking for it...but I found it! It's the curb...I found the curb with my back tire...LOL It was just a love tap with no damage. But the joke I started this paragraph with popped into my head when it happened...HAHAHA
 
+Now it is time for some kiwi!
+
+### 5:40pm
+
+I was successful at a few things today. I was able to clear those desks and put some things away in storage. Decluttering is so freeing...hehehe And I also managed to walk 5 miles around the pond between my 3 walking sessions. Both accomplishments feel pretty good!
+
+I'll be making dinner soon. I've still been holding strong against the temptations of eating out. There isn't anything wrong with going out once in a while. But I was doing it so much before that I'm trying to avoid it completely for now. I'll eventually eat out again. I'm sure I'll be going to Disney next month. The EPCOT International Festival of the Arts is going on now. I always love that one. Plus, the newest Annual Passholder magnet will be coming out this coming week. I'll want to pick that up in February. But for the time being, I'm really happy eating all of my meals at home.
+
+I'd also like to plan a trip up to Indiana soon. The weather is the main bother at the moment. There are a few times a year when weather impacts when I travel. The winter because of Indiana. And some of the summer time because of storms here in Florida. Now that I want to travel there more often again, I'm a little sad I didn't get to go up this month.
+
+Yes, my duck friend is indeed a duck...hehehe I saw him again on my evening walk. So, I'll most likely pick him for my photo today. He's a [Muscovy duck](https://en.wikipedia.org/wiki/Muscovy_duck).
+
 
 
 ## Photo of the Day
