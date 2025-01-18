@@ -40,6 +40,8 @@ I've begun the final clean up of my desks. I've gone through the remaining stack
 
 In the recap for today's Bible in a Year plan, Tara-Leigh Cobble mentioned John 17:20...LOL You might recall from above, that's a verse I honed in on this morning...hehehe This is an important passage today!
 
+On both of my walks today, I saw the same duck. I need to look up what kind it is. I've heard it referred to as a turkey-duck...hehehe It's large for a duck species. And some of its face looks turkey like. But the bill makes me think it is a duck. I'll know for sure once I look it up.
+
 Well, it's time for a grocery trip!
 
 
