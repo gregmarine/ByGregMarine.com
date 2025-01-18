@@ -24,6 +24,14 @@ I'm so grateful for this season <3
 
 ## My Day
 
+### 8:50am
+
+I got a late start today. That's because I got to bed a little later last night. I think I'm off by an hour. Maybe a little more. I didn't really *sleep in*. I didn't sleep any longer than normal. It's just that I went to bed later.
+
+I'm about to go on my morning walk. I spent a little extra time on my prayer and devotional time this morning. I had a lot to pray about. I also pray as I walk. But I wanted to focus on some specific things today while I was still inside...hehehe
+
+I'm grateful for my new cross. My deer friend gave it to me for Christmas. She has a wooden cross that she cherishes and wanted me to have one too. They are both unique in that they are hand carved. It is just a symbol. But spiritually speaking, it does help me focus. It is also a great reminder to go to prayer often beyond my habitual prayer times. Prayer has become a lifestyle for me. And this cross has been a blessing to support that.
+
 
 
 ## Photo of the Day
