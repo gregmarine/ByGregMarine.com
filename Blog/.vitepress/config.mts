@@ -959,6 +959,10 @@ export default defineConfig({
                       {
                         text: 'Title Not Found',
                         link: '/2025/01/17_title-not-found'
+                      },
+                      {
+                        text: 'Because He Did',
+                        link: '/2025/01/18_because-he-did'
                       }
                     ]
                   }
