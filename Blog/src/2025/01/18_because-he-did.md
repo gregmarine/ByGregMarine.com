@@ -44,6 +44,16 @@ On both of my walks today, I saw the same duck. I need to look up what kind it i
 
 Well, it's time for a grocery trip!
 
+### 3:45pm
+
+I just got back from the grocery. It took a little longer because I also got gas and gave my car a shower...hehehe They had most of what I was looking for this time. I added more fruit to the list. I'm trying to eat more fruit.
+
+There were a couple of *beggars* on the corner of one of the streets I go on for the grocery. When I got to the checkout, I decided to get some cash back to give to them. When I pulled up to them, they had a lovely sign about smiling. After I gave the money, one of the men encouraged me to keep smiling and that it was contagious. I loved that <3 I find that smiles are warm hugs we can give each other without touching. And if they are also contagious, then that's the kind of pandemic I want to spread...LOL
+
+As I was leaving my apartment complex, I saw a Ford Mustang coming into the complex that had a loud engine. You know the type...hehehe As I arrived home, the same car was leaving the complex...LOL We were in perfect balance...HAHAHA
+
+I wasn't looking for it...but I found it! It's the curb...I found the curb with my back tire...LOL It was just a love tap with no damage. But the joke I started this paragraph with popped into my head when it happened...HAHAHA
+
 
 
 ## Photo of the Day
