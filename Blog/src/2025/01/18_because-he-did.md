@@ -6,7 +6,7 @@ Today marks 2 full weeks in this season. There is only one week left. As I refle
 
 In the devotional, I read the longest prayer Jesus spoke. It is from John 17...the entire chapter. Over the following 6 days, the devotional will take me through each part of the prayer as I conclude this season. For today, the author asks me to *simply contemplate upon this prayer*.
 
-What always stands out in the prayer is how He prayed for all believers, including you and me. John 17:20-21 reads, *I am not asking on behalf of them (His disciples) alone, but also on behalf of those who will believe in Me through their message, that all of them may be one, as You, Father, are in Me, an I am in You. May they also be in Us, so that the world may believe that You sent Me.* His prayer for all believers goes on through verse 25. But that part of it just stands out for me.
+What always stands out in the prayer is how He prayed for all believers, including you and me. After Jesus had already prayed for His disciples, John 17:20-21 reads, *I am not asking on behalf of them alone, but also on behalf of those who will believe in Me through their message, that all of them may be one, as You, Father, are in Me, an I am in You. May they also be in Us, so that the world may believe that You sent Me.* His prayer for all believers goes on through verse 25. But that part of it just stands out for me.
 
 One of the reasons I was drawn to this devotional was because it is a guide through some of Jesus' prayers. I want to know more about Him through His prayers so that I can pray as He did.
 
@@ -14,7 +14,7 @@ One of the reasons I was drawn to this devotional was because it is a guide thro
 
 *Jesus, thank You for praying for today's church. Thank You that You are showing me that I should pray for today's church too. To have mercy on it and not be resentful. I'm grateful that this message is coming at such a time as You have revealed to me my lack of mercy and forgiveness for today's church. So, today, I commit to praying not just for the church You'll lead me to, but for today's church as a whole. Through the message of the Apostles, may the church be one with You, as You and the Father are One. I cannot be one with You and the church if my heart is against it. Please forgive me and help me pray for the church.*
 
-*Jesus, thank You for praying for the pastors and their families. LORD, I pray that they remain one with You and the church. Please speak through them all so that their message can carry on as the Apostle's did. In hearing their message, may others become one with You as well. Thank You for calling the pastors to the ministry of Your message so that all who hear might be saved. Empower the pastors with Your Holy Spirit.*
+*Jesus, thank You for praying for the pastors and their families. LORD, I pray that they remain one with You and the church. Please speak through them all so that their message can carry on as the Apostles' did. In hearing their message, may others become one with You as well. Thank You for calling the pastors to the ministry of Your message so that all who hear might be saved. Empower the pastors with Your Holy Spirit.*
 
 *In Jesus Name, AMEN!*
 
@@ -48,7 +48,7 @@ Well, it's time for a grocery trip!
 
 I just got back from the grocery. It took a little longer because I also got gas and gave my car a shower...hehehe They had most of what I was looking for this time. I added more fruit to the list. I'm trying to eat more fruit.
 
-There were a couple of *beggars* on the corner of one of the streets I go on for the grocery. When I got to the checkout, I decided to get some cash back to give to them. When I pulled up to them, they had a lovely sign about smiling. After I gave the money, one of the men encouraged me to keep smiling and that it was contagious. I loved that <3 I find that smiles are warm hugs we can give each other without touching. And if they are also contagious, then that's the kind of pandemic I want to spread...LOL
+There were a couple of *beggars* on the corner of one of the streets I go on for the grocery. When I pulled up to them, they had a lovely sign about smiling. As I was interacting with them, one of the men encouraged me to keep smiling and that it was contagious. I loved that <3 I find that smiles are warm hugs we can give each other without touching. And if they are also contagious, then that's the kind of pandemic I want to spread...LOL
 
 As I was leaving my apartment complex, I saw a Ford Mustang coming into the complex that had a loud engine. You know the type...hehehe As I arrived home, the same car was leaving the complex...LOL We were in perfect balance...HAHAHA
 
@@ -70,7 +70,7 @@ Yes, my duck friend is indeed a duck...hehehe I saw him again on my evening walk
 
 I just finished going over this week's Bible study for the final time before our fellowship tomorrow. I fixed some typos in my notes and clarified a few things. I typically do this on Sundays after church and lunch. But I decided to do it after dinner tonight instead.
 
-Today has flowed from one thing to the next in a sweet harmony. And the day isn't quite over yet...hehehe I had hoped to do some work on my new website. But I didn't get around to it today. So, I'm considering taking Monday off. It is a floating holiday for me. I can take it or use the *holiday* at a future date. I originally wanted to bank it for later. I'm praying about.
+Today has flowed from one thing to the next in a sweet harmony. And the day isn't quite over yet...hehehe I had hoped to do some work on my new website. But I didn't get around to it today. So, I'm considering taking Monday off. It is a floating holiday for me. I can take it or use the *holiday* at a future date. I originally wanted to bank it for later. I'm praying about it.
 
 Time to wash the dishes...hehehe
 
@@ -98,10 +98,10 @@ Yes, he does look too large to fit in his *spaceship*...LOL The *spaceship* uses
 
 ## Wrapping Up
 
-The more I think about it, taking Monday as the holiday sounds like a really good idea. Besides working my website, I could also do some creative writing. I've put that on hold for a bit due to time spent in focused prayer and the extra devotional time. Of course, I won't know until the day comes if I'll actually be in a creative mood...LOL
+The more I think about it, taking Monday as the holiday sounds like a really good idea. Besides working on my website, I could also do some creative writing. I've put that on hold for a bit due to time spent in focused prayer and the extra devotional time. Of course, I won't know until the day comes if I'll actually be in a creative mood...LOL
 
 Today was a good day. This week was a good week. Of course, that mostly means I've been in a good mind space...hehehe Not everything going on is *good*. I think being in prayer so much is helping keep me balanced with all that is going on in the world and in my personal life.
 
 I'm planning to go to theChapel in the morning. I've thought about wearing one of my nice shirts and a vest. I just checked...it looks like it might rain in the morning...hehehe If it does, I may park closer to the building. I typically park at the back edge of the parking lot. I like to walk, you know...LOL
 
-I'm not having any unpleasant moments right now. But a thought struck me. Not all moments feel pleasant as we live through them. But it will all be okay. Moments don't last forever <3
+I'm not having any unpleasant moments right now. But a thought just struck me. Not all moments feel pleasant as we live through them. But it will all be okay. Unpleasant moments don't last forever <3
