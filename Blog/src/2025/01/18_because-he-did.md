@@ -70,7 +70,7 @@ Yes, my duck friend is indeed a duck...hehehe I saw him again on my evening walk
 
 I just finished going over this week's Bible study for the final time before our fellowship tomorrow. I fixed some typos in my notes and clarified a few things. I typically do this on Sundays after church and lunch. But I decided to do it after dinner tonight instead.
 
-Today has flowed from one thing to the next in a sweet harmony. And the day isn't quite over yet...hehehe I had hoped to do some work on my new website. So, I'm considering taking Monday off. It is a floating holiday for me. I can take it or use the *holiday* at a future date. I originally wanted to bank it for later. I'm praying about.
+Today has flowed from one thing to the next in a sweet harmony. And the day isn't quite over yet...hehehe I had hoped to do some work on my new website. But I didn't get around to it today. So, I'm considering taking Monday off. It is a floating holiday for me. I can take it or use the *holiday* at a future date. I originally wanted to bank it for later. I'm praying about.
 
 Time to wash the dishes...hehehe
 
