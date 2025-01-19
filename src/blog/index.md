@@ -8,20 +8,20 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: Strengthen Me to Strengthen Others
-      link: /blog/2025/01/11_strengthen-me-to-strengthen-others
+      text: Because He Did
+      link: /blog/2025/01/18_because-he-did
     - theme: alt
-      text: Faith, Don't Fail Me Now!
-      link: /blog/2025/01/10_faith-dont-fail-me-now
+      text: Title Not Found
+      link: /blog/2025/01/17_title-not-found
     - theme: alt
-      text: Lighthouse
-      link: /blog/2025/01/09_lighthouse
+      text: Sent
+      link: /blog/2025/01/16_sent
     - theme: alt
-      text: God's Will be Done
-      link: /blog/2025/01/08_gods-will-be-done
+      text: Half Way There
+      link: /blog/2025/01/15_half-way-there
     - theme: alt
-      text: God Revealed in the Journey
-      link: /blog/2025/01/07_god-revealed-in-the-journey
+      text: Gregilocks and the 3 in 1
+      link: /blog/2025/01/14_gregilocks-and-the-3-in-1
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
