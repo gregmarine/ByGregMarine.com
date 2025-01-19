@@ -963,6 +963,10 @@ export default defineConfig({
                       {
                         text: 'Because He Did',
                         link: '/2025/01/18_because-he-did'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/2025/01/19_'
                       }
                     ]
                   }
