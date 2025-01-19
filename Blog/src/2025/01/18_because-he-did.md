@@ -74,6 +74,16 @@ Today has flowed from one thing to the next in a sweet harmony. And the day isn'
 
 Time to wash the dishes...hehehe
 
+### 9:45pm
+
+I'm all caught up on my blog entries from a year ago. Wow! I've changed how I write...LOL And WOW! I sure did think I'd finish my first book and have it published by now...HAHAHA You know the one...the one I haven't finished nor published...HAHAHA A lot can change in a year, I suppose. I sure am glad I started writing this blog last year. It's nice to see where I was to see how far I've come.
+
+Some of the things I thought a year ago have evolved or changed. And some things remain exactly how I felt back then. I've grown a lot in this short time. A year really isn't that long. But so much changed in my heart last year.
+
+I should write 3 letters. The first would be to my future self. I have a lot to tell that guy...LOL The second would be to my current self. I have some things to remind that guy about...LOL The third would be to my past self. I have some things to thank that guy for...LOL Actually, all three ideas apply to all three persons. I have a lot tell all 3 of me, I have a lot to remind myselves of, and I can certainly thank all the me's for other things.
+
+When I read this again a year from now, I wonder if I will have written those letters? HAHAHA
+
 
 
 ## Photo of the Day
