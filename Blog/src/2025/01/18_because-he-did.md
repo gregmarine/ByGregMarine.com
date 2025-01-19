@@ -84,8 +84,6 @@ I should write 3 letters. The first would be to my future self. I have a lot to 
 
 When I read this again a year from now, I wonder if I will have written those letters? HAHAHA
 
-
-
 ## Photo of the Day
 
 I captured 17 videos of potential candidates for today's photo. But there was only one video that I knew the moment I took it that today's photo must come from...LOL
@@ -100,3 +98,10 @@ Yes, he does look too large to fit in his *spaceship*...LOL The *spaceship* uses
 
 ## Wrapping Up
 
+The more I think about it, taking Monday as the holiday sounds like a really good idea. Besides working my website, I could also do some creative writing. I've put that on hold for a bit due to time spent in focused prayer and the extra devotional time. Of course, I won't know until the day comes if I'll actually be in a creative mood...LOL
+
+Today was a good day. This week was a good week. Of course, that mostly means I've been in a good mind space...hehehe Not everything going on is *good*. I think being in prayer so much is helping keep me balanced with all that is going on in the world and in my personal life.
+
+I'm planning to go to theChapel in the morning. I've thought about wearing one of my nice shirts and a vest. I just checked...it looks like it might rain in the morning...hehehe If it does, I may park closer to the building. I typically park at the back edge of the parking lot. I like to walk, you know...LOL
+
+I'm not having any unpleasant moments right now. But a thought struck me. Not all moments feel pleasant as we live through them. But it will all be okay. Moments don't last forever <3
