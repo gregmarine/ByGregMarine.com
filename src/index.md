@@ -8,6 +8,6 @@ hero:
   tagline: Welcome to all things by Greg Marine
   actions:
     - theme: brand
-      text: My Journal
-      link: /journal/
+      text: My Blog
+      link: /blog/
 ---
