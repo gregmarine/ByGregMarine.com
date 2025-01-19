@@ -88,7 +88,15 @@ When I read this again a year from now, I wonder if I will have written those le
 
 ## Photo of the Day
 
+I captured 17 videos of potential candidates for today's photo. But there was only one video that I knew the moment I took it that today's photo must come from...LOL
 
+![Duck with broken water fountain](./media/IMG_5242.jpeg)
+
+This [Muscovy duck](https://en.wikipedia.org/wiki/Muscovy_duck) was around for all 3 of my walks today. He appears in I believe 6 of the videos taken today. After a while, I began to think he'd be in the featured photo. Then I took the video that sealed the deal...HAHAHA
+
+The photo represents the poor *alien* having crashed on Earth and being stranded. He's lost, alone, and afraid! Oh whatever will he do?!?
+
+Yes, he does look too large to fit in his *spaceship*...LOL The *spaceship* uses British Sci-Fi technology. The inside is much larger than the outside...HAHAHA How do I know? I just asked the Doctor...HAHAHA
 
 ## Wrapping Up
 
