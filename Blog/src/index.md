@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Because He Did
+      link: /2025/01/18_because-he-did
+    - theme: alt
       text: Title Not Found
       link: /2025/01/17_title-not-found
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Gregilocks and the 3 in 1
       link: /2025/01/14_gregilocks-and-the-3-in-1
-    - theme: alt
-      text: Please Forgive Me
-      link: /2025/01/13_please-forgive-me
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
