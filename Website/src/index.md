@@ -3,9 +3,8 @@
 layout: home
 
 hero:
-  name: "So, a website..."
+  name: So, a website...
   text: About things by Greg Marine
-  tagline: Welcome to my website!
   image:
     src: /media/profile.webp
     alt: Greg Marine Profile Selfie

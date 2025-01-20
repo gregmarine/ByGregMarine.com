@@ -3,12 +3,8 @@
 layout: home
 
 hero:
-  name: "So, I was thinking..."
-  text: "A journal by Greg Marine"
-  tagline: Behind the curtain of a curious mind.
-  image:
-    src: /blog/media/typewriter2.webp
-    alt: Paper with words
+  name: So, I was thinking...
+  text: A journal by Greg Marine
   actions:
     - theme: brand
       text: Today, I'm not ready
