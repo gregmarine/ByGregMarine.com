@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "So, I was thinking...",
-  description: "A website by Greg Marine",
+  title: "By Greg Marine",
+  description: "A website about things by Greg Marine",
   srcDir: "./src",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

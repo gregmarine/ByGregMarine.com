@@ -3,8 +3,12 @@
 layout: home
 
 hero:
-  name: "So, I was thinking..."
-  tagline: Welcome to all things by Greg Marine
+  name: "So, a website..."
+  text: About things by Greg Marine
+  tagline: Welcome to my website!
+  image:
+    src: /media/profile.webp
+    alt: Greg Marine Profile Selfie
   actions:
     - theme: brand
       text: My Blog

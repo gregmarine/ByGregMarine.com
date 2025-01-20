@@ -7,8 +7,8 @@ hero:
   text: "A journal by Greg Marine"
   tagline: Behind the curtain of a curious mind.
   image:
-    src: /blog/media/profile.webp
-    alt: Greg Marine Profile Selfie
+    src: /blog/media/typewriter2.webp
+    alt: Paper with words
   actions:
     - theme: brand
       text: Today, I'm not ready
