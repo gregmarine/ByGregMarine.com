@@ -1,4 +1,4 @@
-# TBD
+# Today, I'm not ready
 
 ## 21 Days of Prayer and Fasting
 

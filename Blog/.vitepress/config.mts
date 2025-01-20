@@ -965,8 +965,8 @@ export default defineConfig({
                         link: '/2025/01/18_because-he-did'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2025/01/19_'
+                        text: 'Today, I\'m not ready',
+                        link: '/2025/01/19_today-im-not-ready'
                       }
                     ]
                   }

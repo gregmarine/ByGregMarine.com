@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
-      text: TBD
-      link: /2025/01/19_
+      text: Today, I'm not ready
+      link: /2025/01/19_today-im-not-ready
     - theme: alt
       text: Because He Did
       link: /2025/01/18_because-he-did
