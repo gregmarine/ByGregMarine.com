@@ -7,7 +7,7 @@ hero:
   text: "A journal by Greg Marine"
   tagline: Behind the curtain of a curious mind.
   image:
-    src: ./media/profile.png
+    src: /blog/media/profile.webp
     alt: Greg Marine Profile Selfie
   actions:
     - theme: brand
