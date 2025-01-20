@@ -60,9 +60,7 @@ In about 3 hours, I'll be celebrating the Adoption Day for my deer pal along wit
 
 ### 10:30pm
 
-I wasn't able to get a hold of my son again today. It has been a challenge communicating with him. I'm not really sure why this is happening now. It hasn't always been this way. I hope he's doing okay. I'll be reaching out to his mother soon. She always seems surprised when I tell her of this challenge.
-
-I did, however, have a lovely time with my deer friend. Our Bible study discussions are always a highlight of the week. And our casual conversations as well. Plus we celebrated her dogs adoption day...hehehe I love my deer pal and deer friend. God has blessed me through them time and time again <3
+I had a lovely time with my deer friend. Our Bible study discussions are always a highlight of the week. And our casual conversations as well. Plus we celebrated her dogs adoption day...hehehe I love my deer pal and deer friend. God has blessed me through them time and time again <3
 
 I also had a wonderful chat with mom and dad. We talked longer than normal this week. There was a lot to talk about...hehehe They are doing well. I asked them if they could send me a link to the nice retro shirt they got me for Christmas so I could get more from the same brand with the same material. I love that shirt and it's quality. I've got some shopping to do now...LOL
 
