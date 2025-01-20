@@ -28,6 +28,10 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
+                text: 'Read Me',
+                link: '/blog/read-me'
+              },
+              {
                 text: '2025',
                 collapsed: true,
                 items: [
@@ -106,6 +110,10 @@ export default defineConfig({
                       {
                         text: 'Because He Did',
                         link: '/blog/2025/01/18_because-he-did'
+                      },
+                      {
+                        text: 'Today, I\'m not ready',
+                        link: '/blog/2025/01/19_today-im-not-ready'
                       }
                     ]
                   }
