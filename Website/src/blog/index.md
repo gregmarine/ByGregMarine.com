@@ -8,8 +8,8 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /blog/2025/01/21
-    - theme: brand
+      link: /blog/2025/01/21_
+    - theme: alt
       text: On the Move
       link: /blog/2025/01/20_on-the-move
     - theme: alt
