@@ -114,6 +114,10 @@ export default defineConfig({
                       {
                         text: 'Today, I\'m not ready',
                         link: '/blog/2025/01/19_today-im-not-ready'
+                      },
+                      {
+                        text: 'On the Move',
+                        link: '/blog/2025/01/20_on-the-move'
                       }
                     ]
                   }

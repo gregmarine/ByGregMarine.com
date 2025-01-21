@@ -1,4 +1,4 @@
-# TBD
+# On the Move
 
 ## 21 Days of Prayer and Fasting
 
@@ -60,7 +60,11 @@ This week's Bible study lesson...whoa! Not only timely once again, it gets to th
 
 I managed to get the new website setup and deployed. I'll be moving over to it starting tomorrow. I'll put a link to it in the *Wrapping Up* section below. I'm basically dropping the *blog* before the domain and putting it after. All of the *by Greg Marine* stuff will be on the same site and cross referenceable now. I'm starting with the blog and will be expanding it to include my daily photos and daily Bible study notes next (think Bible in a Year, random reading, etc). I'll eventually get my other writings and art up on it. At least I hope to finally get around to that...LOL
 
+### 9:50pm
 
+I was able to get in my full 5 miles today. Which actually comes out to nearly 7 for the day. My various other walking around adds up. But the 5 miles of intentional walking was achieved. I went at a pace that should allow me to continue doing this even on work days. Last week, I was up to 4 miles. Previous week, it was 3. I'm hoping to get up to 6 miles by the end of the month.
+
+I'm not sure I'll be able to do this most days. Only as weather permits. Yesterday, I wasn't able to walk at all. And the next 2 days are looking like the same. But honestly, I'm not sure it is healthy for me to do so much activity. I'm technically supposed to be giving my body some rest...hehehe
 
 ## Photo of the Day
 
@@ -74,3 +78,6 @@ The next few days will be rainy and equally cold. Even though the rain should be
 
 ## Wrapping Up
 
+I had a really good day. I enjoyed a lot of prayer and meditation time. I was surprised at how much of that I was inspired to do today...hehehe I suppose I shouldn't be all that surprised. I've developed a passion for praying and studying the Bible. I'll be getting the Bible section of my new website up as soon as possible
+
+Well, that's a wrap for today...HAHAHA I'm glad I took the holiday. I was able to accomplish my main goal of getting the new website setup and deployed; *which you are currently viewing now (no link is necessary)*. This blog is now a sub section of the main site and no longer going to be updated on the previous subdomain (blog.*) that I used for a year. I'll leave that site online as an archive to 2024. All of the 2025 entries have already been moved over. Including this entry...LOL I'm not sure I want to make the effort to get all of 2024 over. It would be a lot of work!

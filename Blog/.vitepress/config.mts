@@ -969,8 +969,8 @@ export default defineConfig({
                         link: '/2025/01/19_today-im-not-ready'
                       },
                       {
-                        text: 'TBD',
-                        link: '/2025/01/20_'
+                        text: 'On the Move',
+                        link: '/2025/01/20_on-the-move'
                       }
                     ]
                   }
