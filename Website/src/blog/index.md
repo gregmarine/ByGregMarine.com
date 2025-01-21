@@ -5,9 +5,6 @@ layout: home
 hero:
   name: So, I was thinking...
   text: A blog by Greg Marine
-  image:
-    src: ./media/profile.webp
-    alt: Greg Marine selfie
   actions:
     - theme: brand
       text: TBD
