@@ -13,3 +13,5 @@ hero:
       text: My Blog
       link: /blog/
 ---
+
+![Profile image](./media/profile.webp)
