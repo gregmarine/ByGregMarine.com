@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: So, I was thinking...
-  text: A journal by Greg Marine
+  text: A blog by Greg Marine
   actions:
     - theme: brand
       text: On the Move
