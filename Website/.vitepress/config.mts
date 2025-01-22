@@ -17,7 +17,8 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Blog', link: '/blog' }
+      { text: 'Blog', link: '/blog' },
+      { text: 'Photos', link: '/photos' }
     ],
 
     sidebar: [
@@ -134,16 +135,22 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
-                text: '2025',
+                text: 'Photo a Day',
                 collapsed: true,
                 items: [
                   {
-                    text: 'January',
+                    text: '2025',
                     collapsed: true,
                     items: [
                       {
-                        text: '21',
-                        link: '/photos/photo-a-day/2025/01/21'
+                        text: 'January',
+                        collapsed: true,
+                        items: [
+                          {
+                            text: '21',
+                            link: '/photos/photo-a-day/2025/01/21'
+                          }
+                        ]
                       }
                     ]
                   }

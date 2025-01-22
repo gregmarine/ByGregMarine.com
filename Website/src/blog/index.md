@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: So, I was thinking...
-  text: A blog by Greg Marine
+  text: a blog by Greg Marine
   actions:
     - theme: brand
       text: TBD
