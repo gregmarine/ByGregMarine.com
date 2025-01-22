@@ -8,6 +8,9 @@ hero:
   tagline: Just being me
   actions:
     - theme: brand
-      text: My Blog
+      text: So, I was thinking...
       link: /blog/
+    - theme: brand
+      text: So, I took a photo...
+      link: /photos/
 ---
