@@ -123,6 +123,10 @@ export default defineConfig({
                       {
                         text: 'Young Year, Weather Woes, New Bedtime?',
                         link: '/blog/2025/01/21_young-year-weather-woes-new-bedtime'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/blog/2025/01/22_'
                       }
                     ]
                   }
