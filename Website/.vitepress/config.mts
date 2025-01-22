@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "By Greg Marine",
+  title: "by Greg Marine",
   description: "A website about things by Greg Marine",
   srcDir: "./src",
   themeConfig: {
@@ -17,7 +17,8 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Blog', link: '/blog' }
+      { text: 'Blog', link: '/blog' },
+      { text: 'Photos', link: '/photos' }
     ],
 
     sidebar: [
@@ -118,6 +119,38 @@ export default defineConfig({
                       {
                         text: 'On the Move',
                         link: '/blog/2025/01/20_on-the-move'
+                      },
+                      {
+                        text: 'Young Year, Weather Woes, New Bedtime?',
+                        link: '/blog/2025/01/21_young-year-weather-woes-new-bedtime'
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Photos',
+            collapsed: true,
+            items: [
+              {
+                text: 'Photo a Day',
+                collapsed: true,
+                items: [
+                  {
+                    text: '2025',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'January',
+                        collapsed: true,
+                        items: [
+                          {
+                            text: '21',
+                            link: '/photos/photo-a-day/2025/01/21'
+                          }
+                        ]
                       }
                     ]
                   }
