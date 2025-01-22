@@ -128,6 +128,28 @@ export default defineConfig({
                 ]
               }
             ]
+          },
+          {
+            text: 'Photos',
+            collapsed: true,
+            items: [
+              {
+                text: '2025',
+                collapsed: true,
+                items: [
+                  {
+                    text: 'January',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '21',
+                        link: '/photos/photo-a-day/2025/01/21'
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
