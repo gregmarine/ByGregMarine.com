@@ -7,8 +7,8 @@ hero:
   text: a blog by Greg Marine
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/01/21_
+      text: Young Year, Weather Woes, New Bedtime?
+      link: /blog/2025/01/21_young-year-weather-woes-new-bedtime
     - theme: alt
       text: On the Move
       link: /blog/2025/01/20_on-the-move
