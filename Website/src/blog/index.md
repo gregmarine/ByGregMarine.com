@@ -5,6 +5,7 @@ layout: home
 hero:
   name: So, I was thinking...
   text: a blog by Greg Marine
+  tagline: Behind the curtain of a curious mind
   actions:
     - theme: brand
       text: Young Year, Weather Woes, New Bedtime?
