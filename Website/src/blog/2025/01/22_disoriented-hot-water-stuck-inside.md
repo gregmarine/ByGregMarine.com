@@ -14,7 +14,7 @@ I dealt with a little bit of anxiety all day. I'm not quite sure where that was 
 
 As I mentioned above, I started off with the wrong day in my prayer devotional...LOL I had bookmarked tomorrow's instead of today's when I finished yesterday. It all worked out, though. I'll just reread it tomorrow and do my prayer. I realized it before I did my prayer...hehehe
 
-I was stuck inside again today. The weather hasn't been great. But I can' complain. We need the rain and the colder temperatures are good. I love the cold now. I just don't like the mix of cold, wind, and rain for my walks...LOL But it isn't anything like the freezing temperatures up in Indiana!
+I was stuck inside again today. The weather hasn't been great. But I can't complain. We need the rain and the colder temperatures are good. I love the cold now. I just don't like the mix of cold, wind, and rain for my walks...LOL But it isn't anything like the freezing temperatures up in Indiana!
 
 I miss doing my creative writing. I'm hoping to get back to that next week. I have some things on my mind that I'd like to write. It's been building up creative pressure in my brain...LOL
 
@@ -35,3 +35,5 @@ My day was full. My heart is full. No amount of thought disorientation, anxiety,
 For a while now, I've felt like it's going to be okay. It may not feel great right *now*. It *will* get better. *This* is a moment. And moments *always* have an end. The *next* chapter is a page turn away.
 
 I'm on a beautiful journey. I'm going to keep moving forward.
+
+![Selfie](./media/IMG_5065.jpeg)
