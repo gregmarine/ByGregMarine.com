@@ -30,3 +30,8 @@ I don't have a lot to say today. I didn't write throughout the day. I didn't hav
 
 ## Wrapping Up
 
+My day was full. My heart is full. No amount of thought disorientation, anxiety, or feeling *stuck* inside was able to kill my mood today. My heart posture is to look to God for strength to endure.
+
+For a while now, I've felt like it's going to be okay. It may not feel great right *now*. It *will* get better. *This* is a moment. And moments *always* have an end. The *next* chapter is a page turn away.
+
+I'm on a beautiful journey. I'm going to keep moving forward.
