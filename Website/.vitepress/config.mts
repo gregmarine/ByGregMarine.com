@@ -125,8 +125,8 @@ export default defineConfig({
                         link: '/blog/2025/01/21_young-year-weather-woes-new-bedtime'
                       },
                       {
-                        text: 'TBD',
-                        link: '/blog/2025/01/22_'
+                        text: 'Disoriented, Hot Water, Stuck Inside',
+                        link: '/blog/2025/01/22_disoriented-hot-water-stuck-inside'
                       }
                     ]
                   }
@@ -153,6 +153,10 @@ export default defineConfig({
                           {
                             text: '21',
                             link: '/photos/photo-a-day/2025/01/21'
+                          },
+                          {
+                            text: '22',
+                            link: '/photos/photo-a-day/2025/01/22'
                           }
                         ]
                       }

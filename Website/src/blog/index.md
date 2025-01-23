@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/01/22_
+      text: Disoriented, Hot Water, Stuck Inside
+      link: /blog/2025/01/22_disoriented-hot-water-stuck-inside
     - theme: alt
       text: Young Year, Weather Woes, New Bedtime?
       link: /blog/2025/01/21_young-year-weather-woes-new-bedtime
