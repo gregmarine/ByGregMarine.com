@@ -127,6 +127,10 @@ export default defineConfig({
                       {
                         text: 'Disoriented, Hot Water, Stuck Inside',
                         link: '/blog/2025/01/22_disoriented-hot-water-stuck-inside'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/blog/2025/01/23_'
                       }
                     ]
                   }
@@ -157,6 +161,10 @@ export default defineConfig({
                           {
                             text: '22',
                             link: '/photos/photo-a-day/2025/01/22'
+                          },
+                          {
+                            text: '23',
+                            link: '/photos/photo-a-day/2025/01/23'
                           }
                         ]
                       }
