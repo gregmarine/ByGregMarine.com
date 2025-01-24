@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/01/23_
+      text: These Shoes are Tired
+      link: /blog/2025/01/23_these-shoes-are-tired
     - theme: alt
       text: Disoriented, Hot Water, Stuck Inside
       link: /blog/2025/01/22_disoriented-hot-water-stuck-inside

@@ -129,8 +129,8 @@ export default defineConfig({
                         link: '/blog/2025/01/22_disoriented-hot-water-stuck-inside'
                       },
                       {
-                        text: 'TBD',
-                        link: '/blog/2025/01/23_'
+                        text: 'These Shoes are Tired',
+                        link: '/blog/2025/01/23_these-shoes-are-tired'
                       }
                     ]
                   }
