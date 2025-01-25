@@ -135,6 +135,10 @@ export default defineConfig({
                       {
                         text: 'One for All, All with the One',
                         link: '/blog/2025/01/24_one-for-all-all-with-the-one'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/blog/2025/01/25_'
                       }
                     ]
                   }
@@ -173,6 +177,10 @@ export default defineConfig({
                           {
                             text: '24',
                             link: '/photos/photo-a-day/2025/01/24'
+                          },
+                          {
+                            text: '25',
+                            link: '/photos/photo-a-day/2025/01/25'
                           }
                         ]
                       }
