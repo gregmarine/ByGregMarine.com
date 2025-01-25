@@ -54,6 +54,18 @@ export default defineConfig({
                           {
                             text: '21 Days of Prayer and Fasting',
                             link: '/bible/prayer/journal/2025/01/21-days'
+                          },
+                          {
+                            text: 'Teach me to pray',
+                            link: '/bible/prayer/journal/2025/01/05_21-days'
+                          },
+                          {
+                            text: 'Praying for Blessings',
+                            link: '/bible/prayer/journal/2025/01/06_21-days'
+                          },
+                          {
+                            text: 'God revealing Himself',
+                            link: '/bible/prayer/journal/2025/01/07_21-days'
                           }
                         ]
                       }

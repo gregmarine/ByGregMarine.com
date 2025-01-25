@@ -6,7 +6,7 @@
 
 Today's scripture reading was John 2. Here we see the first of His signs when He turned water into wine. This is always where we see Him drive out the money changers from the temple. He also spoke of His death and resurrection when He told them that if they destroy *this* temple, He would *raise* it again in 3 days.
 
-This is [day 2](/bible/prayer/journal/2025/01/06_21-days) of this year's [prayer and fasting](/bible/prayer/journal/2025/01/21-days) season.
+This is [day 2](/bible/prayer/journal/2025/01/06_21-days) of [this year's prayer and fasting](/bible/prayer/journal/2025/01/21-days) season.
 
 <!--@include: ../../../bible/prayer/journal/2025/01/06_21-days.md{17,29}-->
 

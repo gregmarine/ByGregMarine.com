@@ -9,5 +9,5 @@ I also do prayer and fasting seasons in other parts of the year. Those depend on
 Here is a full list of this year's 21 days of prayer and fasting journal entries. You'll notice there are 24 entries instead of 21. That's because there were some break and reflection/recap days in this plan.
 
 1. [Teach me to pray](/bible/prayer/journal/2025/01/05_21-days)
-2. [Praying Blessings](/bible/prayer/journal/2025/01/06_21-days)
+2. [Praying for Blessings](/bible/prayer/journal/2025/01/06_21-days)
 3. [God revealing Himself](/bible/prayer/journal/2025/01/07_21-days)

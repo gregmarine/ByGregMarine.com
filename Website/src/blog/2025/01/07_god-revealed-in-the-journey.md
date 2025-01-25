@@ -10,11 +10,13 @@ As I wait and hope in the Lord for this year's season of prayer and fasting, I a
 
 Through this process, I come to today's prayer focus...
 
-<!--@include: ../../../bible/prayer/journal/2025/01/07_21-days.md{3,}-->
+<!--@include: ../../../bible/prayer/journal/2025/01/07_21-days.md{3,11}-->
 
 Today's reading was John 3. Here we see the conversation between Jesus and Nicodemus. I am reminded today that I prefer to expand the passage from the typical *John 3:16* verse. I love to include verses 14-17. It expresses that it is a relationship. It isn't just one way. I have my role in the relationship. He has His. Mine is to look to Him, follow Him, listen to Him, and love Him. He already loved us so much that He gave His only son. And He did not send His son to to condemn the world. The act was to save it.
 
 It goes on to talk about a conversation between John the Baptizer and his disciples where they questioned him about what Jesus was doing. John reveals that his purpose was now complete and that Jesus must now increase and he (John) must decrease. It's the *more of Him and less of me* concept I am hoping to fulfill in my own life each day.
+
+This is [day 3](/bible/prayer/journal/2025/01/07_21-days) of [this year's prayer and fasting](/bible/prayer/journal/2025/01/21-days) season.
 
 ## My Health Journey
 

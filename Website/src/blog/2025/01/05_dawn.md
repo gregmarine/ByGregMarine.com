@@ -8,7 +8,7 @@ I read and listened to John 1. *In the beginning was the Word, and the Word was 
 
 So it begins...for the third year in a row. Aside from partaking in communion as I celebrated the new year, I see no better way to start a year than with prayer and fasting. The dawn is here, and the Son is rising <3
 
-This is [day 1](/bible/prayer/journal/2025/01/05_21-days) of this year's [prayer and fasting](/bible/prayer/journal/2025/01/21-days) season.
+This is [day 1](/bible/prayer/journal/2025/01/05_21-days) of [this year's prayer and fasting](/bible/prayer/journal/2025/01/21-days) season.
 
 ## Dogs
 
