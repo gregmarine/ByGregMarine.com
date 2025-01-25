@@ -2,11 +2,13 @@
 
 ## 21 Days of Prayer and Fasting
 
-<!--@include: ../../../bible/prayer/journal/2025/01/05_21-days.md{3,}-->
+<!--@include: ../../../bible/prayer/journal/2025/01/05_21-days.md{3,11}-->
 
 I read and listened to John 1. *In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning.* I see no better way to begin the dawn of this prayer and fasting season than to acknowledge that Jesus is the Word and is God. Without being in the Word, how could I possibly know God?!? It isn't just a book about Him. It *is* Him! I don't always understand what I'm reading and hearing. But through the Holy Spirit, I will gain enough understanding each day for what that day need needs me to understand. By the way, the Holy Spirit is also God...hehehe
 
 So it begins...for the third year in a row. Aside from partaking in communion as I celebrated the new year, I see no better way to start a year than with prayer and fasting. The dawn is here, and the Son is rising <3
+
+This is [day 1](/bible/prayer/journal/2025/01/05_21-days) of this year's [prayer and fasting](/bible/prayer/journal/2025/01/21-days) season.
 
 ## Dogs
 

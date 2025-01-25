@@ -8,15 +8,9 @@ In 2024, last year and the the second season, my heart was transformed as I bega
 
 As I wait and hope in the Lord for this year's season of prayer and fasting, I am excited as I look back and realize He has been showing me how to live out the greatest commandments. How cool is that?!? So far this time, I get a sense that He is showing me how to be dependent solely and wholly on Him. He is my provider and the provider for everyone and everything. He created it all and all of us. Everything comes from Him and actually belongs to Him. By seeking Him and His Kingdom first, everything else will work out.
 
-Through this process, I come to today's prayer focus. God is revealing Himself to those He has chosen. I am one He is revealing Himself to. As I continue to ask Him to show me more of Himself so that I can know Him more, He has been pouring out into my daily prayers and time in the Word new things everyday. I suppose this is one of the reasons I had a desire to continuing doing a *Bible in a Year* plan this year. And to continue doing a season of praying and fasting to begin the year even though I'm no longer attending the church where I began this practice. He is revealing Himself to me and establishing that this is a relationship between He and I. A two way spiritual relationship.
+Through this process, I come to today's prayer focus...
 
-*Father God in Heaven, I thank you today! You are the creator of all things. You know all things and are in control of it all. And You have chosen to reveal Yourself to me in new ways each day. I praise You for revealing Yourself to me yesterday, today, and forever. Thank You so much for helping me know You more. You did not have to do this. Yet, You did it anyway! THANK YOU!*
-
-*As I wait on and hope in You for the church community You want me to be a part of, I further thank and praise You for revealing Yourself and Your perfect Will to the imperfect church I'm going to be going to someday. Please remind us daily of who You are and that You are our Provider. Help us to know what it means to take up Your yoke as You help carry the burdens of the church.*
-
-*I lay at Your feet the pastor of that church and his family. Reveal to him Your Will and help him to love You with all his heart, soul, mind, and strength. Help him to love others as he loves himself. Guide and direct Him on the path You have chosen for him. Please bless his family everyday.*
-
-*I thank you, Lord, for allowing me to come to You today in prayer. It is with thanksgiving and gratitude in my heart, and in Your Name, I pray. AMEN!*
+<!--@include: ../../../bible/prayer/journal/2025/01/07_21-days.md{3,}-->
 
 Today's reading was John 3. Here we see the conversation between Jesus and Nicodemus. I am reminded today that I prefer to expand the passage from the typical *John 3:16* verse. I love to include verses 14-17. It expresses that it is a relationship. It isn't just one way. I have my role in the relationship. He has His. Mine is to look to Him, follow Him, listen to Him, and love Him. He already loved us so much that He gave His only son. And He did not send His son to to condemn the world. The act was to save it.
 
