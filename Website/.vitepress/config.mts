@@ -17,6 +17,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Bible', link: '/bible' },
       { text: 'Blog', link: '/blog' },
       { text: 'Photos', link: '/photos' }
     ],
@@ -24,6 +25,44 @@ export default defineConfig({
     sidebar: [
       {
         items: [
+          {
+            text: 'Bible',
+            collapsed: true,
+            items: [
+              {
+                text: 'Prayer',
+                collapsed: true,
+                items: [
+                  {
+                    text: 'Journal',
+                    link: '/bible/prayer/journal'
+                  }
+                ]
+              },
+              {
+                text: 'Prayer Journal',
+                collapsed: true,
+                items: [
+                  {
+                    text: '2025',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: 'January',
+                        collapsed: true,
+                        items: [
+                          {
+                            text: '21 Days of Prayer and Fasting',
+                            link: '/bible/prayer/journal/2025/01/21-days'
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           {
             text: 'Blog',
             collapsed: true,

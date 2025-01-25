@@ -8,6 +8,9 @@ hero:
   tagline: Just being me 🤗
   actions:
     - theme: brand
+      text: Bible
+      link: /bible/
+    - theme: brand
       text: Blog
       link: /blog/
     - theme: brand
