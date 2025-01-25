@@ -131,6 +131,10 @@ export default defineConfig({
                       {
                         text: 'These Shoes are Tired',
                         link: '/blog/2025/01/23_these-shoes-are-tired'
+                      },
+                      {
+                        text: 'One for All, All with the One',
+                        link: '/blog/2025/01/24_one-for-all-all-with-the-one'
                       }
                     ]
                   }
@@ -165,6 +169,10 @@ export default defineConfig({
                           {
                             text: '23',
                             link: '/photos/photo-a-day/2025/01/23'
+                          },
+                          {
+                            text: '24',
+                            link: '/photos/photo-a-day/2025/01/24'
                           }
                         ]
                       }
