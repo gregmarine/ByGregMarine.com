@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/01/25_
+      text: The Finish Line
+      link: /blog/2025/01/25_the-finish-line
     - theme: alt
       text: One for All, All with the One
       link: /blog/2025/01/24_one-for-all-all-with-the-one

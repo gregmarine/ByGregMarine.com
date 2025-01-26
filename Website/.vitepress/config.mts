@@ -204,8 +204,8 @@ export default defineConfig({
                         link: '/blog/2025/01/24_one-for-all-all-with-the-one'
                       },
                       {
-                        text: 'TBD',
-                        link: '/blog/2025/01/25_'
+                        text: 'The Finish Line',
+                        link: '/blog/2025/01/25_the-finish-line'
                       }
                     ]
                   }
