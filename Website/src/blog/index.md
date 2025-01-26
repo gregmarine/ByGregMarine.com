@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind
   actions:
     - theme: brand
+      text: The Finish Line
+      link: /blog/2025/01/25_the-finish-line
+    - theme: alt
       text: One for All, All with the One
       link: /blog/2025/01/24_one-for-all-all-with-the-one
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Young Year, Weather Woes, New Bedtime?
       link: /blog/2025/01/21_young-year-weather-woes-new-bedtime
-    - theme: alt
-      text: On the Move
-      link: /blog/2025/01/20_on-the-move
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

@@ -17,6 +17,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Bible', link: '/bible' },
       { text: 'Blog', link: '/blog' },
       { text: 'Photos', link: '/photos' }
     ],
@@ -24,6 +25,72 @@ export default defineConfig({
     sidebar: [
       {
         items: [
+          {
+            text: 'Bible',
+            link: '/bible',
+            collapsed: true,
+            items: [
+              {
+                text: 'Prayer',
+                link: '/bible/prayer',
+                collapsed: true,
+                items: [
+                  {
+                    text: 'Journal',
+                    link: '/bible/prayer/journal'
+                  }
+                ]
+              },
+              {
+                text: 'Prayer Journal',
+                link: '/bible/prayer/journal',
+                collapsed: true,
+                items: [
+                  {
+                    text: '2025',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '21 Days of Prayer and Fasting',
+                        link: '/bible/prayer/journal/2025/01/21-days',
+                        collapsed: true,
+                        items: [
+                          {
+                            text: 'Day 1',
+                            link: '/bible/prayer/journal/2025/01/05_21-days'
+                          },
+                          {
+                            text: 'Day 2',
+                            link: '/bible/prayer/journal/2025/01/06_21-days'
+                          },
+                          {
+                            text: 'Day 3',
+                            link: '/bible/prayer/journal/2025/01/07_21-days'
+                          },
+                          {
+                            text: 'Day 4',
+                            link: '/bible/prayer/journal/2025/01/08_21-days'
+                          },
+                          {
+                            text: 'Day 5',
+                            link: '/bible/prayer/journal/2025/01/09_21-days'
+                          },
+                          {
+                            text: 'Day 6',
+                            link: '/bible/prayer/journal/2025/01/10_21-days'
+                          },
+                          {
+                            text: 'Day 7',
+                            link: '/bible/prayer/journal/2025/01/11_21-days'
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           {
             text: 'Blog',
             collapsed: true,
@@ -135,6 +202,10 @@ export default defineConfig({
                       {
                         text: 'One for All, All with the One',
                         link: '/blog/2025/01/24_one-for-all-all-with-the-one'
+                      },
+                      {
+                        text: 'The Finish Line',
+                        link: '/blog/2025/01/25_the-finish-line'
                       }
                     ]
                   }
@@ -173,6 +244,10 @@ export default defineConfig({
                           {
                             text: '24',
                             link: '/photos/photo-a-day/2025/01/24'
+                          },
+                          {
+                            text: '25',
+                            link: '/photos/photo-a-day/2025/01/25'
                           }
                         ]
                       }

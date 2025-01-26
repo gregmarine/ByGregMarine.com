@@ -4,19 +4,11 @@
 
 Good morning and welcome to day 5 of this year's prayer and fasting dedication. There is a long way to go. Yet, I feel as though I've already come a long way...hehehe I'm very grateful for seasons like this. It helps to renew my spirit in a lot of ways.
 
-Today's prayer focus is to recognize God's presence. On the cross, Jesus cries out, *My God, my God, why have you forsaken me?* It's honestly a prayer only He could pray. That's because God is always present. I imagine the reason Jesus could not feel God's presence in that moment was because He was fulfilling the Law. He was paying yours and my sin debt. He was about to die for the sins of all.
-
-The Psalmists often wrote about asking for God not to forsake or turn His face. But the author of [*Jesus: 21 Days That Can Change the Way You Pray*](https://a.co/d/5AxZtNh) challenges us to see those as prayers to ask for more awareness of God's presence. I've certainly had times when I would begin to feel all alone in my pain. When I cry out to God in such moments, I begin to feel a comfort I simply cannot explain. As He draws nearer to me, I draw nearer to Him. I become more aware of His presence.
-
-*Lord God Almighty, please do not forsake me! Please do not leave me in my time of distress. Please do not turn Your face from me as I cry out to You, Father. Instead, please make Your presence all the more known to me. Help me know You are always near. And not just in the pain, sorrow, and struggle. But also in the joy! Lift up my head in my sadness and raise up my hands in gladness as I praise You.*
-
-*As I earnest seek Your Will for where I am to attend church, I ask for Your presence in that church You are calling me to. Help the church ignore the distractions of the world and acknowledge Your presence as we all enter the building. And as You send us out from that House of Prayer and Place of Worship, go forth with us into our community.*
-
-*Lord, please be ever so present in the pastor's life. May he recognize Your presence as You bless his family. May Your presence be so encompassing that his face radiantly glows and shines upon the congregation as a sign that You are present in his life. Not just for his sake. But for that of everyone in the church.*
-
-*With thanksgiving and gratitude, and in Your Name, I pray. AMEN!*
+<!--@include: ../../../bible/prayer/journal/2025/01/09_21-days.md{3,13}-->
 
 John chapter 5 was on the agenda today. This one begins with the climax scene from this week's *The Chosen* episode...LOL The paralytic man at the pool of Bethesda is healed by Jesus. The rest of the chapter was basically Jesus doing a monologue against the Jews who began to persecute Him for healing the man on the Sabbath. Ooh boy, did Jesus put them in their place...LOL
+
+This is [day 5](/bible/prayer/journal/2025/01/09_21-days) of [this year's prayer and fasting](/bible/prayer/journal/2025/01/21-days) season.
 
 ## My Day
 
