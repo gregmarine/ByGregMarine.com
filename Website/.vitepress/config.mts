@@ -206,6 +206,10 @@ export default defineConfig({
                       {
                         text: 'The Finish Line',
                         link: '/blog/2025/01/25_the-finish-line'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/blog/2025/01/26_'
                       }
                     ]
                   }
@@ -248,6 +252,10 @@ export default defineConfig({
                           {
                             text: '25',
                             link: '/photos/photo-a-day/2025/01/25'
+                          },
+                          {
+                            text: '26',
+                            link: '/photos/photo-a-day/2025/01/26'
                           }
                         ]
                       }
