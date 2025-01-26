@@ -66,7 +66,7 @@ I took my remaining desks and 3D printer out to storage today. I included my 3D 
 
 I'm finally able to start parting my hair. I had been shaving my head from April 2020 until October 2024. I got my first haircut in years back on Christmas Day at Magic Kingdom. Well, this weekend, it finally started to allow parting again...hehehe That top part of my scalp kept sticking up like a fuzzy little baby head...HAHAHA I'm happy it is finally all grown up now...HAHAHA
 
-As you can see, I did a lot of thinking and a lot tasks today...LOL I'm grateful <3
+As you can see, I did a lot of thinking and a lot of tasks today...LOL I'm grateful <3
 
 ## Photo of the Day
 
@@ -74,6 +74,6 @@ As you can see, I did a lot of thinking and a lot tasks today...LOL I'm grateful
 
 ## Wrapping Up
 
-Well, that's it for today. I've crossed the finish line of another *marathon* of prayer and fasting. I'm glad I'm still doing this to start off my years. I've grown each time. Just like training for a foot race, it's good to push myself to my limits. It makes it easier next time...well, sometimes...hehehe There are certainly times when it feels like 1 step forward, 2 steps back. But like I usually say, sometimes it can also be 20 steps forward...hehehe It's a process. God's process is far greater than my progress. I'll remain a work in progress...making progress in His process.
+Well, that's it for today. I've crossed the finish line of another *marathon* of prayer and fasting. I'm glad I'm still doing this to start off my years. I've grown each time. Just like training for a foot race, it's good to push myself to my limits. It makes it easier next time...well, sometimes...hehehe There are certainly times when it feels like 1 step forward, 2 steps back. But like I usually say, sometimes it can also be 20 steps forward...hehehe It's a process. God's process is far greater than my progress. I'll remain a work in progress...making progress...in His process.
 
 I'm going to keep journaling through the next few days as I reflect on this year's season of prayer and fasting. That part isn't quite finished yet. It's kind of like that walk you have to make from the finish line of the race so you can get to where they give you that little snack pack...LOL Why do they make you walk so far for that?!? At least, that was my experience at that runDisney 5k I did...LOL
