@@ -27,10 +27,12 @@ export default defineConfig({
         items: [
           {
             text: 'Bible',
+            link: '/bible',
             collapsed: true,
             items: [
               {
                 text: 'Prayer',
+                link: '/bible/prayer',
                 collapsed: true,
                 items: [
                   {
@@ -41,6 +43,7 @@ export default defineConfig({
               },
               {
                 text: 'Prayer Journal',
+                link: '/bible/prayer/journal',
                 collapsed: true,
                 items: [
                   {
@@ -48,31 +51,28 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: 'January',
+                        text: '21 Days of Prayer and Fasting',
+                        link: '/bible/prayer/journal/2025/01/21-days',
                         collapsed: true,
                         items: [
                           {
-                            text: '21 Days of Prayer and Fasting',
-                            link: '/bible/prayer/journal/2025/01/21-days'
-                          },
-                          {
-                            text: 'Praying anywhere and everywhere',
+                            text: 'Day 1',
                             link: '/bible/prayer/journal/2025/01/05_21-days'
                           },
                           {
-                            text: 'Blessing others, even those who have harmed or wronged us',
+                            text: 'Day 2',
                             link: '/bible/prayer/journal/2025/01/06_21-days'
                           },
                           {
-                            text: 'Thanking God for revealing Himself',
+                            text: 'Day 3',
                             link: '/bible/prayer/journal/2025/01/07_21-days'
                           },
                           {
-                            text: 'Prayer for God\'s Will',
+                            text: 'Day 4',
                             link: '/bible/prayer/journal/2025/01/08_21-days'
                           },
                           {
-                            text: 'Asking God to not forsake us, that we always recognize His presence',
+                            text: 'Day 5',
                             link: '/bible/prayer/journal/2025/01/09_21-days'
                           }
                         ]
