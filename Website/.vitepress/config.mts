@@ -56,16 +56,24 @@ export default defineConfig({
                             link: '/bible/prayer/journal/2025/01/21-days'
                           },
                           {
-                            text: 'Teach me to pray',
+                            text: 'Praying anywhere and everywhere',
                             link: '/bible/prayer/journal/2025/01/05_21-days'
                           },
                           {
-                            text: 'Praying for Blessings',
+                            text: 'Blessing others, even those who have harmed or wronged us',
                             link: '/bible/prayer/journal/2025/01/06_21-days'
                           },
                           {
-                            text: 'God revealing Himself',
+                            text: 'Thanking God for revealing Himself',
                             link: '/bible/prayer/journal/2025/01/07_21-days'
+                          },
+                          {
+                            text: 'Prayer for God\'s Will',
+                            link: '/bible/prayer/journal/2025/01/08_21-days'
+                          },
+                          {
+                            text: 'Asking God to not forsake us, that we always recognize His presence',
+                            link: '/bible/prayer/journal/2025/01/09_21-days'
                           }
                         ]
                       }
