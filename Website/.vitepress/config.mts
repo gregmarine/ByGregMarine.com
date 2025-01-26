@@ -74,6 +74,14 @@ export default defineConfig({
                           {
                             text: 'Day 5',
                             link: '/bible/prayer/journal/2025/01/09_21-days'
+                          },
+                          {
+                            text: 'Day 6',
+                            link: '/bible/prayer/journal/2025/01/10_21-days'
+                          },
+                          {
+                            text: 'Day 7',
+                            link: '/bible/prayer/journal/2025/01/11_21-days'
                           }
                         ]
                       }

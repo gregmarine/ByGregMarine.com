@@ -13,3 +13,5 @@ Here is a full list of this year's 21 days of prayer and fasting journal entries
 3. [Thanking God for revealing Himself](/bible/prayer/journal/2025/01/07_21-days)
 4. [Prayer for God's Will](/bible/prayer/journal/2025/01/08_21-days)
 5. [Asking God to not forsake us, that we always recognize His presence](/bible/prayer/journal/2025/01/09_21-days)
+6. [Asking God to help our faith to not fail](/bible/prayer/journal/2025/01/10_21-days)
+7. [Asking God to help us strengthen our sisters and brother in Christ](/bible/prayer/journal/2025/01/11_21-days)

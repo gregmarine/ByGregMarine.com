@@ -4,7 +4,7 @@
 
 Good morning and welcome to day 5 of this year's prayer and fasting dedication. There is a long way to go. Yet, I feel as though I've already come a long way...hehehe I'm very grateful for seasons like this. It helps to renew my spirit in a lot of ways.
 
-<!--@include: ../../../bible/prayer/journal/2025/01/08_21-days.md{3,13}-->
+<!--@include: ../../../bible/prayer/journal/2025/01/09_21-days.md{3,13}-->
 
 John chapter 5 was on the agenda today. This one begins with the climax scene from this week's *The Chosen* episode...LOL The paralytic man at the pool of Bethesda is healed by Jesus. The rest of the chapter was basically Jesus doing a monologue against the Jews who began to persecute Him for healing the man on the Sabbath. Ooh boy, did Jesus put them in their place...LOL
 
