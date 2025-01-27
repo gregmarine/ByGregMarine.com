@@ -6,6 +6,9 @@ hero:
   name: So, a website...
   text: by Greg Marine
   tagline: Just being me 🤗
+  image:
+    src: /media/profile.webp
+    alt: Greg Marine selfie
   actions:
     - theme: brand
       text: Bible
