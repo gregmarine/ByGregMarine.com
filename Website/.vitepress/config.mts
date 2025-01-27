@@ -208,8 +208,8 @@ export default defineConfig({
                         link: '/blog/2025/01/25_the-finish-line'
                       },
                       {
-                        text: 'TBD',
-                        link: '/blog/2025/01/26_'
+                        text: 'Blessed are the Sundays',
+                        link: '/blog/2025/01/26_blessed-are-the-sundays'
                       }
                     ]
                   }

@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/01/26_
+      text: Blessed are the Sundays
+      link: /blog/2025/01/26_blessed-are-the-sundays
     - theme: alt
       text: The Finish Line
       link: /blog/2025/01/25_the-finish-line
