@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/01/27_
+      text: Gulf Shrimp, Dapper G, Peace Out
+      link: /blog/2025/01/27_gulf-shrimp-dapper-g-peace-out
     - theme: alt
       text: Blessed are the Sundays
       link: /blog/2025/01/26_blessed-are-the-sundays

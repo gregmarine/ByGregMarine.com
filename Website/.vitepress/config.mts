@@ -212,8 +212,8 @@ export default defineConfig({
                         link: '/blog/2025/01/26_blessed-are-the-sundays'
                       },
                       {
-                        text: 'TBD',
-                        link: '/blog/2025/01/27_'
+                        text: 'Gulf Shrimp, Dapper G, Peace Out',
+                        link: '/blog/2025/01/27_gulf-shrimp-dapper-g-peace-out'
                       }
                     ]
                   }
