@@ -2,7 +2,7 @@
 
 Today was a good day. I took 3 walks. They were shorter than the other times. I think I walked about 2 miles total? Plus that approximately 1 mile I walk around just going about my day. The weather was perfect for being outside. So, I'm glad I went out...hehehe
 
-I decided not to journal about the reflection day from that prayer devotional I've been doing. It was getting redundant here...LOL I'll just finish organizing all of that on the [Bible](/bible) section later this week and not do anything else here in my blog about it...hehehe
+I decided not to journal about the reflection day from that prayer devotional I've been doing. It was getting redundant here...LOL I'll just finish organizing all of that on the [Bible](/bible/) section later this week and not do anything else here in my blog about it...hehehe
 
 I made Gulf shrimp chowmein for dinner today. It turned out terrific. I think it is technically more like lomein. But how I cooked it is more chow than lo. I'm not entirely sure I'll ever be *good enough* to make it exactly right...hehehe It did taste great, though!
 
