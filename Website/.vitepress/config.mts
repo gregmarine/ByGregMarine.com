@@ -17,9 +17,9 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Bible', link: '/bible' },
       { text: 'Blog', link: '/blog' },
-      { text: 'Photos', link: '/photos' }
+      { text: 'Photos', link: '/photos' },
+      { text: 'Bible', link: '/bible' }
     ],
 
     sidebar: [
@@ -210,6 +210,10 @@ export default defineConfig({
                       {
                         text: 'Blessed are the Sundays',
                         link: '/blog/2025/01/26_blessed-are-the-sundays'
+                      },
+                      {
+                        text: 'Gulf Shrimp, Dapper G, Peace Out',
+                        link: '/blog/2025/01/27_gulf-shrimp-dapper-g-peace-out'
                       }
                     ]
                   }
@@ -256,6 +260,10 @@ export default defineConfig({
                           {
                             text: '26',
                             link: '/photos/photo-a-day/2025/01/26'
+                          },
+                          {
+                            text: '27',
+                            link: '/photos/photo-a-day/2025/01/27'
                           }
                         ]
                       }
