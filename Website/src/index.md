@@ -11,12 +11,12 @@ hero:
     alt: Greg Marine selfie
   actions:
     - theme: brand
-      text: Bible
-      link: /bible/
-    - theme: brand
       text: Blog
       link: /blog/
     - theme: brand
       text: Photos
       link: /photos/
+    - theme: brand
+      text: Bible
+      link: /bible/
 ---
