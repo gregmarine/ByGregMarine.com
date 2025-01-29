@@ -216,8 +216,8 @@ export default defineConfig({
                         link: '/blog/2025/01/27_gulf-shrimp-dapper-g-peace-out'
                       },
                       {
-                        text: 'TBD',
-                        link: '/blog/2025/01/28_'
+                        text: 'Dapper Makes Me Happier, and a Celebrity!',
+                        link: '/blog/2025/01/28_dapper-makes-me-happier-and-a-celebrity'
                       }
                     ]
                   }

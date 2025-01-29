@@ -1,6 +1,8 @@
-# TBD
+# Dapper Makes Me Happier, and a Celebrity!
 
-I had an amazing day! I kept notes throughout the day so I could journal about it all. And I took 65 videos...LOL I'll have to sift through the videos before I can build a video journal from them. I'll likely choose videos based on what I write about the day. The parts of the day I made note of are the most...*noteworthy*...moments...hehehe
+I kept notes throughout the day so I could journal about it all. And I took 65 videos...LOL I'll have to sift through the videos before I can build a video journal from them. I'll likely choose videos based on what I write about the day. The parts of the day I made note of are the most...*noteworthy*...moments...hehehe
+
+This is a bit long today. It was an amazing day with a lot in it. I basically journaled about it all...LOL
 
 ## My Day
 
@@ -168,4 +170,8 @@ I made it home safely. Yep, just shy of 2 hours! Yay! Now, I'll write up my day.
 
 ## Wrapping Up
 
-Decanter warmer
+Well, that's a wrap for today. I'll work on the video journal soon. It is worth putting together.
+
+I ordered a warmer for my coffee decanter. It arrived while I was gone today. I used it tonight for my evening coffee. It works well. I think I'll use it for my hot water too...hehehe
+
+I didn't go over the whole thing before publishing. I hope it isn't full of typos...LOL
