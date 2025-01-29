@@ -214,6 +214,10 @@ export default defineConfig({
                       {
                         text: 'Gulf Shrimp, Dapper G, Peace Out',
                         link: '/blog/2025/01/27_gulf-shrimp-dapper-g-peace-out'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/blog/2025/01/28_'
                       }
                     ]
                   }
@@ -264,6 +268,10 @@ export default defineConfig({
                           {
                             text: '27',
                             link: '/photos/photo-a-day/2025/01/27'
+                          },
+                          {
+                            text: '28',
+                            link: '/photos/photo-a-day/2025/01/28'
                           }
                         ]
                       }
