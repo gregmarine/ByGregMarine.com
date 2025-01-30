@@ -220,8 +220,8 @@ export default defineConfig({
                         link: '/blog/2025/01/28_dapper-makes-me-happier-and-a-celebrity'
                       },
                       {
-                        text: 'TBD',
-                        link: '/blog/2025/01/29_'
+                        text: 'Creative Writing Returns',
+                        link: '/blog/2025/01/29_creative-writing-returns'
                       }
                     ]
                   }

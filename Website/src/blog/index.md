@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/01/29_
+      text: Creative Writing Returns
+      link: /blog/2025/01/29_creative-writing-returns
     - theme: alt
       text: Dapper Makes Me Happier, and a Celebrity!
       link: /blog/2025/01/28_dapper-makes-me-happier-and-a-celebrity
