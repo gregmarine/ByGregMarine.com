@@ -218,6 +218,10 @@ export default defineConfig({
                       {
                         text: 'Dapper Makes Me Happier, and a Celebrity!',
                         link: '/blog/2025/01/28_dapper-makes-me-happier-and-a-celebrity'
+                      },
+                      {
+                        text: 'TBD',
+                        link: '/blog/2025/01/29_'
                       }
                     ]
                   }
@@ -272,6 +276,10 @@ export default defineConfig({
                           {
                             text: '28',
                             link: '/photos/photo-a-day/2025/01/28'
+                          },
+                          {
+                            text: '29',
+                            link: '/photos/photo-a-day/2025/01/29'
                           }
                         ]
                       }
