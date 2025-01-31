@@ -175,3 +175,7 @@ Well, that's a wrap for today. I'll work on the video journal soon. It is worth 
 I ordered a warmer for my coffee decanter. It arrived while I was gone today. I used it tonight for my evening coffee. It works well. I think I'll use it for my hot water too...hehehe
 
 I didn't go over the whole thing before publishing. I hope it isn't full of typos...LOL
+
+## Video Journal
+
+A few days later, I was able to finish the video journal for today. You can see it [here](https://youtu.be/jqJqHJdvjKw)!

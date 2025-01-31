@@ -108,120 +108,124 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: 'Happy New Year!',
+                        text: '01',
                         link: '/blog/2025/01/01_happy-new-year'
                       },
                       {
-                        text: 'Circle of Life',
+                        text: '02',
                         link: '/blog/2025/01/02_circle-of-life'
                       },
                       {
-                        text: 'I Saw an Eagle!',
+                        text: '03',
                         link: '/blog/2025/01/03_i-saw-an-eagle'
                       },
                       {
-                        text: 'Weird Day',
+                        text: '04',
                         link: '/blog/2025/01/04_weird-day'
                       },
                       {
-                        text: 'Dawn',
+                        text: '05',
                         link: '/blog/2025/01/05_dawn'
                       },
                       {
-                        text: 'Blessings',
+                        text: '06',
                         link: '/blog/2025/01/06_blessings'
                       },
                       {
-                        text: 'God Revealed in the Journey',
+                        text: '07',
                         link: '/blog/2025/01/07_god-revealed-in-the-journey'
                       },
                       {
-                        text: 'God\'s Will be Done',
+                        text: '08',
                         link: '/blog/2025/01/08_gods-will-be-done'
                       },
                       {
-                        text: 'Lighthouse',
+                        text: '09',
                         link: '/blog/2025/01/09_lighthouse'
                       },
                       {
-                        text: 'Faith, Don\'t Fail Me Now!',
+                        text: '10',
                         link: '/blog/2025/01/10_faith-dont-fail-me-now'
                       },
                       {
-                        text: 'Strengthen Me to Strengthen Others',
+                        text: '11',
                         link: '/blog/2025/01/11_strengthen-me-to-strengthen-others'
                       },
                       {
-                        text: 'Heart Shaped Potato Chip',
+                        text: '12',
                         link: '/blog/2025/01/12_heart-shaped-potato-chip'
                       },
                       {
-                        text: 'Please Forgive Me',
+                        text: '13',
                         link: '/blog/2025/01/13_please-forgive-me'
                       },
                       {
-                        text: 'Gregilocks and the 3 in 1',
+                        text: '14',
                         link: '/blog/2025/01/14_gregilocks-and-the-3-in-1'
                       },
                       {
-                        text: 'Half Way There',
+                        text: '15',
                         link: '/blog/2025/01/15_half-way-there'
                       },
                       {
-                        text: 'Sent',
+                        text: '16',
                         link: '/blog/2025/01/16_sent'
                       },
                       {
-                        text: 'Title Not Found',
+                        text: '17',
                         link: '/blog/2025/01/17_title-not-found'
                       },
                       {
-                        text: 'Because He Did',
+                        text: '18',
                         link: '/blog/2025/01/18_because-he-did'
                       },
                       {
-                        text: 'Today, I\'m not ready',
+                        text: '19',
                         link: '/blog/2025/01/19_today-im-not-ready'
                       },
                       {
-                        text: 'On the Move',
+                        text: '20',
                         link: '/blog/2025/01/20_on-the-move'
                       },
                       {
-                        text: 'Young Year, Weather Woes, New Bedtime?',
+                        text: '21',
                         link: '/blog/2025/01/21_young-year-weather-woes-new-bedtime'
                       },
                       {
-                        text: 'Disoriented, Hot Water, Stuck Inside',
+                        text: '22',
                         link: '/blog/2025/01/22_disoriented-hot-water-stuck-inside'
                       },
                       {
-                        text: 'These Shoes are Tired',
+                        text: '23',
                         link: '/blog/2025/01/23_these-shoes-are-tired'
                       },
                       {
-                        text: 'One for All, All with the One',
+                        text: '24',
                         link: '/blog/2025/01/24_one-for-all-all-with-the-one'
                       },
                       {
-                        text: 'The Finish Line',
+                        text: '25',
                         link: '/blog/2025/01/25_the-finish-line'
                       },
                       {
-                        text: 'Blessed are the Sundays',
+                        text: '26',
                         link: '/blog/2025/01/26_blessed-are-the-sundays'
                       },
                       {
-                        text: 'Gulf Shrimp, Dapper G, Peace Out',
+                        text: '27',
                         link: '/blog/2025/01/27_gulf-shrimp-dapper-g-peace-out'
                       },
                       {
-                        text: 'Dapper Makes Me Happier, and a Celebrity!',
+                        text: '28',
                         link: '/blog/2025/01/28_dapper-makes-me-happier-and-a-celebrity'
                       },
                       {
-                        text: 'Creative Writing Returns',
+                        text: '29',
                         link: '/blog/2025/01/29_creative-writing-returns'
+                      },
+                      {
+                        text: '30',
+                        link: '/blog/2025/01/30_marineland'
                       }
                     ]
                   }
@@ -280,6 +284,10 @@ export default defineConfig({
                           {
                             text: '29',
                             link: '/photos/photo-a-day/2025/01/29'
+                          },
+                          {
+                            text: '30',
+                            link: '/photos/photo-a-day/2025/01/30'
                           }
                         ]
                       }
