@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/01/30_
+      text: Marineland
+      link: /blog/2025/01/30_marineland
     - theme: alt
       text: Creative Writing Returns
       link: /blog/2025/01/29_creative-writing-returns

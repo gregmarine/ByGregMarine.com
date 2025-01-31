@@ -1,4 +1,4 @@
-# TBD
+# Marineland
 
 ## My Day
 
@@ -16,7 +16,7 @@ I have often waited with my mom while the rest of our family goes on the thrill 
 
 ### 10:15am
 
-Hmmm...for my theme park...what would I name it? LOL Marineland is a little on the nose at this point...HAHAHA I'm know for warm hugs. But having that in the name sounds a little invasive for those sensitive to touch. I'm also known for my *Vitamin G*...hmmm *Vitamin G Acres*? *Vitamin G Gardens*? Hmmm... I'll have to give this some more thought...hehehe
+Hmmm...for my theme park...what would I name it? LOL Marineland is a little on the nose at this point...HAHAHA I'm known for warm hugs. But having that in the name sounds a little invasive for those sensitive to touch. I'm also known for my *Vitamin G*...hmmm *Vitamin G Acres*? *Vitamin G Gardens*? Hmmm... I'll have to give this some more thought...hehehe
 
 ### 02:45pm
 
@@ -28,7 +28,7 @@ I thought about going to Zen this evening for their Chinese New Year special. I 
 
 ### 08:15pm
 
-Surprisingly, I'm not very tired...LOL I must be getting the best sleep of my life. Because I'm getting a little less than normal and still fully functional...hehehe Today has been a really good day <3
+Surprisingly, I'm not very tired...LOL I must be getting the best sleep of my life. Because I'm getting a little less than usually lately and still fully functional...hehehe Today has been a really good day <3
 
 I'll be having my evening coffee and snack soon. But I wanted to pop in for a moment. I just got off the phone with my son. It was a wonderful moment. We mostly talked about movies. He gets passionate talking about them. So he was full of excitement tonight. It makes my heart happy <3
 
@@ -38,7 +38,7 @@ I had fried rice again tonight. I can't seem to get enough of it...hehehe I'll h
 
 I created the video journal from my day at Disney. It's a little long at 7:32. But I like how it turned out. The first 10 seconds has no audio. I tried to add music to that section. But the app removed the audio from the rest of the video...LOL I'll have to figure that out for next time. I decided to leave those 10 seconds without audio for this time. I still have to upload it. I hope to link to it in today's blog entry.
 
-I'm so glad I captured so much in video. Having this video journal took me back to the entire experience <3. It's neat how I could take an 8 hour day, reduce it to 7 and half minutes, and that is all it takes to relive the entire day <3 Plus, I was able to grab photos from the entire day from those videos, as you can see from the blog entry that day. This is going to be a fun way to capture the moments this year. And doing so didn't take away from the experiences. It just adds to it. I didn't have my phone out much throughout the day. Just for those short clips I captured and some texts I sent. I had more than half the battery left at the end of the day...LOL
+I'm so glad I captured so much in video. Having this video journal took me back to the entire experience <3. It's neat how I could take an 8 hour day, reduce it to 7 and half minutes, and that is all it takes to relive the entire day <3 Plus, I was able to grab photos from the entire day from those videos, [as you can see from the blog entry that day](./28_dapper-makes-me-happier-and-a-celebrity). This is going to be a fun way to capture the moments this year. And doing so didn't take away from the experiences. It just adds to it. I didn't have my phone out much throughout the day. Just for those short clips I captured and some texts I sent. I had more than half the battery left at the end of the day...LOL
 
 ### 11:00pm
 
@@ -46,7 +46,9 @@ The video is ready! You can see it [here](https://youtu.be/jqJqHJdvjKw)!
 
 I'll add it to my blog entry for that day as well. That way I can watch it anytime I read that entry again...hehehe
 
+And with that, I'll call it a day!
 
+*There's a great big beautiful tomorrow...shining at the end of every day* <3
 
 ## Photo of the Day
 

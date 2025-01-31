@@ -225,7 +225,7 @@ export default defineConfig({
                       },
                       {
                         text: '30',
-                        link: '/blog/2025/01/30_'
+                        link: '/blog/2025/01/30_marineland'
                       }
                     ]
                   }
