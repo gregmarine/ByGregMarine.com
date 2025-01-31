@@ -226,6 +226,10 @@ export default defineConfig({
                       {
                         text: '30',
                         link: '/blog/2025/01/30_marineland'
+                      },
+                      {
+                        text: '31',
+                        link: '/blog/2025/01/31_'
                       }
                     ]
                   }
@@ -288,6 +292,10 @@ export default defineConfig({
                           {
                             text: '30',
                             link: '/photos/photo-a-day/2025/01/30'
+                          },
+                          {
+                            text: '31',
+                            link: '/photos/photo-a-day/2025/01/31'
                           }
                         ]
                       }
