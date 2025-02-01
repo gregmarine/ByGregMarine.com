@@ -229,7 +229,7 @@ export default defineConfig({
                       },
                       {
                         text: '31',
-                        link: '/blog/2025/01/31_'
+                        link: '/blog/2025/01/31_goodbye-january'
                       }
                     ]
                   }
