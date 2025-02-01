@@ -5,7 +5,7 @@ layout: home
 hero:
   name: So, I took a photo...
   text: a gallery by Greg Marine
-  tagline: Telling a story through a lens
+  tagline: Telling a story through a lens 📸
   actions:
     - theme: brand
       text: January 31
