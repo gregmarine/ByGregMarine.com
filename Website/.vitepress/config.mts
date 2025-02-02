@@ -232,6 +232,16 @@ export default defineConfig({
                         link: '/blog/2025/01/31_goodbye-january'
                       }
                     ]
+                  },
+                  {
+                    text: 'February',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '01',
+                        link: '/blog/2025/02/01_i-love-my-ears'
+                      }
+                    ]
                   }
                 ]
               }
@@ -296,6 +306,16 @@ export default defineConfig({
                           {
                             text: '31',
                             link: '/photos/photo-a-day/2025/01/31'
+                          }
+                        ]
+                      },
+                      {
+                        text: 'February',
+                        collapsed: true,
+                        items: [
+                          {
+                            text: '01',
+                            link: '/photos/photo-a-day/2025/02/01'
                           }
                         ]
                       }
