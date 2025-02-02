@@ -239,7 +239,7 @@ export default defineConfig({
                     items: [
                       {
                         text: '01',
-                        link: '/blog/2025/02/01_'
+                        link: '/blog/2025/02/01_i-love-my-ears'
                       }
                     ]
                   }

@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/01_
+      text: I Love My *Ears*
+      link: /blog/2025/02/01_i-love-my-ears
     - theme: alt
       text: Goodbye January!
       link: /blog/2025/01/31_goodbye-january
