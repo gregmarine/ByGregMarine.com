@@ -240,6 +240,10 @@ export default defineConfig({
                       {
                         text: '01',
                         link: '/blog/2025/02/01_i-love-my-ears'
+                      },
+                      {
+                        text: '02',
+                        link: '/blog/2025/02/02_'
                       }
                     ]
                   }
@@ -316,6 +320,10 @@ export default defineConfig({
                           {
                             text: '01',
                             link: '/photos/photo-a-day/2025/02/01'
+                          },
+                          {
+                            text: '02',
+                            link: '/photos/photo-a-day/2025/02/02'
                           }
                         ]
                       }
