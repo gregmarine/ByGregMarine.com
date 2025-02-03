@@ -238,12 +238,16 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       {
-                        text: '01',
+                        text: '01 - I Love My *Ears*',
                         link: '/blog/2025/02/01_i-love-my-ears'
                       },
                       {
-                        text: '02',
+                        text: '02 - Whistle Pig Day',
                         link: '/blog/2025/02/02_whistle-pig-day'
+                      },
+                      {
+                        text: '03 - TBD',
+                        link: '/blog/2025/02/03_'
                       }
                     ]
                   }
@@ -324,6 +328,10 @@ export default defineConfig({
                           {
                             text: '02',
                             link: '/photos/photo-a-day/2025/02/02'
+                          },
+                          {
+                            text: '03',
+                            link: '/photos/photo-a-day/2025/02/03'
                           }
                         ]
                       }
