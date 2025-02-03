@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/02_
+      text: Whistle Pig Day
+      link: /blog/2025/02/02_whistle-pig-day
     - theme: alt
       text: I Love My *Ears*
       link: /blog/2025/02/01_i-love-my-ears

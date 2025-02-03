@@ -243,7 +243,7 @@ export default defineConfig({
                       },
                       {
                         text: '02',
-                        link: '/blog/2025/02/02_'
+                        link: '/blog/2025/02/02_whistle-pig-day'
                       }
                     ]
                   }
