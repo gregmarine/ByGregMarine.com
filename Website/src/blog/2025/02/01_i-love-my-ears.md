@@ -41,3 +41,7 @@ As we were leaving EPCOT tonight, we got to see one of the light shows they do w
 Those are the magnetic ears my deerest friend gave me...hehehe She is always with me at Disney in spirit. Now that I have those ears, a part of her is physically with me as well <3 At least when I wear the ears or when I wear one of the pins I got with the gift card she gave me last year...HAHAHA Actually, now that I think about it, part of her is always with me physically anyway. I carry that gift card with me always 🥹
 
 I was complimented on my ears a few times again today...hehehe I love them so much <3 Thank you!
+
+## Video Journal
+
+A few days later, I was able to finish the video journal for today. You can see it [here](https://youtu.be/D7aE1fjyvhs)!
