@@ -246,8 +246,8 @@ export default defineConfig({
                         link: '/blog/2025/02/02_whistle-pig-day'
                       },
                       {
-                        text: '03 - TBD',
-                        link: '/blog/2025/02/03_'
+                        text: '03 - Bees a Buzzin and Where\'s My Wallet 🤣',
+                        link: '/blog/2025/02/03_bees-a-buzzin-and-wheres-my-wallet'
                       }
                     ]
                   }

@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/03_
+      text: Bees a Buzzin and Where's My Wallet 🤣
+      link: /blog/2025/02/03_bees-a-buzzin-and-wheres-my-wallet
     - theme: alt
       text: Whistle Pig Day
       link: /blog/2025/02/02_whistle-pig-day
