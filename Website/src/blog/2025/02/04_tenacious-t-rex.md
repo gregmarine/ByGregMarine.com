@@ -1,4 +1,4 @@
-# Annoyed T-Rex 🦖
+# Tenacious T-Rex 🦖
 
 ## My Day
 

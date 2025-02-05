@@ -250,8 +250,8 @@ export default defineConfig({
                         link: '/blog/2025/02/03_bees-a-buzzin-and-wheres-my-wallet'
                       },
                       {
-                        text: '04 - Annoyed T-Rex 🦖',
-                        link: '/blog/2025/02/04_annoyed-t-rex'
+                        text: '04 - Tenacious T-Rex 🦖',
+                        link: '/blog/2025/02/04_tenacious-t-rex'
                       }
                     ]
                   }
