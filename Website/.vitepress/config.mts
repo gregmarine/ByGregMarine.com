@@ -248,6 +248,10 @@ export default defineConfig({
                       {
                         text: '03 - Bees a Buzzin and Where\'s My Wallet 🤣',
                         link: '/blog/2025/02/03_bees-a-buzzin-and-wheres-my-wallet'
+                      },
+                      {
+                        text: '04 - Tenacious T-Rex 🦖',
+                        link: '/blog/2025/02/04_tenacious-t-rex'
                       }
                     ]
                   }
@@ -332,6 +336,10 @@ export default defineConfig({
                           {
                             text: '03',
                             link: '/photos/photo-a-day/2025/02/03'
+                          },
+                          {
+                            text: '04',
+                            link: '/photos/photo-a-day/2025/02/04'
                           }
                         ]
                       }
