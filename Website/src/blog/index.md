@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: TBD
+      link: /blog/2025/02/04_
+    - theme: alt
       text: Bees a Buzzin and Where's My Wallet 🤣
       link: /blog/2025/02/03_bees-a-buzzin-and-wheres-my-wallet
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Goodbye January!
       link: /blog/2025/01/31_goodbye-january
-    - theme: alt
-      text: Marineland
-      link: /blog/2025/01/30_marineland
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

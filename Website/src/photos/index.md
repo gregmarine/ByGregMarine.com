@@ -11,6 +11,9 @@ hero:
       text: February 03
       link: /photos/photo-a-day/2025/02/03
     - theme: alt
+      text: February 04
+      link: /photos/photo-a-day/2025/02/04
+    - theme: alt
       text: February 02
       link: /photos/photo-a-day/2025/02/02
     - theme: alt
@@ -19,7 +22,4 @@ hero:
     - theme: alt
       text: January 31
       link: /photos/photo-a-day/2025/01/31
-    - theme: alt
-      text: January 30
-      link: /photos/photo-a-day/2025/01/30
 ---
