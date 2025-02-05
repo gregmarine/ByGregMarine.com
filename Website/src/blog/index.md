@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/04_
+      text: Annoyed T-Rex, Creativity, and Productivity
+      link: /blog/2025/02/04_annoyed-t-rex-creativity-and-productivity
     - theme: alt
       text: Bees a Buzzin and Where's My Wallet 🤣
       link: /blog/2025/02/03_bees-a-buzzin-and-wheres-my-wallet
