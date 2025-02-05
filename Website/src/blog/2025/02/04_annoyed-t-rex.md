@@ -1,4 +1,4 @@
-# Annoyed T-Rex, Creativity, and Productivity
+# Annoyed T-Rex 🦖
 
 ## My Day
 
@@ -12,7 +12,7 @@ I loved how the chowmein turned out. I hope I can repeat it because it is the cl
 
 I made tuna tacos tonight. And they were delicious! I don't think I've ever prepared tuna before. It was pretty simple. I marinated it in coco aminos. I then baked it. I cut it up to put it on the tacos.
 
-I had a really creative day. I made a pair of funny videos for my deer friend. They were based on a video I made for her yesterday. But then I made the two today based on our conversations about the *character* I played in the videos. I'm basically an annoyed T-Rex. He's annoyed because he has such short arms...LOL But he discovered a new super power today. His left arm grows! HAHAHA
+I had a really creative day. I made a pair of funny videos for my deer friend. They were based on a video I made for her yesterday. But then I made the two today based on our conversations about the *character* I played in the videos. I'm basically an annoyed T-Rex. He's annoyed because he has such short arms...LOL But he discovered a new super power today. His left arm grows! HAHAHA This tenacious t-rex took my tuna tacos!!! HAHAHA
 
 After I was done with my Bible study session for tonight, I worked on my next painting. I did all of the digital art concept for the project. And then I sketched it out on a 4x4 inch canvas. It is all set for painting over the next few days. It's going to be a really sweet painting. It will probably be one of my favorites once it is finished...hehehe
 
@@ -28,3 +28,6 @@ I reevaluated my weight loss today. Having lost a measurable amount to start the
 
 ## Wrapping Up
 
+It's short notice, but I need to plan a quick trip up to Indiana. My parents and aunts and uncles decided to throw my grandmother a 90th birthday party. I kind of figured they would. So I should have tried to plan a trip already. But I didn't actually know when they might do it. I was told the official date for it today...LOL I need to decide quickly so I can book the planes. It's only a few weeks away...LOL
+
+Today was a really good day. I love today <3

@@ -250,8 +250,8 @@ export default defineConfig({
                         link: '/blog/2025/02/03_bees-a-buzzin-and-wheres-my-wallet'
                       },
                       {
-                        text: '04 - Annoyed T-Rex, Creativity, and Productivity',
-                        link: '/blog/2025/02/04_annoyed-t-rex-creativity-and-productivity'
+                        text: '04 - Annoyed T-Rex 🦖',
+                        link: '/blog/2025/02/04_annoyed-t-rex'
                       }
                     ]
                   }
