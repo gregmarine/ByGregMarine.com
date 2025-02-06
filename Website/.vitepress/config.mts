@@ -252,6 +252,10 @@ export default defineConfig({
                       {
                         text: '04 - Tenacious T-Rex 🦖',
                         link: '/blog/2025/02/04_tenacious-t-rex'
+                      },
+                      {
+                        text: '05 - Curious Mind 🤔',
+                        link: '/blog/2025/02/05_curious-mind'
                       }
                     ]
                   }
@@ -340,6 +344,10 @@ export default defineConfig({
                           {
                             text: '04',
                             link: '/photos/photo-a-day/2025/02/04'
+                          },
+                          {
+                            text: '05',
+                            link: '/photos/photo-a-day/2025/02/05'
                           }
                         ]
                       }

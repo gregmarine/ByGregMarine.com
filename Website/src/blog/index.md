@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Curious Mind 🤔
+      link: /blog/2025/02/05_curious-mind
+    - theme: alt
       text: Tenacious T-Rex 🦖
       link: /blog/2025/02/04_tenacious-t-rex
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: I Love My *Ears*
       link: /blog/2025/02/01_i-love-my-ears
-    - theme: alt
-      text: Goodbye January!
-      link: /blog/2025/01/31_goodbye-january
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
