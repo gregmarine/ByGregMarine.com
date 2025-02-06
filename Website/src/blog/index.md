@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/05_
+      text: Curious Mind 🤔
+      link: /blog/2025/02/05_curious-mind
     - theme: alt
       text: Tenacious T-Rex 🦖
       link: /blog/2025/02/04_tenacious-t-rex
