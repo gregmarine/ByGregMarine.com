@@ -340,6 +340,10 @@ export default defineConfig({
                           {
                             text: '04',
                             link: '/photos/photo-a-day/2025/02/04'
+                          },
+                          {
+                            text: '05',
+                            link: '/photos/photo-a-day/2025/02/05'
                           }
                         ]
                       }
