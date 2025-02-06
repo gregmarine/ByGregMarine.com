@@ -252,6 +252,10 @@ export default defineConfig({
                       {
                         text: '04 - Tenacious T-Rex 🦖',
                         link: '/blog/2025/02/04_tenacious-t-rex'
+                      },
+                      {
+                        text: '05 - TBD',
+                        link: '/blog/2025/02/05_'
                       }
                     ]
                   }
