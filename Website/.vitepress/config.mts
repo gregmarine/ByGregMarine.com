@@ -256,6 +256,10 @@ export default defineConfig({
                       {
                         text: '05 - Curious Mind 🤔',
                         link: '/blog/2025/02/05_curious-mind'
+                      },
+                      {
+                        text: '06 - TBD',
+                        link: '/blog/2025/02/06_'
                       }
                     ]
                   }
@@ -348,6 +352,10 @@ export default defineConfig({
                           {
                             text: '05',
                             link: '/photos/photo-a-day/2025/02/05'
+                          },
+                          {
+                            text: '06',
+                            link: '/photos/photo-a-day/2025/02/06'
                           }
                         ]
                       }
