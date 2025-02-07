@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/06_
+      text: Thank You, Mrs. Jones 🤗
+      link: /blog/2025/02/06_thank-you-mrs-jones
     - theme: alt
       text: Curious Mind 🤔
       link: /blog/2025/02/05_curious-mind

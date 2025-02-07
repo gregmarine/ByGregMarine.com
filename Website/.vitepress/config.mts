@@ -258,8 +258,8 @@ export default defineConfig({
                         link: '/blog/2025/02/05_curious-mind'
                       },
                       {
-                        text: '06 - TBD',
-                        link: '/blog/2025/02/06_'
+                        text: '06 - Thank You, Mrs. Jones 🤗',
+                        link: '/blog/2025/02/06_thank-you-mrs-jones'
                       }
                     ]
                   }
