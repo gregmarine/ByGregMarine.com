@@ -260,6 +260,10 @@ export default defineConfig({
                       {
                         text: '06 - Thank You, Mrs. Jones 🤗',
                         link: '/blog/2025/02/06_thank-you-mrs-jones'
+                      },
+                      {
+                        text: '07 - TBD',
+                        link: '/blog/2025/02/07_'
                       }
                     ]
                   }
@@ -356,6 +360,10 @@ export default defineConfig({
                           {
                             text: '06',
                             link: '/photos/photo-a-day/2025/02/06'
+                          },
+                          {
+                            text: '07',
+                            link: '/photos/photo-a-day/2025/02/07'
                           }
                         ]
                       }
