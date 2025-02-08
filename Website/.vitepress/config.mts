@@ -262,8 +262,8 @@ export default defineConfig({
                         link: '/blog/2025/02/06_thank-you-mrs-jones'
                       },
                       {
-                        text: '07 - TBD',
-                        link: '/blog/2025/02/07_'
+                        text: '07 - Warm Hugs 🤗',
+                        link: '/blog/2025/02/07_warm-hugs'
                       }
                     ]
                   }
