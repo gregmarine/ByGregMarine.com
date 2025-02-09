@@ -26,4 +26,4 @@ Today was a really good day. Sometimes I have to be patient with the process. Bu
 
 ## Photo of the Day
 
-<!--@include: ../../../photos/photo-a-day/2025/02/07.md{3,}-->
+<!--@include: @/photos/photo-a-day/2025/02/07.md{3,}-->
