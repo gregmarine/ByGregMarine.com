@@ -26,72 +26,6 @@ export default defineConfig({
       {
         items: [
           {
-            text: 'Bible',
-            link: '/bible',
-            collapsed: true,
-            items: [
-              {
-                text: 'Prayer',
-                link: '/bible/prayer',
-                collapsed: true,
-                items: [
-                  {
-                    text: 'Journal',
-                    link: '/bible/prayer/journal'
-                  }
-                ]
-              },
-              {
-                text: 'Prayer Journal',
-                link: '/bible/prayer/journal',
-                collapsed: true,
-                items: [
-                  {
-                    text: '2025',
-                    collapsed: true,
-                    items: [
-                      {
-                        text: '21 Days of Prayer and Fasting',
-                        link: '/bible/prayer/journal/2025/01/21-days',
-                        collapsed: true,
-                        items: [
-                          {
-                            text: 'Day 1',
-                            link: '/bible/prayer/journal/2025/01/05_21-days'
-                          },
-                          {
-                            text: 'Day 2',
-                            link: '/bible/prayer/journal/2025/01/06_21-days'
-                          },
-                          {
-                            text: 'Day 3',
-                            link: '/bible/prayer/journal/2025/01/07_21-days'
-                          },
-                          {
-                            text: 'Day 4',
-                            link: '/bible/prayer/journal/2025/01/08_21-days'
-                          },
-                          {
-                            text: 'Day 5',
-                            link: '/bible/prayer/journal/2025/01/09_21-days'
-                          },
-                          {
-                            text: 'Day 6',
-                            link: '/bible/prayer/journal/2025/01/10_21-days'
-                          },
-                          {
-                            text: 'Day 7',
-                            link: '/bible/prayer/journal/2025/01/11_21-days'
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             text: 'Blog',
             collapsed: true,
             items: [
@@ -364,6 +298,94 @@ export default defineConfig({
                           {
                             text: '07',
                             link: '/photos/photo-a-day/2025/02/07'
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Bible',
+            link: '/bible',
+            collapsed: true,
+            items: [
+              {
+                text: 'Berean Standard Bible',
+                link: '/bible/translations/bsb/',
+                collapsed: true,
+                items: [
+                  {
+                    text: 'Exodus',
+                    link: '/bible/translations/bsb/02_exo/',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '028',
+                        link: '/bible/translations/bsb/02_exo/028'
+                      },
+                      {
+                        text: '029',
+                        link: '/bible/translations/bsb/02_exo/029'
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                text: 'Prayer',
+                link: '/bible/prayer',
+                collapsed: true,
+                items: [
+                  {
+                    text: 'Journal',
+                    link: '/bible/prayer/journal'
+                  }
+                ]
+              },
+              {
+                text: 'Prayer Journal',
+                link: '/bible/prayer/journal',
+                collapsed: true,
+                items: [
+                  {
+                    text: '2025',
+                    collapsed: true,
+                    items: [
+                      {
+                        text: '21 Days of Prayer and Fasting',
+                        link: '/bible/prayer/journal/2025/01/21-days',
+                        collapsed: true,
+                        items: [
+                          {
+                            text: 'Day 1',
+                            link: '/bible/prayer/journal/2025/01/05_21-days'
+                          },
+                          {
+                            text: 'Day 2',
+                            link: '/bible/prayer/journal/2025/01/06_21-days'
+                          },
+                          {
+                            text: 'Day 3',
+                            link: '/bible/prayer/journal/2025/01/07_21-days'
+                          },
+                          {
+                            text: 'Day 4',
+                            link: '/bible/prayer/journal/2025/01/08_21-days'
+                          },
+                          {
+                            text: 'Day 5',
+                            link: '/bible/prayer/journal/2025/01/09_21-days'
+                          },
+                          {
+                            text: 'Day 6',
+                            link: '/bible/prayer/journal/2025/01/10_21-days'
+                          },
+                          {
+                            text: 'Day 7',
+                            link: '/bible/prayer/journal/2025/01/11_21-days'
                           }
                         ]
                       }
