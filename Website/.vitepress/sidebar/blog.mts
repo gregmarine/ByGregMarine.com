@@ -170,8 +170,8 @@ export default [
             link: '/blog/2025/02/07_warm-hugs'
           },
           {
-            text: '08 - ',
-            link: '/blog/2025/02/08_'
+            text: '08 - Productive Day and a Happy Heart ❤️',
+            link: '/blog/2025/02/08_productive-day-and-a-happy-heart'
           }
         ]
       }

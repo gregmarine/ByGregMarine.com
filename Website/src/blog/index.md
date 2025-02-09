@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/08_
+      text: Productive Day and a Happy Heart ❤️
+      link: /blog/2025/02/08_productive-day-and-a-happy-heart
     - theme: alt
       text: Warm Hugs 🤗
       link: /blog/2025/02/07_warm-hugs
