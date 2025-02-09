@@ -4,7 +4,7 @@ Today was quite a day. I imagine I'll miss some things in today's entry. But I f
 
 I was so tempted to go to Disney's Hollywood Studios today. I wanted to eat at Mama Melrose and see Fantasmic...HAHAHA I resisted temptation, though. God provided a way out and I *saw* the neon flashing sign that said I should stay home...HAHAHA
 
-I accomplished everything I set out to do today except work on my paintings. I'll probably work one tomorrow.
+I accomplished everything I set out to do today except work on my paintings. I'll probably work on one tomorrow.
 
 I was also able to get in 3 walks today! It was a gorgeous day to be outside. The weather almost felt like summer...hehehe Olaf would have been so happy since he loves the idea of summer and all things warm...hehehe
 
