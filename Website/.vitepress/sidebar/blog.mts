@@ -168,6 +168,10 @@ export default [
           {
             text: '07 - Warm Hugs 🤗',
             link: '/blog/2025/02/07_warm-hugs'
+          },
+          {
+            text: '08 - ',
+            link: '/blog/2025/02/08_'
           }
         ]
       }
