@@ -28,7 +28,7 @@ For my Valentine's dinner Friday, I'm planning to make my Chilean Sea Bass. This
 
 I forgot to get some things for that dinner when I went to the store today...LOL So, I'll be heading back to Sprouts in the next few days. I forgot that it was coming up this Friday...hehehe When I was at the store, I was in default mode on what I needed for a typical week. I wasn't even thinking that a special day was happening this coming week...HAHAHA
 
-I guess I didn't write much about specifics for today. I've run out of time to fill in the gaps...LOL I did so much today and it was a good one. I just didn't leave much time to describe it, I guess...LOl
+I guess I didn't write much about specifics for today. I've run out of time to fill in the gaps...LOL I did so much today and it was a good one. I just didn't leave much time to describe it, I guess...LOL
 
 I'm really glad I didn't go to Disney today. I don't think I'd be as happy tonight had I gone. Everything I was able to accomplish today truly made my heart happy <3
 
