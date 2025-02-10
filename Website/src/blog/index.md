@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: May My Life Reflect the Blessings
-      link: /blog/2025/02/09_
+      link: /blog/2025/02/09_may-my-life-reflect-the-blessings
     - theme: alt
       text: Productive Day and a Happy Heart ❤️
       link: /blog/2025/02/08_productive-day-and-a-happy-heart
