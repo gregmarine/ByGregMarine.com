@@ -10,7 +10,7 @@ I *finished* a painting today...hehehe I'm waiting overnight for it to completel
 
 I hope to begin my next piece this week. I did the digital concept for it last year...LOL I didn't get around to painting on canvas yet.
 
-I need to buy new canvases. With this next piece, I'll be out of my 4x4 inch canvases...LOL Well, I do have some other ones. But I don't like how the colors turn out on them. The brand I've had for my most recent work has been so much better than some of my other ones. I switched because I didn't like some of the other brands. I've discovered not all canvases are created equal...LOL
+I need to buy new canvases. After this next piece, I'll be out of my 4x4 inch canvases...LOL Well, I do have some other ones. But I don't like how the colors turn out on them. The brand I've had for my most recent work has been so much better than some of my other ones. I switched because I didn't like some of the other brands. I've discovered not all canvases are created equal...LOL
 
 I'm also hoping to get back to creative writing this week. I have a few projects in progress that I'd love to make some progress on this week.
 
@@ -23,3 +23,9 @@ Today was fellowship day...hehehe I love that we do this most Sundays. I miss it
 ## Photo of the Day
 
 <!--@include: @/photos/photo-a-day/2025/02/09.md{3,}-->
+
+## Wrapping Up
+
+I'm sort of in a weird place right now. My heart is very happy and my year is starting off really well. But I also feel that some of the people I love are having a difficult year so far. I also see that many other people I know are having a rough go of it. I don't feel the weight of their struggles. But I'm able to pray for them. And I hope the strength God has given me will help them through their struggles. I pray for His strength to be with them too. But sometimes God places me in the lives of others to help be that strength. Sometimes it takes someone from the outside to help show where to find God in the struggle. I know I've needed that in my own life. And I'm grateful when God uses other people for me. I'm equally grateful when God uses me for them.
+
+I'm glad I went through my struggles. And I'll happily go through future struggles. These things help me remain empathetic for the struggles others go through. I find Blessings in all of this. No, I haven't always felt this way...LOL These past few years have been heart transforming. Jesus went through struggles. He knows. He's where I find the Blessings. May my life reflect the Blessings <3
