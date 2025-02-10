@@ -8,7 +8,7 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
+      text: May My Life Reflect the Blessings
       link: /blog/2025/02/09_
     - theme: alt
       text: Productive Day and a Happy Heart ❤️

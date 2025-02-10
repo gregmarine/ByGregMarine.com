@@ -174,7 +174,7 @@ export default [
             link: '/blog/2025/02/08_productive-day-and-a-happy-heart'
           },
           {
-            text: '09 - TBD',
+            text: '09 - May My Life Reflect the Blessings',
             link: '/blog/2025/02/09_'
           }
         ]
