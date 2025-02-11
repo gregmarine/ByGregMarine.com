@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/10_
+      text: Warm Hugs in the Messages
+      link: /blog/2025/02/10_warm-hugs-in-the-messages
     - theme: alt
       text: May My Life Reflect the Blessings
       link: /blog/2025/02/09_may-my-life-reflect-the-blessings

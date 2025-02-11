@@ -178,8 +178,8 @@ export default [
             link: '/blog/2025/02/09_may-my-life-reflect-the-blessings'
           },
           {
-            text: '10 - ',
-            link: '/blog/2025/02/10_'
+            text: '10 - Warm Hugs in the Messages',
+            link: '/blog/2025/02/10_warm-hugs-in-the-messages'
           }
         ]
       }
