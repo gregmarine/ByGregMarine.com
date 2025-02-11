@@ -16,6 +16,18 @@ export default [
           {
             text: '029',
             link: '/bible/translations/bsb/02_exo/029'
+          },
+          {
+            text: '033',
+            link: '/bible/translations/bsb/02_exo/033'
+          },
+          {
+            text: '034',
+            link: '/bible/translations/bsb/02_exo/034'
+          },
+          {
+            text: '035',
+            link: '/bible/translations/bsb/02_exo/035'
           }
         ]
       }
@@ -38,6 +50,10 @@ export default [
               {
                 text: '08',
                 link: '/bible/plans/bible-in-a-year/02/08'
+              },
+              {
+                text: '10',
+                link: '/bible/plans/bible-in-a-year/02/10'
               }
             ]
           }
