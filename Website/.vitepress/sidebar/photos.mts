@@ -96,6 +96,10 @@ export default [
               {
                 text: '09',
                 link: '/photos/photo-a-day/2025/02/09'
+              },
+              {
+                text: '10',
+                link: '/photos/photo-a-day/2025/02/10'
               }
             ]
           }
