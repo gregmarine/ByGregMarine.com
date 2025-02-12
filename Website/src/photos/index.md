@@ -8,6 +8,9 @@ hero:
   tagline: Telling a story through a lens 📸
   actions:
     - theme: brand
+      text: February 11
+      link: /photos/photo-a-day/2025/02/11
+    - theme: alt
       text: February 10
       link: /photos/photo-a-day/2025/02/10
     - theme: alt
@@ -19,7 +22,4 @@ hero:
     - theme: alt
       text: February 07
       link: /photos/photo-a-day/2025/02/07
-    - theme: alt
-      text: February 06
-      link: /photos/photo-a-day/2025/02/06
 ---
