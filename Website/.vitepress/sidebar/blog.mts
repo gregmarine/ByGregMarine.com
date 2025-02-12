@@ -182,8 +182,8 @@ export default [
             link: '/blog/2025/02/10_warm-hugs-in-the-messages'
           },
           {
-            text: '11 - ',
-            link: '/blog/2025/02/11_'
+            text: '11 - How *by Greg Marine* Was Born',
+            link: '/blog/2025/02/11_how-by-greg-marine-was-born'
           }
         ]
       }

@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/11_
+      text: How *by Greg Marine* Was Born
+      link: /blog/2025/02/11_how-by-greg-marine-was-born
     - theme: alt
       text: Warm Hugs in the Messages
       link: /blog/2025/02/10_warm-hugs-in-the-messages
