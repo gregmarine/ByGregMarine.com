@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/12_
+      text: Private Journal, Patience, and new Perspectives
+      link: /blog/2025/02/12_private-journal-patience-and-new-perspectives
     - theme: alt
       text: How *by Greg Marine* Was Born
       link: /blog/2025/02/11_how-by-greg-marine-was-born

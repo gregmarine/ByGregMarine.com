@@ -186,8 +186,8 @@ export default [
             link: '/blog/2025/02/11_how-by-greg-marine-was-born'
           },
           {
-            text: '12 - TBD',
-            link: '/blog/2025/02/12_'
+            text: '12 - Private Journal, Patience, and new Perspectives',
+            link: '/blog/2025/02/12_private-journal-patience-and-new-perspectives'
           }
         ]
       }
