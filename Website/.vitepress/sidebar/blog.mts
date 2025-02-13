@@ -184,6 +184,10 @@ export default [
           {
             text: '11 - How *by Greg Marine* Was Born',
             link: '/blog/2025/02/11_how-by-greg-marine-was-born'
+          },
+          {
+            text: '12 - Private Journal, Patience, and new Perspectives',
+            link: '/blog/2025/02/12_private-journal-patience-and-new-perspectives'
           }
         ]
       }
