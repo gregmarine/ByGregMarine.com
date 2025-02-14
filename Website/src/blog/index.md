@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/13_
+      text: February 13
+      link: /blog/2025/02/13_february-13
     - theme: alt
       text: Private Journal, Patience, and new Perspectives
       link: /blog/2025/02/12_private-journal-patience-and-new-perspectives
