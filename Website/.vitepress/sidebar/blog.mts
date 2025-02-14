@@ -188,6 +188,10 @@ export default [
           {
             text: '12 - Private Journal, Patience, and new Perspectives',
             link: '/blog/2025/02/12_private-journal-patience-and-new-perspectives'
+          },
+          {
+            text: '13 - TBD',
+            link: '/blog/2025/02/13_'
           }
         ]
       }

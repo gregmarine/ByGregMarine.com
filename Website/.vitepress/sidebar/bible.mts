@@ -50,6 +50,29 @@ export default [
             link: '/bible/translations/bsb/02_exo/040'
           }
         ]
+      },
+      {
+        text: 'Leviticus',
+        link: '/bible/translations/bsb/03_lev/',
+        collapsed: true,
+        items: [
+          {
+            text: '001',
+            link: '/bible/translations/bsb/03_lev/001'
+          },
+          {
+            text: '002',
+            link: '/bible/translations/bsb/03_lev/002'
+          },
+          {
+            text: '003',
+            link: '/bible/translations/bsb/03_lev/003'
+          },
+          {
+            text: '004',
+            link: '/bible/translations/bsb/03_lev/004'
+          }
+        ]
       }
     ]
   },
@@ -82,6 +105,10 @@ export default [
               {
                 text: '12',
                 link: '/bible/plans/bible-in-a-year/02/12'
+              },
+              {
+                text: '13',
+                link: '/bible/plans/bible-in-a-year/02/13'
               }
             ]
           }
