@@ -71,6 +71,18 @@ export default [
           {
             text: '004',
             link: '/bible/translations/bsb/03_lev/004'
+          },
+          {
+            text: '005',
+            link: '/bible/translations/bsb/03_lev/005'
+          },
+          {
+            text: '006',
+            link: '/bible/translations/bsb/03_lev/006'
+          },
+          {
+            text: '007',
+            link: '/bible/translations/bsb/03_lev/007'
           }
         ]
       }
@@ -109,6 +121,10 @@ export default [
               {
                 text: '13',
                 link: '/bible/plans/bible-in-a-year/02/13'
+              },
+              {
+                text: '14',
+                link: '/bible/plans/bible-in-a-year/02/14'
               }
             ]
           }

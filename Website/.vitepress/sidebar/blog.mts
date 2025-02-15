@@ -192,6 +192,10 @@ export default [
           {
             text: '13 - February 13',
             link: '/blog/2025/02/13_february-13'
+          },
+          {
+            text: '14 - February 14',
+            link: '/blog/2025/02/14_february-14'
           }
         ]
       }
