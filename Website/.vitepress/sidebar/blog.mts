@@ -194,8 +194,8 @@ export default [
             link: '/blog/2025/02/13_february-13'
           },
           {
-            text: '14 - TBD',
-            link: '/blog/2025/02/14_'
+            text: '14 - February 14',
+            link: '/blog/2025/02/14_february-14'
           }
         ]
       }

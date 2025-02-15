@@ -1,7 +1,8 @@
-# TBD
+# February 14
 
+Happy Valentines Day!!!
 
-
+I'll write something soon...hehehe In the meantime, here is today's photo and Bible in a Year reading...hehehe
 
 ## Photo of the Day
 
