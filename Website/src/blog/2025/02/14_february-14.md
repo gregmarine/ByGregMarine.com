@@ -2,8 +2,6 @@
 
 Happy Valentines Day!!!
 
-I'll write something soon...hehehe In the meantime, here is today's photo and Bible in a Year reading...hehehe
-
 ## Photo of the Day
 
 <!--@include: @/photos/photo-a-day/2025/02/14.md{3,}-->
