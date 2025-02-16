@@ -8,7 +8,7 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: February 16
+      text: TBD
       link: /blog/2025/02/16_
     - theme: alt
       text: February 14

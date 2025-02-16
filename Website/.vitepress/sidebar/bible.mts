@@ -85,7 +85,7 @@ export default [
             link: '/bible/translations/bsb/03_lev/007'
           },
           {
-            text: '009',
+            text: '008',
             link: '/bible/translations/bsb/03_lev/008'
           },
           {
