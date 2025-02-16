@@ -116,6 +116,14 @@ export default [
               {
                 text: '14',
                 link: '/photos/photo-a-day/2025/02/14'
+              },
+              {
+                text: '15',
+                link: '/photos/photo-a-day/2025/02/15'
+              },
+              {
+                text: '16',
+                link: '/photos/photo-a-day/2025/02/16'
               }
             ]
           }

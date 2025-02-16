@@ -83,6 +83,30 @@ export default [
           {
             text: '007',
             link: '/bible/translations/bsb/03_lev/007'
+          },
+          {
+            text: '009',
+            link: '/bible/translations/bsb/03_lev/008'
+          },
+          {
+            text: '009',
+            link: '/bible/translations/bsb/03_lev/009'
+          },
+          {
+            text: '010',
+            link: '/bible/translations/bsb/03_lev/010'
+          },
+          {
+            text: '011',
+            link: '/bible/translations/bsb/03_lev/011'
+          },
+          {
+            text: '012',
+            link: '/bible/translations/bsb/03_lev/012'
+          },
+          {
+            text: '013',
+            link: '/bible/translations/bsb/03_lev/013'
           }
         ]
       }
@@ -125,6 +149,14 @@ export default [
               {
                 text: '14',
                 link: '/bible/plans/bible-in-a-year/02/14'
+              },
+              {
+                text: '15',
+                link: '/bible/plans/bible-in-a-year/02/15'
+              },
+              {
+                text: '16',
+                link: '/bible/plans/bible-in-a-year/02/16'
               }
             ]
           }
