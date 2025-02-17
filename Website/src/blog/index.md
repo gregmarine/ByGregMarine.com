@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Traditional? Disney Day
+      link: /blog/2025/02/16_traditional-disney-day
+    - theme: alt
       text: February 14
       link: /blog/2025/02/14_february-14
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: How *by Greg Marine* Was Born
       link: /blog/2025/02/11_how-by-greg-marine-was-born
-    - theme: alt
-      text: Warm Hugs in the Messages
-      link: /blog/2025/02/10_warm-hugs-in-the-messages
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
