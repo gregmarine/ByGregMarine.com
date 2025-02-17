@@ -24,6 +24,8 @@ After that, I ate some of the festival food and then walked back over to Hollywo
 
 After that, I went back to HS, got a treat that I had never tried before to eat on the way home, grabbed my typical coffee and headed home. I had a great time.
 
+The night we have dinner at The Cake Bake, we plan to stay on Disney property. We'll be going to EPCOT the next day. I'll be dressing up for both The Cake Bake and for our EPCOT day. At EPCOT, it will be an official Dapper Day. I know my parents aren't planning to dress up. I'm not sure if my sister or her husband plans to dress up...hehehe I'm happy to dress up even if I'm the only one...hehehe
+
 I hope to get back to my usual writing this week. I have other things on my mind than Disney and my photos...hehehe
 
 ## Photo of the Day (Yesterday)
