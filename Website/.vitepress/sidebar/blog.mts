@@ -198,8 +198,8 @@ export default [
             link: '/blog/2025/02/14_february-14'
           },
           {
-            text: '16 - TBD',
-            link: '/blog/2025/02/16_'
+            text: '16 - Traditional? Disney Day',
+            link: '/blog/2025/02/16_traditional-disney-day'
           }
         ]
       }

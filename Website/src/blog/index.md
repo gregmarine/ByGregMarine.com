@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/16_
+      text: Traditional? Disney Day
+      link: /blog/2025/02/16_traditional-disney-day
     - theme: alt
       text: February 14
       link: /blog/2025/02/14_february-14
