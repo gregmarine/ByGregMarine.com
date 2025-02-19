@@ -204,6 +204,10 @@ export default [
           {
             text: '17 - The Journey',
             link: '/blog/2025/02/17_the-journey'
+          },
+          {
+            text: '18 - Do You Wanna Be Like Budford?',
+            link: '/blog/2025/02/18_do-you-wanna-be-like-budford'
           }
         ]
       }
