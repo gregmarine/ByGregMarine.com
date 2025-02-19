@@ -1,4 +1,4 @@
-# TBD
+# Do You Wanna Be Like Budford?
 
 ## My Day
 
@@ -10,7 +10,7 @@ I've tried to use the Journal app on my phone. But it isn't natural for me. I do
 
 ### 10:30am
 
-I got a late start to my coffee and breakfast today...hehehe I did that yesterday too. A new trend? LOL j/k But speaking of coffee, last night I was reading in my journal entry from a year ago yesterday that the first time I enjoyed Joffrey's Sumatra origins coffee was February 17 last year. I mentioned back then that I loved it and would likely get it again. I've gotten it with every order since...LOL This morning, I'm drinking the last of my current supply. I ordered more last week and hope to get it by the end of this week...hehehe
+I got a late start to my coffee and breakfast today...hehehe I did that yesterday too. A new trend? LOL j/k But speaking of coffee, last night I was reading in my journal entry from a year ago yesterday that the first time I enjoyed [Joffrey's Sumatra origins coffee](https://joffreys.com/collections/origin/products/sumatra?variant=45198061109525) was February 17 last year. I mentioned back then that I loved it and would likely get it again. I've gotten it with every order since...LOL This morning, I'm drinking the last of my current supply. I ordered more last week and hope to get it by the end of this week...hehehe
 
 I finally recorded *Do You Wanna Be Like Budford?* LOL Originally, I wrote it to be Do You Wanna Be *WITH* Budford... But I like what I landed on instead...hehehe This one took me longer than any other song I've made with his voice. This one is special because it is a cross over to my favorite Disney character...hehehe Olaf isn't actually in the original Disney song. But the song is inspired by the little *Olaf* Elsa made for Anna when they were kids. Later, we find out Anna made little *Olaf*s for Elsa throughout the years...hehehe
 
@@ -46,7 +46,7 @@ Whoa! This week's Bible study 😱 Last week, we just did the intro. It wasn't a
 
 After watching the episode again tonight, I did my first session of working through the lesson and making notes to discuss in our fellowship on Sunday. I'm really excited about this lesson and it is only just beginning!
 
-By the way, the tacos were pretty good. They weren't as amazing as the Bible study lesson. And they weren't my best tacos every. But I still enjoyed them...hehehe I think they needed some salsa or pico de gallo. Either of those would have gone well with the sauerkraut.
+By the way, the tacos were pretty good. They weren't as amazing as the Bible study lesson. And they weren't my best tacos. But I still enjoyed them...hehehe I think they needed some salsa or pico de gallo. Either of those would have gone well with the sauerkraut.
 
 I've been getting some different tortillas lately. They only have 4 ingredients and are organic. I could probably start making my own. And I may someday. But for now, these new(to me) ones will do nicely.
 
@@ -59,6 +59,14 @@ I'm also going to make my evening coffee and treat.
 Well, today's photo ended up being sourced from a still image instead of a video...LOL I went with a photo of my tacos for tonight...hehehe I did both a video and a regular still. But I went with the still instead of using a screenshot from the video.
 
 I don't make tacos every week. But when I do, I love celebrating tacos on Tuesdays <3
+
+### 10:00pm
+
+I love coffee. I drink it all the time. But prior to 2019, I didn't care for it. When my grandfather passed away in May of 2019, I took it up in his memory. Now I'm well known for enjoying that bitter black nectar...LOL Especially Joffrey's. When I visit my parents, my dad brews extra coffee and leaves it on the maker to keep it warm for when I am ready to partake. He doesn't use Joffrey's. But his coffee is *good enough*...LOL
+
+Do you remember when it was the end of the broadcast day and they would have the flag on TV with the Star Spangled Banner playing? I sometimes miss things like that. Regular TV is 24/7 now. And streaming is on-demand whenever you want it. But TV used to be like the seasons. There was a beginning and an end.
+
+And with that, here is the end of today's entry <3
 
 ## Photo a Day
 
