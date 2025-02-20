@@ -210,8 +210,8 @@ export default [
             link: '/blog/2025/02/18_do-you-wanna-be-like-budford'
           },
           {
-            text: '19 - TBD',
-            link: '/blog/2025/02/19_'
+            text: '19 - The Good, The Bad, and The Disney',
+            link: '/blog/2025/02/19_the-good-the-bad-and-the-disney'
           }
         ]
       }

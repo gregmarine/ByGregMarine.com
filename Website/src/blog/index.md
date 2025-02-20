@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/19_
+      text: The Good, The Bad, and The Disney
+      link: /blog/2025/02/19_the-good-the-bad-and-the-disney
     - theme: alt
       text: Do You Wanna Be Like Budford?
       link: /blog/2025/02/18_do-you-wanna-be-like-budford
