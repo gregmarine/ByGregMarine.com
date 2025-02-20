@@ -208,6 +208,10 @@ export default [
           {
             text: '18 - Do You Wanna Be Like Budford?',
             link: '/blog/2025/02/18_do-you-wanna-be-like-budford'
+          },
+          {
+            text: '19 - TBD',
+            link: '/blog/2025/02/19_'
           }
         ]
       }
