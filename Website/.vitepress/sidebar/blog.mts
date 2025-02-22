@@ -214,8 +214,8 @@ export default [
             link: '/blog/2025/02/19_the-good-the-bad-and-the-disney'
           },
           {
-            text: '21 - ',
-            link: '/blog/2025/02/21_'
+            text: '22 - ',
+            link: '/blog/2025/02/22_'
           }
         ]
       }
