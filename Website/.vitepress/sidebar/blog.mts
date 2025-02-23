@@ -214,8 +214,8 @@ export default [
             link: '/blog/2025/02/19_the-good-the-bad-and-the-disney'
           },
           {
-            text: '22 - ',
-            link: '/blog/2025/02/22_'
+            text: '22 - Dodgers, Disney, and Dapper',
+            link: '/blog/2025/02/22_dodgers-disney-and-dapper'
           }
         ]
       }

@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/02/22_
+      text: Dodgers, Disney, and Dapper
+      link: /blog/2025/02/22_dodgers-disney-and-dapper
     - theme: alt
       text: The Good, The Bad, and The Disney
       link: /blog/2025/02/19_the-good-the-bad-and-the-disney
