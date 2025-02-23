@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Dodgers, Disney, and Dapper
+      link: /blog/2025/02/22_dodgers-disney-and-dapper
+    - theme: alt
       text: The Good, The Bad, and The Disney
       link: /blog/2025/02/19_the-good-the-bad-and-the-disney
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Traditional? Disney Day
       link: /blog/2025/02/16_traditional-disney-day
-    - theme: alt
-      text: February 14
-      link: /blog/2025/02/14_february-14
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
