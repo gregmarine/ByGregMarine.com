@@ -165,6 +165,25 @@ export default [
             link: '/bible/translations/bsb/03_lev/027'
           }
         ]
+      },
+      {
+        text: 'Matthew',
+        link: '/bible/translations/bsb/40_mat/',
+        collapsed: true,
+        items: [
+          {
+            text: '005',
+            link: '/bible/translations/bsb/40_mat/005'
+          },
+          {
+            text: '006',
+            link: '/bible/translations/bsb/40_mat/006'
+          },
+          {
+            text: '007',
+            link: '/bible/translations/bsb/40_mat/007'
+          }
+        ]
       }
     ]
   },

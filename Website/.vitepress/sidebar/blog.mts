@@ -216,6 +216,10 @@ export default [
           {
             text: '22 - Dodgers, Disney, and Dapper',
             link: '/blog/2025/02/22_dodgers-disney-and-dapper'
+          },
+          {
+            text: '24 - TBD',
+            link: '/blog/2025/02/24_'
           }
         ]
       }
