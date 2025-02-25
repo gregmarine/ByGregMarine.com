@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /blog/2025/02/24_
+      link: /blog/2025/02/_
     - theme: alt
       text: Dodgers, Disney, and Dapper
       link: /blog/2025/02/22_dodgers-disney-and-dapper
