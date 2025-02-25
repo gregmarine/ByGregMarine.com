@@ -167,6 +167,29 @@ export default [
         ]
       },
       {
+        text: 'Numbers',
+        link: '/bible/translations/bsb/04_num/',
+        collapsed: true,
+        items: [
+          {
+            text: '001',
+            link: '/bible/translations/bsb/04_num/001'
+          },
+          {
+            text: '002',
+            link: '/bible/translations/bsb/04_num/002'
+          },
+          {
+            text: '003',
+            link: '/bible/translations/bsb/04_num/003'
+          },
+          {
+            text: '004',
+            link: '/bible/translations/bsb/04_num/004'
+          }
+        ]
+      },
+      {
         text: 'Matthew',
         link: '/bible/translations/bsb/40_mat/',
         collapsed: true,
@@ -256,6 +279,14 @@ export default [
               {
                 text: '22',
                 link: '/bible/plans/bible-in-a-year/02/22'
+              },
+              {
+                text: '23',
+                link: '/bible/plans/bible-in-a-year/02/23'
+              },
+              {
+                text: '24',
+                link: '/bible/plans/bible-in-a-year/02/24'
               }
             ]
           }
