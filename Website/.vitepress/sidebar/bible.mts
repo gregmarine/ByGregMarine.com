@@ -165,6 +165,56 @@ export default [
             link: '/bible/translations/bsb/03_lev/027'
           }
         ]
+      },
+      {
+        text: 'Numbers',
+        link: '/bible/translations/bsb/04_num/',
+        collapsed: true,
+        items: [
+          {
+            text: '001',
+            link: '/bible/translations/bsb/04_num/001'
+          },
+          {
+            text: '002',
+            link: '/bible/translations/bsb/04_num/002'
+          },
+          {
+            text: '003',
+            link: '/bible/translations/bsb/04_num/003'
+          },
+          {
+            text: '004',
+            link: '/bible/translations/bsb/04_num/004'
+          },
+          {
+            text: '005',
+            link: '/bible/translations/bsb/04_num/005'
+          },
+          {
+            text: '006',
+            link: '/bible/translations/bsb/04_num/006'
+          }
+        ]
+      },
+      {
+        text: 'Matthew',
+        link: '/bible/translations/bsb/40_mat/',
+        collapsed: true,
+        items: [
+          {
+            text: '005',
+            link: '/bible/translations/bsb/40_mat/005'
+          },
+          {
+            text: '006',
+            link: '/bible/translations/bsb/40_mat/006'
+          },
+          {
+            text: '007',
+            link: '/bible/translations/bsb/40_mat/007'
+          }
+        ]
       }
     ]
   },
@@ -237,6 +287,18 @@ export default [
               {
                 text: '22',
                 link: '/bible/plans/bible-in-a-year/02/22'
+              },
+              {
+                text: '23',
+                link: '/bible/plans/bible-in-a-year/02/23'
+              },
+              {
+                text: '24',
+                link: '/bible/plans/bible-in-a-year/02/24'
+              },
+              {
+                text: '25',
+                link: '/bible/plans/bible-in-a-year/02/25'
               }
             ]
           }
