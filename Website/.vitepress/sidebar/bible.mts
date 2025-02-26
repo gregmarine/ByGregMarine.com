@@ -192,8 +192,8 @@ export default [
             link: '/bible/translations/bsb/04_num/005'
           },
           {
-            text: '005',
-            link: '/bible/translations/bsb/04_num/005'
+            text: '006',
+            link: '/bible/translations/bsb/04_num/006'
           }
         ]
       },
