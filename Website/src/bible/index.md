@@ -8,6 +8,6 @@ hero:
   tagline: My journey with God 📖
   actions:
     - theme: brand
-      text: Prayer
-      link: /bible/prayer
+      text: Bible in a Year
+      link: /bible/plans/bible-in-a-year
 ---
