@@ -210,6 +210,18 @@ export default [
           {
             text: '010',
             link: '/bible/translations/bsb/04_num/010'
+          },
+          {
+            text: '011',
+            link: '/bible/translations/bsb/04_num/011'
+          },
+          {
+            text: '012',
+            link: '/bible/translations/bsb/04_num/012'
+          },
+          {
+            text: '013',
+            link: '/bible/translations/bsb/04_num/013'
           }
         ]
       },
@@ -323,6 +335,10 @@ export default [
               {
                 text: '27',
                 link: '/bible/plans/bible-in-a-year/02/27'
+              },
+              {
+                text: '28',
+                link: '/bible/plans/bible-in-a-year/02/28'
               }
             ]
           }
