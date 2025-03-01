@@ -222,6 +222,25 @@ export default [
           {
             text: '013',
             link: '/bible/translations/bsb/04_num/013'
+          },
+          {
+            text: '014',
+            link: '/bible/translations/bsb/04_num/014'
+          },
+          {
+            text: '015',
+            link: '/bible/translations/bsb/04_num/015'
+          }
+        ]
+      },
+      {
+        text: 'Psalms',
+        link: '/bible/translations/bsb/19_psa/',
+        collapsed: true,
+        items: [
+          {
+            text: '090',
+            link: '/bible/translations/bsb/19_psa/090'
           }
         ]
       },
@@ -339,6 +358,16 @@ export default [
               {
                 text: '28',
                 link: '/bible/plans/bible-in-a-year/02/28'
+              }
+            ]
+          },
+          {
+            text: 'March',
+            collapsed: true,
+            items: [
+              {
+                text: '01',
+                link: '/bible/plans/bible-in-a-year/03/01'
               }
             ]
           }
