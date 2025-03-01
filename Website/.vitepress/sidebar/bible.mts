@@ -5,6 +5,17 @@ export default [
     collapsed: true,
     items: [
       {
+        text: 'Genesis',
+        link: '/bible/translations/bsb/01_gen/',
+        collapsed: true,
+        items: [
+          {
+            text: '001',
+            link: '/bible/translations/bsb/01_gen/001'
+          }
+        ]
+      },
+      {
         text: 'Exodus',
         link: '/bible/translations/bsb/02_exo/',
         collapsed: true,
@@ -262,12 +273,22 @@ export default [
             link: '/bible/translations/bsb/40_mat/007'
           }
         ]
+      },
+      {
+        text: 'Acts',
+        link: '/bible/translations/bsb/44_act/',
+        collapsed: true,
+        items: [
+          {
+            text: '017',
+            link: '/bible/translations/bsb/44_act/017'
+          }
+        ]
       }
     ]
   },
   {
     text: 'Reading Plans',
-    link: '/bible/translations/bsb/',
     collapsed: true,
     items: [
       {

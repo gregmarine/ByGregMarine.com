@@ -8,6 +8,9 @@ hero:
   tagline: My journey with God 📖
   actions:
     - theme: brand
+      text: Berean Standard Bible
+      link: /bible/translations/bsb
+    - theme: brand
       text: Bible in a Year
       link: /bible/plans/bible-in-a-year
 ---
