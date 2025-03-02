@@ -174,6 +174,16 @@ export default [
                 link: '/photos/photo-a-day/2025/02/28'
               }
             ]
+          },
+          {
+            text: 'March',
+            collapsed: true,
+            items: [
+              {
+                text: '01',
+                link: '/photos/photo-a-day/2025/03/01'
+              }
+            ]
           }
         ]
       }

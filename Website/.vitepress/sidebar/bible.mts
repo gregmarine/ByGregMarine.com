@@ -5,6 +5,17 @@ export default [
     collapsed: true,
     items: [
       {
+        text: 'Genesis',
+        link: '/bible/translations/bsb/01_gen/',
+        collapsed: true,
+        items: [
+          {
+            text: '001',
+            link: '/bible/translations/bsb/01_gen/001'
+          }
+        ]
+      },
+      {
         text: 'Exodus',
         link: '/bible/translations/bsb/02_exo/',
         collapsed: true,
@@ -222,6 +233,25 @@ export default [
           {
             text: '013',
             link: '/bible/translations/bsb/04_num/013'
+          },
+          {
+            text: '014',
+            link: '/bible/translations/bsb/04_num/014'
+          },
+          {
+            text: '015',
+            link: '/bible/translations/bsb/04_num/015'
+          }
+        ]
+      },
+      {
+        text: 'Psalms',
+        link: '/bible/translations/bsb/19_psa/',
+        collapsed: true,
+        items: [
+          {
+            text: '090',
+            link: '/bible/translations/bsb/19_psa/090'
           }
         ]
       },
@@ -243,12 +273,22 @@ export default [
             link: '/bible/translations/bsb/40_mat/007'
           }
         ]
+      },
+      {
+        text: 'Acts',
+        link: '/bible/translations/bsb/44_act/',
+        collapsed: true,
+        items: [
+          {
+            text: '017',
+            link: '/bible/translations/bsb/44_act/017'
+          }
+        ]
       }
     ]
   },
   {
     text: 'Reading Plans',
-    link: '/bible/translations/bsb/',
     collapsed: true,
     items: [
       {
@@ -339,6 +379,16 @@ export default [
               {
                 text: '28',
                 link: '/bible/plans/bible-in-a-year/02/28'
+              }
+            ]
+          },
+          {
+            text: 'March',
+            collapsed: true,
+            items: [
+              {
+                text: '01',
+                link: '/bible/plans/bible-in-a-year/03/01'
               }
             ]
           }
