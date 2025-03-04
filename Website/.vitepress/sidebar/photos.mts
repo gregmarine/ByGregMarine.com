@@ -182,6 +182,14 @@ export default [
               {
                 text: '01',
                 link: '/photos/photo-a-day/2025/03/01'
+              },
+              {
+                text: '02',
+                link: '/photos/photo-a-day/2025/03/02'
+              },
+              {
+                text: '03',
+                link: '/photos/photo-a-day/2025/03/03'
               }
             ]
           }
