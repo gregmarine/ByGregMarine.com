@@ -224,8 +224,8 @@ export default [
         collapsed: true,
         items: [
           {
-            text: '17 - TBD',
-            link: '/blog/2025/03/17_'
+            text: '17 - Happy March',
+            link: '/blog/2025/03/17_happy-march'
           }
         ]
       }

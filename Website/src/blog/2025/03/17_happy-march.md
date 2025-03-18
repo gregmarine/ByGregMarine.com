@@ -1,6 +1,8 @@
-# TBD
+# Happy March
 
-I've been away from writing for quite a while! My last post was over 3 weeks ago!!! Which seems crazy considering how often I wrote before this 3 week hiatus...LOL A lot has happened in these 3 weeks. And I'm unlikely to write about it all today...LOL I do better about writing things as they are happening. I am not good at recapping things after all this time. I've missed this!
+I've been away from writing for quite a while! My last post was over 3 weeks ago!!! Which seems crazy considering how often I wrote before this 3 week hiatus...LOL A lot has happened in these 3 weeks. And I'm unlikely to write about it all today...LOL I do better about writing things as they are happening. I am not good at recapping things after all this time.
+
+I've missed this!
 
 That first week was mostly a break from writing, actually. I had written so often, my mind was a little empty for a bit...LOL I just didn't have a lot to say. That doesn't mean I stopped thinking...hehehe I just didn't feel like writing. I wasn't burned out or anything.
 
@@ -17,3 +19,7 @@ I have a new hope that I didn't have a year ago. I hadn't yet achieved a good se
 I hope to get back into a routine with this website here in the second half of the month. Being away from home for 2 weeks really did a number on my routine...LOL I've been home for a few days now. I've started getting back into some of the things I love to do. So, I should be back to my *normal* soon.
 
 I made chowmein for dinner tonight...hehehe I missed that so much. I missed cooking in general...LOL After I got my car when I arrived Saturday, I went straight to the grocery on my way home...hehehe I thought about eating out and resting. Then going to the grocery the next day. Nope! I thought it best to get my groceries immediately and get back to cooking at home.
+
+It's official! I'm staying in my current home another year. I signed the lease yesterday and the property manager signed today. Last year, I struggled with where I would live. I didn't want to be here for sure. That all changed at the end of the last calendar year. And over the last few months, I prayed about it and discerned that remaining here another year was best. So, I have another year to discover where I am to live. Even with feeling good about staying here now, I don't see myself staying after this next year. But it isn't because I'm not happy being here. I just get a sense that it is my last year. We shall see!
+
+I'm glad to be back to writing here in this journal. I didn't write much today...LOL But at least I wrote something...LOL
