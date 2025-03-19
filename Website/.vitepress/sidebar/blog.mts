@@ -226,6 +226,10 @@ export default [
           {
             text: '17 - Happy March',
             link: '/blog/2025/03/17_happy-march'
+          },
+          {
+            text: '18 - One Step at a Time, and Taco Tuesday Returns!',
+            link: '/blog/2025/03/18_one-step-at-a-time-and-taco-tuesday-returns'
           }
         ]
       }
