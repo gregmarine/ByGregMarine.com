@@ -16,12 +16,14 @@ But I also love that time when we fall asleep. So, the Fall can also be a lovely
 
 I'm planning to have Chilean Sea Bass for dinner tomorrow. When I bought it, the package had 2 portions. With how expensive it is, I decided to make it on special occasions. The first one I made for Valentine's Day. It was fantastic. I saved this second portion for my birthday...hehehe
 
-I'm considering going to see Snow White. It opens tomorrow. Well, the official opening is Friday. But for some reason, theaters start to show it the day before the opening date. Which just so happens to be my birthday this time...LOL Snow White is my personal favorite Disney princess. I love how the opening falls on my birthday...hehehe
+I'm considering going to see *Snow White* tomorrow. It opens tomorrow. Well, the official opening is Friday. But for some reason, theaters start to show it the day before the opening date. Which just so happens to be my birthday this time...LOL Snow White is my personal favorite Disney princess. I love how the opening falls on my birthday...hehehe
 
-I have mixed feelings about this film. It's a live action remake. Per the teasers, it appears they messed with the plot. I'm not thrilled about live action remakes of classic Disney animated films. Especially since this one is my favorite and the first ever feature length animated film. Not just Disney's...the first of any studio...hehehe
+I have mixed feelings about this film. It's a live action remake. Per the teasers, it appears they messed with the plot. I'm not thrilled about live action remakes of classic Disney animated films anyway. Especially since this one is my favorite and the first ever feature length animated film. Not just Disney's...the first of any studio...hehehe
 
 But I'm keeping an open mind. And I'll try to see it as independently as I can from the original...hehehe I've done that with the other live action remakes. The exception would be *The Lion King*. It was a true replica of the animated film. I liked that...hehehe
 
 Other than those 2 things, my day will be as normal as most days. I will be working and going through most of my routine as usual. I decided I didn't really want to go out of my way to make the day any more special than I already feel it is for me this year. I have a sober soul about this particular birthday.
 
-What will this new year be like for me? I'm looking forward to experiencing it. This last one was amazing <3
+If I were to pick one favorite moment from this past year, I'd say it was my day with Cherie at Disneyland and DCA. That was my happiest day on earth. If I were to pick one favorite thing from the year, I'd say spiritual and personal growth. There were a lot of other wonderful things about the year. But those sum up how I feel today <3
+
+What will this new year be like for me? I'm looking forward to experiencing it <3
