@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/03/19_
+      text: Goodbye 46
+      link: /blog/2025/03/19_goodbye-46
     - theme: alt
       text: One Step at a Time, and Taco Tuesday Returns!
       link: /blog/2025/03/18_one-step-at-a-time-and-taco-tuesday-returns

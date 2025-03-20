@@ -232,8 +232,8 @@ export default [
             link: '/blog/2025/03/18_one-step-at-a-time-and-taco-tuesday-returns'
           },
           {
-            text: '19 - TBD',
-            link: '/blog/2025/03/19_'
+            text: '19 - Goodbye 46',
+            link: '/blog/2025/03/19_goodbye-46'
           }
         ]
       }

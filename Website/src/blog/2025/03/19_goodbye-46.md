@@ -1,4 +1,4 @@
-# TBD
+# Goodbye 46
 
 I've reflected on this past year a lot this month. Especially this week now that I'm back home again. I had a full year. And today I say goodbye to being 46. Tomorrow, I increment that number to 47...hehehe
 
@@ -24,3 +24,4 @@ But I'm keeping an open mind. And I'll try to see it as independently as I can f
 
 Other than those 2 things, my day will be as normal as most days. I will be working and going through most of my routine as usual. I decided I didn't really want to go out of my way to make the day any more special than I already feel it is for me this year. I have a sober soul about this particular birthday.
 
+What will this new year be like for me? I'm looking forward to experiencing it. This last one was amazing <3
