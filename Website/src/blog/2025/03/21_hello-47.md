@@ -22,3 +22,4 @@ I've continued doing my featured photos each day. Today was the 80th photo. So, 
 
 Speaking of family priorities, for the Disney portion of my vacation, I originally thought about doing dapper all 4 days I was there. My oldest nephew mentioned they had matching shirts and wanted to know if I wanted to do them too. At first, I declined because of my dapper plans. But then I thought about how this was *their* vacation more so than *mine*. I was going because they invited me. So I went back to him and said I wanted to do the matching shirts after all. I'm so glad I did. That was so much fun <3 I think me being dapper would have taken away from the family experience that it turned out to be. The photos we took together turned out great <3
 
+I'm having a great start to my new year. I'm looking forward to experience it. This last year was amazing. I have no clue what to expect this year. But I know God is good. I have a good feeling about the year <3
