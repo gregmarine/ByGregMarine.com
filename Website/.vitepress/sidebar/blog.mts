@@ -234,6 +234,10 @@ export default [
           {
             text: '19 - Goodbye 46',
             link: '/blog/2025/03/19_goodbye-46'
+          },
+          {
+            text: '21 - Hello 47',
+            link: '/blog/2025/03/21_hello-47'
           }
         ]
       }
