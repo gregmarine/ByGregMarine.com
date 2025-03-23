@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Magical Fire and Just Being Me
+      link: /blog/2025/03/22_magical-fire-and-just-being-me
+    - theme: alt
       text: Hello 47
       link: /blog/2025/03/21_hello-47
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Happy March
       link: /blog/2025/03/17_happy-march
-    - theme: alt
-      text: Dodgers, Disney, and Dapper
-      link: /blog/2025/02/22_dodgers-disney-and-dapper
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

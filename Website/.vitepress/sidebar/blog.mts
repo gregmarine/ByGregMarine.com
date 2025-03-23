@@ -238,6 +238,10 @@ export default [
           {
             text: '21 - Hello 47',
             link: '/blog/2025/03/21_hello-47'
+          },
+          {
+            text: '22 - Magical Fire and Just Being Me',
+            link: '/blog/2025/03/22_magical-fire-and-just-being-me'
           }
         ]
       }
