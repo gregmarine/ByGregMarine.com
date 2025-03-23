@@ -240,8 +240,8 @@ export default [
             link: '/blog/2025/03/21_hello-47'
           },
           {
-            text: '22 - TBD',
-            link: '/blog/2025/03/22_'
+            text: '22 - Magical Fire and Just Being Me',
+            link: '/blog/2025/03/22_magical-fire-and-just-being-me'
           }
         ]
       }

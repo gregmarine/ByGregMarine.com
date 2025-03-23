@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/03/22_
+      text: Magical Fire and Just Being Me
+      link: /blog/2025/03/22_magical-fire-and-just-being-me
     - theme: alt
       text: Hello 47
       link: /blog/2025/03/21_hello-47

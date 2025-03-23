@@ -1,4 +1,4 @@
-# TBD
+# Magical Fire and Just Being Me
 
 ## MASSIVE DEADLY FIRE AT EPCOT
 
@@ -12,7 +12,7 @@ I've enjoyed some of the interactions I've had this week. I'll try to keep this 
 
 ## Bible in a Year
 
-I've mentioned that I was behind on my Bible in a Year. I also mentioned how I've been tripling up on my daily readings in an effort to catch up. Well, today, I'm happy to report that I'm all caught up now. I ended up doing 4 session today; which included today's scheduled reading.
+I've mentioned that I was behind on my Bible in a Year. I also mentioned how I've been tripling up on my daily readings in an effort to catch up. Well, today, I'm happy to report that I'm all caught up now. I ended up doing 4 sessions today; which included today's scheduled reading.
 
 I haven't yet caught up on posting the plan here on my website. That will take some time. But I think I'll start posting the plan daily again beginning tomorrow. I'll catch up on the last 3 weeks eventually. The reason that it is so difficult is that I'm posting the Bible chapters along with the plan itself. The Bible includes the audio version. And the plan includes videos from YouTube. So, there is a lot of work that goes into posting. Once the year is up, though, all of it will be there and I won't have to post it all again next year. I can simply update anything new along the way.
 
@@ -32,9 +32,8 @@ You can find [this photo](/photos/photo-a-day/2025/03/22) in the [photo](/photos
 
 Before my vacation, I was enjoying a well balanced routine. While on vacation, I didn't have much of a routine...LOL This past week of being home again, I was able to settle back into most of what I loved about the routine I had last month.
 
-Now, I'm considering some changes again...hehehe The biggest of which is going to bed a little earlier and waking earlier. I've actually tried doing that a few times this week. I was trying to stay up until about 1:30am and getting up at 7:30am. 6 hours of sleep was working really well for me. But, lately, I've been needing some extra sleep. I'm trying to get to bed by midnight and waking around 7am.
+Now, I'm considering some changes again...hehehe The biggest of which is going to bed a little earlier and waking earlier. I've actually tried doing that a few times this week. Before now, I was trying to stay up until about 1:30am and getting up at 7:30am. 6 hours of sleep was working really well for me. But, lately, I've been needing some extra sleep. I'm trying to get to bed by midnight and waking around 7am, now. Some days that works out. But it doesn't always...hehehe
 
-I think I'd like to eventually get to bed by 11pm and get up around 6am. On the weekends, I do my Bible study stuff in the morning since I don't have work. But during the week, I've been doing it after dinner in the evenings. I'm finding that I'm more focused if I do it right when I wake up instead of waiting until after dinner.
+I think I'd like to eventually get to bed by 11pm and get up around 6am. On the weekends, I do my Bible study stuff in the morning since I don't have work. But during the week, I've been doing it after dinner in the evenings because I get up so close to work time. I'm finding that I'm more focused if I do it right when I wake up instead of waiting until after dinner.
 
 Aside from my sleep schedule and when I do my more focused Bible time, I'm likely to keep the rest of my routine. I really like how it is going. These other changes may cause the need for other changes eventually. But I'll cross that bridge when I get to it.
-
