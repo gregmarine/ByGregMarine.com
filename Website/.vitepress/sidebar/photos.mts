@@ -190,6 +190,10 @@ export default [
               {
                 text: '03',
                 link: '/photos/photo-a-day/2025/03/03'
+              },
+              {
+                text: '22',
+                link: '/photos/photo-a-day/2025/03/22'
               }
             ]
           }
