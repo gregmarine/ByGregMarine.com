@@ -20,4 +20,12 @@ Cherie and I didn't get to do our Bible study fellowship last weekend. So today,
 
 It was so good to see her today. As of last weekend, we have been doing the fellowship through devotionals and Bible studies for a year now. We've been doing the calls for about a month longer than that. It has been a Blessing to do the fellowship and grow the friendship. I'm grateful we are able to do both. God is so good to us.
 
+Here is today's photo...
+
+<!--@include: @/photos/photo-a-day/2025/03/23.md{3,}-->
+
+You can find [this photo](/photos/photo-a-day/2025/03/23) in the [photo](/photos/) section too.
+
+Also, I did manage to get [today's Bible in a Year session](/bible/plans/bible-in-a-year/03/23) added to the [Bible](/bible/) section today...hehehe
+
 Today was a full day. I love days like this. It was paced well and was mostly time spent with God. 
