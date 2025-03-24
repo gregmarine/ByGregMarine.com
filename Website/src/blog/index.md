@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/03/23_
+      text: Embracing Change and God is Good
+      link: /blog/2025/03/23_embracing-change-and-god-is-good
     - theme: alt
       text: Magical Fire and Just Being Me
       link: /blog/2025/03/22_magical-fire-and-just-being-me

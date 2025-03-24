@@ -244,8 +244,8 @@ export default [
             link: '/blog/2025/03/22_magical-fire-and-just-being-me'
           },
           {
-            text: '23 - TBD',
-            link: '/blog/2025/03/23_'
+            text: '23 - Embracing Change and God is Good',
+            link: '/blog/2025/03/23_embracing-change-and-god-is-good'
           }
         ]
       }
