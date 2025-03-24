@@ -265,6 +265,29 @@ export default [
         ]
       },
       {
+        text: 'Joshua',
+        link: '/bible/translations/bsb/06_jos/',
+        collapsed: true,
+        items: [
+          {
+            text: '001',
+            link: '/bible/translations/bsb/06_jos/001'
+          },
+          {
+            text: '002',
+            link: '/bible/translations/bsb/06_jos/002'
+          },
+          {
+            text: '003',
+            link: '/bible/translations/bsb/06_jos/003'
+          },
+          {
+            text: '004',
+            link: '/bible/translations/bsb/06_jos/004'
+          }
+        ]
+      },
+      {
         text: 'Psalms',
         link: '/bible/translations/bsb/19_psa/',
         collapsed: true,
@@ -417,6 +440,10 @@ export default [
               {
                 text: '03',
                 link: '/bible/plans/bible-in-a-year/03/03'
+              },
+              {
+                text: '23',
+                link: '/bible/plans/bible-in-a-year/03/23'
               }
             ]
           }

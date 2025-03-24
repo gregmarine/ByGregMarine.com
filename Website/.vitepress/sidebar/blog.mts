@@ -242,6 +242,10 @@ export default [
           {
             text: '22 - Magical Fire and Just Being Me',
             link: '/blog/2025/03/22_magical-fire-and-just-being-me'
+          },
+          {
+            text: '23 - Embracing Change and God is Good',
+            link: '/blog/2025/03/23_embracing-change-and-god-is-good'
           }
         ]
       }
