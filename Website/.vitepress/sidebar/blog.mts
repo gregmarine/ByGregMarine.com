@@ -250,6 +250,10 @@ export default [
           {
             text: '24 - Life is Wild with God\'s Timing',
             link: '/blog/2025/03/24_life-is-wild-with-gods-timing'
+          },
+          {
+            text: '25 - TBD',
+            link: '/blog/2025/03/25_'
           }
         ]
       }
