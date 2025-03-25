@@ -246,6 +246,10 @@ export default [
           {
             text: '23 - Embracing Change and God is Good',
             link: '/blog/2025/03/23_embracing-change-and-god-is-good'
+          },
+          {
+            text: '24 - TBD',
+            link: '/blog/2025/03/24_'
           }
         ]
       }
