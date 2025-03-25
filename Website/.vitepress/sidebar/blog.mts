@@ -248,8 +248,8 @@ export default [
             link: '/blog/2025/03/23_embracing-change-and-god-is-good'
           },
           {
-            text: '24 - TBD',
-            link: '/blog/2025/03/24_'
+            text: '24 - Life is Wild with God\'s Timing',
+            link: '/blog/2025/03/24_life-is-wild-with-gods-timing'
           }
         ]
       }

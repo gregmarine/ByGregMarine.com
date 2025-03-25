@@ -1,4 +1,4 @@
-# TBD
+# Life is Wild with God's Timing
 
 Weird sleep continued last night...LOL I went to bed at midnight. My white noise app turned off at 6:30am. I woke up around 7:15am...hehehe I'm glad my body and mind are getting sleep. It just seems like more than I need. But I've also been experiencing some strange dreams.
 
@@ -14,11 +14,11 @@ I was able to get in 3 miles of walking again today. Today felt like I was back 
 
 I'm watching the Dodgers play against the Angels. This is one of the games I almost went to. Tonight's and tomorrow's are two games I was looking at going to. Those plans didn't work out. I was sad about that. But I'm glad I am still able to watch them. 
 
-The timing for the games would have allowed me to still work today and tomorrow. And then be able to go see the games. I probably wouldn't have gotten much sleep...LOL But I think I could have made that work...hehehe That's one of the nice things about my visits to California. On days like this for these sort of events, I could probably work and then still go to the events. That's because my work schedule is on the eastern time zone. And things like these games are on pacific. Not everything would have that kind of timing; because some things would be earlier in the day in California. But these games would have worked out that way I think.
+The timing for the games would have allowed me to still work today and tomorrow. And then be able to go see the games. I probably wouldn't have gotten much sleep...LOL But I think I could have made that work...hehehe That's one of the nice things about my visits to California. On days like this for these sort of events, I could probably work and then still go to the events. That's because my work schedule is on the eastern time zone. And things like these games are on pacific. Not everything would have that kind of timing; because some things would be earlier in the day in California. But these games would have worked out, I think.
 
-Anyway, I think things worked out for the best anyway. I'm learning to trust God's timing for things. It's hard. But when I do trust Him, I see that things are better.
+Anyway, I think things worked out for the best anyway. I'm learning to trust God's timing for things. It's hard. But when I do trust Him, I see that things are better. I wouldn't have experienced all of today's wildlife if I were in California today...LOL j/k
 
-I would have gone to one of the games with Cherie. I know we will eventually get to do it. That's one of things that made me sad about us not getting to go. I'm glad we are able to still watching them *together* from our homes...hehehe We are wearing the same shirt tonight <3
+I would have gone to one of the games with Cherie. I know we will eventually get to do it. That's one of things that made me sad about us not getting to go. I didn't get to see my deer friend 😭 I'm glad we are able to still watch them *together* from our separate homes on TV...hehehe We are wearing the same shirt tonight <3
 
 I've seen the stadium in person. The night we last said goodbye to each other in person, we were at the ARTIC train station; which is across the street from Angels Stadium. It looked amazing 🤩 The hotel I'd be staying in is also near the train station and stadium. That whole area looks lovely and I look forward to having an adventure there someday <3
 
