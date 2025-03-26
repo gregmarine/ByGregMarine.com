@@ -252,8 +252,8 @@ export default [
             link: '/blog/2025/03/24_life-is-wild-with-gods-timing'
           },
           {
-            text: '25 - TBD',
-            link: '/blog/2025/03/25_'
+            text: '25 - Another Day in the Life of Meeeeeee',
+            link: '/blog/2025/03/25_another-day-in-the-life-of-meeeeeee'
           }
         ]
       }

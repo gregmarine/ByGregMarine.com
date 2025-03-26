@@ -1,4 +1,4 @@
-# TBD
+# Another Day in the Life of Meeeeeee
 
 ## 07:45am
 
@@ -98,7 +98,11 @@ Ooh! I just read my journal entry from a year ago. That continues to be a good t
 
 I have chosen today's photo and added today's Bible in a Year content. You'll see those below. The game is going okay. Dodgers are currently in the lead. I've enjoyed doing this timestamp entry today. I'll not likely do it again tomorrow. These tend to be longer entries. I've had at one time thought about doing a timestamp every time. But I've since decided to keep it special from time to time or when I need to get back into the pace of writing after a hiatus. I did have another idea. What about doing a day-stamp entry? One where I write a little summary each day for the week and then publish 1 entry at the end of the week.
 
+## 10:45pm
 
+Something I've been praying about is subscribing to [Logos](https://www.logos.com) Bible Software. In the early 2000s, I owned a license to their software with a library that was quite extensive. I think it was the version just above what the average pastor would have. Like a scholar's edition or something. I loved having it. But back then, it was a little more than what I *needed*...LOL I have since lost that license. But they've also changed how that works now anyway. You can still buy all of the resources from them if you want to keep them. But they also have a subscription to the most common resources. So, I'm thinking about doing that. I'm finding myself wanting to dive deeper and deeper into what I'm reading. The software helps with that and also helps keep you organized as you study. Plus I could use it to write my own devotionals and Bible studies. Most of the pastors I've known used Logos for their study and sermon prep. I'm praying if it is something I should invest in for my own journey. I don't want to subscribe and then not use it, you know? But the good thing about a subscription is that I can cancel at anytime. I can save money by paying for 1 or 2 years up front. So, that's something else for me to consider...because the savings are significant.
+
+The game isn't over yet. I'm not going to bed yet either. But I'm going to go ahead and end this entry. Today was a good day. I'm glad I did this as a timestamped entry...hehehe
 
 Today's photo 📸
 
