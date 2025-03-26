@@ -300,6 +300,18 @@ export default [
           {
             text: '008',
             link: '/bible/translations/bsb/06_jos/008'
+          },
+          {
+            text: '009',
+            link: '/bible/translations/bsb/06_jos/009'
+          },
+          {
+            text: '010',
+            link: '/bible/translations/bsb/06_jos/010'
+          },
+          {
+            text: '011',
+            link: '/bible/translations/bsb/06_jos/011'
           }
         ]
       },
@@ -464,6 +476,10 @@ export default [
               {
                 text: '24',
                 link: '/bible/plans/bible-in-a-year/03/24'
+              },
+              {
+                text: '25',
+                link: '/bible/plans/bible-in-a-year/03/25'
               }
             ]
           }
