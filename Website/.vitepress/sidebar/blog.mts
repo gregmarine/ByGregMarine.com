@@ -254,6 +254,10 @@ export default [
           {
             text: '25 - Another Day in the Life of Meeeeeee',
             link: '/blog/2025/03/25_another-day-in-the-life-of-meeeeeee'
+          },
+          {
+            text: '26 - TBD',
+            link: '/blog/2025/03/26_'
           }
         ]
       }
