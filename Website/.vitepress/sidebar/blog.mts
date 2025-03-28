@@ -258,6 +258,10 @@ export default [
           {
             text: '26 - Floor Bed, Manual Grinder, and Retro G',
             link: '/blog/2025/03/26_floor-bed-manual-grinder-rand-retro-g'
+          },
+          {
+            text: '27 - TBD',
+            link: '/blog/2025/03/27_'
           }
         ]
       }
