@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/03/27_
+      text: Baseball is Back, Baby!
+      link: /blog/2025/03/27_baseball-is-back-baby
     - theme: alt
       text: Floor Bed, Manual Grinder, and Retro G
       link: /blog/2025/03/26_floor-bed-manual-grinder-rand-retro-g

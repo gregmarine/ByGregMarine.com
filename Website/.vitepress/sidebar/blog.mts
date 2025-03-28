@@ -260,8 +260,8 @@ export default [
             link: '/blog/2025/03/26_floor-bed-manual-grinder-rand-retro-g'
           },
           {
-            text: '27 - TBD',
-            link: '/blog/2025/03/27_'
+            text: '27 - Baseball is Back, Baby!',
+            link: '/blog/2025/03/27_baseball-is-back-baby'
           }
         ]
       }
