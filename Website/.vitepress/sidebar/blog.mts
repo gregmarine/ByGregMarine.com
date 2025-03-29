@@ -262,6 +262,10 @@ export default [
           {
             text: '27 - Baseball is Back, Baby!',
             link: '/blog/2025/03/27_baseball-is-back-baby'
+          },
+          {
+            text: '28 - Beautiful World',
+            link: '/blog/2025/03/28_beautiful-world'
           }
         ]
       }
