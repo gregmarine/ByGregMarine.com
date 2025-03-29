@@ -264,8 +264,8 @@ export default [
             link: '/blog/2025/03/27_baseball-is-back-baby'
           },
           {
-            text: '28 - TBD',
-            link: '/blog/2025/03/28_'
+            text: '28 - Beautiful World',
+            link: '/blog/2025/03/28_beautiful-world'
           }
         ]
       }

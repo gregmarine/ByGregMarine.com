@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/03/28_
+      text: Beautiful World
+      link: /blog/2025/03/28_beautiful-world
     - theme: alt
       text: Baseball is Back, Baby!
       link: /blog/2025/03/27_baseball-is-back-baby
