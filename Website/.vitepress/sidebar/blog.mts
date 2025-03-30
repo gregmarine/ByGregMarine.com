@@ -266,6 +266,10 @@ export default [
           {
             text: '28 - Beautiful World',
             link: '/blog/2025/03/28_beautiful-world'
+          },
+          {
+            text: '29 - St. Pete Pier',
+            link: '/blog/2025/03/29_st-pete-pier'
           }
         ]
       }
