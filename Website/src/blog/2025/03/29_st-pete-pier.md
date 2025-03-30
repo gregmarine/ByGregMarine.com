@@ -18,6 +18,18 @@ We came across this really fancy hotel called The Vinoy Resort. It's one of thos
 
 ![The Vinoy Resort](./media/IMG_7242.jpeg)
 
+I didn't get any photos from the surrounding shopping and restaurant area we explored. But we did stop to have a snack and get some waters. We sat for a spell to enjoy the ambience of the area. There are a lot of parks around and a few museums to check out sometime.
+
+But the crown jewel of the day was the St Pete Pier. That place is truly amazing. The pier itself is like a large work of art...hehehe It looks like a lot of thought and design went into it. There are several things to do on it and some restaurants. I could visit the pier once a month and not do the same thing twice...LOL I can just imagine myself working from there from time to time too. That thought definitely crossed my mind today...LOL
+
+![St Pete Pier](./media/IMG_7262.jpeg)
+
+I didn't take a lot of photos. I just enjoyed being there with my sister. I can't wait to take our parents there. I think she will be taking her husband there soon. It's pretty new. I think it officially opened in 2020. It replaced an older pier. We got to see dolphins, sailboats, motorboats, airplanes, Tampa Bay, people fishing, all sorts of people dressed up for something, and the list could go on. There were grassy knolls, fishing spots, one of those splash parks, and place to play pickle ball, and a spot for the kiddos to rollerskate. There were history museums, a nature center, and some folks selling things they had made. And there were a lot of street performers doing singing and magic tricks. The pier itself is free. Parking is expensive. And you have to pay for things like the food, merch, and museums. But if you are there just to enjoy the views, ambience, and a nice long walk, it's perfect. We were there for hours and had a great time! We each only spent $10 the whole day when we stopped for a snack...LOL So, $20 total for the day.
+
+Once we experienced our pass through the entire pier, we headed back to the car. It was a bit of a walk since we parked all the way back at that arboretum...hehehe But it was a beautiful walk back. On a weekend visit, I'd likely park at the arboretum again. If I were to go in the middle of the week to work, I'd probably park at the pier. I'm not sure if they have a lower weekday rate for parking or not. That might be something to look into...LOL
+
+
+
 Today's photo 📸
 
 <!--@include: @/photos/photo-a-day/2025/03/29.md{3,}-->
