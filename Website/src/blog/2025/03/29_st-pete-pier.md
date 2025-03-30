@@ -28,7 +28,11 @@ I didn't take a lot of photos. I just enjoyed being there with my sister. I can'
 
 Once we experienced our pass through the entire pier, we headed back to the car. It was a bit of a walk since we parked all the way back at that arboretum...hehehe But it was a beautiful walk back. On a weekend visit, I'd likely park at the arboretum again. If I were to go in the middle of the week to work, I'd probably park at the pier. I'm not sure if they have a lower weekday rate for parking or not. That might be something to look into...LOL
 
+![Sailboat](./media/IMG_7259.jpeg)
 
+In the above photo of the sailboat, we found out that was a bridal shower...hehehe Congrats to the bride!
+
+This was an amazing experience. I didn't even come close to describing everything. This was one of those days I wish I could download my memory to watch it all like a movie...hehehe We had conversations about our childhood, family history, and we had some laughs. One laugh was we saw a *couple* with matching shirts. As the *couple* got close, I noticed their shirts had *St Pete Pier* on them...LOL I started to laugh and mentioned to my sister I thought they were wearing matching shirts. Turned out she thought the same. Then I told her that those were work shirts...LOL They weren't likely a couple at all...LOL They were co-workers...LOL
 
 Today's photo 📸
 
