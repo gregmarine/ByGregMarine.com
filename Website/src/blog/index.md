@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/03/30_
+      text: Wake-Up Call, Craving, and Photos?
+      link: /blog/2025/03/30_wake-up-call-craving-and-photos
     - theme: alt
       text: St. Pete Pier
       link: /blog/2025/03/29_st-pete-pier
