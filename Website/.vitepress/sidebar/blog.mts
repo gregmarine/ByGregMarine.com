@@ -270,6 +270,10 @@ export default [
           {
             text: '29 - St. Pete Pier',
             link: '/blog/2025/03/29_st-pete-pier'
+          },
+          {
+            text: '30 - Wake-Up Call, Craving, and Photos?',
+            link: '/blog/2025/03/30_wake-up-call-craving-and-photos'
           }
         ]
       }

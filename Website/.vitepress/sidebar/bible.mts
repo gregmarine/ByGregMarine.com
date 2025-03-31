@@ -368,6 +368,21 @@ export default [
         ]
       },
       {
+        text: 'Judges',
+        link: '/bible/translations/bsb/07_jdg/',
+        collapsed: true,
+        items: [
+          {
+            text: '001',
+            link: '/bible/translations/bsb/07_jdg/001'
+          },
+          {
+            text: '002',
+            link: '/bible/translations/bsb/07_jdg/002'
+          }
+        ]
+      },
+      {
         text: 'Psalms',
         link: '/bible/translations/bsb/19_psa/',
         collapsed: true,
@@ -548,6 +563,10 @@ export default [
               {
                 text: '29',
                 link: '/bible/plans/bible-in-a-year/03/29'
+              },
+              {
+                text: '30',
+                link: '/bible/plans/bible-in-a-year/03/30'
               }
             ]
           }

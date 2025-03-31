@@ -220,8 +220,12 @@ export default [
                 link: '/photos/photo-a-day/2025/03/28'
               },
               {
-                text: '28',
+                text: '29',
                 link: '/photos/photo-a-day/2025/03/29'
+              },
+              {
+                text: '30',
+                link: '/photos/photo-a-day/2025/03/30'
               }
             ]
           }
