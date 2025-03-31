@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: TBD
+      link: /blog/2025/03/30_
+    - theme: alt
       text: St. Pete Pier
       link: /blog/2025/03/29_st-pete-pier
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Floor Bed, Manual Grinder, and Retro G
       link: /blog/2025/03/26_floor-bed-manual-grinder-rand-retro-g
-    - theme: alt
-      text: Another Day in the Life of Meeeeeee
-      link: /blog/2025/03/25_another-day-in-the-life-of-meeeeeee
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
