@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: 90 Days
+      link: /blog/2025/03/31_90-days
+    - theme: alt
       text: Wake-Up Call, Craving, and Photos?
       link: /blog/2025/03/30_wake-up-call-craving-and-photos
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Baseball is Back, Baby!
       link: /blog/2025/03/27_baseball-is-back-baby
-    - theme: alt
-      text: Floor Bed, Manual Grinder, and Retro G
-      link: /blog/2025/03/26_floor-bed-manual-grinder-rand-retro-g
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

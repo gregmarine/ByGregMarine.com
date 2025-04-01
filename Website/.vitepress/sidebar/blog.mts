@@ -274,6 +274,10 @@ export default [
           {
             text: '30 - Wake-Up Call, Craving, and Photos?',
             link: '/blog/2025/03/30_wake-up-call-craving-and-photos'
+          },
+          {
+            text: '31 - 90 Days',
+            link: '/blog/2025/03/31_90-days'
           }
         ]
       }
