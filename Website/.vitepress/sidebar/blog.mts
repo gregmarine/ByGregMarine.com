@@ -280,6 +280,16 @@ export default [
             link: '/blog/2025/03/31_90-days'
           }
         ]
+      },
+      {
+        text: 'April',
+        collapsed: true,
+        items: [
+          {
+            text: '01 - No Joke!',
+            link: '/blog/2025/04/01_no-joke'
+          }
+        ]
       }
     ]
   }
