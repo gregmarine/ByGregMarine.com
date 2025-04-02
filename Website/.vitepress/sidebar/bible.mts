@@ -391,6 +391,14 @@ export default [
           {
             text: '005',
             link: '/bible/translations/bsb/07_jdg/005'
+          },
+          {
+            text: '006',
+            link: '/bible/translations/bsb/07_jdg/006'
+          },
+          {
+            text: '007',
+            link: '/bible/translations/bsb/07_jdg/007'
           }
         ]
       },
@@ -583,6 +591,16 @@ export default [
               {
                 text: '31',
                 link: '/bible/plans/bible-in-a-year/03/31'
+              }
+            ]
+          },
+          {
+            text: 'April',
+            collapsed: true,
+            items: [
+              {
+                text: '01',
+                link: '/bible/plans/bible-in-a-year/04/01'
               }
             ]
           }

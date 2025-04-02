@@ -232,6 +232,16 @@ export default [
                 link: '/photos/photo-a-day/2025/03/31'
               }
             ]
+          },
+          {
+            text: 'April',
+            collapsed: true,
+            items: [
+              {
+                text: '01',
+                link: '/photos/photo-a-day/2025/04/01'
+              }
+            ]
           }
         ]
       }
