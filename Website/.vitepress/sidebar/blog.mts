@@ -290,8 +290,8 @@ export default [
             link: '/blog/2025/04/01_no-joke'
           },
           {
-            text: '03 - TBD',
-            link: '/blog/2025/04/03_'
+            text: '03 - Soulful Music, Larry Boy, and Good Memories',
+            link: '/blog/2025/04/03_soulful-music-larry-boy-and-good-memories'
           }
         ]
       }

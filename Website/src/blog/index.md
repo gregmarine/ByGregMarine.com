@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/04/03_
+      text: Soulful Music, Larry Boy, and Good Memories
+      link: /blog/2025/04/03_soulful-music-larry-boy-and-good-memories
     - theme: alt
       text: No Joke!
       link: /blog/2025/04/01_no-joke
