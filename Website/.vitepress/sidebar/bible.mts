@@ -434,6 +434,17 @@ export default [
         ]
       },
       {
+        text: 'Proverbs',
+        link: '/bible/translations/bsb/20_pro/',
+        collapsed: true,
+        items: [
+          {
+            text: '003',
+            link: '/bible/translations/bsb/20_pro/003'
+          }
+        ]
+      },
+      {
         text: 'Matthew',
         link: '/bible/translations/bsb/40_mat/',
         collapsed: true,
