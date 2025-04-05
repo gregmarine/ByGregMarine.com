@@ -292,6 +292,10 @@ export default [
           {
             text: '03 - Soulful Music, Larry Boy, and Good Memories',
             link: '/blog/2025/04/03_soulful-music-larry-boy-and-good-memories'
+          },
+          {
+            text: '04 - Zeniversary',
+            link: '/blog/2025/04/04_'
           }
         ]
       }
