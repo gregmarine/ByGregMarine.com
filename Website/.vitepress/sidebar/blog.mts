@@ -294,8 +294,8 @@ export default [
             link: '/blog/2025/04/03_soulful-music-larry-boy-and-good-memories'
           },
           {
-            text: '04 - Zeniversary',
-            link: '/blog/2025/04/04_'
+            text: '04 - Zeniversary and God]\'s Moments',
+            link: '/blog/2025/04/04_zeniversary-and-gods-moments'
           }
         ]
       }

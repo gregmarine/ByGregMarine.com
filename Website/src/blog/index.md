@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: Zeniversary
-      link: /blog/2025/04/04_
+      text: Zeniversary and God's Moments
+      link: /blog/2025/04/04_zeniversary-and-gods-moments
     - theme: alt
       text: Soulful Music, Larry Boy, and Good Memories
       link: /blog/2025/04/03_soulful-music-larry-boy-and-good-memories
