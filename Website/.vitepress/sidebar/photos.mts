@@ -252,6 +252,10 @@ export default [
               {
                 text: '04',
                 link: '/photos/photo-a-day/2025/04/04'
+              },
+              {
+                text: '05',
+                link: '/photos/photo-a-day/2025/04/05'
               }
             ]
           }

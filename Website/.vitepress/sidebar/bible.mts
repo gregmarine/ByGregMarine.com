@@ -431,6 +431,18 @@ export default [
           {
             text: '015',
             link: '/bible/translations/bsb/07_jdg/015'
+          },
+          {
+            text: '016',
+            link: '/bible/translations/bsb/07_jdg/016'
+          },
+          {
+            text: '017',
+            link: '/bible/translations/bsb/07_jdg/017'
+          },
+          {
+            text: '018',
+            link: '/bible/translations/bsb/07_jdg/018'
           }
         ]
       },
@@ -656,6 +668,10 @@ export default [
               {
                 text: '04',
                 link: '/bible/plans/bible-in-a-year/04/04'
+              },
+              {
+                text: '05',
+                link: '/bible/plans/bible-in-a-year/04/05'
               }
             ]
           }
