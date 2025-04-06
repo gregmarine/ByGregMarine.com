@@ -298,8 +298,8 @@ export default [
             link: '/blog/2025/04/04_zeniversary-and-gods-moments'
           },
           {
-            text: '05 - TBD',
-            link: '/blog/2025/04/05_'
+            text: '05 - Sunrise to Sunset',
+            link: '/blog/2025/04/05_sunrise-to-sunset'
           }
         ]
       }

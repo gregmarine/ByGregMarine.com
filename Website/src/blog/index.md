@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/04/05_
+      text: Sunrise to Sunset
+      link: /blog/2025/04/05_sunrise-to-sunset
     - theme: alt
       text: Zeniversary and God's Moments
       link: /blog/2025/04/04_zeniversary-and-gods-moments
