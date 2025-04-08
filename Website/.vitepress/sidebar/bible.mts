@@ -536,6 +536,17 @@ export default [
             link: '/bible/translations/bsb/44_act/017'
           }
         ]
+      },
+      {
+        text: 'Romans',
+        link: '/bible/translations/bsb/45_rom/',
+        collapsed: true,
+        items: [
+          {
+            text: '014',
+            link: '/bible/translations/bsb/45_rom/014'
+          }
+        ]
       }
     ]
   },
