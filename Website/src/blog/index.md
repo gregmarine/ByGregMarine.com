@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/04/07_
+      text: So, I'm always thinking...
+      link: /blog/2025/04/07_so-im-always-thinking
     - theme: alt
       text: Sunrise to Sunset
       link: /blog/2025/04/05_sunrise-to-sunset

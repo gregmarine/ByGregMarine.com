@@ -1,4 +1,4 @@
-# TBD
+# So, I'm always thinking...
 
 ## My Day
 
@@ -54,7 +54,13 @@ There is a light rain now. We've been needing some rain...hehehe I love the rain
 
 ### 10:15pm
 
-Aaannnddd...the winds are back...LOL Still now storm, though...hehehe
+Aaannnddd...the winds are back...LOL Still no storm, though...hehehe
+
+### 10:30pm
+
+Below, I included all of the scripture that made an impact on me today. I didn't get around to doing the formatting thing I mentioned above. I'm not sure how I'm going to go about that just yet based on how I'm doing this website. I'm making everything dynamic so that I can include references just about anywhere and the scripture just automatically imports. The nice thing about that is when I make an update to the source files, it automatically reflects the updates everywhere. So, someday, that scripture below will be formatted and just *magically* look great...hehehe But it will look pretty plain the day I'm writing this journal entry...LOL
+
+I've continued reading my entries from a year ago on the date I wrote them. I didn't do one on this day last year...hehehe Some of what I wrote still applies to how I think. But some of my thoughts have since changed. Or it has just evolved with new experiences. I think I may have said this recently...LOL So I apologize if this was a repeat...LOL It has been on my mind quite a bit lately, though. It was about a year ago when I wrote the [Read me](../../read-me) page. In it, I explain the purpose of this blog and how best to understand why some of it might not make sense or is contradictory...hehehe *So, I was thinking...* So, I'm always thinking...LOL
 
 ## Photos
 
@@ -70,13 +76,7 @@ You can find [this photo](/photos/photo-a-day/2025/04/06) in the [photo](/photos
 
 You can find [this photo](/photos/photo-a-day/2025/04/07) in the [photo](/photos/) section too.
 
-## Bible Study
-
-📖 [Yesterday's Bible in a Year reading](/bible/plans/bible-in-a-year/04/06) in the [Bible](/bible/) section.
-
-📖 Today's Bible in a Year reading: please see below.
-
-## Scripture
+## Bible
 
 All of these made a significant impact on me and I wanted to include them in today's journal.
 
@@ -97,3 +97,7 @@ Romans 14 actually came up first yesterday and continued into today. In a way, i
 Today's reading was a huge encouragement for me. The included BibleProject and The Bible Recap videos were important for context.
 
 <!--@include: @/bible/plans/bible-in-a-year/04/07.md{3,}-->
+
+### From Yesterday
+
+📖 [Yesterday's Bible in a Year reading](/bible/plans/bible-in-a-year/04/06) in the [Bible](/bible/) section.
