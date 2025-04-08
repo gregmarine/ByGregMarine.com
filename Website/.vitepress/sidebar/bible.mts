@@ -443,6 +443,41 @@ export default [
           {
             text: '018',
             link: '/bible/translations/bsb/07_jdg/018'
+          },
+          {
+            text: '019',
+            link: '/bible/translations/bsb/07_jdg/019'
+          },
+          {
+            text: '020',
+            link: '/bible/translations/bsb/07_jdg/020'
+          },
+          {
+            text: '021',
+            link: '/bible/translations/bsb/07_jdg/021'
+          }
+        ]
+      },
+      {
+        text: 'Ruth',
+        link: '/bible/translations/bsb/08_rut/',
+        collapsed: true,
+        items: [
+          {
+            text: '001',
+            link: '/bible/translations/bsb/08_rut/001'
+          },
+          {
+            text: '002',
+            link: '/bible/translations/bsb/08_rut/002'
+          },
+          {
+            text: '003',
+            link: '/bible/translations/bsb/08_rut/003'
+          },
+          {
+            text: '004',
+            link: '/bible/translations/bsb/08_rut/004'
           }
         ]
       },
@@ -451,6 +486,10 @@ export default [
         link: '/bible/translations/bsb/19_psa/',
         collapsed: true,
         items: [
+          {
+            text: '077',
+            link: '/bible/translations/bsb/19_psa/077'
+          },
           {
             text: '090',
             link: '/bible/translations/bsb/19_psa/090'
@@ -495,6 +534,17 @@ export default [
           {
             text: '017',
             link: '/bible/translations/bsb/44_act/017'
+          }
+        ]
+      },
+      {
+        text: 'Romans',
+        link: '/bible/translations/bsb/45_rom/',
+        collapsed: true,
+        items: [
+          {
+            text: '014',
+            link: '/bible/translations/bsb/45_rom/014'
           }
         ]
       }
@@ -672,6 +722,14 @@ export default [
               {
                 text: '05',
                 link: '/bible/plans/bible-in-a-year/04/05'
+              },
+              {
+                text: '06',
+                link: '/bible/plans/bible-in-a-year/04/06'
+              },
+              {
+                text: '07',
+                link: '/bible/plans/bible-in-a-year/04/07'
               }
             ]
           }

@@ -300,6 +300,10 @@ export default [
           {
             text: '05 - Sunrise to Sunset',
             link: '/blog/2025/04/05_sunrise-to-sunset'
+          },
+          {
+            text: '07 - So, I\'m always thinking...',
+            link: '/blog/2025/04/07_so-im-always-thinking'
           }
         ]
       }
