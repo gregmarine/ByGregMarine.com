@@ -459,10 +459,37 @@ export default [
         ]
       },
       {
+        text: 'Ruth',
+        link: '/bible/translations/bsb/08_rut/',
+        collapsed: true,
+        items: [
+          {
+            text: '001',
+            link: '/bible/translations/bsb/08_rut/001'
+          },
+          {
+            text: '002',
+            link: '/bible/translations/bsb/08_rut/002'
+          },
+          {
+            text: '003',
+            link: '/bible/translations/bsb/08_rut/003'
+          },
+          {
+            text: '004',
+            link: '/bible/translations/bsb/08_rut/004'
+          }
+        ]
+      },
+      {
         text: 'Psalms',
         link: '/bible/translations/bsb/19_psa/',
         collapsed: true,
         items: [
+          {
+            text: '077',
+            link: '/bible/translations/bsb/19_psa/077'
+          },
           {
             text: '090',
             link: '/bible/translations/bsb/19_psa/090'
@@ -688,6 +715,10 @@ export default [
               {
                 text: '06',
                 link: '/bible/plans/bible-in-a-year/04/06'
+              },
+              {
+                text: '07',
+                link: '/bible/plans/bible-in-a-year/04/07'
               }
             ]
           }
