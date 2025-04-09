@@ -482,6 +482,25 @@ export default [
         ]
       },
       {
+        text: '1 Samuel',
+        link: '/bible/translations/bsb/09_1sa/',
+        collapsed: true,
+        items: [
+          {
+            text: '001',
+            link: '/bible/translations/bsb/09_1sa/001'
+          },
+          {
+            text: '002',
+            link: '/bible/translations/bsb/09_1sa/002'
+          },
+          {
+            text: '003',
+            link: '/bible/translations/bsb/09_1sa/003'
+          }
+        ]
+      },
+      {
         text: 'Psalms',
         link: '/bible/translations/bsb/19_psa/',
         collapsed: true,
@@ -730,6 +749,10 @@ export default [
               {
                 text: '07',
                 link: '/bible/plans/bible-in-a-year/04/07'
+              },
+              {
+                text: '08',
+                link: '/bible/plans/bible-in-a-year/04/08'
               }
             ]
           }

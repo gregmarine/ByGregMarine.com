@@ -304,6 +304,10 @@ export default [
           {
             text: '07 - So, I\'m always thinking...',
             link: '/blog/2025/04/07_so-im-always-thinking'
+          },
+          {
+            text: '08 - Man in the Mirror',
+            link: '/blog/2025/04/08_man-in-the-mirror'
           }
         ]
       }
