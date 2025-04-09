@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: TBD
+      link: /blog/2025/04/09_
+    - theme: alt
       text: Man in the Mirror
       link: /blog/2025/04/08_man-in-the-mirror
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Zeniversary and God's Moments
       link: /blog/2025/04/04_zeniversary-and-gods-moments
-    - theme: alt
-      text: Soulful Music, Larry Boy, and Good Memories
-      link: /blog/2025/04/03_soulful-music-larry-boy-and-good-memories
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
