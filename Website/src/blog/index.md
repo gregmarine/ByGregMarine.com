@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/04/08_
+      text: Man in the Mirror
+      link: /blog/2025/04/08_man-in-the-mirror
     - theme: alt
       text: So, I'm always thinking...
       link: /blog/2025/04/07_so-im-always-thinking

@@ -1,4 +1,4 @@
-# TBD
+# Man in the Mirror
 
 ## My Day
 
@@ -54,17 +54,17 @@ Blessed are You LORD, our God...King of the universe...who brings Peace to our s
 
 I posted a selfie today saying I was thinking about tacos. I've been doing that on Tuesdays lately. It's just how I feel. On Threads, I got some comments I didn't care for. I hid them. They weren't even about what I wrote. They were comments about my looks. This isn't the first time...nor will it be the last. I get it. But I don't like it. I did get one comment that was appropriate for the post. I liked and replied to it.
 
-This is the first post that actually got any sort of attention like this on Threads. It has 13 likes of this moment...LOL That's not many. But it's a lot for my Threads experience. Most of the likes are from people I don't follow. Only 3 from people I follow and who follow me; which is my normal. I guess the *algorithm* showed my post in feeds in the Threadiverse?
+This is the first post that actually got any sort of attention like this on Threads. It has 13 likes as of this moment...LOL That's not many. But it's a lot for my Threads experience. Most of the likes are from people I don't follow. Only 3 from people I follow and who follow me; which is my normal. I guess the *algorithm* showed my post in feeds in the Threadiverse?
 
 Anyway, here are the tacos I was thinking about all day...LOL The white fish I used is cod :) Not be confused with *cold*...HAHAHA j/k 🤭
 
 ![Taco](./media/IMG_7513.jpeg)
 
-I did my taco seasoning I came up with a while back. The veggies are red cabbage and carrots. I, of course, topped it with sauerkraut 🤭 I love Taco Tuesdays <3
+I did my taco seasoning I came up with a while back. The veggies are red cabbage and carrots. I, of course, topped it with sauerkraut 🤭 These were spicy and very good! I love Taco Tuesdays <3
 
 ### 09:45pm
 
-I have some catching up to do, but I've been doing well getting the latest photos and Bible in a Year content here on the website...hehehe There is a lot from January and March for the photos. All of January and parts of both February and March are missing for the Bible in a Year plan. But I'll get there someday.
+I have some catching up to do, but I've been doing well getting the latest photos and Bible in a Year content here on the website...hehehe There is a lot from January and March for the photos I still need to post. All of January and parts of both February and March are missing for the Bible in a Year plan. But I'll get there someday.
 
 I also have some updates to make to the Bible content in general. Most of the books don't yet have an index page with the BibleProject summary videos. And none of the formatting has been worked out yet. I'm still happy that it is coming along, though. That fact that I'm doing it at all is progress...LOL I wanted to start doing these things over a year ago. Now, I'm finally getting around to working on it. So, that makes me happy.
 

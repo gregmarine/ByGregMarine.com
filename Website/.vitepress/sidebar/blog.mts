@@ -306,8 +306,8 @@ export default [
             link: '/blog/2025/04/07_so-im-always-thinking'
           },
           {
-            text: '08 - TBD',
-            link: '/blog/2025/04/08_'
+            text: '08 - Man in the Mirror',
+            link: '/blog/2025/04/08_man-in-the-mirror'
           }
         ]
       }
