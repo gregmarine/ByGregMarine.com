@@ -72,7 +72,11 @@ At 7:35pm above, I wrote out a prayer. I needed to. I may start writing out some
 
 I realize I have some grieving to work through. I found [this webpage](https://www.helpguide.org/mental-health/grief/coping-with-grief-and-loss) helpful this evening. I'm hoping a year from now, when I read this again, I'll have worked through some of what is on my heart today 🙏🙌
 
+### 10:15pm
 
+I'm putting down the microphone and picking up a mirror. By the way, I got that metaphor from my deer friend, Cherie...hehehe It reminds me of the passage where Jesus tells us to remove the log from our eyes before we call out the speck in another's eye. The Bible studies we've been doing are helping me take a step back and taking a better look at the *man in the mirror*. That's the song I chose for today's photo on Instagram...LOL I'm not looking into the mirror to admire myself. I'm using it to talk to the man behind the face I see. What seems like the first time in my life, I love that man. It's time he hears some things spoken in love. They are hard truths sometimes. But they need said and heard. And they are things just for me. I don't need to say them to others through a microphone...LOL
+
+As I wrap up this day, I'd have to say I'm really enjoying these timestamped entries. I think about stuff like this most days. But some of it gets lost by the time I journal. Writing in the moment helps. It doesn't take very long to write out the quick thoughts throughout the day. It does make these quite a bit longer. But length isn't what is important. Thinking things through is. That's the whole point...hehehe
 
 ## Today's photo 📸
 
