@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /blog/2025/04/09_
+      link: /blog/2025/04/10_
     - theme: alt
       text: Man in the Mirror
       link: /blog/2025/04/08_man-in-the-mirror
