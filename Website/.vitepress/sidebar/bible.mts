@@ -497,6 +497,42 @@ export default [
           {
             text: '003',
             link: '/bible/translations/bsb/09_1sa/003'
+          },
+          {
+            text: '004',
+            link: '/bible/translations/bsb/09_1sa/004'
+          },
+          {
+            text: '005',
+            link: '/bible/translations/bsb/09_1sa/005'
+          },
+          {
+            text: '006',
+            link: '/bible/translations/bsb/09_1sa/006'
+          },
+          {
+            text: '007',
+            link: '/bible/translations/bsb/09_1sa/007'
+          },
+          {
+            text: '008',
+            link: '/bible/translations/bsb/09_1sa/008'
+          },
+          {
+            text: '009',
+            link: '/bible/translations/bsb/09_1sa/009'
+          },
+          {
+            text: '010',
+            link: '/bible/translations/bsb/09_1sa/010'
+          },
+          {
+            text: '011',
+            link: '/bible/translations/bsb/09_1sa/011'
+          },
+          {
+            text: '012',
+            link: '/bible/translations/bsb/09_1sa/012'
           }
         ]
       },
@@ -753,6 +789,14 @@ export default [
               {
                 text: '08',
                 link: '/bible/plans/bible-in-a-year/04/08'
+              },
+              {
+                text: '09',
+                link: '/bible/plans/bible-in-a-year/04/09'
+              },
+              {
+                text: '10',
+                link: '/bible/plans/bible-in-a-year/04/10'
               }
             ]
           }
