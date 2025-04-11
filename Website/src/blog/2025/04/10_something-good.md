@@ -1,4 +1,4 @@
-# TBD
+# Something...Good?
 
 ## My Day
 
@@ -30,7 +30,7 @@ This came to mind yesterday because I had a question about a technical term in m
 
 But, then again, when I don't understand the answer as being an answer to my question or not, I then ask myself, *Do I really even need the answer?* As for yesterday's technical question, I did not...LOL And when I feel the person I'm talking to didn't understand what I said, I sometimes ask myself, *Did I really need to be understood?*
 
-When something is important, though, all of those latter rhetorical questions are moot. When understanding is vital, so is communication. No matter how hard it may seem. That's when the former rhetorical questions come into play. Communication really *is* hard. For my at least. That's why I want to continue to grow in this area.
+When something is important, though, all of those latter rhetorical questions are moot. When understanding is vital, so is communication. No matter how hard it may seem. That's when the former rhetorical questions come into play. Communication really *is* hard. For me at least. That's why I want to continue to grow in this area.
 
 ### 03:30pm
 
@@ -52,9 +52,9 @@ That was an interesting walk...LOL The sunset was beautiful once again...hehehe 
 
 One of the dogs I always greet was a little different tonight too. He always barks until I stop to pet him. But tonight, he didn't bark. He happily approached me knowing that I would pet him...hehehe Even his owners were surprised that his behavior had changed...LOL I guess he just knew I needed him as much as he needed me tonight...hehehe
 
-I was thinking about that piece on Providence. It's way more deep than I typically go with a social media post. Is it time to start showing that side of me? I have on occasion posted a poem. People do connect with those when I do that. This particular piece is inspired by what I'm going through at the moment.
+I was thinking about that piece on Providence. It's way deeper than I typically go with a social media post. Is it time to start showing that side of me? I have on occasion posted a poem. People do connect with those when I do that. This particular piece is inspired by what I'm going through at the moment.
 
-I recalled that I've typically been going *through something* each Spring for who knows how long. And for a 2022-2024, loneliness was a part of it. This year is quite different. I still feel like I'm going *through something*. But I *feel* different. And I'd say it feels *better*. I think the growth I've experienced this past year has helped. But the *bottom line* is that God is good and He is my strength. He's helping me go *through something* again this year. And I like what it is doing to my heart now that I'm more aware of God's work in it.
+I recalled that I've typically been going *through something* each Spring for who knows how long. And for the Springs of 2022-2024, loneliness was a part of it. This year is quite different. I still feel like I'm going *through something*. But I *feel* different. And I'd say it feels *better*. I think the growth I've experienced this past year has helped. But the *bottom line* is that God is good and He is my strength. He's helping me go *through something* again this year. And I like what it is doing to my heart now that I'm more aware of God's work in it.
 
 ### 08:45pm
 

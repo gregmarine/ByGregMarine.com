@@ -310,8 +310,8 @@ export default [
             link: '/blog/2025/04/08_man-in-the-mirror'
           },
           {
-            text: '10 - TBD',
-            link: '/blog/2025/04/10_'
+            text: '10 - Something...Good?',
+            link: '/blog/2025/04/10_something-good'
           }
         ]
       }
