@@ -308,6 +308,10 @@ export default [
           {
             text: '08 - Man in the Mirror',
             link: '/blog/2025/04/08_man-in-the-mirror'
+          },
+          {
+            text: '10 - Something...Good?',
+            link: '/blog/2025/04/10_something-good'
           }
         ]
       }
