@@ -312,6 +312,10 @@ export default [
           {
             text: '10 - Something...Good?',
             link: '/blog/2025/04/10_something-good'
+          },
+          {
+            text: '11 - Soda Pop, Popcorn, and a Double Feature',
+            link: '/blog/2025/04/11_soda-pop-popcorn-and-a-double-feature'
           }
         ]
       }
