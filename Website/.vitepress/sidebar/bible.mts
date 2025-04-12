@@ -533,6 +533,14 @@ export default [
           {
             text: '012',
             link: '/bible/translations/bsb/09_1sa/012'
+          },
+          {
+            text: '013',
+            link: '/bible/translations/bsb/09_1sa/013'
+          },
+          {
+            text: '014',
+            link: '/bible/translations/bsb/09_1sa/014'
           }
         ]
       },
@@ -797,6 +805,10 @@ export default [
               {
                 text: '10',
                 link: '/bible/plans/bible-in-a-year/04/10'
+              },
+              {
+                text: '11',
+                link: '/bible/plans/bible-in-a-year/04/11'
               }
             ]
           }
