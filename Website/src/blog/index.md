@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/04/11_
+      text: Soda Pop, Popcorn, and a Double Feature
+      link: /blog/2025/04/11_soda-pop-popcorn-and-a-double-feature
     - theme: alt
       text: Something...Good?
       link: /blog/2025/04/10_something-good

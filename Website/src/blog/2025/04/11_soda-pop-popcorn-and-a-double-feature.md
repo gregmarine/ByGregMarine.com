@@ -1,4 +1,4 @@
-# TBD
+# Soda Pop, Popcorn, and a Double Feature
 
 ## My Day
 
@@ -36,7 +36,7 @@ I had a dream last night that trigger anxiety in the middle of the night. I was 
 
 ### 09:30pm
 
-I really liked the movie. It was definitely interconnected with the other films and one of the TV shows. The cherry blossoms in Washington DC played a role...hehehe I really want to go see those someday. There was also a scene in Tokyo with their cherry blossoms. That's another place I'd love to go someday. When I watch movies, I love to find the extra characters that help with the story. Like the cherry blossoms did for this movie...hehehe The theatre experience was just as good this time as it was on my birthday <3
+I really liked the movie. It was definitely interconnected with the other films and one of the TV shows. The cherry blossoms in Washington DC played a role...hehehe I really want to go see those someday. There was also a scene in Tokyo with their cherry blossoms. That's another place I'd love to go someday. When I watch movies, I love to find the extra *characters* that help with the story. Like the cherry blossoms did for this movie...hehehe The theatre experience was just as good this time as it was on my birthday <3
 
 It was raining just as I got to my car. We need rain. So it was nice. I'm glad the theatre isn't far from home, though. I don't like driving in the rain...LOL The smell was nice, though. And I was able to get a nice photo of the front of the theatre through the rain drenched window of my car...hehehe I don't think that will be today's photo. But I liked how the neon looked through the rain drops. And you can see part of the car's dashboard lighting reflecting on the window. Well, actually, here it is for you to see...hehehe
 
@@ -58,7 +58,13 @@ This series is against the Cubs. That's another team I follow for scores. They w
 
 I had forgotten this game was on tonight when I decided not to have coffee...LOL I may need to have that coffee and snack after all...LOL Or I may just decide to go to bed when I get tired. That's probably what is best ;)
 
+### 10:50pm
 
+I wanted to get a haircut tomorrow. I went to schedule on the website and I couldn't find the location I went to last month...LOL So, I may need to hunt for a new place. *sigh* No haircut tomorrow after all. *sigh* 🤪 I haven't had to deal with this in years! I'm actually laughing about it. No hair, no problem. Mo hair, mo problems...HAHAHA
+
+I'm both tired and hungry now. I probably should have gone for the coffee and snack earlier. Now I'm at the point of no-go for something like that. It makes sense to be tired right now. This is when I've been wrapping up my days this week and getting ready for bed. It has been nice getting to bed earlier so I can wake earlier too. I've been missing that. Plus, I've actually been getting more and better sleep this week. With the exception of that crazy dream last night..LOL
+
+No score with the game so far in the top of the 4th. And it's time to publish this...LOL
 
 ## Today's photo 📸
 
