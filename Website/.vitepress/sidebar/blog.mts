@@ -316,6 +316,10 @@ export default [
           {
             text: '11 - Soda Pop, Popcorn, and a Double Feature',
             link: '/blog/2025/04/11_soda-pop-popcorn-and-a-double-feature'
+          },
+          {
+            text: '12 - Holy Week',
+            link: '/blog/2025/04/12_holy-week'
           }
         ]
       }
