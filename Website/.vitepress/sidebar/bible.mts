@@ -553,6 +553,18 @@ export default [
           {
             text: '017',
             link: '/bible/translations/bsb/09_1sa/017'
+          },
+          {
+            text: '018',
+            link: '/bible/translations/bsb/09_1sa/018'
+          },
+          {
+            text: '019',
+            link: '/bible/translations/bsb/09_1sa/019'
+          },
+          {
+            text: '020',
+            link: '/bible/translations/bsb/09_1sa/020'
           }
         ]
       },
@@ -561,6 +573,14 @@ export default [
         link: '/bible/translations/bsb/19_psa/',
         collapsed: true,
         items: [
+          {
+            text: '011',
+            link: '/bible/translations/bsb/19_psa/011'
+          },
+          {
+            text: '059',
+            link: '/bible/translations/bsb/19_psa/059'
+          },
           {
             text: '077',
             link: '/bible/translations/bsb/19_psa/077'
@@ -825,6 +845,10 @@ export default [
               {
                 text: '12',
                 link: '/bible/plans/bible-in-a-year/04/12'
+              },
+              {
+                text: '13',
+                link: '/bible/plans/bible-in-a-year/04/13'
               }
             ]
           }
