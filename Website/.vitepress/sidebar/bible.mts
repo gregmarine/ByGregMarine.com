@@ -669,6 +669,10 @@ export default [
         collapsed: true,
         items: [
           {
+            text: '002',
+            link: '/bible/translations/bsb/43_jhn/002'
+          },
+          {
             text: '012',
             link: '/bible/translations/bsb/43_jhn/012'
           }
@@ -918,6 +922,10 @@ export default [
           {
             text: 'Day 1: Palm Sunday',
             link: '/bible/plans/holy-week-easter/1'
+          },
+          {
+            text: 'Day 2: Holy Monday',
+            link: '/bible/plans/holy-week-easter/2'
           }
         ]
       }
