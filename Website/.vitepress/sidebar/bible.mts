@@ -634,6 +634,43 @@ export default [
           {
             text: '007',
             link: '/bible/translations/bsb/40_mat/007'
+          },
+          {
+            text: '021',
+            link: '/bible/translations/bsb/40_mat/021'
+          }
+        ]
+      },
+      {
+        text: 'Mark',
+        link: '/bible/translations/bsb/41_mrk/',
+        collapsed: true,
+        items: [
+          {
+            text: '011',
+            link: '/bible/translations/bsb/41_mrk/011'
+          }
+        ]
+      },
+      {
+        text: 'Luke',
+        link: '/bible/translations/bsb/42_luk/',
+        collapsed: true,
+        items: [
+          {
+            text: '019',
+            link: '/bible/translations/bsb/42_luk/019'
+          }
+        ]
+      },
+      {
+        text: 'John',
+        link: '/bible/translations/bsb/43_jhn/',
+        collapsed: true,
+        items: [
+          {
+            text: '012',
+            link: '/bible/translations/bsb/43_jhn/012'
           }
         ]
       },
@@ -871,6 +908,16 @@ export default [
                 link: '/bible/plans/bible-in-a-year/04/14'
               }
             ]
+          }
+        ]
+      },{
+        text: 'Holy Week & Easter',
+        link: '/bible/plans/holy-week-easter/',
+        collapsed: true,
+        items: [
+          {
+            text: 'Day 1: Palm Sunday',
+            link: '/bible/plans/holy-week-easter/1'
           }
         ]
       }
