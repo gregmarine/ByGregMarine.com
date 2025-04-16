@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/04/15_
+      text: Sleep, Backups, and My Daily Bread
+      link: /blog/2025/04/15_sleep-backups-and-my-daily-bread
     - theme: alt
       text: Out of Time
       link: /blog/2025/04/14_out-of-time

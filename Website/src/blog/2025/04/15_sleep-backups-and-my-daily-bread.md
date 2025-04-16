@@ -1,4 +1,4 @@
-# TBD
+# Sleep, Backups, and My Daily Bread
 
 ## My Day
 
@@ -60,7 +60,11 @@ I'm glad I took that medication. It subdued the small migraine I was experiencin
 
 I was able to finish tonight's session of the Bible study. This one is taking me deeper again. I love that.
 
+### 10:30pm
 
+My head is feeling much better now...hehehe
+
+Today's photo was similar to [yesterday's](/photos/photo-a-day/2025/04/14)...LOL I found another painted rock. This time, it said *JESUS* on it. I haven't a clue who is placing these around the pond. But I like them. I hope no one complains. I wonder if I'm the only one who has noticed them? I walk around so often...LOL I noticed this one today on the final lap of the day. They are hard to spot since they are so small. My photos make them look larger. They are small enough to fit in a pocket with lots of room to spare...hehehe Will I spy another tomorrow? I hope so!
 
 ## Today's photo 📸
 
