@@ -614,6 +614,10 @@ export default [
             link: '/bible/translations/bsb/19_psa/052'
           },
           {
+            text: '056',
+            link: '/bible/translations/bsb/19_psa/056'
+          },
+          {
             text: '059',
             link: '/bible/translations/bsb/19_psa/059'
           },
@@ -624,6 +628,22 @@ export default [
           {
             text: '090',
             link: '/bible/translations/bsb/19_psa/090'
+          },
+          {
+            text: '120',
+            link: '/bible/translations/bsb/19_psa/120'
+          },
+          {
+            text: '140',
+            link: '/bible/translations/bsb/19_psa/140'
+          },
+          {
+            text: '141',
+            link: '/bible/translations/bsb/19_psa/141'
+          },
+          {
+            text: '142',
+            link: '/bible/translations/bsb/19_psa/142'
           }
         ]
       },
@@ -662,6 +682,10 @@ export default [
           {
             text: '023',
             link: '/bible/translations/bsb/40_mat/023'
+          },
+          {
+            text: '026',
+            link: '/bible/translations/bsb/40_mat/026'
           }
         ]
       },
@@ -675,8 +699,16 @@ export default [
             link: '/bible/translations/bsb/41_mrk/011'
           },
           {
+            text: '012',
+            link: '/bible/translations/bsb/41_mrk/012'
+          },
+          {
             text: '013',
             link: '/bible/translations/bsb/41_mrk/013'
+          },
+          {
+            text: '014',
+            link: '/bible/translations/bsb/41_mrk/014'
           }
         ]
       },
@@ -692,6 +724,10 @@ export default [
           {
             text: '020',
             link: '/bible/translations/bsb/42_luk/020'
+          },
+          {
+            text: '022',
+            link: '/bible/translations/bsb/42_luk/022'
           }
         ]
       },
@@ -946,6 +982,10 @@ export default [
               {
                 text: '15',
                 link: '/bible/plans/bible-in-a-year/04/15'
+              },
+              {
+                text: '16',
+                link: '/bible/plans/bible-in-a-year/04/16'
               }
             ]
           }
@@ -966,6 +1006,10 @@ export default [
           {
             text: 'Day 3: Holy Tuesday',
             link: '/bible/plans/holy-week-easter/3'
+          },
+          {
+            text: 'Day 4: Holy Wednesday (or “Spy Wednesday”)',
+            link: '/bible/plans/holy-week-easter/4'
           }
         ]
       }
