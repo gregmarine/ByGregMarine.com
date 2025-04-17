@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/04/16_
+      text: A Dream is a Wish Your Heart Makes
+      link: /blog/2025/04/16_a-dream-is-a-wish-your-heart-makes
     - theme: alt
       text: Sleep, Backups, and My Daily Bread
       link: /blog/2025/04/15_sleep-backups-and-my-daily-bread

@@ -1,4 +1,4 @@
-# TBD
+# A Dream is a Wish Your Heart Makes
 
 ## My Day
 
@@ -6,7 +6,7 @@
 
 Today's *Bible in a Year* reading was very relatable to me. A few of the Psalms will likely become personal prayers of mine. [Psalm 141](/bible/translations/bsb/19_psa/141) and [142](/bible/translations/bsb/19_psa/142) sound like things on my heart lately.
 
-In the Bible app, what I currently use for this reading, the audio portion of Psalm 142 was messed up. It is set to Psalm 126...LOL I've noticed that for a few chapters through the whole Bible, it isn't quite right. It's either the wrong one or the audio and the verses aren't synced up. When that happens, I simply read it aloud myself. As I've been putting each chapter here on my website, I hope I'm always using the correct audio for each. In the future, when I do this *Bible in a Year* plan, I'll just use this website to follow along.
+In the Bible app, what I currently use for this reading, the audio portion of Psalm 142 was messed up. It is set to Psalm 126...LOL I've noticed a few chapters through the whole Bible aren't quite right. It's either the wrong one or the audio and the verses aren't synced up. When that happens, I simply read it aloud myself. As I've been putting each chapter here on my website, I hope I'm always using the correct audio for each. In the future, when I do this *Bible in a Year* plan, I'll just use this website to follow along.
 
 My goal is to remove my dependence on the Bible app. It's nice to have the app. And I do plan to still have *a* Bible app of some kind. I just don't like *that* Bible app much. It has grown too big. I like something simple. When it was first introduced, it was simple. Now they have all kinds of things in it. That is all good and well for most people. So, I'm just speaking about personal preference. There isn't anything inherently wrong with what the Bible app has become.
 
@@ -64,21 +64,31 @@ Here is a little something I wrote about *Providence* that I'm finally ready to 
 
 ### 03:30pm
 
-I've started my weekly rice cook...hehehe The smell triggers my appetite! I'm glad I'm back to making rice again. I'll not be making any next week, though. I'll be on a Staycation with my parents in town...hehehe I'm thinking about doing this twice a week now. It's easy to add to my meals. And I haven't grown tired of it yet. It's a staple in a lot of cultures. It hasn't been in my family, though. It was just an occasional thing because I'm from a USA/Midwest culture. But I've been eating it quite a bit lately and I love it! I've also been doing chowmein once a week. I've thought about increasing that too.
+I've started my weekly rice cook...hehehe The smell triggers my appetite! I'm glad I'm back to making rice again. I'll not be making any next week, though. I'll be on a Staycation...hehehe I'm thinking about doing this twice a week now. It's easy to add to my meals. And I haven't grown tired of it yet. It's a staple in a lot of cultures. It hasn't been in my family, though. It was just an occasional thing because I'm from a USA/Midwest culture. But I've been eating it quite a bit lately and I love it! I've also been doing chowmein once a week. I've thought about increasing that too.
 
 Lately, I've been sending Cherie Humpty Dumpty photos on Wednesdays...since it is *Humpty Dumpty Day* for us (a play on *Hump Day*, as it's typically called). Well, this week, with Easter being this Sunday, I've decided I'd *April Shower* her with several (somewhat) Easter themed Humpty Dumpty's...hehehe It was fun curating them and I've been gradually sending them. I think by the end of the day, there will be 9 in total...hehehe
 
-I enjoy doing these *warm hugs*. Some are silly. Some have special and deep meaning. Some are just *thinking of you* things. It all depends on the context, who I am doing them for, and whatever mood we are all in. But no matter what, it is part of who I am and how I show love to someone. It's a simple act of kindness that cost little to nothing. The world needs more of this. God has given me a gift that I love to share with others. Perhaps...some of these things are inspired by Providence? (see what I did there...LOL)
+I enjoy doing these *warm hugs*. Some are silly. Some have special and deep meaning. Some are just *thinking of you* things. It all depends on the context, who I am doing them for, and whatever mood we are all in. But no matter what, it is part of who I am and how I show love to someone. It's a simple act of kindness that costs nothing. The world needs more of this. God has given me a gift that I love to share with others. Perhaps...some of these things are inspired by Providence? (see what I did there...LOL)
 
 ### 06:45pm
 
-I just finished watching this week's episode (S4E1) of *The Chosen* and was reminded of a significant dream. I'm not sure if I've written about this before. So bear with me if you've heard this already.
+I just finished watching this week's episode (S4E1) of *The Chosen* and was reminded of a significant dream that's a part of my life. I'm not sure if I've written about this before. So bear with me if you've heard this already.
 
 My son's mother and I were having trouble agreeing on a name for our son. Names went back and forth and each were politely rejected. Then one night, his mother had a dream about what we would call him. She didn't tell me about the dream at first. The next day, while she was at work, one of her co-workers came running to her shouting, *You need to call him Malachi!* In his mother's dream, we had given him the name *Malachi*. When she got home that night, she told me all about the dream and what her co-worker said. The matter was settled, our son's name was to be *Malachi*; which the Hebrew origin means *my messenger* or *my angel*.
 
-Malachi has always loved his name. He is a gift from God. His Providence provided a wonderful name for my son <3
+Malachi has always loved his name. He is a gift from God and His Providence (see, I did it again...LOL) provided a wonderful name for my son <3
 
+### 10:55pm
 
+I mentioned earlier about the audio issues for [Psalm 142](/bible/translations/bsb/19_psa/142) in the Bible app. It turns out, the issue is the source file. The place I get the audio recordings from has the same issue...hehehe I contacted them about it. So for now, my website will not have the audio included for this Psalm. That's a first! Once they correct it, I'll update my site to include the audio.
+
+Today, I discovered that CUMC has a mid-week devotional they do live on Facebook on Wednesdays. I didn't tune in live today as I don't have social media notifications turned on for any of those apps. But I did watch the recording this evening. It was really nice to have a devotional from the pastor today.
+
+I'll be tuning in for the services tomorrow and Friday for Holy Week. I'm looking forward to seeing how those services go at CUMC. This is my first Easter with this church. Last year, I tuned into all of the Holy Week services at CCGS. For Easter, I went to theChapel's earliest service and then tuned into the CCGS Sonrise service. This year, I'll try to attend all 3 of the CUMC services. I think they are all different. At least the styles might be. The sermon might be the same? I don't really know...hehehe
+
+Today's photo was another painted rock...hehehe This one was found because I picked up some trash and took it to a trashcan I don't normally go by. It was off in a direction away from the pond but was closest to where I found the trash. On my way back to the pond, I spotted it...hehehe If I hadn't picked up the trash and gone to that alternate trashcan, I wouldn't have seen the rock...LOL
+
+Well, this has been a long day...in a good way. I better call it a night and think about bed. I still have a shower to take too...hehehe What dreams will I dream tonight, I wonder? *A dream is a wish your heart makes, when you're fast asleep* <3
 
 ## Today's photo 📸
 
