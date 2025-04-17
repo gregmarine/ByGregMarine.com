@@ -662,6 +662,10 @@ export default [
           {
             text: '023',
             link: '/bible/translations/bsb/40_mat/023'
+          },
+          {
+            text: '026',
+            link: '/bible/translations/bsb/40_mat/026'
           }
         ]
       },
@@ -677,6 +681,10 @@ export default [
           {
             text: '013',
             link: '/bible/translations/bsb/41_mrk/013'
+          },
+          {
+            text: '014',
+            link: '/bible/translations/bsb/41_mrk/014'
           }
         ]
       },
@@ -692,6 +700,10 @@ export default [
           {
             text: '020',
             link: '/bible/translations/bsb/42_luk/020'
+          },
+          {
+            text: '022',
+            link: '/bible/translations/bsb/42_luk/022'
           }
         ]
       },
@@ -966,6 +978,10 @@ export default [
           {
             text: 'Day 3: Holy Tuesday',
             link: '/bible/plans/holy-week-easter/3'
+          },
+          {
+            text: 'Day 4: Holy Wednesday (or “Spy Wednesday”)',
+            link: '/bible/plans/holy-week-easter/4'
           }
         ]
       }
