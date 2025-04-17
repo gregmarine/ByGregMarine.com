@@ -679,6 +679,10 @@ export default [
             link: '/bible/translations/bsb/41_mrk/011'
           },
           {
+            text: '012',
+            link: '/bible/translations/bsb/41_mrk/012'
+          },
+          {
             text: '013',
             link: '/bible/translations/bsb/41_mrk/013'
           },
