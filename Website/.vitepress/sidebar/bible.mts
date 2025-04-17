@@ -614,6 +614,10 @@ export default [
             link: '/bible/translations/bsb/19_psa/052'
           },
           {
+            text: '056',
+            link: '/bible/translations/bsb/19_psa/056'
+          },
+          {
             text: '059',
             link: '/bible/translations/bsb/19_psa/059'
           },
@@ -624,6 +628,22 @@ export default [
           {
             text: '090',
             link: '/bible/translations/bsb/19_psa/090'
+          },
+          {
+            text: '120',
+            link: '/bible/translations/bsb/19_psa/120'
+          },
+          {
+            text: '140',
+            link: '/bible/translations/bsb/19_psa/140'
+          },
+          {
+            text: '141',
+            link: '/bible/translations/bsb/19_psa/141'
+          },
+          {
+            text: '142',
+            link: '/bible/translations/bsb/19_psa/142'
           }
         ]
       },
@@ -962,6 +982,10 @@ export default [
               {
                 text: '15',
                 link: '/bible/plans/bible-in-a-year/04/15'
+              },
+              {
+                text: '16',
+                link: '/bible/plans/bible-in-a-year/04/16'
               }
             ]
           }
