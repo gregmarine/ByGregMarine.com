@@ -88,7 +88,7 @@ I'll be tuning in for the services tomorrow and Friday for Holy Week. I'm lookin
 
 Today's photo was another painted rock...hehehe This one was found because I picked up some trash and took it to a trashcan I don't normally go by. It was off in a direction away from the pond but was closest to where I found the trash. On my way back to the pond, I spotted it...hehehe If I hadn't picked up the trash and gone to that alternate trashcan, I wouldn't have seen the rock...LOL
 
-Well, this has been a long day...in a good way. I better call it a night and think about bed. I still have a shower to take too...hehehe What dreams will I dream tonight, I wonder? *A dream is a wish your heart makes, when you're fast asleep* <3
+Well, this has been a long day...in a good way. I better call it a night and think about bed. What dreams will I dream tonight, I wonder? *A dream is a wish your heart makes, when you're fast asleep* <3
 
 ## Today's photo 📸
 
