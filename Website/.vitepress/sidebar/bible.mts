@@ -779,6 +779,17 @@ export default [
             link: '/bible/translations/bsb/45_rom/014'
           }
         ]
+      },
+      {
+        text: '1 Corinthians',
+        link: '/bible/translations/bsb/46_1co/',
+        collapsed: true,
+        items: [
+          {
+            text: '011',
+            link: '/bible/translations/bsb/46_1co/011'
+          }
+        ]
       }
     ]
   },
@@ -1026,6 +1037,10 @@ export default [
           {
             text: 'Day 4: Holy Wednesday (or “Spy Wednesday”)',
             link: '/bible/plans/holy-week-easter/4'
+          },
+          {
+            text: 'Day 5: Maundy Thursday',
+            link: '/bible/plans/holy-week-easter/5'
           }
         ]
       }
