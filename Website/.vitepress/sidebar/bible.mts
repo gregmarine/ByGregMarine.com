@@ -687,6 +687,17 @@ export default [
         ]
       },
       {
+        text: 'Isaiah',
+        link: '/bible/translations/bsb/23_isa/',
+        collapsed: true,
+        items: [
+          {
+            text: '053',
+            link: '/bible/translations/bsb/23_isa/053'
+          }
+        ]
+      },
+      {
         text: 'Matthew',
         link: '/bible/translations/bsb/40_mat/',
         collapsed: true,
@@ -756,6 +767,10 @@ export default [
           {
             text: '022',
             link: '/bible/translations/bsb/42_luk/022'
+          },
+          {
+            text: '023',
+            link: '/bible/translations/bsb/42_luk/023'
           }
         ]
       },
@@ -1061,6 +1076,10 @@ export default [
           {
             text: 'Day 5: Maundy Thursday',
             link: '/bible/plans/holy-week-easter/5'
+          },
+          {
+            text: 'Day 6: Good Friday',
+            link: '/bible/plans/holy-week-easter/6'
           }
         ]
       }
