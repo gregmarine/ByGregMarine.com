@@ -581,6 +581,18 @@ export default [
           {
             text: '024',
             link: '/bible/translations/bsb/09_1sa/024'
+          },
+          {
+            text: '025',
+            link: '/bible/translations/bsb/09_1sa/025'
+          },
+          {
+            text: '026',
+            link: '/bible/translations/bsb/09_1sa/026'
+          },
+          {
+            text: '027',
+            link: '/bible/translations/bsb/09_1sa/027'
           }
         ]
       },
@@ -765,6 +777,17 @@ export default [
           {
             text: '014',
             link: '/bible/translations/bsb/45_rom/014'
+          }
+        ]
+      },
+      {
+        text: '1 Corinthians',
+        link: '/bible/translations/bsb/46_1co/',
+        collapsed: true,
+        items: [
+          {
+            text: '011',
+            link: '/bible/translations/bsb/46_1co/011'
           }
         ]
       }
@@ -986,6 +1009,10 @@ export default [
               {
                 text: '16',
                 link: '/bible/plans/bible-in-a-year/04/16'
+              },
+              {
+                text: '17',
+                link: '/bible/plans/bible-in-a-year/04/17'
               }
             ]
           }
@@ -1010,6 +1037,10 @@ export default [
           {
             text: 'Day 4: Holy Wednesday (or “Spy Wednesday”)',
             link: '/bible/plans/holy-week-easter/4'
+          },
+          {
+            text: 'Day 5: Maundy Thursday',
+            link: '/bible/plans/holy-week-easter/5'
           }
         ]
       }
