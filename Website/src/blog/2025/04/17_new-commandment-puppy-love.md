@@ -1,4 +1,4 @@
-# TBD
+# New Commandment ~ (Puppy) Love
 
 ## My Day ☀️
 
@@ -80,7 +80,15 @@ Today's featured photo is of one of them. For the song, on Instagram, I went wit
 
 The work challenge will be taken into another day tomorrow. But I did find a path to take that should yield a resolution tomorrow. So, hopefully I can wrap that up tomorrow and get things prepared for testing to be complete before my staycation next week...hehehe I'll be working Monday and Tuesday. The issue is data related. So, if there are still data issues after Tuesday, I know of some folks who can help resolve that. The technical details have all been worked out...the parts I'm actually responsible for. The data is someone else's responsibility. But I have to figure out what is missing in order to get them on track. So, for now, it's my problem...hehehe
 
+### 10:05pm
 
+During the service tonight, I had an idea that I'd like to implement soon-ish. Some churches drape cloth on their crosses of differing colors throughout the Christian calendar. The little wooden cross Cherie gave me would be perfect for that. I could probably use ribbons for that since the cross is small. This could become as amazing as what I do with my LEGO Bonsai tree <3
+
+I'm so glad I connected with Holy Week last year. Continuing that this year has been such a Blessing. Although I'm doing something different this year, being connected with God through all of this is what I've always needed to do.
+
+I'm already thinking about changing my sleep schedule again...LOL This new one I'm on is working for what it needs to. But I don't like it...hehehe What I would rather do is change my work start time. I've thought about that before and even discussed it with my boss. That might be what I end up doing next. When? I don't really know yet. The *Big Bang* weekend is a month from now. Before? After? Never? Choices...LOL
+
+Regardless, today is not the day I'll be making a choice. Today, I'm sticking with what I've been working on this month. So, that's a wrap for today...LOL
 
 ## Today's photo 📸
 

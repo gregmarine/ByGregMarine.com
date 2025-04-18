@@ -334,8 +334,8 @@ export default [
             link: '/blog/2025/04/16_a-dream-is-a-wish-your-heart-makes'
           },
           {
-            text: '17 - TBD',
-            link: '/blog/2025/04/17_'
+            text: '17 - New Commandment ~ (Puppy) Love',
+            link: '/blog/2025/04/17_new-commandment-puppy-love'
           }
         ]
       }

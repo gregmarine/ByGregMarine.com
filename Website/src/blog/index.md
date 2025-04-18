@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/04/17_
+      text: New Commandment ~ (Puppy) Love
+      link: /blog/2025/04/17_new-commandment-puppy-love
     - theme: alt
       text: A Dream is a Wish Your Heart Makes
       link: /blog/2025/04/16_a-dream-is-a-wish-your-heart-makes
