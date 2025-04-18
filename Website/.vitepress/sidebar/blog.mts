@@ -336,6 +336,10 @@ export default [
           {
             text: '17 - New Commandment ~ (Puppy) Love',
             link: '/blog/2025/04/17_new-commandment-puppy-love'
+          },
+          {
+            text: '18 - TBD',
+            link: '/blog/2025/04/18_'
           }
         ]
       }
