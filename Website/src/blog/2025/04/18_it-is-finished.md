@@ -34,6 +34,16 @@ There are many days worth celebrating. There are many seasons to connect my hear
 
 *It is finished...*
 
+### 09:00pm
+
+I had another day where I only went for the 1 walk right after work. It was a beautiful evening to be out. It's still too dry. We really need rain and there isn't any in the forecast. The fires have gotten worse and burn bans are going into effect. I think this is the first time I've experienced a drought since moving here. I've experienced droughts before, though. Back in Indiana. I'm glad the fires aren't threatening populated areas. But I feel for the wildlife that's impacted. Despite the human population and over development, there is still a large wildlife presence in Florida. But wildfires are a natural part of Florida's ecosystem. So, this might be good thing for those areas?
+
+Speaking of wildlife, we are in alligator mating season. I haven't seen any alligators in this season yet. But if I do, I'll be extra careful. They get aggressive for the season and a lot hungrier...LOL There remains a good presence of birds around the pond. So far, that appears to be a sign that there aren't any alligators. That's been my experience since moving here, anyway...hehehe
+
+I'm getting to watch tonight's ballgame 💙 I don't like missing the games. But I'm very grateful when I do get to see them. I'm still hoping to get to go to a game in August. And I am thinking about going to some Spring training games next year. At least those here near me.
+
+I have a friend who is *collecting* ballparks. He is a Yankees fan. And he has been trying to go to as many Major League ballparks as he can. He is still young. I imagine he'll have quite the *collection* someday. I need to check in on him and see how many he's already been to...LOL I did talk with him today. But it was about Good Friday and Easter. Not baseball...LOL
+
 
 
 ## Today's photo 📸
