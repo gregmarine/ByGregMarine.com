@@ -38,9 +38,9 @@ There are many days worth celebrating. There are many seasons to connect my hear
 
 ## Today's photo 📸
 
-<!--@include: @/photos/photo-a-day/2025/04/17.md{3,}-->
+<!--@include: @/photos/photo-a-day/2025/04/18.md{3,}-->
 
-You can find [this photo](/photos/photo-a-day/2025/04/17) in the [photo](/photos/) section too.
+You can find [this photo](/photos/photo-a-day/2025/04/18) in the [photo](/photos/) section too.
 
 ## Bible 📖
 
