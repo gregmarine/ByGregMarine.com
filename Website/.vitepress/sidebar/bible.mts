@@ -610,6 +610,10 @@ export default [
             link: '/bible/translations/bsb/19_psa/011'
           },
           {
+            text: '017',
+            link: '/bible/translations/bsb/19_psa/017'
+          },
+          {
             text: '027',
             link: '/bible/translations/bsb/19_psa/027'
           },
@@ -622,8 +626,16 @@ export default [
             link: '/bible/translations/bsb/19_psa/034'
           },
           {
+            text: '035',
+            link: '/bible/translations/bsb/19_psa/035'
+          },
+          {
             text: '052',
             link: '/bible/translations/bsb/19_psa/052'
+          },
+          {
+            text: '054',
+            link: '/bible/translations/bsb/19_psa/054'
           },
           {
             text: '056',
@@ -632,6 +644,10 @@ export default [
           {
             text: '059',
             link: '/bible/translations/bsb/19_psa/059'
+          },
+          {
+            text: '063',
+            link: '/bible/translations/bsb/19_psa/063'
           },
           {
             text: '077',
@@ -667,6 +683,17 @@ export default [
           {
             text: '003',
             link: '/bible/translations/bsb/20_pro/003'
+          }
+        ]
+      },
+      {
+        text: 'Isaiah',
+        link: '/bible/translations/bsb/23_isa/',
+        collapsed: true,
+        items: [
+          {
+            text: '053',
+            link: '/bible/translations/bsb/23_isa/053'
           }
         ]
       },
@@ -740,6 +767,10 @@ export default [
           {
             text: '022',
             link: '/bible/translations/bsb/42_luk/022'
+          },
+          {
+            text: '023',
+            link: '/bible/translations/bsb/42_luk/023'
           }
         ]
       },
@@ -1013,6 +1044,10 @@ export default [
               {
                 text: '17',
                 link: '/bible/plans/bible-in-a-year/04/17'
+              },
+              {
+                text: '18',
+                link: '/bible/plans/bible-in-a-year/04/18'
               }
             ]
           }
@@ -1041,6 +1076,10 @@ export default [
           {
             text: 'Day 5: Maundy Thursday',
             link: '/bible/plans/holy-week-easter/5'
+          },
+          {
+            text: 'Day 6: Good Friday',
+            link: '/bible/plans/holy-week-easter/6'
           }
         ]
       }
