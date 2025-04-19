@@ -662,6 +662,10 @@ export default [
             link: '/bible/translations/bsb/19_psa/120'
           },
           {
+            text: '130',
+            link: '/bible/translations/bsb/19_psa/130'
+          },
+          {
             text: '140',
             link: '/bible/translations/bsb/19_psa/140'
           },
@@ -786,6 +790,10 @@ export default [
           {
             text: '012',
             link: '/bible/translations/bsb/43_jhn/012'
+          },
+          {
+            text: '019',
+            link: '/bible/translations/bsb/43_jhn/019'
           }
         ]
       },
@@ -1048,6 +1056,10 @@ export default [
               {
                 text: '18',
                 link: '/bible/plans/bible-in-a-year/04/18'
+              },
+              {
+                text: '19',
+                link: '/bible/plans/bible-in-a-year/04/19'
               }
             ]
           }
@@ -1080,6 +1092,10 @@ export default [
           {
             text: 'Day 6: Good Friday',
             link: '/bible/plans/holy-week-easter/6'
+          },
+          {
+            text: 'Day 7: Holy Saturday',
+            link: '/bible/plans/holy-week-easter/7'
           }
         ]
       }
