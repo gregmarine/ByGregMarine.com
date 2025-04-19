@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/04/18_
+      text: It is Finished
+      link: /blog/2025/04/18_it-is-finished
     - theme: alt
       text: New Commandment ~ (Puppy) Love
       link: /blog/2025/04/17_new-commandment-puppy-love

@@ -338,8 +338,8 @@ export default [
             link: '/blog/2025/04/17_new-commandment-puppy-love'
           },
           {
-            text: '18 - TBD',
-            link: '/blog/2025/04/18_'
+            text: '18 - It is Finished',
+            link: '/blog/2025/04/18_it-is-finished'
           }
         ]
       }

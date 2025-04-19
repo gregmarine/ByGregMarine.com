@@ -1,4 +1,4 @@
-# TBD
+# It is Finished
 
 ## My Day ☀️
 
@@ -25,6 +25,14 @@ There was a time in my life when I would have been sad to be missing out on some
 When I was originally making plans for Japan, I didn't know I'd be at a different company. I didn't know we'd be just weeks away from a huge event at work that would require my presence and focus at this specific time. And I didn't know that I would be fortunate enough to see my mother on her birthday. By the way, I'll be seeing my mom on her 70th birthday next week...YAY!!!
 
 A change in one set of plans opened up my life to all sorts of other things. I may eventually get to Japan. I still have hopes to live there for a year. But I'm also okay if that never happens.
+
+### 08:10pm
+
+What a beautiful service <3 I just finished watching the CUMC Good Friday service.
+
+There are many days worth celebrating. There are many seasons to connect my heart with. But Christmas, Good Friday, and Easter are among the most important days for me. The arrival of our Savior, the sacrifice of our Savior, and the resurrection of our Savior. Thank you, Jesus, for coming, dying, and rising <3
+
+*It is finished...*
 
 
 
