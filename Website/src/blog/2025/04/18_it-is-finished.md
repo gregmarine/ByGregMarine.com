@@ -54,7 +54,15 @@ It's really easy to take all of our worries, sorrows, and pain to God in prayer.
 
 Perhaps the hardest part of taking our joys to God is that it is often difficult to find the joy in the first place. When we experience so much trouble in our lives, it becomes harder to focus on what is good. Our minds tend to focus on the pain, I think. At least, that's been my experience. As I listen to others, I think they go through the same thing. The more I practice showing God the *rocks* (joys) I find, the easier it has become to find them. He still cares about the troubles. But I know He also cares about the amazing *rocks* I show Him...hehehe
 
+### 10:35pm
 
+I'm happy to report that the Dodgers won! Yay!!! 💙
+
+That's a nice way to end the day...hehehe With the exception of a poor dinner experience, today was a...*good*...Friday (see what I did there...LOL).
+
+I decided to go to Panera for dinner tonight. I had their new Croque Monsieur croissant toast sandwich. It was not a good sandwich...LOL I think this is the first time I didn't like something at Panera?
+
+The rest of my day was good, though. I loved today <3
 
 ## Today's photo 📸
 
