@@ -50,7 +50,7 @@ I totally forgot to mention this the other day...LOL There is a toddler and his 
 
 It reminded me of some young boys I saw on a hike I took in North Carolina last year. I took a photo of the family for them. But the young boys were excited to show off the rocks they had found...hehehe
 
-It's really easy to take all of worries, sorrows, and pain to God in prayer. We want healing and peace. But what if we were to take our joys to Him like those children did when they showed me their rocks? That's something I've been trying to get better at lately.
+It's really easy to take all of our worries, sorrows, and pain to God in prayer. We want healing and peace. But what if we were to take our joys to Him like those children did when they showed me their rocks? That's something I've been trying to get better at lately.
 
 Perhaps the hardest part of taking our joys to God is that it is often difficult to find the joy in the first place. When we experience so much trouble in our lives, it becomes harder to focus on what is good. Our minds tend to focus on the pain, I think. At least, that's been my experience. As I listen to others, I think they go through the same thing. The more I practice showing God the *rocks* (joys) I find, the easier it has become to find them. He still cares about the troubles. But I know He also cares about the amazing *rocks* I show Him...hehehe
 
