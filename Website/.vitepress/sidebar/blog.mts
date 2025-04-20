@@ -340,6 +340,10 @@ export default [
           {
             text: '18 - It is Finished',
             link: '/blog/2025/04/18_it-is-finished'
+          },
+          {
+            text: '19 - Thank You, Jesus!',
+            link: '/blog/2025/04/19_thank-you-jesus'
           }
         ]
       }
