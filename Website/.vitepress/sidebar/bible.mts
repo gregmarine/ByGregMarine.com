@@ -682,6 +682,30 @@ export default [
             link: '/bible/translations/bsb/19_psa/120'
           },
           {
+            text: '121',
+            link: '/bible/translations/bsb/19_psa/121'
+          },
+          {
+            text: '123',
+            link: '/bible/translations/bsb/19_psa/123'
+          },
+          {
+            text: '124',
+            link: '/bible/translations/bsb/19_psa/124'
+          },
+          {
+            text: '125',
+            link: '/bible/translations/bsb/19_psa/125'
+          },
+          {
+            text: '128',
+            link: '/bible/translations/bsb/19_psa/128'
+          },
+          {
+            text: '129',
+            link: '/bible/translations/bsb/19_psa/129'
+          },
+          {
             text: '130',
             link: '/bible/translations/bsb/19_psa/130'
           },
@@ -1080,6 +1104,10 @@ export default [
               {
                 text: '19',
                 link: '/bible/plans/bible-in-a-year/04/19'
+              },
+              {
+                text: '20',
+                link: '/bible/plans/bible-in-a-year/04/20'
               }
             ]
           }
