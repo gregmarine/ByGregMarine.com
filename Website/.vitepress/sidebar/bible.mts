@@ -773,6 +773,10 @@ export default [
           {
             text: '026',
             link: '/bible/translations/bsb/40_mat/026'
+          },
+          {
+            text: '028',
+            link: '/bible/translations/bsb/40_mat/028'
           }
         ]
       },
@@ -819,6 +823,10 @@ export default [
           {
             text: '023',
             link: '/bible/translations/bsb/42_luk/023'
+          },
+          {
+            text: '024',
+            link: '/bible/translations/bsb/42_luk/024'
           }
         ]
       },
@@ -838,6 +846,10 @@ export default [
           {
             text: '019',
             link: '/bible/translations/bsb/43_jhn/019'
+          },
+          {
+            text: '020',
+            link: '/bible/translations/bsb/43_jhn/020'
           }
         ]
       },
@@ -1144,6 +1156,10 @@ export default [
           {
             text: 'Day 7: Holy Saturday',
             link: '/bible/plans/holy-week-easter/7'
+          },
+          {
+            text: 'Day 8: Easter Sunday',
+            link: '/bible/plans/holy-week-easter/8'
           }
         ]
       }
