@@ -344,6 +344,10 @@ export default [
           {
             text: '19 - Thank You, Jesus!',
             link: '/blog/2025/04/19_thank-you-jesus'
+          },
+          {
+            text: '20 - He is Risen!',
+            link: '/blog/2025/04/20_he-is-risen'
           }
         ]
       }
