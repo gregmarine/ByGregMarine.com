@@ -682,6 +682,30 @@ export default [
             link: '/bible/translations/bsb/19_psa/120'
           },
           {
+            text: '121',
+            link: '/bible/translations/bsb/19_psa/121'
+          },
+          {
+            text: '123',
+            link: '/bible/translations/bsb/19_psa/123'
+          },
+          {
+            text: '124',
+            link: '/bible/translations/bsb/19_psa/124'
+          },
+          {
+            text: '125',
+            link: '/bible/translations/bsb/19_psa/125'
+          },
+          {
+            text: '128',
+            link: '/bible/translations/bsb/19_psa/128'
+          },
+          {
+            text: '129',
+            link: '/bible/translations/bsb/19_psa/129'
+          },
+          {
             text: '130',
             link: '/bible/translations/bsb/19_psa/130'
           },
@@ -749,6 +773,10 @@ export default [
           {
             text: '026',
             link: '/bible/translations/bsb/40_mat/026'
+          },
+          {
+            text: '028',
+            link: '/bible/translations/bsb/40_mat/028'
           }
         ]
       },
@@ -795,6 +823,10 @@ export default [
           {
             text: '023',
             link: '/bible/translations/bsb/42_luk/023'
+          },
+          {
+            text: '024',
+            link: '/bible/translations/bsb/42_luk/024'
           }
         ]
       },
@@ -814,6 +846,10 @@ export default [
           {
             text: '019',
             link: '/bible/translations/bsb/43_jhn/019'
+          },
+          {
+            text: '020',
+            link: '/bible/translations/bsb/43_jhn/020'
           }
         ]
       },
@@ -1080,6 +1116,10 @@ export default [
               {
                 text: '19',
                 link: '/bible/plans/bible-in-a-year/04/19'
+              },
+              {
+                text: '20',
+                link: '/bible/plans/bible-in-a-year/04/20'
               }
             ]
           }
@@ -1116,6 +1156,10 @@ export default [
           {
             text: 'Day 7: Holy Saturday',
             link: '/bible/plans/holy-week-easter/7'
+          },
+          {
+            text: 'Day 8: Easter Sunday',
+            link: '/bible/plans/holy-week-easter/8'
           }
         ]
       }
