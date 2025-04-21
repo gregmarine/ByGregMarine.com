@@ -16,9 +16,9 @@ The treats were candy. I gave up those sorts of treats a little over a year ago.
 
 ## Today's photo 📸
 
-<!--@include: @/photos/photo-a-day/2025/04/19.md{3,}-->
+<!--@include: @/photos/photo-a-day/2025/04/20.md{3,}-->
 
-You can find [this photo](/photos/photo-a-day/2025/04/19) in the [photo](/photos/) section too.
+You can find [this photo](/photos/photo-a-day/2025/04/20) in the [photo](/photos/) section too.
 
 ## Bible 📖
 
