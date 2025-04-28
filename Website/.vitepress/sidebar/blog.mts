@@ -348,6 +348,10 @@ export default [
           {
             text: '20 - He is Risen!',
             link: '/blog/2025/04/20_he-is-risen'
+          },
+          {
+            text: '28 - TBD',
+            link: '/blog/2025/04/28_'
           }
         ]
       }
