@@ -350,8 +350,8 @@ export default [
             link: '/blog/2025/04/20_he-is-risen'
           },
           {
-            text: '28 - TBD',
-            link: '/blog/2025/04/28_'
+            text: '28 - Staycation in Review',
+            link: '/blog/2025/04/28_staycation-in-review'
           }
         ]
       }

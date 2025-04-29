@@ -1,4 +1,4 @@
-# TBD
+# Staycation in Review
 
 ## 07:50am
 
@@ -92,3 +92,20 @@ They made it home safely this evening. They always drive on these visits. So dad
 
 ![](/photos/photo-a-day/2025/04/media/IMG_8081.jpeg)
 
+## 11:00pm
+
+I really enjoyed my staycation. Especially the time with my family. Like usual, there were a few moments that weren't my favorites...HAHAHA But I tried to highlight the top ones today. Of course, there were plenty more amazing moments I didn't write about. It was one of those weeks where it would have been nice to journal every day. I just didn't make the time for that. I prioritized time for family <3
+
+I also really enjoyed dressing up Friday night and Saturday. It was great that my parents were able to see me do that in person this time. They had only really ever seen photos before. The one exception was for my sister's wedding last year. I did dress up for that. But this time, I dressed retro and dapper everyday for their visit. Except Sunday when they left. But unplanned, my parents and I matched at breakfast that day...LOL
+
+My full dapper will probably have to wait again until the Fall. I may try to find some ways to do that in the summer. I have the retro that should work for most of the summer. But otherwise, dapper season is over for now. Dapper makes me happier...hehehe
+
+Look! I'm a Joffrey's coffee...HAHAHA
+
+![](./media/IMG_8072.jpeg)
+
+![](./media/IMG_8073.jpeg)
+
+Argyle makes me happy 💜
+
+![](./media/IMG_8064.jpeg)
