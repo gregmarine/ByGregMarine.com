@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: Staycation in Review
-      link: /blog/2025/04/28_staycation-in-review
+      text: TBD
+      link: /blog/2025/04/29_
     - theme: alt
       text: Staycation in Review
       link: /blog/2025/04/28_staycation-in-review
