@@ -88,15 +88,15 @@ We've been doing these for just over a year now. Season 5's devotional comes out
 
 Before my parents left on Sunday, we met up for breakfast at Cracker Barrel. This was the first time where I asked them my *what was your favorite moment* question. I went through each day one at a time with them. It was amazing talking about their visit. I even got to hear about things that happened when I wasn't around. It was the perfect way to say goodbye <3
 
-They made it home safely this evening. They always drive on these visits. So dad shares his location with me so I can track their progress. I do the same when I drive up there and back down. I'll be doing that on my next visit to Indiana; which is next month. I haven't driven up there in a while. I enjoy that drive and I'm looking forward to it. And I can't wait to see my son and family. I'll be up long enough to probably visit with some friends as well.
+They made it home safely this evening. They always drive on these visits. So dad shares his location with me so I can track their progress. I do the same when I drive up there and back down. I'll be doing that on my next visit to Indiana; which is next month. I haven't driven up there in a while because I usually fly. I enjoy that drive and I'm looking forward to it. And I can't wait to see my son and family. I'll be up long enough to probably visit with some friends as well.
 
 ![](/photos/photo-a-day/2025/04/media/IMG_8081.jpeg)
 
 ## 11:00pm
 
-I really enjoyed my staycation. Especially the time with my family. Like usual, there were a few moments that weren't my favorites...HAHAHA But I tried to highlight the top ones today. Of course, there were plenty more amazing moments I didn't write about. It was one of those weeks where it would have been nice to journal every day. I just didn't make the time for that. I prioritized time for family <3
+I really enjoyed my staycation. Especially the time with my family. Like usual, there were a few moments that weren't my favorites...HAHAHA But I tried to highlight the top ones today. Of course, there were plenty more amazing moments I didn't write about. It was one of those weeks where it would have been nice to journal every day. I just didn't make the time for that. I prioritized time with family <3
 
-I also really enjoyed dressing up Friday night and Saturday. It was great that my parents were able to see me do that in person this time. They had only really ever seen photos before. The one exception was for my sister's wedding last year. I did dress up for that. But this time, I dressed retro and dapper everyday for their visit. Except Sunday when they left. But unplanned, my parents and I matched at breakfast that day...LOL
+I also really enjoyed dressing up each day...especially Friday night and Saturday. It was great that my parents were able to see me do that in person this time. They had only really ever seen photos before. The one exception was for my sister's wedding last year. I did dress up for that. But this time, I dressed retro and dapper everyday for their visit. Except Sunday when they left. But unplanned, my parents and I matched at breakfast that day...LOL
 
 My full dapper will probably have to wait again until the Fall. I may try to find some ways to do that in the summer. I have the retro that should work for most of the summer. But otherwise, dapper season is over for now. Dapper makes me happier...hehehe
 
