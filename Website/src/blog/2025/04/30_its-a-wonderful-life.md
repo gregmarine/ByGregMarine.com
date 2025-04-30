@@ -1,4 +1,4 @@
-# TBD
+# It's a Wonderful Life
 
 It has been nice being mostly back to my routine. There is a certain comfort in routine. I've been doing well at keeping from being stuck in a rut. I had a wonderful time with my family. And I'm having a wonderful time alone this week. It's a good balance, I think.
 
@@ -14,7 +14,7 @@ But back to my point, I have a wonderful life. At least in the same ways as the 
 
 It's okay to feel the pain of it all. And it's equally okay to celebrate the little and big wins we have in life. So, when I take the 30,000 foot view of my life, I'd say it has been wonderful. And I'd say it has been difficult. It takes both perspectives to form the healthiest thoughts about my life.
 
-We are now about a third of the way through 2025. And I'm just over a month into my personal year. Some of this year's experiences were expected. Some were not. Overall, I'm content with it all. But I'll also admit that some things just aren't that great or comfortable.
+We are now about a third of the way through 2025. And I'm just over a month into my personal year. Some of this year's experiences were expected. Some were not. Overall, I'm content with it all. But I'll also admit that some things just aren't that great, not that enjoyable, and not that comfortable.
 
 I've been a bit more meditative lately. Although I've been writing, I don't write about all of the things I'm thinking about. That's why I started up my private journaling again. I like to have that to just get some things off my mind that aren't ready to share. Not all of my thoughts are fleshed out yet. But I'm sure you can tell in today's entry that I'm working through a balance of the good and bad in my life...hehehe
 

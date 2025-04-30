@@ -354,8 +354,8 @@ export default [
             link: '/blog/2025/04/28_staycation-in-review'
           },
           {
-            text: '30 - TBD',
-            link: '/blog/2025/04/30_'
+            text: '30 - It\'s a Wonderful Life',
+            link: '/blog/2025/04/30_its-a-wonderful-life'
           }
         ]
       }
