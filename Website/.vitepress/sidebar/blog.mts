@@ -354,8 +354,8 @@ export default [
             link: '/blog/2025/04/28_staycation-in-review'
           },
           {
-            text: '29 - TBD',
-            link: '/blog/2025/04/29_'
+            text: '30 - TBD',
+            link: '/blog/2025/04/30_'
           }
         ]
       }

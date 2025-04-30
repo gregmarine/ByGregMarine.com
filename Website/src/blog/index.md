@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /blog/2025/04/29_
+      link: /blog/2025/04/30_
     - theme: alt
       text: Staycation in Review
       link: /blog/2025/04/28_staycation-in-review
