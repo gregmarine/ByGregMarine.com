@@ -354,6 +354,16 @@ export default [
             link: '/blog/2025/04/28_staycation-in-review'
           }
         ]
+      },
+      {
+        text: 'May',
+        collapsed: true,
+        items: [
+          {
+            text: '01 - It\'s a Wonderful Life',
+            link: '/blog/2025/05/01_its-a-wonderful-life'
+          }
+        ]
       }
     ]
   }
