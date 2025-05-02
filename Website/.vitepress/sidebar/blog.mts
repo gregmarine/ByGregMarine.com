@@ -352,10 +352,16 @@ export default [
           {
             text: '28 - Staycation in Review',
             link: '/blog/2025/04/28_staycation-in-review'
-          },
+          }
+        ]
+      },
+      {
+        text: 'May',
+        collapsed: true,
+        items: [
           {
-            text: '30 - It\'s a Wonderful Life',
-            link: '/blog/2025/04/30_its-a-wonderful-life'
+            text: '01 - It\'s a Wonderful Life',
+            link: '/blog/2025/05/01_its-a-wonderful-life'
           }
         ]
       }
