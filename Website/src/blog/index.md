@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /blog/2025/05/05_
+      link: /blog/2025/05/06_
     - theme: alt
       text: It's a Wonderful Life
       link: /blog/2025/05/01_its-a-wonderful-life

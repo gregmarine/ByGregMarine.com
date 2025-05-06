@@ -364,8 +364,8 @@ export default [
             link: '/blog/2025/05/01_its-a-wonderful-life'
           },
           {
-            text: '05 - TBD',
-            link: '/blog/2025/05/05_'
+            text: '06 - TBD',
+            link: '/blog/2025/05/06_'
           }
         ]
       }
