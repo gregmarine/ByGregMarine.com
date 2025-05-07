@@ -20,6 +20,10 @@ Grandpa also loved fishing. He and grandma lived on a lake for a while. I rememb
 
 The lake's name was Heritage. It was a fitting name for what memories I have with my grandpa there. He passed on a lasting heritage of God's Love. There's a community near where I live today that is also called Heritage Lake. I smile every single time I drive by; which is weekly. It's between my home and my grocery...hehehe
 
+Grandpa bought one of those huge VHS camcorders that you had to lug on your shoulder while you recorded. We'd see him capture all of the *best* family moments. All of our holiday gathers were at their house. So, most of the footage was captured there. And most of those years were while they lived at Heritage Lake. Of my fondest, and most traumatizing, memories was when I was *attacked* by a huge white goose...LOL I was wearing a bright red jacket and that goose tore it clean off my body. We still have proof of that somewhere because grandpa recorded the whole thing...LOL Instead of *saving* me from the goose, he must have thought it was something everyone should always remember in full color...HAHAHA
+
+Obviously in the moment, I wasn't all that happy that no one came to my rescue. But looking back, I fondly remember how funny the ordeal actually was. I wasn't harmed in any way. The goose was clearly after my jacket and not me personally. Sure, child Greg was *traumatized*...hehehe But I'm so grateful for memories like that. I love how grandpa loved his family so much that he wanted to re-watch our gatherings over and over again. I do the same thing with my iPhone today. I record little clips and take photos all of the time. And yes, I do go back and watch the videos and look at the photos often. Somewhere, there is a DVD with most of those old home movies, as they used to be called. My cousin had the VHS transferred to DVD before grandpa passed. We all got together and watched them a year or two before he he left this age.
+
 
 
 
