@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/05/06_
+      text: Working Through the Backlog of Thought
+      link: /blog/2025/05/06_working-through-the-backlog-of-thought
     - theme: alt
       text: It's a Wonderful Life
       link: /blog/2025/05/01_its-a-wonderful-life

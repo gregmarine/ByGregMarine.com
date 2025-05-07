@@ -364,8 +364,8 @@ export default [
             link: '/blog/2025/05/01_its-a-wonderful-life'
           },
           {
-            text: '06 - TBD',
-            link: '/blog/2025/05/06_'
+            text: '06 - Working Through the Backlog of Thought',
+            link: '/blog/2025/05/06_working-through-the-backlog-of-thought'
           }
         ]
       }
