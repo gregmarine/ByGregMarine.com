@@ -24,4 +24,4 @@ The lake's name was Heritage. It was a fitting name for what memories I have wit
 
 
 
-Grandpa always drank that cheap Foldgers instant coffee. I don't care much for it. I still endure it when I visit with grandma since she still drinks it...LOL I'm more of high quality coffee person. I drink Joffrey's. But the connection to grandpa isn't the brand. It's warmth I feel as I sip that bitter black nectar. I mourn grandpa. I love grandpa. But joy truly does come in the mourning coffee.
+Grandpa always drank that cheap Foldgers instant coffee. I don't care much for it, myself. I still endure it when I visit with grandma since she still drinks it...LOL I imagine they drank it because of the low cost. They lived through some tough times. And even when times weren't tough, they liked what they liked...hehehe I'm more of high quality coffee person. I drink Joffrey's. But the connection to grandpa isn't in the brand or quality. It's in the warmth I feel as I sip that bitter black nectar. I mourn grandpa. I miss grandpa. I love grandpa. And joy comes in the mourning coffee.
