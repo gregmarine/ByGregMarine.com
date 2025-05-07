@@ -1,4 +1,4 @@
-# Joy Comes in the Mourning
+# Joy Comes in the Mourning Coffee
 
 *Weeping may stay the night, but joy comes in the [mourning]. You turned my mourning into [coffee];* ~ Psalm 30:5b,11a (paraphrased by *meeeeeee*)
 

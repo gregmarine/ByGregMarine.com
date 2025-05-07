@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: Joy Comes in the Mourning
-      link: /blog/2025/05/07_joy-comes-in-the-mourning
+      text: Joy Comes in the Mourning Coffee
+      link: /blog/2025/05/07_joy-comes-in-the-mourning-coffee
     - theme: alt
       text: Working Through the Backlog of Thought
       link: /blog/2025/05/06_working-through-the-backlog-of-thought
