@@ -362,6 +362,10 @@ export default [
           {
             text: '01 - It\'s a Wonderful Life',
             link: '/blog/2025/05/01_its-a-wonderful-life'
+          },
+          {
+            text: '06 - Working Through the Backlog of Thought',
+            link: '/blog/2025/05/06_working-through-the-backlog-of-thought'
           }
         ]
       }
