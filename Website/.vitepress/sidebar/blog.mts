@@ -366,6 +366,10 @@ export default [
           {
             text: '06 - Working Through the Backlog of Thought',
             link: '/blog/2025/05/06_working-through-the-backlog-of-thought'
+          },
+          {
+            text: '07 - Joy Comes in the Mourning Coffee',
+            link: '/blog/2025/05/07_joy-comes-in-the-mourning-coffee'
           }
         ]
       }
