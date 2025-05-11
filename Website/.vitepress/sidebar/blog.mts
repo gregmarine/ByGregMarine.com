@@ -370,6 +370,10 @@ export default [
           {
             text: '07 - Joy Comes in the Mourning Coffee',
             link: '/blog/2025/05/07_joy-comes-in-the-mourning-coffee'
+          },
+          {
+            text: '10 - TBD',
+            link: '/blog/2025/05/10_'
           }
         ]
       }
