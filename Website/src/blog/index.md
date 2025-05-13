@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: TBD
-      link: /blog/2025/05/10_
+      link: /blog/2025/05/12_
     - theme: alt
       text: Joy Comes in the Mourning Coffee
       link: /blog/2025/05/07_joy-comes-in-the-mourning-coffee

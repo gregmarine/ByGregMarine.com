@@ -372,8 +372,8 @@ export default [
             link: '/blog/2025/05/07_joy-comes-in-the-mourning-coffee'
           },
           {
-            text: '10 - TBD',
-            link: '/blog/2025/05/10_'
+            text: '11 - TBD',
+            link: '/blog/2025/05/12_'
           }
         ]
       }
