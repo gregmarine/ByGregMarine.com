@@ -376,8 +376,8 @@ export default [
             link: '/blog/2025/05/12_more-to-come'
           },
           {
-            text: '13 - TBD',
-            link: '/blog/2025/05/13_'
+            text: '13 - Remaining Calm',
+            link: '/blog/2025/05/13_remaining-calm'
           }
         ]
       }
