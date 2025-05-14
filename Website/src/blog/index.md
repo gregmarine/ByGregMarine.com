@@ -10,7 +10,7 @@ hero:
     - theme: brand
       text: Remaining Calm
       link: /blog/2025/05/13_remaining-calm
-    - theme: brand
+    - theme: alt
       text: More to Come
       link: /blog/2025/05/12_more-to-come
     - theme: alt
