@@ -378,6 +378,10 @@ export default [
           {
             text: '13 - Remaining Calm',
             link: '/blog/2025/05/13_remaining-calm'
+          },
+          {
+            text: '15 - Sauerkraut Broke My Bowl',
+            link: '/blog/2025/05/15_sauerkraut-broke-my-bowl'
           }
         ]
       }
