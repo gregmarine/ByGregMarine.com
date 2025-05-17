@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Big Bang
+      link: /blog/2025/05/16_big-bang
+    - theme: alt
       text: Sauerkraut Broke My Bowl
       link: /blog/2025/05/15_sauerkraut-broke-my-bowl
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Joy Comes in the Mourning Coffee
       link: /blog/2025/05/07_joy-comes-in-the-mourning-coffee
-    - theme: alt
-      text: Working Through the Backlog of Thought
-      link: /blog/2025/05/06_working-through-the-backlog-of-thought
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
