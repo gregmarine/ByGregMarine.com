@@ -382,6 +382,10 @@ export default [
           {
             text: '15 - Sauerkraut Broke My Bowl',
             link: '/blog/2025/05/15_sauerkraut-broke-my-bowl'
+          },
+          {
+            text: '16 - Big Bang',
+            link: '/blog/2025/05/16_big-bang'
           }
         ]
       }
