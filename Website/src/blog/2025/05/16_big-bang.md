@@ -18,4 +18,4 @@ I recall writing a bit about unanswered questions and the uncertainty those brin
 
 I'm grateful God provided the Bible devotionals, studies, and reading plans I've been working through all this time. It helped guide me and gave my a firm foundation to stand on through it all. When I say God's timing is perfect, I'm not using hyperbole. I'm being quite literal. To add to that, I'd say it also complete. I always have just what I need, just when I need it, for just the very reason I need it. And that reason is to do the Will of God. Praise God!
 
-As for the name *Big Bang*. That's the code name they've been calling this at work. I wonder what God's code name was for the project of creating the entire universe?
+As for the name *Big Bang*. That's the code name they've been calling this at work. I wonder what God's code name was for the project of creating the entire universe? Hopefully my next entry will include the announcement that this weekend was a success...hehehe
