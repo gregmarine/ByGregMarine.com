@@ -386,6 +386,10 @@ export default [
           {
             text: '16 - Big Bang',
             link: '/blog/2025/05/16_big-bang'
+          },
+          {
+            text: '20 - Happy True Friendship Day',
+            link: '/blog/2025/05/20_happy-true-friendship-day'
           }
         ]
       }
