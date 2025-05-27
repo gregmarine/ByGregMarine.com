@@ -390,6 +390,10 @@ export default [
           {
             text: '20 - Happy True Friendship Day',
             link: '/blog/2025/05/20_happy-true-friendship-day'
+          },
+          {
+            text: '27 - TBD',
+            link: '/blog/2025/05/27_'
           }
         ]
       }
