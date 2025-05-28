@@ -1,4 +1,4 @@
-# TBD
+# Post Big Bang, Short Trip, and Writing
 
 It's been a bit since I last sat down to write in this journal. Everything has been going quite well. But I haven't made the time to stop and write about anything...hehehe That's okay. I've been *good* busy.
 
@@ -17,3 +17,4 @@ I'm so happy to be sticking with this journal. I remember when I started this at
 
 I've started the process of turning my 2024 journal entries into a book. I've already written the introduction and first chapter. I started the intro a few weeks ago and refined it more this past weekend. I did the first chapter this past weekend as well. I love how it is starting off. I hope to see this book through to completion. Lord willing, it will all work out :) I didn't get a chance to work on the book today. I'll have an opportunity to work on it a bit later this week. Today just didn't lend me the opportunity...hehehe
 
+I still have a list of things I'd like to write about. It's somewhat of a backlog of topics...hehehe I'll not get to any of that today. I original set out to do a 3 section approach for *morning, afternoon,* and *evening* to get back to journaling today. Cherie had been doing that for a bit and I loved how it worked for her. Alas, I didn't get it worked out today. Part of this entry was written before work and I gave it the *morning* heading. But I didn't get back to it until later in the evening. So, I stripped out the headings, reorganized some of it, wrote out more, and I ended up with what you are reading now...LOL But I'm glad I got around to writing today!

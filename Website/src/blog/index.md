@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/05/27_
+      text: Post Big Bang, Short Trip, and Writing
+      link: /blog/2025/05/27_post-big-bang-short-trip-and-writing
     - theme: alt
       text: Happy True Friendship Day
       link: /blog/2025/05/20_happy-true-friendship-day
