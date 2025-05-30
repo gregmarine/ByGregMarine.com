@@ -396,8 +396,8 @@ export default [
             link: '/blog/2025/05/27_post-big-bang-short-trip-and-writing'
           },
           {
-            text: '29 - TBD',
-            link: '/blog/2025/05/29_'
+            text: '29 - Malachi\'s Birthday, Food, and Book Progress',
+            link: '/blog/2025/05/29_malachi-s-birthday-food-and-book-progress'
           }
         ]
       }
