@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: TBD
+      link: /blog/2025/06/03_
+    - theme: alt
       text: Malachi's Birthday, Food, and Book Progress
       link: /blog/2025/05/29_malachi-s-birthday-food-and-book-progress
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Big Bang
       link: /blog/2025/05/16_big-bang
-    - theme: alt
-      text: Sauerkraut Broke My Bowl
-      link: /blog/2025/05/15_sauerkraut-broke-my-bowl
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

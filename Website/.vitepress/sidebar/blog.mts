@@ -400,6 +400,16 @@ export default [
             link: '/blog/2025/05/29_malachi-s-birthday-food-and-book-progress'
           }
         ]
+      },
+      {
+        text: 'June',
+        collapsed: true,
+        items: [
+          {
+            text: '03 - TBD',
+            link: '/blog/2025/06/03_'
+          }
+        ]
       }
     ]
   }
