@@ -406,8 +406,8 @@ export default [
         collapsed: true,
         items: [
           {
-            text: '03 - TBD',
-            link: '/blog/2025/06/03_'
+            text: '03 - Graduation, Birthdays, and a Thank You',
+            link: '/blog/2025/06/03_graduation-birthdays-and-a-thank-you'
           }
         ]
       }

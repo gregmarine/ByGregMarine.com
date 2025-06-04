@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/06/03_
+      text: Graduation, Birthdays, and a Thank You
+      link: /blog/2025/06/03_graduation-birthdays-and-a-thank-you
     - theme: alt
       text: Malachi's Birthday, Food, and Book Progress
       link: /blog/2025/05/29_malachi-s-birthday-food-and-book-progress
