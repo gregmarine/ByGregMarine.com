@@ -408,6 +408,10 @@ export default [
           {
             text: '03 - Graduation, Birthdays, and a Thank You',
             link: '/blog/2025/06/03_graduation-birthdays-and-a-thank-you'
+          },
+          {
+            text: '04 - My Soul is Satisfied',
+            link: '/blog/2025/06/04_my-soul-is-satisfied'
           }
         ]
       }
