@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/06/04_
+      text: My Soul is Satisfied
+      link: /blog/2025/06/04_my-soul-is-satisfied
     - theme: alt
       text: Graduation, Birthdays, and a Thank You
       link: /blog/2025/06/03_graduation-birthdays-and-a-thank-you
