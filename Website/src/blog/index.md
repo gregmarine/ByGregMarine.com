@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: TBD
+      link: /blog/2025/06/04_
+    - theme: alt
       text: Graduation, Birthdays, and a Thank You
       link: /blog/2025/06/03_graduation-birthdays-and-a-thank-you
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Happy True Friendship Day
       link: /blog/2025/05/20_happy-true-friendship-day
-    - theme: alt
-      text: Big Bang
-      link: /blog/2025/05/16_big-bang
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
