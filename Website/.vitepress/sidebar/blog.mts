@@ -412,6 +412,10 @@ export default [
           {
             text: '04 - My Soul is Satisfied',
             link: '/blog/2025/06/04_my-soul-is-satisfied'
+          },
+          {
+            text: '05 - Hello Darkness, My Old Friend',
+            link: '/blog/2025/06/05_hello-darkness-my-old-friend'
           }
         ]
       }
