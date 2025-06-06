@@ -1,4 +1,4 @@
-# TBD
+# Hello Darkness, My Old Friend
 
 I was living out the same life and patterns over and over again until 2020. By 2021, I was ready to break out of the circular, and oftentimes downward spiral, that was my life. When I finally broke the cycle, I became self-aware for pretty much the first time in my life...hehehe The journey since has been more of a straighter path than it was that old *going in circles* pattern I was living. This new path has been a bit rocky at times. And it was tempting more than once to go back to familiar habits and patterns from my past. But God has been my guide and has helped me keep moving forward toward the life He created for me.
 
@@ -15,13 +15,3 @@ Celebrating the small wins doesn’t take away from the big wins. It adds to the
 I took a rather long prayer walk this evening. As you can tell, I have a lot on my heart and mind. I walked a little over 3 miles around the pond. Today's featured photo came from a moment when my heart felt very heavy and I stopped walking. I even bent down low to the ground for a bit. I think it was near the end of first mile when this happened. That moment inspired me to keep walking and praying.
 
 ![Pine tree, palm trees, and a wall](./media/IMG_8929.jpeg)
-
-At the end of my second mile, something a little weird happened. And I wouldn't have been a part of it had I not stopped in that heavy moment at the end of my first mile...LOL A girl had lost grip of a volleyball and it rolled down into the pond...hehehe She almost stepped into the pond to retrieve it, but soon realized how unsafe that was. She tried to break off a stick limb from a nearby tree. But as she was doing that, that ball began to drift away from the bank. As I was getting close, another neighbor offered to go get a broom to help retrieve it. While she was going after the broom, I walked up to offer some help.
-
-At this point, the ball was drifting beyond the reach of a broom. In fact, it was beginning to drift to a different side of the pond. When the gal with the broom got back, I joined her as we walked around to where we thought the ball might be headed. She made a remark about alligators and that's when I mentioned the reason I was joining the effort. I figured having multiple people would give the alligator a reason not to pursue us...hehehe Strength in numbers, right?! I haven't a clue if that would work, actually. But I wasn't about to leave this poor girl to retrieve the ball by herself.
-
-The ball was heading to one of the drains on the other side of the pond. So that's where we went. I cracked some jokes about the ball being Wilson from *Castaway*...LOL It was a fun time as we waited for the ball to reach us. Sure enough, it was heading toward the drain. The wind and the water flow made it the logical place for it to go. I instructed the broom gal to direct the ball toward me and I would be the one to bend down to the water to retrieve the ball. All the while, we were all keeping an eye on the water. This all drew quite the crowd, actually...LOL
-
-Once the ball was retrieved, we all dispersed and now have a story to tell. It's not a great story. And it isn't wise to be so close to a pond that likely had at least one alligator in it at the time. No ball is worth the risk. But I wanted to be there for the others. They were going to do this with or without me. I spoke a prayer to myself. And afterward I thanked God for the opportunity to be there for my neighbors.
-
-This is what inspired me to walk another mile.

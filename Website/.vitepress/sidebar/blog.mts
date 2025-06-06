@@ -414,8 +414,8 @@ export default [
             link: '/blog/2025/06/04_my-soul-is-satisfied'
           },
           {
-            text: '05 - TBD',
-            link: '/blog/2025/06/05_'
+            text: '05 - Hello Darkness, My Old Friend',
+            link: '/blog/2025/06/05_hello-darkness-my-old-friend'
           }
         ]
       }

@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/06/05_
+      text: Hello Darkness, My Old Friend
+      link: /blog/2025/06/05_hello-darkness-my-old-friend
     - theme: alt
       text: My Soul is Satisfied
       link: /blog/2025/06/04_my-soul-is-satisfied
