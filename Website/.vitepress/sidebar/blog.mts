@@ -418,6 +418,16 @@ export default [
             link: '/blog/2025/06/05_hello-darkness-my-old-friend'
           }
         ]
+      },
+      {
+        text: 'July',
+        collapsed: true,
+        items: [
+          {
+            text: '02 - TBD',
+            link: '/blog/2025/07/02_'
+          }
+        ]
       }
     ]
   }
