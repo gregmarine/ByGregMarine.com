@@ -424,8 +424,8 @@ export default [
         collapsed: true,
         items: [
           {
-            text: '02 - TBD',
-            link: '/blog/2025/07/02_'
+            text: '02 - Back at It',
+            link: '/blog/2025/07/02_back-at-it'
           }
         ]
       }
