@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Do I love America?
+      link: /blog/2025/07/04_do-i-love-america
+    - theme: alt
       text: Back at It
       link: /blog/2025/07/02_back-at-it
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Graduation, Birthdays, and a Thank You
       link: /blog/2025/06/03_graduation-birthdays-and-a-thank-you
-    - theme: alt
-      text: Malachi's Birthday, Food, and Book Progress
-      link: /blog/2025/05/29_malachi-s-birthday-food-and-book-progress
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
