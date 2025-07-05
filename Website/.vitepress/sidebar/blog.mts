@@ -428,7 +428,7 @@ export default [
             link: '/blog/2025/07/02_back-at-it'
           },
           {
-            text: '04 - Do I love America?',
+            text: '04 - Do I love America (USA)?',
             link: '/blog/2025/07/04_do-i-love-america'
           }
         ]
