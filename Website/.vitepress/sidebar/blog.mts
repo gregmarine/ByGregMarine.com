@@ -426,6 +426,10 @@ export default [
           {
             text: '02 - Back at It',
             link: '/blog/2025/07/02_back-at-it'
+          },
+          {
+            text: '05 - Do I love America (USA)?',
+            link: '/blog/2025/07/05_do-i-love-america'
           }
         ]
       }
