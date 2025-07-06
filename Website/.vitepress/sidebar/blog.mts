@@ -429,7 +429,7 @@ export default [
           },
           {
             text: '04 - Do I love America (USA)?',
-            link: '/blog/2025/07/04_do-i-love-america'
+            link: '/blog/2025/07/05_do-i-love-america'
           }
         ]
       }

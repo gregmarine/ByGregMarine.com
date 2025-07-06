@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Do I love America (USA)?
-      link: /blog/2025/07/04_do-i-love-america
+      link: /blog/2025/07/05_do-i-love-america
     - theme: alt
       text: Back at It
       link: /blog/2025/07/02_back-at-it
