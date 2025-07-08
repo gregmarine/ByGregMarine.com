@@ -432,8 +432,8 @@ export default [
             link: '/blog/2025/07/05_do-i-love-america'
           },
           {
-            text: '07 - TBD',
-            link: '/blog/2025/07/07_'
+            text: '07 - Tacos, Memories, and Disney',
+            link: '/blog/2025/07/07_tacos-memories-and-disney'
           }
         ]
       }

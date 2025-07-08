@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/07/07_
+      text: Tacos, Memories, and Disney
+      link: /blog/2025/07/07_tacos-memories-and-disney
     - theme: alt
       text: Do I love America (USA)?
       link: /blog/2025/07/05_do-i-love-america
