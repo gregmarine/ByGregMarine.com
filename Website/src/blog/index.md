@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: TBD
+      link: /blog/2025/07/07_
+    - theme: alt
       text: Do I love America (USA)?
       link: /blog/2025/07/05_do-i-love-america
     - theme: alt

@@ -430,6 +430,10 @@ export default [
           {
             text: '05 - Do I love America (USA)?',
             link: '/blog/2025/07/05_do-i-love-america'
+          },
+          {
+            text: '07 - TBD',
+            link: '/blog/2025/07/07_'
           }
         ]
       }
