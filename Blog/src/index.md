@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "So, I was thinking..."
-  text: "Musings by Greg Marine"
-  tagline: Behind the curtain of a curious mind.
+  name: So, I was thinking...
+  text: has moved!
+  tagline: See link below
   actions:
     - theme: brand
-      text: TBD
-      link: /2025/01/20_
+      text: On the Move
+      link: /2025/01/20_on-the-move
     - theme: alt
       text: Today, I'm not ready
       link: /2025/01/19_today-im-not-ready
@@ -24,4 +24,4 @@ hero:
       link: /2025/01/16_sent
 ---
 
-Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
+This website is now just an archive. Please visit [my main website](https://bygregmarine.com) for my latest content. You can also go straight to [my blog here](https://bygregmarine.com/blog).

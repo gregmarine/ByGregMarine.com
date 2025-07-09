@@ -1,0 +1,19 @@
+# More to Come
+
+You may have noticed I haven't been including the featured photo and Bible in a Year reading in my posts lately. Well, I stopped adding them to my website for now...LOL I still take the photos and I'm on track with my daily readings. I just haven't felt like adding them as content for my website lately. It takes some time to do that. It was adding unnecessary stress to the little time I have to write. What I may start doing is batching that up for the week on weekends when I have more time. For now, I'm not going to be consistent with that on my website. I'll get around to it if it is important enough to me...hehehe
+
+I also haven't been posting as often lately. I've been running out of time. And I haven't been doing timestamp entries. I have been keeping a list of topics I'd like to write about. And that list keeps getting longer. I'll have to break that up into multiple posts. I have written some of it out. But like before, not all of it is ready to be published. I intended to get around to some of that writing today. But that didn't happen.
+
+I'm actually only posting this brief one to acknowledge the circumstances. A year from now, and beyond, I want to have this as a reminder that sometimes things don't go quite as expected. And I needed the further reminder that these times are okay. There isn't anything wrong when things don't work out. It doesn't always feel okay. Even now, I don't like that I haven't been able to complete much of my writing...LOL But it's oookkkaaayyy...HAHAHA
+
+Today was a busy day. We are quickly approaching the *Big Bang*; which is this weekend. I was in a meeting this morning where some folks seemed really stressed about everything. Today was the official go/no-go deadline. I'll find out tomorrow if we are officially a *go*. The meeting was at the end of business and I'm one to *clock out* as close to 5pm as possible. I was 15 minutes past 5 today, by the way...LOL
+
+I'll talk more about how I have Kindle now in a near future post. But I did want to mention that, last week, I read a new book twice. I'll also talk more about that book in a near future post. It is a book by my friend, Mike, who I have worked with on books before. I'm actually in one of his that's published on Amazon. I wrote the foreword and a guest chapter...hehehe And I've helped him with a few of his others. This new book was short and to the point. I love that. But it was so good for me, that I read it twice. On the second time around, I annotated it with notes galore and then posted a review of it on Amazon based on some of my notes. That was fun!
+
+His book included an offer for a free copy of another book from a different author, as it related to his book's content. I grabbed that book and I've already read it too. I finished that one today. I won't review that one or read through it completely again anytime soon. It was an okay book that I did enjoy. But it isn't something I wanted to post a review on.
+
+I also started back with another book I got awhile ago. I read another chapter of it at dinner tonight. It was a timely read. It has some insights I needed to hear today.
+
+I'm glad to be back to reading more again. I read all the time. Just not intentional reading like books. I read the Bible everyday. I read news articles several times a week. I research things quite often too. But reading books is different. At least, it *feels* different...hehehe And it makes my heart happy <3 So, I'm glad I have a Kindle now. It's easier to read on than my iPhone or iPad. And I only use Kindle on my MacBook for the Bible study. My Kindle Scribe (the one I finally decided on) is so much easier on the eyes. And it is so much more than an eReader. More on that in a near future post too...hehehe
+
+That's it for today. I had a really good day. I needed today. I'm glad I had today. I loved today <3
