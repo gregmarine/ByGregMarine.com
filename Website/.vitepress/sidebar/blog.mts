@@ -436,8 +436,8 @@ export default [
             link: '/blog/2025/07/07_tacos-memories-and-disney'
           },
           {
-            text: '09 - TBD',
-            link: '/blog/2025/07/09_'
+            text: '09 - Things are Good',
+            link: '/blog/2025/07/09_things-are-good'
           }
         ]
       }

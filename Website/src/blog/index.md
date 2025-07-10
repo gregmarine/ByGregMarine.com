@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/07/09_
+      text: Things are Good
+      link: /blog/2025/07/09_things-are-good
     - theme: alt
       text: Tacos, Memories, and Disney
       link: /blog/2025/07/07_tacos-memories-and-disney
