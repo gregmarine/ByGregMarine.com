@@ -434,6 +434,10 @@ export default [
           {
             text: '07 - Tacos, Memories, and Disney',
             link: '/blog/2025/07/07_tacos-memories-and-disney'
+          },
+          {
+            text: '09 - TBD',
+            link: '/blog/2025/07/09_'
           }
         ]
       }
