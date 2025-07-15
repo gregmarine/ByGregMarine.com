@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/07/14_
+      text: Poor Sleep, New Car, and Bible Insights
+      link: /blog/2025/07/14_poor-sleep-new-car-and-bible-insights
     - theme: alt
       text: Things are Good
       link: /blog/2025/07/09_things-are-good

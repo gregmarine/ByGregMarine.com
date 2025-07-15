@@ -1,4 +1,4 @@
-# TBD
+# Poor Sleep, New Car, and Bible Insights
 
 ## Morning
 
@@ -28,3 +28,16 @@ I was originally going to do a meatless Monday. I changed my mind and have decid
 
 I'm still doing well with my *Bible in a Year* reading. I'm just past the half way point for the year...considering we are in July, that makes sense, right?!.LOL This year has been different than last year. Last year, I simply read the Bible. I think I've mentioned this fact...this year, I'm listening to *The Bible Recap* podcast. Also, when I start a new book, I watch a video from *BibleProject* that explains the book I'm about to read. I've learned so many new things by doing that. That actually helped with the above mentioned research into Luke's writing of the word *hate* and the context surrounding it. I didn't just look at the original Greek, I also looked into his writing style. That idea comes from *The Bible Recap* and *BibleProject* because those two resources do a good job of explaining such thing. I haven't gotten to Luke yet with the *Bible in a Year* plan this year. So last night's research was independent of that. But the spirit of the research was inspired by my daily readings. I love how that has changed the way I read the Bible <3
 
+## Evening
+
+The fish tacos turned out great. I've come up with a taco seasoning that works well with fish. I imagine it would work for chicken too. I had tilapia this time. Last week, I had cod one of the nights I made tacos. I think I like the tilapia better than the cod. I need to get salmon. I definitely love salmon tacos...hehehe
+
+I'm trying some new (to me) tortillas. They are made by Siete and made from cassava flour. I love the texture and flavor. And they hold together really well while I'm eating the tacos. They might become my go-to tortilla.
+
+I watched a couple more round table discussions for season 3 of *The Chosen*...hehehe And then I did today's devotional. Just as soon as I finished the devotional, it was time for the Home Run Derby. And that's what I've been watching the rest of the evening...hehehe
+
+I'm thinking about doing a road trip with my new car...hehehe I need to decide where to go and when. Going to Disney World isn't really a road trip. So, even if I do end up there again soon, I'll not count that...LOL I'm thinking about either finding a place in Florida far from home, or even possibly going out of state near Florida. I'd like to go somewhere I've never been. It will be just a weekend trip, though. So, somewhere close enough for that. But a place I can stay a night or two, enjoy my new car, and experience something new <3
+
+I'd also like to plan a weekend trip up to Indiana soon. For that trip, I'll fly. I don't want to take any time off for these trips...hehehe
+
+Overall, I had a good day. It seems that my poor sleep didn't really impact my day. That's good! I'll probably sleep really well tonight.
