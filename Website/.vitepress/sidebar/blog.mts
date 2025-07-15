@@ -438,6 +438,10 @@ export default [
           {
             text: '09 - Things are Good',
             link: '/blog/2025/07/09_things-are-good'
+          },
+          {
+            text: '14 - Poor Sleep, New Car, and Bible Insights',
+            link: '/blog/2025/07/14_poor-sleep-new-car-and-bible-insights'
           }
         ]
       }
