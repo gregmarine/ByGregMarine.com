@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: TBD
+      link: /blog/2025/07/15_
+    - theme: alt
       text: Poor Sleep, New Car, and Bible Insights
       link: /blog/2025/07/14_poor-sleep-new-car-and-bible-insights
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Do I love America (USA)?
       link: /blog/2025/07/05_do-i-love-america
-    - theme: alt
-      text: Back at It
-      link: /blog/2025/07/02_back-at-it
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
