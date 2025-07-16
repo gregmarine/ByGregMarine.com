@@ -444,8 +444,8 @@ export default [
             link: '/blog/2025/07/14_poor-sleep-new-car-and-bible-insights'
           },
           {
-            text: '15 - TBD',
-            link: '/blog/2025/07/15_'
+            text: '15 - Hair, Cruisin\' Comin\', and a Phone Call',
+            link: '/blog/2025/07/15_hair-cruisin-comin-and-a-phone-call'
           }
         ]
       }

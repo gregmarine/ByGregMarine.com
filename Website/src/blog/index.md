@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/07/15_
+      text: Hair, Cruisin' Comin', and a Phone Call
+      link: /blog/2025/07/15_hair-cruisin-comin-and-a-phone-call
     - theme: alt
       text: Poor Sleep, New Car, and Bible Insights
       link: /blog/2025/07/14_poor-sleep-new-car-and-bible-insights
