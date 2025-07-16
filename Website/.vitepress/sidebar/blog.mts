@@ -442,6 +442,10 @@ export default [
           {
             text: '14 - Poor Sleep, New Car, and Bible Insights',
             link: '/blog/2025/07/14_poor-sleep-new-car-and-bible-insights'
+          },
+          {
+            text: '15 - Hair, Cruisin\' Comin\', and a Phone Call',
+            link: '/blog/2025/07/15_hair-cruisin-comin-and-a-phone-call'
           }
         ]
       }
