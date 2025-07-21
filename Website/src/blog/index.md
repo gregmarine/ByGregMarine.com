@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Handwritten Journal Entry
+      link: /blog/2025/07/20_handwritten-journal-entry
+    - theme: alt
       text: Hair, Cruisin' Comin', and a Phone Call
       link: /blog/2025/07/15_hair-cruisin-comin-and-a-phone-call
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Tacos, Memories, and Disney
       link: /blog/2025/07/07_tacos-memories-and-disney
-    - theme: alt
-      text: Do I love America (USA)?
-      link: /blog/2025/07/05_do-i-love-america
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
