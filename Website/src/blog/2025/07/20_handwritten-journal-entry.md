@@ -1,0 +1,19 @@
+# Handwritten Journal Entry
+
+I originally wrote this yesterday, Sunday July 20th. Due to technical issues, I wasn't able to post it last night. After resolving the issues today, I was able to post this.
+
+## Transcribed
+
+I've been thinking of new ways to journal. One idea was to handwrite a journal entry. So that's what I'm doing right now. I'm writing this on my [Kindle Scribe](https://www.amazon.com/dp/B0CZ9VFQ2P?th=1). But today, I ordered both a Supernote [Manta](https://supernote.com/pages/supernote-manta) and [Nomad](https://supernote.com/pages/supernote-nomad). After all the success I've enjoyed with this Scribe, I did some research into e-ink devices that are better suited for writing. The Scribe is great for basic writing and with handwritten notes to annotate Kindle books. But I've found it lacks some advanced writing tools and features. And it isn't ideal for sketching. It isn't great for portability either. In my research, I found the Supernote Nomad to be perfect for an on-the-go digital notebook. It also has advanced writing and sketching tools and features. Upon further research, I found that some benefitted from also having the larger Manta as a second digital notebook. Both have the same features and can sync. The difference is in size. Nomad is portable and Manta is great at home. Seeing how others used both convinced me that would work best for me too.
+
+I spent years not being able to write by hand. I have a tremor that impacts my hands. My recent health journey has produced improvements in my ability to control my hands. Last year, I began to journal by hand with the devotionals Cherie and I did. I also wrote a few letters by hand. I then started using paper notebooks to jot down ideas, work on poems, and just note things to remember. Then I got the Kindle Scribe and started using it for all the aforementioned. I've been keeping digital notebooks for over 2 months now. I never would have guessed I'd be doing so much writing by hand and enjoying it. Now that it has become such an important tool in my workflow, I've decided to invest in the *right* tool*s* for the *job*. I'm looking forward to what this does for my creativity and [personal knowledge management (PKM)](https://en.wikipedia.org/wiki/Personal_knowledge_management). I'm especially excited about having a digital notebook when I'm out and about.
+
+I've had a great weekend. I love weekends like this when I'm able to spend time with people I love, doing things we love, and it all feels just right. It didn't feel *busy* and it was relaxing. And I still got errands and chores done. I hope to have weekends like this again. They don't happen often and I cherish them.
+
+Today's favorite moment happened during one of my *Prayer Focus* sections. I wrote and sang the *I Love You, Lord* lyrics. When I sang it on our call, Cherie joined me in singing. It was our first time singing together and it was an unexpected Blessing. When I wrote that and knew I would sing it, I had no idea she'd join in. Thank you, deer friend, for giving me my favorite moment today.
+
+Well, that's all for this first handwritten journal entry. Now, I need to have the Scribe transcribe this to text...LOL I'll also try to link to a PDF of the original handwritten journal.
+
+## PDF Original
+
+[This PDF](./media/2025_07_20.pdf) has the original handwritten journal plus the AI transcribed text. The above text includes the corrections I needed to make for formatting and spelling errors from the transcript. I also added links. But the PDF includes all the original errors and *formatting*, or lack thereof...LOL

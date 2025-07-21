@@ -446,6 +446,10 @@ export default [
           {
             text: '15 - Hair, Cruisin\' Comin\', and a Phone Call',
             link: '/blog/2025/07/15_hair-cruisin-comin-and-a-phone-call'
+          },
+          {
+            text: '20 - Handwritten Journal Entry',
+            link: '/blog/2025/07/20_handwritten-journal-entry'
           }
         ]
       }
