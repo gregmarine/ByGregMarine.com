@@ -16,4 +16,4 @@ Well, that's all for this first handwritten journal entry. Now, I need to have t
 
 ## PDF Original
 
-[This PDF](./media/2025_07_20.pdf) has the original handwritten journal plus the AI transcribed text. The above text includes the corrections I needed to make for formatting and spelling errors from the transcript. I also added links. But the PDF includes all the original errors and *formatting*, or lack thereof...LOL
+[This PDF](/media/blog/2025/07/2025_07_20.pdf) has the original handwritten journal plus the AI transcribed text. The above text includes the corrections I needed to make for formatting and spelling errors from the transcript. I also added links. But the PDF includes all the original errors and *formatting*, or lack thereof...LOL
