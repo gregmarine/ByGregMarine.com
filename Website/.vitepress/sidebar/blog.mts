@@ -450,6 +450,10 @@ export default [
           {
             text: '20 - Handwritten Journal Entry',
             link: '/blog/2025/07/20_handwritten-journal-entry'
+          },
+          {
+            text: '21 - Coffee, Reading, Creativity, and E-ink',
+            link: '/blog/2025/07/21_coffee-reading-creativity-and-e-ink'
           }
         ]
       }
