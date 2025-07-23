@@ -454,6 +454,10 @@ export default [
           {
             text: '21 - Coffee, Reading, Creativity, and E-ink',
             link: '/blog/2025/07/21_coffee-reading-creativity-and-e-ink'
+          },
+          {
+            text: '22 - Social Unkindness and the Lone Duckling',
+            link: '/blog/2025/07/22_social-unkindness-and-the-lone-duckling'
           }
         ]
       }
