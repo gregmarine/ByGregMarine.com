@@ -458,6 +458,10 @@ export default [
           {
             text: '22 - Social Unkindness and the Lone Duckling',
             link: '/blog/2025/07/22_social-unkindness-and-the-lone-duckling'
+          },
+          {
+            text: '24 - 26 Years of Lindsay',
+            link: '/blog/2025/07/24_26-years-of-lindsay'
           }
         ]
       }

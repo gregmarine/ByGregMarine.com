@@ -1,0 +1,15 @@
+# 26 Years of Lindsay
+
+Well, It's another year since the day I met Lindsay in person. I still remember that day as if it was happening today. I wrote some things last year about the day. But I realize I left out quite a bit. That's okay. Perhaps I'll write every year on this day and eventually tell the entire story in a jumbled mess of blog posts...hehehe I'm still grateful for that day 26 years later.
+
+As I said a year ago, her uncle had contacted the prayer chain I was running in 1999. A few months later, I drove about 500 miles to go pray with them. We had several emails, instant message chats, and phone calls before my first visit on July 24, 1999. An elder from her church was there. We had a wonderful prayer circle to surround Lindsay. When the elder left, she saw my vehicle and prayed over it. She thought it looked like it might die on my way home...LOL Little did she know, that old 1986 Ford Aerostar van would last another 4 or 5 years...LOL
+
+No matter what the answers are, I believe prayer is incredibly important. It's communication with our God and King. Even when the answer isn't what we expect or hope for, everything from God is good. Even when it isn't something we want for an answer, He works all things for good. We also often receive things from Him we didn't even ask for...LOL Looking to God, even when we are upset, is always the best choice. He loves us in ways we cannot possible understand. 26 years later, God is still taking care of my transportation needs...LOL (I just bought a new car)
+
+I enjoy this annual celebration of Lindsay's life. God allowed me to witness and experience Him in amazing ways through my brief time with her. I think about her more often than this one day, of course. But today is important to me. I miss my friend. I miss the laughs. I miss the deep conversations. I miss the warm hugs. But I have all of it in my heart's memories. God gave me that and I'll always be grateful. Today, I'm not sad when I think about all of this. Although, it would be okay to be sad. My heart is actually quite happy. I'm happy I was able to experience my friendship and fellowship with Lindsay <3
+
+My drive home that night was unpleasant. It was about 7 hours or so from home. I couldn't afford a hotel that night. I also needed to get back for church the next day. I was one of the leaders at my church back then...LOL I stopped every few hours to sleep a bit at rest areas. I left pretty late...hehehe I arrived home shortly before I needed to be at the church. So I made it and was able to serve that day. In hindsight, I should have planned to leave much earlier than I did. But it was hard to leave such an amazing day.
+
+Next month, I'll be celebrating the day Lindsay left this life and began her knew life in God's Kingdom. I hope I'm as happy that day as I am today. But, again, it will be okay if I'm sad. It's okay that I miss her. She left her fingerprints on my heart. She will always be missed, but never forgotten <3
+
+[The PDF of the original handwritten journal](/media/blog/2025/07/20250724.pdf)
