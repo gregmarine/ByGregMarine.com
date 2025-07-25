@@ -11,3 +11,5 @@ I enjoy this annual celebration of Lindsay's life. God allowed me to witness and
 My drive home that night was unpleasant. It was about 7 hours or so from home. I couldn't afford a hotel that night. I also needed to get back for church the next day. I was one of the leaders at my church back then...LOL I stopped every few hours to sleep a bit at rest areas. I left pretty late...hehehe I arrived home shortly before I needed to be at the church. So I made it and was able to serve that day. In hindsight, I should have planned to leave much earlier than I did. But it was hard to leave such an amazing day.
 
 Next month, I'll be celebrating the day Lindsay left this life and began her knew life in God's Kingdom. I hope I'm as happy that day as I am today. But, again, it will be okay if I'm sad. It's okay that I miss her. She left her fingerprints on my heart. She will always be missed, but never forgotten <3
+
+[The PDF of the original handwritten journal](/media/blog/2025/07/20250724.pdf)
