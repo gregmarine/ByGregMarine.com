@@ -462,6 +462,10 @@ export default [
           {
             text: '24 - 26 Years of Lindsay',
             link: '/blog/2025/07/24_26-years-of-lindsay'
+          },
+          {
+            text: '29 - Sleep, Grief, and Nemo\'s Dreamscapes',
+            link: '/blog/2025/07/29_sleep-grief-and-nemos-dreamscapes'
           }
         ]
       }
