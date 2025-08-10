@@ -37,4 +37,4 @@ I just got home from my time with my sister. We had an amazing time. I dropped o
 
 This was an amazing day. It was a great way to kick off this vacation. Thank You, Lord, for today. I love You too <3
 
-[Handwritten journal](/media/blog/2025/08/20250809.pdf)
+[Today's handwritten journal](/media/blog/2025/08/20250809.pdf)
