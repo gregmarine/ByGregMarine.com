@@ -468,6 +468,16 @@ export default [
             link: '/blog/2025/07/29_sleep-grief-and-nemos-dreamscapes'
           }
         ]
+      },
+      {
+        text: 'August',
+        collapsed: true,
+        items: [
+          {
+            text: '09 - I Love You Too',
+            link: '/blog/2025/08/09_i-love-you-too'
+          }
+        ]
       }
     ]
   }
