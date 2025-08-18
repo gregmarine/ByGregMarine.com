@@ -476,6 +476,10 @@ export default [
           {
             text: '09 - I Love You Too',
             link: '/blog/2025/08/09_i-love-you-too'
+          },
+          {
+            text: '17 - My Heart is Happy ❤️',
+            link: '/blog/2025/08/17_my-heart-is-happy'
           }
         ]
       }
