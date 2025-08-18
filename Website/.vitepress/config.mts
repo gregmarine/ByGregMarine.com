@@ -30,10 +30,10 @@ export default {
     },
 
     socialLinks: [
-      { icon: 'x', link: 'https://x.com/bygregmarine' },
       { icon: 'instagram', link: 'https://www.instagram.com/bygregmarine/' },
       { icon: 'threads', link: 'https://www.threads.net/@bygregmarine' },
       { icon: 'bluesky', link: 'https://bsky.app/profile/bygregmarine.bsky.social' },
+      { icon: 'x', link: 'https://x.com/bygregmarine' },
       { icon: 'github', link: 'https://github.com/gregmarine/ByGregMarine.com/' }
     ]
   }
