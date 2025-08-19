@@ -480,6 +480,10 @@ export default [
           {
             text: '17 - My Heart is Happy ❤️',
             link: '/blog/2025/08/17_my-heart-is-happy'
+          },
+          {
+            text: '18 - Everything Will Be Okay',
+            link: '/blog/2025/08/18_everything-will-be-okay'
           }
         ]
       }

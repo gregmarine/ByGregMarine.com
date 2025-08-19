@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Everything Will Be Okay
+      link: /blog/2025/08/18_everything-will-be-okay
+    - theme: alt
       text: My Heart is Happy ❤️
       link: /blog/2025/08/17_my-heart-is-happy
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: 26 Years of Lindsay
       link: /blog/2025/07/24_26-years-of-lindsay
-    - theme: alt
-      text: Social Unkindness and the Lone Duckling
-      link: /blog/2025/07/22_social-unkindness-and-the-lone-duckling
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
