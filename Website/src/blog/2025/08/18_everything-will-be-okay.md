@@ -33,3 +33,5 @@ Anyway, I'm enjoying this new workflow. And it is birthing a few hobbies. Or rei
 ## Wrapping Up
 
 Overall, this was a good day. I'm glad to be back to a routine. I'm also glad to be back to work. And I'm glad to be back in the kitchen...LOL The day started rough. It smoothed out and finished well. I'm grateful for it all. Not everything feels fine. But I know everything *will* be okay. God is so good. I love my family. I love my friends. Yes, *everything* is going to be okay ❤️
+
+[Today's handwritten journal](/media/blog/2025/08/20250818.pdf)
