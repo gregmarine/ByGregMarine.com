@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Vacation - First Day in California
+      link: /blog/2025/08/19_vacation-first-day-in-california
+    - theme: alt
       text: Everything Will Be Okay
       link: /blog/2025/08/18_everything-will-be-okay
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Sleep, Grief, and Nemo's Dreamscapes
       link: /blog/2025/07/29_sleep-grief-and-nemos-dreamscapes
-    - theme: alt
-      text: 26 Years of Lindsay
-      link: /blog/2025/07/24_26-years-of-lindsay
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
