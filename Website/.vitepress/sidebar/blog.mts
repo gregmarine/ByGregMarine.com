@@ -486,8 +486,8 @@ export default [
             link: '/blog/2025/08/18_everything-will-be-okay'
           },
           {
-            text: '19 - TBD',
-            link: '/blog/2025/08/19_'
+            text: '19 - Vacation - First Day in California',
+            link: '/blog/2025/08/19_vacation-first-day-in-california'
           }
         ]
       }

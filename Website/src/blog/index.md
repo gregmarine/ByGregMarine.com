@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/08/19_
+      text: Vacation - First Day in California
+      link: /blog/2025/08/19_vacation-first-day-in-california
     - theme: alt
       text: Everything Will Be Okay
       link: /blog/2025/08/18_everything-will-be-okay
