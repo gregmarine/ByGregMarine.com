@@ -1,8 +1,8 @@
 # Our August Vacation - Part 2
 
-I renamed my last entry because I realized this vacation is going to take many days, and parts, to write about. I also wanted to express how it was *our* vacation and not just *a* vacation...hehehe It aligns with the title Cherie used for her blog entry on her first part too.
+I renamed my last entry because it aligns with the title Cherie used for her blog entry on her first part. I also realized this vacation is going to take many days, and many more parts than I realized, to write about. So now that entry, and this one, have a good title to show that it is *our* vacation, it was a great one, and there is so much to talk about...hehehe.
 
-My second day in California started off with a nice breakfast at the Ayres hotel I was staying at. I really enjoy their breakfasts. The actual food isn't much different from a normal continental breakfast at most hotels. However, theirs is prepare by a nice chef right in front of you and served instead of free-for-all buffet style...LOL Considering their attention to detail, I like to tip the chef...hehehe
+My second day in California started off with a nice breakfast at the Ayres hotel we were staying at. I really enjoy their breakfasts. The actual food isn't much different from a normal continental breakfast at most hotels. However, theirs is prepare by a nice chef right in front of you and served instead of free-for-all buffet style...LOL Considering their attention to detail, I like to tip the chef...hehehe
 
 After breakfast I steamed my clothes for the week. Things get creased and wrinkly in the suitcase...hehehe So I was smart and packed my steamer. I bought it after my November trip last year. They had one at the AirBnB I was staying at and I bought one when I got home. I originally planned to steam my clothes the night before. But decided I would deal with it the morning after since I wasn't in any rush that day. After that, I enjoyed some coffee outside in front of the hotel as I thought about how the rest of my morning would go.
 
