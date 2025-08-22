@@ -486,8 +486,12 @@ export default [
             link: '/blog/2025/08/18_everything-will-be-okay'
           },
           {
-            text: '19 - Vacation - First Day in California',
-            link: '/blog/2025/08/19_vacation-first-day-in-california'
+            text: '19 - Our August Vacation - Part 1',
+            link: '/blog/2025/08/19_our-august-vacation-part-1'
+          },
+          {
+            text: '21 - Our August Vacation - Part 2',
+            link: '/blog/2025/08/21_our-august-vacation-part-2'
           }
         ]
       }

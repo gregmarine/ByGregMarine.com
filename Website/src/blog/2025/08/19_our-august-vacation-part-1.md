@@ -1,4 +1,4 @@
-# Vacation - First Day in California
+# Our August Vacation - Part 1
 
 I had another nightmare last night. This one was more about how *I'm not good enough*. Of course, that isn't true. But I've been in situations where I was made to feel that way and the nightmare involved some people who...yeah...Anyway, I'm not really sure where these nightmares are coming from all of a sudden. But I otherwise feel rested. I didn't wake with anxiety this time. I had more of a sense of *overcoming* those past feelings. I know my *worth* now.
 
