@@ -492,6 +492,10 @@ export default [
           {
             text: '21 - Our August Vacation - Part 2',
             link: '/blog/2025/08/21_our-august-vacation-part-2'
+          },
+          {
+            text: '25 - Back Home Again in Indiana',
+            link: '/blog/2025/08/25_back-home-again-in-indiana'
           }
         ]
       }
