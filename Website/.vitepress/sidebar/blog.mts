@@ -496,6 +496,10 @@ export default [
           {
             text: '25 - Back Home Again in Indiana',
             link: '/blog/2025/08/25_back-home-again-in-indiana'
+          },
+          {
+            text: '26 - Journals, My "Garden", and Good Times',
+            link: '/blog/2025/08/26_journals-my-garden-and-good-times'
           }
         ]
       }
