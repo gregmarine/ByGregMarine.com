@@ -500,6 +500,10 @@ export default [
           {
             text: '26 - Journals, My "Garden", and Good Times',
             link: '/blog/2025/08/26_journals-my-garden-and-good-times'
+          },
+          {
+            text: '27 - Back from Bleh',
+            link: '/blog/2025/08/27_back-from-bleh'
           }
         ]
       }
