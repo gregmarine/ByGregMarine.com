@@ -504,6 +504,10 @@ export default [
           {
             text: '27 - Back from Bleh',
             link: '/blog/2025/08/27_back-from-bleh'
+          },
+          {
+            text: '29 - Expressions of Love, and a Nose Bleed',
+            link: '/blog/2025/08/29_expressions-of-love-and-a-nose-bleed'
           }
         ]
       }
