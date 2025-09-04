@@ -510,6 +510,16 @@ export default [
             link: '/blog/2025/08/29_expressions-of-love-and-a-nose-bleed'
           }
         ]
+      },
+      {
+        text: 'September',
+        collapsed: true,
+        items: [
+          {
+            text: '03 - The Story Continues...',
+            link: '/blog/2025/09/03_the-story-continues'
+          }
+        ]
       }
     ]
   }
