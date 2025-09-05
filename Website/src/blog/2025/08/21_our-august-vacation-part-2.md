@@ -16,5 +16,6 @@ The place is called Aleppo's Kitchen. It is a lovely place, with a great atmosph
 
 After I received my to-go bag, I made my way back to the hotel and rested a little bit before it was time to be at ARTIC for Cherie's arrival; which I will talk about in part 3 of our vacation...hehehe Stay tuned!
 
-[Part 1](./21_our-august-vacation-part-1)
+[Part 1](./19_our-august-vacation-part-1)
+
 [Part 3](../09/04_our-august-vacation-part-3)
