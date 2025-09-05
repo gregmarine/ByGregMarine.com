@@ -15,3 +15,6 @@ By the time I was done at Angels Stadium, the UV index was getting a little high
 The place is called Aleppo's Kitchen. It is a lovely place, with a great atmosphere, wonderful staff, and fantastic food. I was the first person there. They sat me in a place where I could people watch well. I was grateful because I was able to see a little girl and who appeared to be her father dancing out in the common area outside the restaurant. She was probably 2 or 3 years old. I also saw people meeting for lunch who were meeting for the first time. It might have been new friends or a business lunch. I couldn't tell. But it was fun to see them greet each other. My waitress gave me an extra piece of pita. Normally it costs extra. But we were having a wonderful interaction and she gifted it to me. It was an amazing experience. I ordered something to-go so I could have it for dinner later at the hotel and before the ballgame Cherie and I were going to that night.
 
 After I received my to-go bag, I made my way back to the hotel and rested a little bit before it was time to be at ARTIC for Cherie's arrival; which I will talk about in part 3 of our vacation...hehehe Stay tuned!
+
+[Part 1](./21_our-august-vacation-part-1)
+[Part 3](../09/04_our-august-vacation-part-3)

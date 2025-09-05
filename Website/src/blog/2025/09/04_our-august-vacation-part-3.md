@@ -25,3 +25,6 @@ When we got back to the hotel, we said our good night and parted ways at the ele
 Cherie, thank you so much for that night. Every moment made my heart so happy. Not only was it great to finally see you again, you gave me so many amazing memories I'll cherish for the rest of my life.
 
 But that's not all! That was just day 1 of our vacation together. Stay tuned for more amazing moments!
+
+[Part 1](../08/19_our-august-vacation-part-1)
+[Part 2](../08/21_our-august-vacation-part-2)
