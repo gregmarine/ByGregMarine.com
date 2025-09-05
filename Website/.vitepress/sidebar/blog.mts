@@ -518,6 +518,10 @@ export default [
           {
             text: '03 - The Story Continues...',
             link: '/blog/2025/09/03_the-story-continues'
+          },
+          {
+            text: '04 - Our August Vacation - Part 3',
+            link: '/blog/2025/09/04_our-august-vacation-part-3'
           }
         ]
       }

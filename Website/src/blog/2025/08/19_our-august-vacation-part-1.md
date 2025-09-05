@@ -31,3 +31,7 @@ After the Downtown Disney fun, I headed back to the hotel to watch the Dodgers/A
 And that was my first day in California <3
 
 Side note: I received some bad news today. Everything will be okay. It just isn't okay in the moment. God is good. These things are heavy. But they feel lighter when we carry them together. I am grateful for my family and friends. I love you, Mom. You've got this because He's got you <3
+
+[Part 2](./21_our-august-vacation-part-2)
+
+[Part 3](../09/04_our-august-vacation-part-3)
