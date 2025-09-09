@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Our August Vacation - Part 4
+      link: /blog/2025/09/08_our-august-vacation-part-4
+    - theme: alt
       text: Our August Vacation - Part 3
       link: /blog/2025/09/04_our-august-vacation-part-3
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Back from Bleh
       link: /blog/2025/08/27_back-from-bleh
-    - theme: alt
-      text: Journals, My "Garden", and Good Times
-      link: /blog/2025/08/26_journals-my-garden-and-good-times
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

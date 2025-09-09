@@ -35,3 +35,5 @@ Side note: I received some bad news today. Everything will be okay. It just isn'
 [Part 2](./21_our-august-vacation-part-2)
 
 [Part 3](../09/04_our-august-vacation-part-3)
+
+[Part 4](../09/08_our-august-vacation-part-4)
