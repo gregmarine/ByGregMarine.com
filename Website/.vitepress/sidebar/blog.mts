@@ -526,6 +526,10 @@ export default [
           {
             text: '08 - Our August Vacation - Part 4',
             link: '/blog/2025/09/08_our-august-vacation-part-4'
+          },
+          {
+            text: '12 - Daily Log',
+            link: '/blog/2025/09/12_daily_log'
           }
         ]
       }
