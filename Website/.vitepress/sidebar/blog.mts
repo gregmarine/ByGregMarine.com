@@ -530,6 +530,10 @@ export default [
           {
             text: '12 - Daily Log',
             link: '/blog/2025/09/12_daily_log'
+          },
+          {
+            text: '15 - Feelings, Home, New Device, Bible Study, and Tacos',
+            link: '/blog/2025/09/15_feelings-home-new-device-bible-study-and-tacos'
           }
         ]
       }
