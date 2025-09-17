@@ -18,8 +18,6 @@ Now it was time for us to park hop and head over to Disney's California Adventur
 
 After that, we meandered over to Cars Land, Hollywood, and Grizzly Peak. We didn't ride any attractions at this time in DCA. We were coming close to time for our mid-day break and mostly just walked around for a bit and knew we would be back later that day. So we headed back to our hotel for a break and to freshen up. We each also had a little something to eat in our rooms. As you can tell, we did so much in those first hours of our Disney day. But there is a lot more to come from later that day. For now, I'm going to call this entry finished. Continue to stay tuned for more!
 
-[Part 1](../08/19_our-august-vacation-part-1)
+[Part 3](../09/04_our-august-vacation-part-3)
 
-[Part 2](../08/21_our-august-vacation-part-2)
-
-[Part 3](../09/04_our-august-vacation-part-3) 
+[Part 5](../09/16_our-august-vacation-part-5) 

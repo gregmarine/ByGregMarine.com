@@ -26,8 +26,6 @@ Cherie, thank you so much for that night. Every moment made my heart so happy. N
 
 But that's not all! That was just day 1 of our vacation together. Stay tuned for more amazing moments!
 
-[Part 1](../08/19_our-august-vacation-part-1)
-
 [Part 2](../08/21_our-august-vacation-part-2)
 
 [Part 4](./08_our-august-vacation-part-4)

@@ -19,5 +19,3 @@ After I received my to-go bag, I made my way back to the hotel and rested a litt
 [Part 1](./19_our-august-vacation-part-1)
 
 [Part 3](../09/04_our-august-vacation-part-3)
-
-[Part 4](../09/08_our-august-vacation-part-4)
