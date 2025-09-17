@@ -8,6 +8,12 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Good Day and Vacation Part 5
+      link: /blog/2025/09/16_good-day-and-vacation-part-5
+    - theme: brand
+      text: Our August Vacation - Part 5
+      link: /blog/2025/09/16_our-august-vacation-part-5
+    - theme: alt
       text: Feelings, Home, New Device, Bible Study, and Tacos
       link: /blog/2025/09/15_feelings-home-new-device-bible-study-and-tacos
     - theme: alt
@@ -16,12 +22,6 @@ hero:
     - theme: alt
       text: Our August Vacation - Part 4
       link: /blog/2025/09/08_our-august-vacation-part-4
-    - theme: alt
-      text: Our August Vacation - Part 3
-      link: /blog/2025/09/04_our-august-vacation-part-3
-    - theme: alt
-      text: The Story Continues...
-      link: /blog/2025/09/03_the-story-continues
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
