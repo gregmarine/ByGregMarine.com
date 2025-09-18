@@ -542,6 +542,10 @@ export default [
           {
             text: '16 - Good Day and Vacation Part 5',
             link: '/blog/2025/09/16_good-day-and-vacation-part-5'
+          },
+          {
+            text: '17 - Return of Sushi Wednesday',
+            link: '/blog/2025/09/17_return-of-sushi-wednesday'
           }
         ]
       }
