@@ -546,6 +546,10 @@ export default [
           {
             text: '17 - Return of Sushi Wednesday',
             link: '/blog/2025/09/17_return-of-sushi-wednesday'
+          },
+          {
+            text: '18 - Writing, Schedule, and Supernote Bible',
+            link: '/blog/2025/09/18_writing-schedule-and-supernote-bible'
           }
         ]
       }
