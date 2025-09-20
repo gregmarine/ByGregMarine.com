@@ -550,6 +550,10 @@ export default [
           {
             text: '18 - Writing, Schedule, and Supernote Bible',
             link: '/blog/2025/09/18_writing-schedule-and-supernote-bible'
+          },
+          {
+            text: '19 - Sunset on Top of the Fountain',
+            link: '/blog/2025/09/19_sunset-on-top-of-the-fountain'
           }
         ]
       }
