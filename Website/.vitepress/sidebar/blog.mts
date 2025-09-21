@@ -554,6 +554,10 @@ export default [
           {
             text: '19 - Sunset on Top of the Fountain',
             link: '/blog/2025/09/19_sunset-on-top-of-the-fountain'
+          },
+          {
+            text: '20 - Today? Not What I Expected',
+            link: '/blog/2025/09/20_today-not-what-i-expected'
           }
         ]
       }
