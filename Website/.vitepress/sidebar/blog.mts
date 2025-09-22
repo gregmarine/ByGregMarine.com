@@ -558,6 +558,10 @@ export default [
           {
             text: '20 - Today? Not What I Expected',
             link: '/blog/2025/09/20_today-not-what-i-expected'
+          },
+          {
+            text: '21 - Goodbye Summer, Hello Fall',
+            link: '/blog/2025/09/21_goodbye-summer-hello-fall'
           }
         ]
       }
