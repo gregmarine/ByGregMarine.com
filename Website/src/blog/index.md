@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Goodbye Summer, Hello Fall
+      link: /blog/2025/09/21_goodbye-summer-hello-fall
+    - theme: alt
       text: Today? Not What I Expected
       link: /blog/2025/09/20_today-not-what-i-expected
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Return of Sushi Wednesday
       link: /blog/2025/09/17_return-of-sushi-wednesday
-    - theme: alt
-      text: Good Day and Vacation Part 5
-      link: /blog/2025/09/16_good-day-and-vacation-part-5
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
