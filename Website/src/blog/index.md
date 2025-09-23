@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/09/22_
+      text: No Digital Dust
+      link: /blog/2025/09/22_no-digital-dust
     - theme: alt
       text: Goodbye Summer, Hello Fall
       link: /blog/2025/09/21_goodbye-summer-hello-fall

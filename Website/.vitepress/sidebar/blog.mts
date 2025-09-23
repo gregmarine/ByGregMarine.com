@@ -564,8 +564,8 @@ export default [
             link: '/blog/2025/09/21_goodbye-summer-hello-fall'
           },
           {
-            text: '22 - TBD',
-            link: '/blog/2025/09/22_'
+            text: '22 - No Digital Dust',
+            link: '/blog/2025/09/22_no-digital-dust'
           }
         ]
       }
