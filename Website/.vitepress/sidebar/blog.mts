@@ -562,6 +562,10 @@ export default [
           {
             text: '21 - Goodbye Summer, Hello Fall',
             link: '/blog/2025/09/21_goodbye-summer-hello-fall'
+          },
+          {
+            text: '22 - TBD',
+            link: '/blog/2025/09/22_'
           }
         ]
       }
