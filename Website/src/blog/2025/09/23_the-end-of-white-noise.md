@@ -23,7 +23,7 @@ My Supernote Bible project is coming along nicely. Last night I worked on Prover
 
 So, a year ago I was thinking about giving up coffee...LOL Although I don't *need* coffee, I do love it. In a way, it's part of my personality, when you think about it. I have a mug collection, I'm known for drinking mostly Joffrey's, and I've featured that *bitter black nectar* in some of my short stories. Not to mention I did a dapper bound as Joffrey's coffee back in April...LOL Needless to say, I haven't given up coffee. I've even changed, and improved, how I brew it...LOL I'm glad I journal about these things so I can laugh *with* myself later...LOL
 
-Something I *am* actively trying to give up is my white noise. I used it for years to sleep. In a way, I grew dependant on it. Which I'm not too fond of, actually. For the past week, I've been weaning myself from it. Tonight might be the last night of the process. And tomorrow might be the first night without it in years. Wish me luck!
+Something I *am* actively trying to give up is my white noise. I used it for years to sleep. In a way, I grew dependent on it. Which I'm not too fond of, actually. For the past week, I've been weaning myself from it. Tonight might be the last night of the process. And tomorrow might be the first night without it in years. Wish me luck!
 
 ## Handwritten Journal
 
