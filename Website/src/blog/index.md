@@ -10,7 +10,7 @@ hero:
     - theme: brand
       text: The End...of White Noise?
       link: /blog/2025/09/23_the-end-of-white-noise
-    - theme: brand
+    - theme: alt
       text: No Digital Dust
       link: /blog/2025/09/22_no-digital-dust
     - theme: alt
