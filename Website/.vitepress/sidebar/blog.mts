@@ -566,6 +566,10 @@ export default [
           {
             text: '22 - No Digital Dust',
             link: '/blog/2025/09/22_no-digital-dust'
+          },
+          {
+            text: '23 - The End...of White Noise?',
+            link: '/blog/2025/09/23_the-end-of-white-noise'
           }
         ]
       }

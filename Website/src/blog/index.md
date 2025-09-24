@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: The End...of White Noise?
+      link: /blog/2025/09/23_the-end-of-white-noise
+    - theme: brand
       text: No Digital Dust
       link: /blog/2025/09/22_no-digital-dust
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Sunset on Top of the Fountain
       link: /blog/2025/09/19_sunset-on-top-of-the-fountain
-    - theme: alt
-      text: Writing, Schedule, and Supernote Bible
-      link: /blog/2025/09/18_writing-schedule-and-supernote-bible
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
