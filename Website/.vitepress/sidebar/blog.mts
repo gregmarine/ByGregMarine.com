@@ -570,6 +570,10 @@ export default [
           {
             text: '23 - The End...of White Noise?',
             link: '/blog/2025/09/23_the-end-of-white-noise'
+          },
+          {
+            text: '24 - Gratitude, Grace, And...',
+            link: '/blog/2025/09/24_gratitude-grace-and'
           }
         ]
       }
