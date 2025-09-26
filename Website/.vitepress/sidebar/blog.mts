@@ -574,6 +574,10 @@ export default [
           {
             text: '24 - Gratitude, Grace, And...',
             link: '/blog/2025/09/24_gratitude-grace-and'
+          },
+          {
+            text: '25 - A Different Perspective',
+            link: '/blog/2025/09/25_a-different-perspective'
           }
         ]
       }
