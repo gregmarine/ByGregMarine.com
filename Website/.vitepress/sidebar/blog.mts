@@ -578,6 +578,10 @@ export default [
           {
             text: '25 - A Different Perspective',
             link: '/blog/2025/09/25_a-different-perspective'
+          },
+          {
+            text: '26 - What\'s the Point-of-View',
+            link: '/blog/2025/09/26_whats-the-point-of-view'
           }
         ]
       }
