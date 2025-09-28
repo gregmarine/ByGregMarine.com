@@ -582,6 +582,10 @@ export default [
           {
             text: '26 - What\'s the Point-of-View',
             link: '/blog/2025/09/26_whats-the-point-of-view'
+          },
+          {
+            text: '27 - Magical Day with My Sister',
+            link: '/blog/2025/09/27_magical-day-with-my-sister'
           }
         ]
       }
