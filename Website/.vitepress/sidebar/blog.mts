@@ -586,6 +586,10 @@ export default [
           {
             text: '27 - Magical Day with My Sister',
             link: '/blog/2025/09/27_magical-day-with-my-sister'
+          },
+          {
+            text: '29 - Happy National Coffee Day',
+            link: '/blog/2025/09/29_happy-national-coffee-day'
           }
         ]
       }
