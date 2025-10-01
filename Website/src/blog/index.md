@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: No Taco, But Super Progress
+      link: /blog/2025/09/30_no-taco-but-super-progress
+    - theme: alt
       text: Happy National Coffee Day
       link: /blog/2025/09/29_happy-national-coffee-day
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: A Different Perspective
       link: /blog/2025/09/25_a-different-perspective
-    - theme: alt
-      text: Gratitude, Grace, And...
-      link: /blog/2025/09/24_gratitude-grace-and
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

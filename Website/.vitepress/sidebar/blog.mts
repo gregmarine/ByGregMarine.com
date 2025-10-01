@@ -590,6 +590,10 @@ export default [
           {
             text: '29 - Happy National Coffee Day',
             link: '/blog/2025/09/29_happy-national-coffee-day'
+          },
+          {
+            text: '30 - No Taco, But Super Progress',
+            link: '/blog/2025/09/30_no-taco-but-super-progress'
           }
         ]
       }
