@@ -602,8 +602,8 @@ export default [
         collapsed: true,
         items: [
           {
-            text: '07 - TBD',
-            link: '/blog/2025/10/07_'
+            text: '07 - New Month',
+            link: '/blog/2025/10/07_new-month'
           }
         ]
       }

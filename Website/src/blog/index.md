@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/10/07_
+      text: New Month
+      link: /blog/2025/10/07_new-month
     - theme: alt
       text: No Taco, But Super Progress
       link: /blog/2025/09/30_no-taco-but-super-progress
