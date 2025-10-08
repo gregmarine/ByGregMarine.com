@@ -596,6 +596,16 @@ export default [
             link: '/blog/2025/09/30_no-taco-but-super-progress'
           }
         ]
+      },
+      {
+        text: 'October',
+        collapsed: true,
+        items: [
+          {
+            text: '07 - TBD',
+            link: '/blog/2025/10/07_'
+          }
+        ]
       }
     ]
   }
