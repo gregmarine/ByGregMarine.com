@@ -606,8 +606,8 @@ export default [
             link: '/blog/2025/10/07_new-month'
           },
           {
-            text: '08 - TBD',
-            link: '/blog/2025/10/08_'
+            text: '08 - 20 Years and Time to Make Time',
+            link: '/blog/2025/10/08_20-years-and-time-to-make-time'
           }
         ]
       }
