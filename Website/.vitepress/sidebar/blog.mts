@@ -604,6 +604,10 @@ export default [
           {
             text: '07 - New Month',
             link: '/blog/2025/10/07_new-month'
+          },
+          {
+            text: '08 - TBD',
+            link: '/blog/2025/10/08_'
           }
         ]
       }
