@@ -10,7 +10,7 @@ I responded to a Reddit post yesterday and the brief conversation got me thinkin
 
 ## 11:05am
 
-I have yet to bring in the personal decor I boxed up at the beginning of the year. I have things around that I didn't box up. But I miss a lot of the things I put in storage. I hope to bring some of that back soon. Perhaps I should come up with seasonal things? I think I've talked about that before. I think it's good for me to miss things sometimes. Cycling through what I have around my little world would be good for me. That's what I love about my LEGO bonsai. It has a cycle.
+I have yet to bring in the personal decor I boxed up at the beginning of the year. I have things around that I didn't box up. But I miss a lot of the things I put in storage. I hope to bring some of that back...soon...LOL Perhaps I should come up with seasonal things? I think I've talked about that before. I think it's good for me to miss things sometimes. Cycling through what I have around my little world would be good for me. That's what I love about my LEGO bonsai. It has a cycle.
 
 ## 12:15pm
 
@@ -38,7 +38,7 @@ LET'S GO DODGERS!!! DAAAAY-0! LOL
 
 ## 6:40pm
 
-My Boox Tab X C arrived and I've begun its setup. I'll be using it tonight for those final steps to publish this entry. I can already see how the screen size will be helpful. It's about the same size screen as my MacBook Pro. I haven't yet worked with these Botox devices to do artwork. I hope to start exploring that...soon...LOL I'm working on a sketch on my Nomad today. I may export it and load it on one of these new color devices to do some *stained glass* work on that sketch.
+My Boox Tab X C arrived and I've begun its setup. I'll be using it tonight for those final steps to publish this entry. I can already see how the screen size will be helpful. It's about the same size screen as my MacBook Pro. I haven't yet worked with these Boox devices to do artwork. I hope to start exploring that...soon...LOL I'm working on a sketch on my Nomad today. I may export it and load it on one of these new color devices to do some *stained glass* work on that sketch.
 
 ## 9:10pm
 
@@ -50,9 +50,12 @@ The game is in the 11th...
 
 The Dodgers are Division Series Champs once again! WOOHOO! I'm excited to continue cheering them on as the post-season continues for them.
 
-I'm going to try finishing setting up the Tab X C for being able to post this entry...LOL I *lost* those 3 hours earlier. But that's okay. As frustrating as it was, I kept my cool and calmly worked the problem until the solution suddenly appeared like the sunshine in a clearing of the forest...hehehe
+I'm going to try to finish setting up the Tab X C for being able to post this entry...LOL I *lost* those 3 hours earlier. But that's okay. As frustrating as it was, I kept my cool and calmly worked the problem until the solution suddenly appeared like the sunshine in a clearing of the forest...hehehe
 
 ## 10:15pm
 
 I'm all set to give the Tab X C a try for it's first use case. I have it setup to post this entry. So now I'm going to export the handwritten notes to text to revise on my Manta like usual. Then I'll load the text on the new device to post. Yay! LOL
 
+## 11:10pm
+
+Well, I am about to post this entry. This new device works really well for this. I have a few things to work out to make it a little smoother. But I'm very happy with how well it went tonight. These last few days, I haven't included the handwritten version of the journal. I still haven't found a good way to get that transferred to upload. Same goes for photos. I'll figure that stuff out...soon...LOL
