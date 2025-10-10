@@ -8,8 +8,8 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
-      text: TBD
-      link: /blog/2025/10/09_
+      text: Dodgers Win, New Tablet
+      link: /blog/2025/10/09_dodgers-win-new-tablet
     - theme: alt
       text: 20 Years and Time to Make Time
       link: /blog/2025/10/08_20-years-and-time-to-make-time

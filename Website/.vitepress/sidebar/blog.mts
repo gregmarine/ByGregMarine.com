@@ -610,8 +610,8 @@ export default [
             link: '/blog/2025/10/08_20-years-and-time-to-make-time'
           },
           {
-            text: '09 - TBD',
-            link: '/blog/2025/10/09_'
+            text: '09 - Dodgers Win, New Tablet',
+            link: '/blog/2025/10/09_dodgers-win-new-tablet'
           }
         ]
       }
