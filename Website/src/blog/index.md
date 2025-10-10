@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Dodgers Win, New Tablet
+      link: /blog/2025/10/09_dodgers-win-new-tablet
+    - theme: alt
       text: 20 Years and Time to Make Time
       link: /blog/2025/10/08_20-years-and-time-to-make-time
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Happy National Coffee Day
       link: /blog/2025/09/29_happy-national-coffee-day
-    - theme: alt
-      text: Magical Day with My Sister
-      link: /blog/2025/09/27_magical-day-with-my-sister
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
