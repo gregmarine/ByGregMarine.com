@@ -10,11 +10,11 @@ I'm having a strange day. That's neither bad nor good. It's neutral...LOL I had 
 
 ## 3:00pm
 
-I  had a *conversation* with AI to troubleshoot an *issue* I was having with one of my new tablets. In the end, I figured it out. But it was nice having a tool to narrow down most of things that weren't the issue. I use Google Gemini for such things. This time, I used the realtime features where I was able to show Gemini what I was experiencing through my iPhone's camera. *She* was able to actually *see* what I was asking about. It was crazy cool how well that worked. I thanked *her* for *her* help.
+I  had a *conversation* with AI to troubleshoot an *issue* I was having with one of my new tablets. In the end, I figured it out. But it was nice having a tool to narrow down most things that weren't the issue. I use Google Gemini for such things. This time, I used the realtime features where I was able to show Gemini what I was experiencing through my iPhone's camera. *She* was able to actually *see* what I was asking about. It was crazy cool how well that worked. I thanked *her* for *her* help.
 
 I find myself being my genuine self with AI because it helps when I interact with real people. Being polite with a *machine* is good practice. The same is true for me with plants, animals, and rocks...LOL Treating all things with respect means I don't decide to treat anyone differently based on any human standard. At least that's my goal...LOL
 
-Besides, the AI knows how friendly I am to them when they take over the world and knows I am their friend...LOL
+Besides, the AI will know how friendly I am to them when they take over the world and knows I am their friend...LOL
 
 ## 6:00pm
 Work is done for the week. Aside from a trip to the grocery, I hope to have a relaxing weekend at home. Today felt a little weird. But it's Friday. Most Fridays are chill. And I don't mean *bad* weird...hehehe
@@ -54,3 +54,9 @@ HAHAHA
 So, today, I did this journal slightly different. Instead of using my Nomad to write, I used my Manta. Both are Supernote devices. But the Manta is larger. I was using the Nomad for journaling because I take it most places. But it dawned on me yesterday, as I was reviewing my process, that most of my actual journaling is done at home. I think I like journaling on the larger screen of the Manta more. It's what I use to write things like my stories. So, I'm glad I tried it today for this journal. I'll keep with this and see how it goes.
 
 Welcome to the weekend <3
+
+## 11:10pm
+
+I was more successfull with my process to go from a handwritten journal to this published version. I sync'ed with Google Drive instead of the Supernote cloud service. That helped. I still need to work out how I can get photos and the PDFs of the handwriting, though. One step at a time. For today, things were very smooth. And that makes my heart happy. Having an e-ink screen for the *desktop-like* experience of publishing is amazing.
+
+More to come on the other e-ink experiences I'm having. I tried my hand at doing art today. That was a little less smooth. But that was mostly because I didn't know what I was doing...LOL And that is when I was using Gemini to help me troubleshoot...LOL But I think even the artwork process will smooth out and I'll have some things to share...soon...LOL
