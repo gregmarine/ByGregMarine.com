@@ -612,6 +612,10 @@ export default [
           {
             text: '09 - Dodgers Win, New Tablet',
             link: '/blog/2025/10/09_dodgers-win-new-tablet'
+          },
+          {
+            text: '10 - Weird Day, AI Convo, and More',
+            link: '/blog/2025/10/10_weird-day-ai-convo-and-more'
           }
         ]
       }
