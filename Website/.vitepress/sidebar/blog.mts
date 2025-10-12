@@ -616,6 +616,10 @@ export default [
           {
             text: '10 - Weird Day, AI Convo, and More',
             link: '/blog/2025/10/10_weird-day-ai-convo-and-more'
+          },
+          {
+            text: '11 - Feeling Really Good',
+            link: '/blog/2025/10/11_feeling-really-good'
           }
         ]
       }
