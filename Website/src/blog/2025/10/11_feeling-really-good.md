@@ -2,11 +2,11 @@
 
 ## Morning
 
-I decided to sleep in today. I even hit the snooze twice. I slept well and liked getting up slowly.When I woke, I did my morning time with God, I've been doing that for just over 2 years now. Before all else, including getting out of bed, I go to God in prayer. I started doing that the first weekend of October 2023. Although I prayed in the morning well before that, this has been a very intentional time since that morning just over 2 years ago.
+I decided to sleep in today. I even hit the snooze twice. I slept well and liked getting up slowly. When I woke, I did my morning time with God. I've been doing that for just over 2 years now. Before all else, including getting out of bed, I go to God in prayer. I started doing that the first weekend of October 2023. Although I prayed in the morning well before that, this has been a very intentional time since that morning just over 2 years ago.
 
 Because I slept in, I had a late breakfast. But I've noticed my breakfasts have been getting later lately regardless of when I wake up. As a result, my lunch and dinner have shifted as well. It is working well for the time being.
 
-I told Cherie about my anxiety. Her response was equally inspired and beautiful. I copied the entire thing into a digest so I can keep it handy. And I'd like to unpack it a bit too. I really connected with it. Although I was okay despite the anxiety I was feeling yesterday, what she said put my heart to rest. I have felt *shalom* ever since. I'm grateful for what she said. I'm grateful for its inspiration and beauty. God is so good.
+I told Cherie about my anxiety. Her response was equally inspired and beautiful. This morning, I copied the entire thing into a digest so I can keep it handy. And I'd like to unpack it a bit too. I really connected with it. Although I was okay despite the anxiety I was feeling yesterday, what she said put my heart to rest. I have felt *shalom* ever since. I'm grateful for what she said. I'm grateful for its inspiration and beauty. God is so good.
 
 I don't do this often, but I made a To-Do list for today. I want to be intentional with the time God has given me today. It isn't meant for me to be super productive. It's a simple list for me to intentional accomplish some things I'd really like to do today. This might be a good discipline to practice each day. It will help me focus. It isn't really a *task list*. Just a simple reminder. Journaling is on the list...LOL So is laundry and the grocery. I'll be working on the Bible study and hope to do some art. And that short story I'm working on.
 
@@ -32,9 +32,13 @@ After dinner, I worked on my first piece of art for my new tablet. The Note Air 
 
 I'm watching the Cubs game tonight. I hope they win and advance to play against the Dodgers. Both are my favorite teams of the league. It would be fun to watch them face off in the NLCS. Based on how they have been playing tonight, I have my doubts they'll win...LOL The game isn't likely going to be done by the time I post this...LOL
 
-On my walk, I decided I will be taking a sabbatical from Sunday church for a little while. I'm not yet sure how long. I've been thinking and praying about it for a while. As I was praying on my walk, I felt like I should try it for a bit. There's a reason my spirit feels this way. I can't ignore it any longer. I need to see what God's Will is. So I'll use this time away to seek the Lord.
+On my walk, I decided I will be taking a sabbatical from Sunday church for a little while. I'm not yet sure how long. I've been thinking and praying about it for a while. As I was praying on my walk, I felt like I should try it for a bit. There's a reason my spirit feels this way. I can't ignore it any longer. I need to see what God's Will is. So I'll use this time away to seek the Lord. I've been looking for some missing LEGO pieces in a store that looked good...but I should be waiting for God to give me the next pieces as I sit at my little table...*wink, wink*
 
 Well, I'm happy to say that I still feel really good this evening. Today was a good day <3
+
+## NLCS
+
+Well, the game ended before I published this. The Cubs lost. So the Brewers are going to face off with the Dodgers. I guess the first game will be in Milwaukee. GO DODGERS!!!
 
 ## Haiku
 
