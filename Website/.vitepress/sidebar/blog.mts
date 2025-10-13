@@ -620,6 +620,10 @@ export default [
           {
             text: '11 - Feeling Really Good',
             link: '/blog/2025/10/11_feeling-really-good'
+          },
+          {
+            text: '12 - Happy Sunday',
+            link: '/blog/2025/10/12_happy-sunday'
           }
         ]
       }
