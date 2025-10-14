@@ -624,6 +624,10 @@ export default [
           {
             text: '12 - Happy Sunday',
             link: '/blog/2025/10/12_happy-sunday'
+          },
+          {
+            text: '13 Rusty',
+            link: '/blog/2025/10/13_rusty'
           }
         ]
       }
