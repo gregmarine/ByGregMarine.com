@@ -628,6 +628,10 @@ export default [
           {
             text: '13 Rusty',
             link: '/blog/2025/10/13_rusty'
+          },
+          {
+            text: '14 - Distractions, Soliloquy, and Digital Art',
+            link: '/blog/2025/10/14_distractions-soliloquy-and-digital-art'
           }
         ]
       }
