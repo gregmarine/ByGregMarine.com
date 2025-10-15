@@ -32,4 +32,4 @@ I'm looking forward to exploring this more in the coming weeks. Especially as I 
 
 This new excitement in digital art inspired me to post a sketch I made in August when I got home from our vacation. On my Supernote Manta, I recreated the sketch inspired by Alberto from Disney/PIXAR's "Luca" that we did at the Animation Academy in Disney's California Adventure. I posted it in the Supernote subreddit as "Superart". There have been others posting theirs lately too. I decided to join in...hehehe
 
-![Sketch of Disney/PIXAR's Alberto from "Luca"](./media/IMG_2805.PNG)
+![Sketch of Disney/PIXAR's Alberto from Luca](./media/IMG_2805.PNG)
