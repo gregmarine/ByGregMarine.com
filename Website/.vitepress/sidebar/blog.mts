@@ -632,6 +632,10 @@ export default [
           {
             text: '14 - Distractions, Soliloquy, and Digital Art',
             link: '/blog/2025/10/14_distractions-soliloquy-and-digital-art'
+          },
+          {
+            text: '15 - Tortoise vs. Hare',
+            link: '/blog/2025/10/15_tortoise-vs-hare'
           }
         ]
       }
