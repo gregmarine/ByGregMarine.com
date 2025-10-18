@@ -636,6 +636,10 @@ export default [
           {
             text: '15 - Tortoise vs. Hare',
             link: '/blog/2025/10/15_tortoise-vs-hare'
+          },
+          {
+            text: '17 - Family, Art, and Baseball',
+            link: '/blog/2025/10/17_family-art-and-baseball'
           }
         ]
       }
