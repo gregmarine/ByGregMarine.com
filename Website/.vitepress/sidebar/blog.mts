@@ -640,6 +640,10 @@ export default [
           {
             text: '17 - Family, Art, and Baseball',
             link: '/blog/2025/10/17_family-art-and-baseball'
+          },
+          {
+            text: '18 - Zen',
+            link: '/blog/2025/10/18_zen'
           }
         ]
       }
