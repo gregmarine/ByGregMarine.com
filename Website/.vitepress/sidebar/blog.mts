@@ -644,6 +644,10 @@ export default [
           {
             text: '18 - Zen',
             link: '/blog/2025/10/18_zen'
+          },
+          {
+            text: '20 - What\'s Next?',
+            link: '/blog/2025/10/20_whats-next'
           }
         ]
       }
