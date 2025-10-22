@@ -648,6 +648,10 @@ export default [
           {
             text: '20 - What\'s Next?',
             link: '/blog/2025/10/20_whats-next'
+          },
+          {
+            text: '21 - Through the Words of This Journal',
+            link: '/blog/2025/10/21_through-the-words-of-this-journal'
           }
         ]
       }
