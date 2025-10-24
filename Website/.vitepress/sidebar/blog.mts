@@ -652,6 +652,10 @@ export default [
           {
             text: '21 - Through the Words of This Journal',
             link: '/blog/2025/10/21_through-the-words-of-this-journal'
+          },
+          {
+            text: '23 - Healing, One Moment at a Time',
+            link: '/blog/2025/10/23_healing-one-moment-at-a-time'
           }
         ]
       }
