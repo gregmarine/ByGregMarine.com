@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Focus
+      link: /blog/2025/10/28_focus
+    - theme: alt
       text: Healing, One Moment at a Time
       link: /blog/2025/10/23_healing-one-moment-at-a-time
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Zen
       link: /blog/2025/10/18_zen
-    - theme: alt
-      text: Family, Art, and Baseball
-      link: /blog/2025/10/17_family-art-and-baseball
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

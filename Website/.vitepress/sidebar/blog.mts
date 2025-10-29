@@ -656,6 +656,10 @@ export default [
           {
             text: '23 - Healing, One Moment at a Time',
             link: '/blog/2025/10/23_healing-one-moment-at-a-time'
+          },
+          {
+            text: '28 - Focus',
+            link: '/blog/2025/10/28_focus'
           }
         ]
       }
