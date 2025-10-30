@@ -660,6 +660,10 @@ export default [
           {
             text: '28 - Focus',
             link: '/blog/2025/10/28_focus'
+          },
+          {
+            text: '29 - The Ember in My Soul',
+            link: '/blog/2025/10/29_the-ember-in-my-soul'
           }
         ]
       }
