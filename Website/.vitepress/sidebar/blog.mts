@@ -666,6 +666,16 @@ export default [
             link: '/blog/2025/10/29_the-ember-in-my-soul'
           }
         ]
+      },
+      {
+        text: 'November',
+        collapsed: true,
+        items: [
+          {
+            text: '01 - Happy November',
+            link: '/blog/2025/11/01_happy-november'
+          }
+        ]
       }
     ]
   }
