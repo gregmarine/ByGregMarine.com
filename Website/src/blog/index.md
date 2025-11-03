@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Happy Heart
+      link: /blog/2025/11/02_happy-heart
+    - theme: alt
       text: Happy November
       link: /blog/2025/11/01_happy-november
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Healing, One Moment at a Time
       link: /blog/2025/10/23_healing-one-moment-at-a-time
-    - theme: alt
-      text: Through the Words of This Journal
-      link: /blog/2025/10/21_through-the-words-of-this-journal
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

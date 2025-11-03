@@ -674,6 +674,10 @@ export default [
           {
             text: '01 - Happy November',
             link: '/blog/2025/11/01_happy-november'
+          },
+          {
+            text: '02 - Happy Heart',
+            link: '/blog/2025/11/02_happy-heart'
           }
         ]
       }
