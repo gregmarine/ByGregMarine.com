@@ -678,6 +678,10 @@ export default [
           {
             text: '02 - Happy Heart',
             link: '/blog/2025/11/02_happy-heart'
+          },
+          {
+            text: '04 - Happy Taco Tuesday',
+            link: '/blog/2025/11/04_happy-taco-tuesday'
           }
         ]
       }
