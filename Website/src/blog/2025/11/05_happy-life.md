@@ -1,0 +1,13 @@
+# Happy Life
+
+### 2025/11/05
+
+I thought my first Joffrey's coffee at Disneyland Resort was on our August vacation this year. I was mistaken. It turns out it was the morning of Dapper Day last year. I had forgotten that I enjoyed their bitter black nectar my first day at Disneyland, along with a ham and cheese croissant and a famous Disneyland churro. I'm sure glad I journaled that last year. It brought back those memories in a most beautiful way this morning!
+
+I'm reminded today that my days in this life are numbered. I haven't always been careful in how I have considered the importance of keeping that in my heart. I don't suppose every day needs to have meaning. But perhaps I do need to be aware that I can bring meaning to every day. Living with intent has been a goal of mine these past few years. This has certainly been a heart-opening change in how I live out my days. Today's reminder is well received.
+
+I'm also reminded today how grateful I am. I'm grateful for the good, the bad, and the ugly. No matter my circumstances, I have found gratitude in my heart. I haven't always felt as I do now. But adopting an attitude of gratitude in every circumstance has changed my heart from constant sadness to one that is quite happy. I can understand how people aren't always grateful. I've been there. But I didn't stay stuck there. I'm finding myself more and more thanking God and others for their impact on my life. And even when I do something myself, I thank God for giving me what I need to be able to do the *thing*. I am also grateful for the lessons I'm learning through the bad stuff and when I make mistakes. When I face something, or have an experience I don't like, I am equally grateful because it's still an opportunity to grow and find where God is. There is always something to be grateful for...**always**! In almost every prayer I pray, I express my gratitude to God for it all. The good, the bad, and the ugly.
+
+It isn't easy to face death. Whether it be my own or that of others. But face it I must. I'm glad I survived 20 years ago. I'm grateful for all I have experienced since that day. Both this week's Bible study and a seemingly random TV episode gave me an opportunity to think about death today. As I look at my life in the time I have in this world, I can say with all confidence, I have a happy life. I am loved and I love. What more can I ask for?
+
+Side note: It's a very good thing that I don't keep ice cream at home...LOL.
