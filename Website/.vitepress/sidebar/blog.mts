@@ -686,6 +686,10 @@ export default [
           {
             text: '05 - Happy Life',
             link: '/blog/2025/11/05_happy-life'
+          },
+          {
+            text: '06 - Happy Coffee',
+            link: '/blog/2025/11/06_happy-coffee'
           }
         ]
       }
