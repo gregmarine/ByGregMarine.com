@@ -690,6 +690,10 @@ export default [
           {
             text: '06 - Happy Coffee',
             link: '/blog/2025/11/06_happy-coffee'
+          },
+          {
+            text: '09 - So, as Long as I Keep Thinking',
+            link: '/blog/2025/11/09_so-as-long-as-i-keep-thinking'
           }
         ]
       }
