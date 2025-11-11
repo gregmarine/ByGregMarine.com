@@ -694,6 +694,10 @@ export default [
           {
             text: '09 - So, as Long as I Keep Thinking',
             link: '/blog/2025/11/09_so-as-long-as-i-keep-thinking'
+          },
+          {
+            text: '10 - Humility and Here\'s Hoping',
+            link: '/blog/2025/11/10_humility-and-heres-hoping'
           }
         ]
       }
