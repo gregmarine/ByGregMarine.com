@@ -25,3 +25,5 @@ And thus concludes our Happiest Day on Earth at Disneyland and Disney's Californ
 In the next part of Our August Vacation journal entries, I'll be talking about our day of cherendipity <3
 
 [Part 4](../09/08_our-august-vacation-part-4)
+
+[Part 6](../11/11_our-august-vacation-part-6)

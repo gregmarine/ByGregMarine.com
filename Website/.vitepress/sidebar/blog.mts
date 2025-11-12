@@ -698,6 +698,10 @@ export default [
           {
             text: '10 - Humility and Here\'s Hoping',
             link: '/blog/2025/11/10_humility-and-heres-hoping'
+          },
+          {
+            text: '11 - Our August Vacation - Part 6',
+            link: '/blog/2025/11/11_our-august-vacation-part-6'
           }
         ]
       }
