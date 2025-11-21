@@ -702,6 +702,10 @@ export default [
           {
             text: '11 - Our August Vacation - Part 6',
             link: '/blog/2025/11/11_our-august-vacation-part-6'
+          },
+          {
+            text: '20 - Grateful and Joyful',
+            link: '/blog/2025/11/20_grateful-and-joyful'
           }
         ]
       }

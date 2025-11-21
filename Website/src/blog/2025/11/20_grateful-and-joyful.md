@@ -1,0 +1,23 @@
+# Grateful and Joyful
+
+I sure have missed writing. Not just writing in general. But handwriting specifically. I wrote some notes by hand on our vacation. And I handwrite notes for work. But neither of those do the same thing for my brain as doing these journal entries and creative works. So, I'm glad to be back to writing today <3
+
+I plan to journal about our vacation soon. Hopefully I won't take as long to write as I did for our August vacation... LOL Technically, I haven't finished journaling that trip. I still have my final travel day to write about and perhaps some final words. But for the November vacation, I'd like to write it all more quickly.
+
+The transition back to *normal* life has been more rough this time. I didn't have a recovery day before going back to work... LOL I'm doing okay, though. I'm just more tired than normal in the evening as I continue to catch up on my rest. That said, I am feeling really well physically. Even my food cheats haven't caused any of the usual issues that come with eating the way I do on trips. Of course, the foods I eat in Southern California are higher quality than what I can eat at Disney World or most options in Indiana... LOL Anyway, I'm catching up on my rest and sleep.
+
+I just realized I'll be traveling again in a week! I'll be fine. It just feels ironic to be recovering from travel and then turn right around and do it again a week later... LOL But it's *that* time of year again with the holidays. I traveled a lot last year at this time as well. It is well worth it to see as many of my loved ones as I can. I feel so Blessed to be able to do this. God is so good <3
+
+I was able to try doing an art piece while on my second flight Tuesday night. I really enjoyed it. I don't know that I'll ever do anything with what I did that night. But it was a good test and gave me some new ideas to think about. Color e-ink is completely changing how I want to work on my art. And it has opened up *where* I want to work on it. Sure, I could have always done it on my iPad. But that screen drains me. I would only use it at home. Now I feel like I can sketch and *paint* anywhere <3
+
+Speaking of sketching, we did the Animation Academy again. I hope we do that every time. I absolutely love doing that. Especially with Cherie. I messed mine up a little. But that's okay. They tend to go more quickly than I'd prefer. Especially since I love to capture the process through photos. I'll be able to practice this one here at home. I captured each stage as I was sketching *Oswald the Lucky Rabbit*. But the one I did that day will always be special <3
+
+I've been able to go on an evening walk the last few evenings. I don't think I had done that since the time change a few weeks ago. It was nice to walk so much on vacation. But I've messed my pond. Or is it a lake? It might be large enough to consider it a lake. I haven't seen any of my usual neighbors on these few walks. I hope everyone is doing well.
+
+I did speak with my upstairs neighbor, though. He was out on his balcony tonight. He asked if his music had been too loud. The neighbor next to him had complained about it and he noted that I've never complained. I told him I hear it from time to time. I explained that I sometimes just put on my own music and it works out okay. But then I further explained how I work from home. I told him if it ever became a problem, I'd let him know. I can't have it impact my work. He understood and expressed his gratitude. He's never doing anything to be annoying intentionally. He's a good neighbor. I didn't tell him that sometimes I like to hear things from up there to know he's alive... LOL
+
+I'm feeling a lot of gratitude lately. I don't think it is related to it being November... the thanksgiving month. It's more of a theme for my whole year. Half way through the year, I wasn't sure I felt this had been a great year yet. But when I stepped back a little, I noticed all of the goodness. Not long after that, we had an amazing vacation. Now 3 months later, we had a second amazing vacation. I've also made more frequent trips to Indiana this year than I had for a few years. I'm so grateful for all of the time I've had with so many of the people I love. And next year is already looking like more of the same <3
+
+I've organized my Christmas list. I'm excited to finish my Christmas shopping soon. I had already started back in August. I never start that early. But I'm glad I was already thinking about it. I feel really connected with it this year. It started with how well last Christmas went. Some of that was unplanned. Being more intentional this year has brought me so much joy.
+
+I'm so glad I wrote today. I'm so grateful and joyful <3

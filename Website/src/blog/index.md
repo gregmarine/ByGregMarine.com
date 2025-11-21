@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Grateful and Joyful
+      link: /blog/2025/11/20_grateful-and-joyful
+    - theme: alt
       text: Our August Vacation - Part 6
       link: /blog/2025/11/11_our-august-vacation-part-6
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Happy Coffee
       link: /blog/2025/11/06_happy-coffee
-    - theme: alt
-      text: Happy Life
-      link: /blog/2025/11/05_happy-life
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
