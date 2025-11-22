@@ -706,6 +706,10 @@ export default [
           {
             text: '20 - Grateful and Joyful',
             link: '/blog/2025/11/20_grateful-and-joyful'
+          },
+          {
+            text: '21 - Tis the Season',
+            link: '/blog/2025/11/21_tis-the-season'
           }
         ]
       }
