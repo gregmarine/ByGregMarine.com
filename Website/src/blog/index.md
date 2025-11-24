@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Thanksgiving
+      link: /blog/2025/11/22_thanksgiving
+    - theme: alt
       text: Tis the Season
       link: /blog/2025/11/21_tis-the-season
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Humility and Here's Hoping
       link: /blog/2025/11/10_humility-and-heres-hoping
-    - theme: alt
-      text: So, as Long as I Keep Thinking
-      link: /blog/2025/11/09_so-as-long-as-i-keep-thinking
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

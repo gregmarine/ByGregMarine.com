@@ -710,6 +710,10 @@ export default [
           {
             text: '21 - Tis the Season',
             link: '/blog/2025/11/21_tis-the-season'
+          },
+          {
+            text: '22 - Thanksgiving',
+            link: '/blog/2025/11/22_thanksgiving'
           }
         ]
       }
