@@ -712,8 +712,12 @@ export default [
             link: '/blog/2025/11/21_tis-the-season'
           },
           {
-            text: '22 - Thanksgiving',
-            link: '/blog/2025/11/22_thanksgiving'
+            text: '23 - Thanksgiving',
+            link: '/blog/2025/11/23_thanksgiving'
+          },
+          {
+            text: '24 - Stepping Out of Zen',
+            link: '/blog/2025/11/24_stepping-out-of-zen'
           }
         ]
       }
