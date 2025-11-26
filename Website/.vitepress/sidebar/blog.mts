@@ -718,6 +718,14 @@ export default [
           {
             text: '24 - Stepping Out of Zen',
             link: '/blog/2025/11/24_stepping-out-of-zen'
+          },
+          {
+            text: '25 - Nostalgic Warm Hugs',
+            link: '/blog/2025/11/25_nostalgic-warm-hugs'
+          },
+          {
+            text: '25 - Our November Vacation Part 1',
+            link: '/blog/2025/11/25_our-november-vacation-part-1'
           }
         ]
       }
