@@ -726,6 +726,10 @@ export default [
           {
             text: '25 - Our November Vacation Part 1',
             link: '/blog/2025/11/25_our-november-vacation-part-1'
+          },
+          {
+            text: '26 - Thanksgiving Eve',
+            link: '/blog/2025/11/26_thanksgiving-eve'
           }
         ]
       }
