@@ -730,6 +730,10 @@ export default [
           {
             text: '26 - Thanksgiving Eve',
             link: '/blog/2025/11/26_thanksgiving-eve'
+          },
+          {
+            text: '27 - Thanksgiving',
+            link: '/blog/2025/11/27_thanksgiving'
           }
         ]
       }
