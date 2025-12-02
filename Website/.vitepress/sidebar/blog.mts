@@ -736,6 +736,16 @@ export default [
             link: '/blog/2025/11/27_thanksgiving'
           }
         ]
+      },
+      {
+        text: 'December',
+        collapsed: true,
+        items: [
+          {
+            text: '01 - I Like Warm',
+            link: '/blog/2025/12/01_i-like-warm'
+          }
+        ]
       }
     ]
   }
