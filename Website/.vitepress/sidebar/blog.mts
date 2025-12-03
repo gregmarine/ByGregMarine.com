@@ -744,6 +744,10 @@ export default [
           {
             text: '01 - I Like Warm',
             link: '/blog/2025/12/01_i-like-warm'
+          },
+          {
+            text: '02 - Happy Snowman',
+            link: '/blog/2025/12/02_happy-snowman'
           }
         ]
       }

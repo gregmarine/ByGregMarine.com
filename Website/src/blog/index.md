@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Happy Snowman
+      link: /blog/2025/12/02_happy-snowman
+    - theme: alt
       text: I Like Warm
       link: /blog/2025/12/01_i-like-warm
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Our November Vacation Part 1
       link: /blog/2025/11/25_our-november-vacation-part-1
-    - theme: alt
-      text: Nostalgic Warm Hugs
-      link: /blog/2025/11/25_nostalgic-warm-hugs
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
