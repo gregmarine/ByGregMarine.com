@@ -6,7 +6,7 @@ I'm not sure why, but I'm getting really good sleep this week. Even when the hea
 
 Speaking of happy snowman, I'm enjoying the snow. I'm a bit surprised... LOL The weather here is one of the reasons I chose Florida... LOL I wanted to get away from the cold and snow. I've always enjoyed snow in photos. But experiencing it wasn't always the greatest. I suppose moving away gave me an appreciation for it. That said, I still do not want to build a snowman. I'll stick to my Olaf hat... LOL 
 
-![Selfie wearing my Olaf hat](./media/20251202_01.JPEG)
+![Selfie wearing my Olaf hat](./media/20251202_01.jpg)
 
 As I continue reading last year's journal, I am reminded how well last year was paced. As I've mentioned a time or two, I consider it the best year of my life. And it didn't go by fast or slow. It was well balanced throughout the entire year. By contrast, this year has been more chaotic in its pace. Sometimes it was slow, sometimes fast, and sometimes it was just what I like. And the events and experiences this year have been equally chaotic. I'm not saying that's a bad thing. It just hasn't been how things were last year or at all as I hoped the year would go. Some very amazing things have happened. Some not so amazing things have happened as well.
 
