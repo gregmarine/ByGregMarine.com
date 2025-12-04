@@ -748,6 +748,10 @@ export default [
           {
             text: '02 - Happy Snowman',
             link: '/blog/2025/12/02_happy-snowman'
+          },
+          {
+            text: '03 - Chef Fried Rice',
+            link: '/blog/2025/12/03_chef-fried-rice'
           }
         ]
       }
