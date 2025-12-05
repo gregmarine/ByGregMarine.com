@@ -752,6 +752,10 @@ export default [
           {
             text: '03 - Chef Fried Rice',
             link: '/blog/2025/12/03_chef-fried-rice'
+          },
+          {
+            text: '04 - Warm Hug in the Sky',
+            link: '/blog/2025/12/04_warm-hug-in-the-sky'
           }
         ]
       }
