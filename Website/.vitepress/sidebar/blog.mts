@@ -756,6 +756,10 @@ export default [
           {
             text: '04 - Warm Hug in the Sky',
             link: '/blog/2025/12/04_warm-hug-in-the-sky'
+          },
+          {
+            text: '05 - (Good or Bad) Fortune Cookies',
+            link: '/blog/2025/12/05_good-or-bad-fortune-cookies'
           }
         ]
       }
