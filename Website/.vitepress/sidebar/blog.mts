@@ -760,6 +760,10 @@ export default [
           {
             text: '05 - (Good or Bad) Fortune Cookies',
             link: '/blog/2025/12/05_good-or-bad-fortune-cookies'
+          },
+          {
+            text: '06 - I\'m Old',
+            link: '/blog/2025/12/06_im-old'
           }
         ]
       }
