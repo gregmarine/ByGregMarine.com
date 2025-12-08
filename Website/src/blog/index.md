@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Back Home
+      link: /blog/2025/12/07_back-home
+    - theme: alt
       text: I'm Old
       link: /blog/2025/12/06_im-old
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Chef Fried Rice
       link: /blog/2025/12/03_chef-fried-rice
-    - theme: alt
-      text: Happy Snowman
-      link: /blog/2025/12/02_happy-snowman
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

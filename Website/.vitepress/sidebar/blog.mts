@@ -764,6 +764,10 @@ export default [
           {
             text: '06 - I\'m Old',
             link: '/blog/2025/12/06_im-old'
+          },
+          {
+            text: '07 - Back Home',
+            link: '/blog/2025/12/07_back-home'
           }
         ]
       }
