@@ -768,6 +768,10 @@ export default [
           {
             text: '07 - Back Home',
             link: '/blog/2025/12/07_back-home'
+          },
+          {
+            text: '08 - Full and Happy',
+            link: '/blog/2025/12/08_full-and-happy'
           }
         ]
       }
