@@ -1,0 +1,41 @@
+# Our November Vacation Part 2
+
+It remains surreal that we had an amazing vacation in August and had yet another in November. I felt so Blessed to have had our August vacation. And it was that vacation that set into motion the Blessing that became our November vacation. And now I'm back with part 2 of Our November Vacation <3
+
+Just as we did on the first morning together for our August vacation, we met up for the famous Ayres breakfast. As always, it was a great way to start our day. We took communion, ate, and had an amazing time of fellowship. I love that we have that time on our vacations now. And our breakfasts together have also made my other hotel breakfasts special. I imagine she's sitting across from me even when I am alone on any of my other hotel stays...hehehe I even drink apple juice <3
+
+Cherie came to breakfast all dappered up...hehehe I did not. I was afraid I would get food on my outfit...LOL But I did give it some serious thought and almost got dappered up myself...hehehe I didn't spill any of my food. But I'm certain I would have had I been dapper...LOL
+
+After breakfast, we parted ways to do our final prep for the day. This time, it was an official Dapper Day at Disneyland Resort <3 And to top that, it was to be Cherie's very first official Dapper Day! Yay!!! I feel so honored that I was there with her for that. Firsts are important to both of us. When we get to share those with each other, it's extra special.
+
+Cherie took my arm and we made our way to our magical chariot! Okay, it was just a Chevy Silverado. But still, it was our *chariot* for this vacation...LOL It was only slightly raining at first. But by the time we got to the parking, it was pouring. As we got to the escalators that would take us down to security, we got our umbrellas out. But as soon as we got to the bottom, the rain instantly stopped...LOL
+
+It seemed a little busier at the security that morning compared to our August vacation. But I figured the rain and timing made an impact. That line seemed a little long, at least. We did run into a bit of trouble at security, though. The guard checking the bags didn't use his words to tell us that he needed to see Cherie's umbrella. Neither of us understood why he looked angry or why he was pounding on the glass to get her attention. He just pounded and pointed...LOL We finally figured out it was her umbrella, gave it to him, and it seemed he waved her on through the scanner. Nope! As soon as she got through the scanner, the next guard stopped her and insisted she go back and wait for him to tell her to go through. I really felt bad for her experience. I felt helpless. In a way, it was good that I felt that way. I think it helped her to know the problem wasn't her since I was just as confused as she was. The security guards weren't being kind. She had done nothing wrong. I'm so sorry deer friend :(
+
+There was another lengthy line at the tram. But it didn't really take too long. It gave us time to unpack what had just happened with security...LOL At least, in our minds...maybe...LOL Crazy experience. Anyway, we got on the tram for the *first attraction* of the day! Yay!!! It was very wet...LOL
+
+We had decided our first park would be DCA this time. So we headed over there from the tram. Oh! Look! Another long line...LOL Yep, it was a busy morning...hehehe And *cher.thing*, they welcomed "Sherry" and Greg to Disney...hehehe I wish they didn't assume how to pronounce her name as "Sherry". I mean, I do get it. But still... I'm sorry deer friend :(
+
+It wasn't raining when we got into the park. But I saw that the rain was getting close. So we headed toward our spot for the famous selfie video and photo op! On our way, we spotted Grizzly Peak...the mountain! You may recall in [Part 1](../11/25_our-november-vacation-part-1) that I saw a painting with it and thought it didn't exist...LOL I was so happy to see it <3
+
+We setup the cameras to get our shot and we did our thing! Then it began to rain. So we ended up grabbing our umbrellas and danced in the rain. It was so much fun. We got a lot of footage from that. She has already grabbed some photos from it. I haven't done that myself yet. But I have watched the video...hehehe I love that we do that. We still need to find a spot at Disneyland to do this...LOL
+
+After that, we did some walking around. It got pretty rainy. I worried about hitting people with my umbrella. And I wondered if I was dripping on people when I would raise the umbrella above them...LOL This was through Pixar Pier and into Radiator Springs.
+
+After that walk, we made our way over to Animation Academy. I simply love doing that. We've made that another tradition. And I can't wait for the new one to open up here in Florida. We did Oswald the Lucky Rabbit this time. Well, she did. I drew Oswald the Unlucky Rabbit with a beaver tail for one ear...LOL Her dad thought she had drawn Mickey Mouse with long ears...LOL But it was so much fun! I've since tried to draw him again at home. I have found a few ways how *not* to draw Oswald...LOL
+
+We started to head our way to the Little Mermaid ride if I recall. But the line had become longer by the time we got over there. So we made our way over to Soarin'. This was my first time doing it at DCA. It is almost like the one at EPCOT. But the ending is different because you *land* at Disneyland instead of Disney World.
+
+When we got out of Soarin', we made our way over to the Redwood Creek Challenge Trail. This was another first for me. And it had been a long time for her since they seem to always be working on it when we go...LOL We did a little scavenger hunt for clues to a little puzzle. That was a lot of fun. I love doing those things with her. We had trouble finding the green present, though. But she was able to figure out the clue by deduction. We had passed the green present when we saw Santa and Dale...LOL We spotted it later before we left the area...hehehe
+
+Little Mermaid's wait time was back down by the time we finished with Redwood Creek. So we headed that way next. In line, we saw a preying mantis praying for our amazing day...hehehe j/k Little Mermaid seems like a must-do for us too. So long as the line isn't long...LOL It's a ride I often do at Magic Kingdom as well. It's one of the first movies I remember seeing in the theater. I know I saw many more before it. But that one always triggers the feels for me. The theater I saw it in is no longer there. But it all remains in my memory and my heart.
+
+After Little Mermaid, we made a pit stop in the Radiator Springs bathroom. I love the music they play in there <3 Next, I was on the hunt for some festival foods...hehehe One booth I had eyed in the app was the mac & cheese booth. So I hopped in line and Cherie waited for me nearby. I thought the line was a little long. But I was really hungry and wanted to get some food. While in line, they announced they were out of one of the items. I was going to get both items they had. But it was okay that they ran out of one. 
+
+While in that line, someone asked me if I was some sort of tour guide because I was all dappered up. I explained Dapper Day to them. Then we got to talking about Disney World and differences in annual passes between DLR and WDW.
+
+But it turned out the line I was in was just to order and pay. After that, they sent me over to another line to actually get the food. This second line was about 3 times as long as the first. Had I known, I probably would have passed on this. There were other booths with much shorted lines...LOL By the time I got up there to get my food, they had started giving out the other food item that they told me they had run out of...LOL They had gotten more made just after I ordered...LOL
+
+Once I had my food, I met back up with Cherie and the two of us found a bench to sit on to eat. I had my Al Pastor Mac & Cheese and she had a food bar she had brought. My mac & cheese was amazing. Southern California food is soooo much better than any other place I have been. Have I mentioned that before?!? HAHAHA There are very few exceptions, of course...hehehe
+
+After we ate, we made our way over to Disneyland. But I'm going to save that, and the rest of our Dapper Day, for part 3. So, stay tuned!!!

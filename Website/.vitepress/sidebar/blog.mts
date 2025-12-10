@@ -772,6 +772,14 @@ export default [
           {
             text: '08 - Full and Happy',
             link: '/blog/2025/12/08_full-and-happy'
+          },
+          {
+            text: '09 - New Tree-ditions',
+            link: '/blog/2025/12/09_new-tree-ditions'
+          },
+          {
+            text: '09 - Our November Vacation Part 2',
+            link: '/blog/2025/12/09_our-november-vacation-part-2'
           }
         ]
       }
