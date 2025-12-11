@@ -780,6 +780,10 @@ export default [
           {
             text: '09 - Our November Vacation Part 2',
             link: '/blog/2025/12/09_our-november-vacation-part-2'
+          },
+          {
+            text: '10 - Milestones on My Journey\'s Path',
+            link: '/blog/2025/12/10_milestones-on-my-journeys-path'
           }
         ]
       }
