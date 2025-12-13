@@ -788,6 +788,10 @@ export default [
           {
             text: '11 - Christmas on the Beach',
             link: '/blog/2025/12/11_christmas-on-the-beach'
+          },
+          {
+            text: '12 - Magical FriYAY and My Tiny Deer',
+            link: '/blog/2025/12/12_magical-friyay-and-my-tiny-deer'
           }
         ]
       }
