@@ -792,6 +792,10 @@ export default [
           {
             text: '12 - Magical FriYAY and My Tiny Deer',
             link: '/blog/2025/12/12_magical-friyay-and-my-tiny-deer'
+          },
+          {
+            text: '13 - Christmas Dapper and a Happy Heart',
+            link: '/blog/2025/12/13_christmas-dapper-and-a-happy-heart'
           }
         ]
       }
