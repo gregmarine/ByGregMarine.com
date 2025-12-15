@@ -796,6 +796,10 @@ export default [
           {
             text: '13 - Christmas Dapper and a Happy Heart',
             link: '/blog/2025/12/13_christmas-dapper-and-a-happy-heart'
+          },
+          {
+            text: '14 - Really Good Weekend',
+            link: '/blog/2025/12/14_really-good-weekend'
           }
         ]
       }
