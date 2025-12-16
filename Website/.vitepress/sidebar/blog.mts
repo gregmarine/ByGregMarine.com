@@ -800,6 +800,10 @@ export default [
           {
             text: '14 - Really Good Weekend',
             link: '/blog/2025/12/14_really-good-weekend'
+          },
+          {
+            text: '15 - Long Story Short',
+            link: '/blog/2025/12/15_long-story-short'
           }
         ]
       }

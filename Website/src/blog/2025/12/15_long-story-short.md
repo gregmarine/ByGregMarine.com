@@ -1,0 +1,15 @@
+# Long Story Short
+
+### 2025/12/15
+
+Today was a bit like a Monday... LOL I was having some Internet trouble yesterday for our call. It seemed to continue today. My work remote desktop struggled today. The weird thing is that my normal Internet usage has been fine. It's just these remote things that struggled. I know just enough about this tech to wonder if there is a routing issue in between me and some of these remote networks? This was the most Monday feeling Monday I've had in a while... hehehe
+
+I slept well last night. I went to bed just before midnight and woke on my own just before 7am. I felt well rested. I had time to shave and make a quick trip to the grocery to get bread before I logged into work around 7:45am. Other than Internet issues with work, the rest of the day was swell... hehehe
+
+I started a new short story today. This one has somewhat of a *Twilight Zone* vibe to it. I'm already thinking about writing up some commentary or world building notes about it. The supporting write-up might be longer than the story itself... LOL A *long story short* type of thing... hehehe I'm pretty excited about it and look forward to continuing work on it. My original goal was to write the whole thing tonight. But after I started, the ideas kept flowing. This is what happened with *Coffee Mug*. In fact, I may just put these random and unrelated short stories in the same compilation. When I have enough individual random short stories written, I could publish a book. We shall see... hehehe
+
+For my pocket e-ink device, I went with a photo of Bambi today. That's Mr. Long Legs and not the beloved Disney character... LOL I took it off my key ring and put a lanyard on it for now. I didn't wear it today. It just sat on my desk and thus Bambi stared at me all day... LOL I ordered another one about the same size that has a better screen to see how well it works. And I ordered a pair of photo frames to use at home. Those are e-ink as well. It will be fun to have changeable photos to have on display. I do like to print photos too. But with these, I can change them up whenever I feel like it. I'll someday likely get some of those large art frames to hang on the wall as well, once those have matured in time... hehehe
+
+I've started watching holiday movies. I'm unlikely to see all the ones I typically watch. I spend far less time watching TV now. But I still enjoy those movies enough to watch one when I can. One of my newer favorites is *Spirited* on Apple TV+. I watched it tonight. I think this may have been my fifth time watching it? It came out in 2022. I've watched it every year since. And one of those years I watched twice so I could show it to my parents and sister... hehehe
+
+As I often do, I took a stroll down memory lane today. Lately, I've loved taking a look at how full my life is. I haven't always taken the time to do that. In fact, I would mostly focus on what I don't have and would feel empty. Long story short, these past few years have given me so much more than I could have hoped for. God is good, my heart is happy, and I'm grateful for what I have. I'm full of joy and hope...hehehe

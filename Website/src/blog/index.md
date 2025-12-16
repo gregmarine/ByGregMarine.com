@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Long Story Short
+      link: /blog/2025/12/15_long-story-short
+    - theme: alt
       text: Really Good Weekend
       link: /blog/2025/12/14_really-good-weekend
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Christmas on the Beach
       link: /blog/2025/12/11_christmas-on-the-beach
-    - theme: alt
-      text: Milestones on My Journey's Path
-      link: /blog/2025/12/10_milestones-on-my-journeys-path
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
