@@ -804,6 +804,10 @@ export default [
           {
             text: '15 - Long Story Short',
             link: '/blog/2025/12/15_long-story-short'
+          },
+          {
+            text: '16 - With Every Christmas Card',
+            link: '/blog/2025/12/16_with-every-christmas-card'
           }
         ]
       }
