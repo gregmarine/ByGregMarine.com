@@ -808,6 +808,10 @@ export default [
           {
             text: '16 - With Every Christmas Card',
             link: '/blog/2025/12/16_with-every-christmas-card'
+          },
+          {
+            text: '17 - December 17',
+            link: '/blog/2025/12/17_december-17'
           }
         ]
       }
