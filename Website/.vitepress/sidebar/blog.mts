@@ -812,6 +812,10 @@ export default [
           {
             text: '17 - December 17',
             link: '/blog/2025/12/17_december-17'
+          },
+          {
+            text: '18 - God\'s Warm Hugs',
+            link: '/blog/2025/12/18_gods-warm-hugs'
           }
         ]
       }

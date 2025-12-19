@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: God's Warm Hugs
+      link: /blog/2025/12/18_gods-warm-hugs
+    - theme: alt
       text: December 17
       link: /blog/2025/12/17_december-17
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Really Good Weekend
       link: /blog/2025/12/14_really-good-weekend
-    - theme: alt
-      text: Christmas Dapper and a Happy Heart
-      link: /blog/2025/12/13_christmas-dapper-and-a-happy-heart
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
