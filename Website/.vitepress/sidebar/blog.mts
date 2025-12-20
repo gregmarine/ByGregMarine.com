@@ -816,6 +816,10 @@ export default [
           {
             text: '18 - God\'s Warm Hugs',
             link: '/blog/2025/12/18_gods-warm-hugs'
+          },
+          {
+            text: '19 - Noodle Bowl Time Machine',
+            link: '/blog/2025/12/19_noodle-bowl-time-machine'
           }
         ]
       }
