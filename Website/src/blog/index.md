@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Haircut, Movie, and...
+      link: /blog/2025/12/20_haircut-movie-and
+    - theme: alt
       text: Noodle Bowl Time Machine
       link: /blog/2025/12/19_noodle-bowl-time-machine
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: With Every Christmas Card
       link: /blog/2025/12/16_with-every-christmas-card
-    - theme: alt
-      text: Long Story Short
-      link: /blog/2025/12/15_long-story-short
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

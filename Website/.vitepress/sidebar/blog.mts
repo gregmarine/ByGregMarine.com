@@ -820,6 +820,10 @@ export default [
           {
             text: '19 - Noodle Bowl Time Machine',
             link: '/blog/2025/12/19_noodle-bowl-time-machine'
+          },
+          {
+            text: '20 - Haircut, Movie, and...',
+            link: '/blog/2025/12/20_haircut-movie-and'
           }
         ]
       }
