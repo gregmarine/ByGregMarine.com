@@ -824,6 +824,10 @@ export default [
           {
             text: '20 - Haircut, Movie, and...',
             link: '/blog/2025/12/20_haircut-movie-and'
+          },
+          {
+            text: '21 - Happy Winter',
+            link: '/blog/2025/12/21_happy-winter'
           }
         ]
       }
