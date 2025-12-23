@@ -828,6 +828,10 @@ export default [
           {
             text: '21 - Happy Winter',
             link: '/blog/2025/12/21_happy-winter'
+          },
+          {
+            text: '22 - Third Place',
+            link: '/blog/2025/12/22_third-place'
           }
         ]
       }
