@@ -832,6 +832,10 @@ export default [
           {
             text: '22 - Third Place',
             link: '/blog/2025/12/22_third-place'
+          },
+          {
+            text: '31 - Trusting God',
+            link: '/blog/2025/12/31_trusting_god'
           }
         ]
       }
