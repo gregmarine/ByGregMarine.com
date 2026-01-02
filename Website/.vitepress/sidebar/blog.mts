@@ -840,5 +840,21 @@ export default [
         ]
       }
     ]
+  },
+  {
+    text: '2026',
+    collapsed: true,
+    items: [
+      {
+        text: 'January',
+        collapsed: true,
+        items: [
+          {
+            text: '01 - Mostly Sunny',
+            link: '/blog/2026/01/01_mostly_sunny'
+          }
+        ]
+      }
+    ]
   }
 ]
