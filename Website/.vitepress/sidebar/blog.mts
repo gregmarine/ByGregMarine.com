@@ -852,6 +852,10 @@ export default [
           {
             text: '01 - Mostly Sunny',
             link: '/blog/2026/01/01_mostly_sunny'
+          },
+          {
+            text: '02 - Welcome to the Weekend',
+            link: '/blog/2026/01/02_welcome-to-the-weekend'
           }
         ]
       }
