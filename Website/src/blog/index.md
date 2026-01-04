@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Creative Day
+      link: /blog/2026/01/03_creative-day
+    - theme: alt
       text: Welcome to the Weekend
       link: /blog/2026/01/02_welcome-to-the-weekend
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Third Place
       link: /blog/2025/12/22_third-place
-    - theme: alt
-      text: Happy Winter
-      link: /blog/2025/12/21_happy-winter
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

@@ -856,6 +856,10 @@ export default [
           {
             text: '02 - Welcome to the Weekend',
             link: '/blog/2026/01/02_welcome-to-the-weekend'
+          },
+          {
+            text: '03 - Creative Day',
+            link: '/blog/2026/01/03_creative-day'
           }
         ]
       }
