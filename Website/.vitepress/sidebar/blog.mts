@@ -860,6 +860,10 @@ export default [
           {
             text: '03 - Creative Day',
             link: '/blog/2026/01/03_creative-day'
+          },
+          {
+            text: '04 - Greg vs Google Play',
+            link: '/blog/2026/01/04_greg-vs-google-play'
           }
         ]
       }
