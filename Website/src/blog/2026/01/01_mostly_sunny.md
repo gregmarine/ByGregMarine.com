@@ -1,4 +1,5 @@
 # Mostly Sunny
+### 2026/01/01
 
 I've had a really good start to the new year. I've been journaling throughout the day using my new technique that I've been working on. I'll be tweaking it along the way. It felt really good to be journaling this way today. Some of what I journaled will inspire parts of this blog entry.
 

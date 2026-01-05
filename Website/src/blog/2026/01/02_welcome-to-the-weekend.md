@@ -1,4 +1,5 @@
 # Welcome to the Weekend
+### 2026/01/02
 
 I don't often say this, but I'm glad it's the weekend...LOL I don't often say it because I'm one who is grateful for most days. But these back-to-back holidays have gotten to me on this Friday...LOL I just mean that I'm very tired...hehehe I got amazing sleep last night. But I've had very low energy all day. So, I'm looking forward to the weekend. And I'm very much looking forward to some normalcy next week. I don't have a strict routine anymore. But having no routine has been frustrating. I'm not really complaining, though. I'm so grateful for these abnormal schedules I have as one year ends and a new one begins. It reminds me to rest.
 
