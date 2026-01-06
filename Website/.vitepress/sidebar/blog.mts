@@ -864,6 +864,10 @@ export default [
           {
             text: '04 - Greg vs Google Play',
             link: '/blog/2026/01/04_greg-vs-google-play'
+          },
+          {
+            text: '05 - It is Enough',
+            link: '/blog/2026/01/05_it-is-enough'
           }
         ]
       }
