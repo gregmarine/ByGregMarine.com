@@ -868,6 +868,10 @@ export default [
           {
             text: '05 - It is Enough',
             link: '/blog/2026/01/05_it-is-enough'
+          },
+          {
+            text: '06 - Blessings Continue',
+            link: '/blog/2026/01/06_blessings-continue'
           }
         ]
       }
