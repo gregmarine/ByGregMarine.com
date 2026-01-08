@@ -872,6 +872,10 @@ export default [
           {
             text: '06 - Blessings Continue',
             link: '/blog/2026/01/06_blessings-continue'
+          },
+          {
+            text: '07 - Super Mom',
+            link: '/blog/2026/01/07_super-mom'
           }
         ]
       }
