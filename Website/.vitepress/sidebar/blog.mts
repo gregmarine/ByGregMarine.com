@@ -876,6 +876,10 @@ export default [
           {
             text: '07 - Super Mom',
             link: '/blog/2026/01/07_super-mom'
+          },
+          {
+            text: '08 - Dew, Android, Lyft, and Tacos',
+            link: '/blog/2026/01/08_dew-android-lyft-and-tacos'
           }
         ]
       }
