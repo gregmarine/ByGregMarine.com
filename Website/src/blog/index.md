@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Dream a Little Dream of Me
+      link: /blog/2026/01/09_dream-a-little-dream-of-me
+    - theme: alt
       text: Dew, Android, Lyft, and Tacos
       link: /blog/2026/01/08_dew-android-lyft-and-tacos
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: It is Enough
       link: /blog/2026/01/05_it-is-enough
-    - theme: alt
-      text: Greg vs Google Play
-      link: /blog/2026/01/04_greg-vs-google-play
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.

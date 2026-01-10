@@ -880,6 +880,10 @@ export default [
           {
             text: '08 - Dew, Android, Lyft, and Tacos',
             link: '/blog/2026/01/08_dew-android-lyft-and-tacos'
+          },
+          {
+            text: '09 -Dream a Little Dream of Me',
+            link: '/blog/2026/01/09_dream-a-little-dream-of-me'
           }
         ]
       }
