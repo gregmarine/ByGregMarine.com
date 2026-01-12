@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Vitamin G
-      link: /books/vitamin-g/introduction
+      link: /books/vitamin-g/
 
 features:
   - title: Art
