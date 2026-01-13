@@ -33,6 +33,10 @@ export default defineConfig({
                   {
                     text: 'Introduction',
                     link: '/books/vitamin-g/introduction'
+                  },
+                  {
+                    text: 'Perspective is Everything',
+                    link: '/books/vitamin-g/perspective-is-everything'
                   }
                 ]
               }    
