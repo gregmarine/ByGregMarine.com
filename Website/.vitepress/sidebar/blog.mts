@@ -882,8 +882,12 @@ export default [
             link: '/blog/2026/01/08_dew-android-lyft-and-tacos'
           },
           {
-            text: '09 -Dream a Little Dream of Me',
+            text: '09 - Dream a Little Dream of Me',
             link: '/blog/2026/01/09_dream-a-little-dream-of-me'
+          },
+          {
+            text: '13 - Rhythms of Grace',
+            link: '/blog/2026/01/13_rhythms-of-grace'
           }
         ]
       }

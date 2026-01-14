@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Rhythms of Grace
+      link: /blog/2026/01/13_rhythms-of-grace
+    - theme: alt
       text: Dream a Little Dream of Me
       link: /blog/2026/01/09_dream-a-little-dream-of-me
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Blessings Continue
       link: /blog/2026/01/06_blessings-continue
-    - theme: alt
-      text: It is Enough
-      link: /blog/2026/01/05_it-is-enough
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
