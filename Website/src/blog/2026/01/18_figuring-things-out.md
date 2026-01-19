@@ -1,0 +1,23 @@
+# Figuring Things Out
+
+I've been back on my preferred sleep schedule for a few days now and I am feeling great about it. Even though I tapped the snooze button this weekend, I think the 6-6:30 hours I am getting is the sweet spot I have been missing. I just hope it isn't only because I made a change...LOL Sometimes, a change in routine gives me a boost that eventually wears off...LOL But I think it's a safe bet that this sleep schedule is good for me. I was on it for so long before and it just clicked with me. I wish I hadn't changed it for the period of time I needed to.
+
+In the past week, I have completed 2 art pieces for the Bible study "project" and got quite a bit done on the project for Malachi. I also finished the first draft of that poem I've been working on. I still want to gloss over it and see if anything needs refined. And I'm considering illustrations for it. I'll also be starting my next piece for the Bible study this week for "Faith." I've already thought of some ideas for it. I may sketch it out tomorrow night.
+
+I started this week's study tonight. I've been waiting until Monday to begin. But this week I thought I'd get a jump on it tonight by reading the devotional, reflections, and studying the first passage in the reading plan. If I end up going to Disney on Saturday, I wanted to be sure I was finished writing up my notes by Friday. For me to keep to my usual pace, that meant starting tonight...hehehe I'm very excited for this week's lesson. It ties into something I started journaling about today. Today's sermon at CUMC was also related to that same something I started journaling about today...hehehe
+
+I got into a good rhythm with work last week that I hope to carry into this coming week. I've also been working on writing better notes to stay organized with work and to be able to document project notes better. It's a circumstance where I'm needing to accommodate "the world" because things aren't aligning with *me* well. I don't like it. But I'm doing what I need to do. It's not something I explain well. I'm very frustrated with it because I can't seem to communicate and I have to figure this out on my own. I'm leaning on God to guide me through it. But there are just some things about my career that I just don't care much for...LOL I hope to someday get back to what I wanted to do for a living in the first place. I feel like I'm working on that now, too...hehehe
+
+Although I feel like I'm blogging less now, I am grateful for my new journal process. Perhaps I can find a way to translate things to be blog worthy? I haven't figured that out yet. But I may someday. Another idea I had was to just blog weekly. Over the course of the week, there would surely be enough to write about? I use to blog to get thoughts out of my head. Well, journaling has served that purpose...LOL But I also feel like I have plenty to write about here too.
+
+I don't read past posts daily anymore. I took a break from that. I am glad I was reading past entries. But it had become a chore and I stopped loving it.
+
+I'm glad I didn't do a 21 days of prayer and fasting season to start off this year. I have Peace about how things are in my life right now. I think it was a good way to start off the year for the 3 years I did it. I just wasn't feeling it this year. It would have become a chore this year like how reading my past entries had become.
+
+I'm figuring things out. It will take time. As I think I said a few entries ago...I'm un-becoming what isn't me so I can become what God created. And I'm on a quest to *want that*. This process is making my heart happy. I don't yet have the words to explain what I'm going through right now. But what I'm going through is a good thing <3
+
+It's cold again. I don't think I wrote about it last week, though. Hmmm. It froze Thursday into Friday. Then Saturday was warm. But in the middle of the day today, it got cold again. And it's suppose to freeze again tonight like it did Friday. This is rare weather for Florida. It actually snowed up in the northern part of the state for the second year in a row. Again, that's rare.
+
+Here is "God's Love" from last week's Bible study lesson. I hope to start writing up something about each of these and post them on a new art section of this site soon. Since there will likely be 54 of these pieces in the collection, I need to decide on an official name for the collection and get started on writing up what each mean before the project gets growing...LOL
+
+![God's Love](./media/20260118_01.jpg)

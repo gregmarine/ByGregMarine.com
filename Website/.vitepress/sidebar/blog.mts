@@ -888,6 +888,10 @@ export default [
           {
             text: '13 - Rhythms of Grace',
             link: '/blog/2026/01/13_rhythms-of-grace'
+          },
+          {
+            text: '18 - Figuring Things Out',
+            link: '/blog/2026/01/18_figuring-things-out'
           }
         ]
       }
