@@ -892,6 +892,10 @@ export default [
           {
             text: '18 - Figuring Things Out',
             link: '/blog/2026/01/18_figuring-things-out'
+          },
+          {
+            text: '26 - Is This Thing On?',
+            link: '/blog/2026/01/26_is-this-thing-on'
           }
         ]
       }
