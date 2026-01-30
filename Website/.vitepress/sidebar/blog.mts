@@ -896,6 +896,10 @@ export default [
           {
             text: '26 - Is This Thing On?',
             link: '/blog/2026/01/26_is-this-thing-on'
+          },
+          {
+            text: '29 - Throwback Thursday',
+            link: '/blog/2026/01/29_throwback-thursday'
           }
         ]
       }

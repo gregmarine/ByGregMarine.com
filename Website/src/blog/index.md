@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Throwback Thursday
+      link: /blog/2026/01/29_throwback-thursday
+    - theme: alt
       text: Is This Thing On?
       link: /blog/2026/01/26_is-this-thing-on
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: Dream a Little Dream of Me
       link: /blog/2026/01/09_dream-a-little-dream-of-me
-    - theme: alt
-      text: Dew, Android, Lyft, and Tacos
-      link: /blog/2026/01/08_dew-android-lyft-and-tacos
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
