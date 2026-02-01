@@ -900,6 +900,10 @@ export default [
           {
             text: '29 - Throwback Thursday',
             link: '/blog/2026/01/29_throwback-thursday'
+          },
+          {
+            text: '31 - Frozen Florida',
+            link: '/blog/2026/01/31_frozen-florida'
           }
         ]
       }
