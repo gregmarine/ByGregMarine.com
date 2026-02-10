@@ -1,0 +1,20 @@
+# Happy Disney Day?
+### 2026/02/09
+
+I haven't been consistent with posting on this blog lately. I hope to get that rhythm back soon. Did I mention this already? LOL
+
+I had a "fight" with my AI journal partner the other day. So I haven't been using that these last few days. It happened on Saturday. It was the first time I deviated from my normal journal process. I spent most of the day at Disney World. So rather than writing all day, I wanted it to just keep track of everything I did that day so I could see a list at the end of the day with timestamps. At the end of the day, it could not give me an accurate list. It had things all jumbled up. So I attempted to have it just export everything verbatim so I could sort it out later. It couldn't even do that. I kept telling it that it wasn't giving me what I asked... LOL I finally gave up on it. It was an experiment that failed. But worth a try and reevaluation for another try later. For now, I'm continuing my journaling process without my AI partner.
+
+Anywho... LOL So, I went to Disney on Saturday. I'm glad I went. The day was mixed, though. Overall, it was a good time. It just came with its challenges. I'll not go too much into the details of the challenges. But it did inspire me to take a few moments that day to appreciate the gift that each moment is.
+
+I went "street" for the day. I didn't do the dapper Figment that I have planned. I wanted to blend in and try some new ways of enjoying the parks. I'm glad I did that. It led to some fun things. One new thing I did was tried to do what I think were urban sketches. At least one of them can be categorized as an urban sketch as it was done on location and of that location. Both are digital pencil sketches with digital watercolor. It was fun and I'd like to do that more often.
+
+Something else that was fun this time is that I didn't do any of the attractions. I did stop and enjoy a few performances. But otherwise just walked around, took in the vibes of people enjoying their day at the parks, and tried some of the food and drinks from the art festival at EPCOT.
+
+I was disappointed in the paintings available this year. But I did find some inspiration. And I also found one painting that "spoke" to me that I bought. I met the artist too and asked him to sign it. His work is amazing. He does art all around the resorts and in a few of the films. His name is David E. Doss. He's a really nice guy from what I can tell. He seemed down to earth and not "proud."
+
+It was a very busy day at both parks I went to. I started at Animal Kingdom and then went to EPCOT. I thought about going to one of the other two remaining parks too. But decided to head home after sunset. I'm sure it would have been a lovely evening to spend at Magic Kingdom or Hollywood Studios. But I'm glad I went home when I did.
+
+Ooh! I also used my "disposable camera" lens on my mirrorless camera to capture some photos of the day with a vintage look. But I also limited myself to just enough that would fit on a camera roll. I ended up with 20. I aimed for 24. But I didn't find those last 4 opportunities. I took several in the Japan pavilion. I may try this idea more as well. It felt like the good old days when each photo counted. It's easy to lose photos and videos these days because it's virtually unlimited now. I may print them or use one of my e-ink photo frames to display them.
+
+It was good to be at the parks that day. I missed Disney. I did some things differently. Which is always nice. I always have what I need when I do these things. But I'll say I didn't get what I wanted from the experience. I'm okay, though. I still got what I needed. Disappointment comes from unmet expectations. The day didn't set the expectations. I did. So, I'm the one responsible for my happiness that day. I'm choosing to be happy with the day. It just isn't always easy to choose happiness... LOL
