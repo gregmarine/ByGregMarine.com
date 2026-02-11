@@ -914,6 +914,10 @@ export default [
           {
             text: '09 - Happy Disney Day?',
             link: '/blog/2026/02/09_happy-disney-day'
+          },
+          {
+            text: '10 - Not Just a Hobby',
+            link: '/blog/2026/02/10_not-just-a-hobby'
           }
         ]
       }
