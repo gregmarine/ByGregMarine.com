@@ -918,6 +918,10 @@ export default [
           {
             text: '10 - Not Just a Hobby',
             link: '/blog/2026/02/10_not-just-a-hobby'
+          },
+          {
+            text: '16 - I Survived Today',
+            link: '/blog/2026/02/16_i-survived-today'
           }
         ]
       }
