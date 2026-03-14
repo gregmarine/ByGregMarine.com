@@ -1,0 +1,20 @@
+# Marching Onward
+### 2026/03/13
+
+It has been a really good week. I was very productive at work. I enjoyed another week of Bible study. This week's art project is one of my favorites. I've been on walks most days. And I've been able to get plenty of rest as well. The year started off pretty rough for me. But March has been quite different. These past few weeks have been lovely <3
+
+I've been trying to do things on the weekends lately too. The first 2 Saturdays of February were Festival of the Arts days for me. I went to Jacksonville on the 3rd Saturday for my cousin's funeral and to see family. And I went to Epic Universe with some friends on the last Saturday of February. I also went to Epic Universe the next day to start off March. That one was with my nephews. Last Saturday I went to Magic Kingdom and EPCOT to try out a few new lounges. And tomorrow I'll be going to the 2 main Universal parks, Universal Studios and Islands of Adventure. I'll also spend some time at City Walk since it's part of that main campus as well.
+
+For my Universal experience tomorrow, I'm just happy to be going. Whatever I end up doing will just be a plus. I haven't been to the main parks in a few years and I miss them. If I were to move to the area, I'd get the annual pass. I only maintain the Disney one because I enjoy Walt Disney World more. But I'd maintain both passes if I lived closer. These Universal trips are fun. But I don't want to go as often right now.
+
+I officially renewed my lease for my apartment. No moving again this year. Since I'm staying for another year, this will be the longest I've stayed somewhere since I left my parents' home in 2001. The landlord still has to sign the paperwork. But my part is done now. I am glad I'm staying another year. I didn't wrestle with the idea this year. I truly want to stay for at least another year. It feels a bit strange for me since it wasn't long ago that I wanted to move really bad. But my personal growth these past few years has given me a more positive perspective on just about everything. Especially for my thoughts on this place.
+
+I think I mentioned something about this in my last post, but I ended up getting that more portable art tablet. I've been using it when I'm out and about. I started going to Zen weekly and I've been using it there these past few weeks. And I used it at Walt Disney World last weekend. I plan to take it tomorrow. It's nice to sit and relax in places and work on my art. This new tablet isn't as powerful as my professional one I use at home. But it works well enough. I source my files at a high resolution so that I can use the art in many forms. But what that means on this portable tablet is it can get slightly laggy at times. I don't mind at all, though. If I need to do intensive work, I can do all of that at home on the larger one. These art tablets are one of the best investments I've made for my artwork.
+
+I'll likely finish this week's art piece tomorrow while I'm at Universal. I finished last week's from Walt Disney World. I started this week's from Zen and I've worked on it a little at home too. I'm able to sync the files between the tablets relatively easily. I may do some journaling tomorrow as well. I'll take my portable (Nomad) writing tablet too.
+
+I'm grateful for everyone and everything in my life. The year started off rough. But I'll not allow that to get me down. Being active lately and the improved weather has helped me bounce back. But the number one thing has been my spiritual health and growth. I was easily able to look to God for His help through those first few months. And now my physical and mental health are much improved.
+
+I appreciate everyone who has prayed for me and encouraged me along the way. I have wonderful friends and family.
+
+I hope to get back to regularly posting here on my journal. I've been writing a little each day in my personal journal. But I miss writing here. I don't write things like this in that personal journal. It's mostly just "here's how I feel this morning" and then a log of what I've done all day. It isn't a deep thoughts or "so I was thinking" type journal ;)
