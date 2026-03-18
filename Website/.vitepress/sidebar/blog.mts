@@ -936,6 +936,10 @@ export default [
           {
             text: '15 - Universal Adventure',
             link: '/blog/2026/03/15_universal_adventure'
+          },
+          {
+            text: '17 - Good to be Back',
+            link: '/blog/2026/03/17_good-to-be-back'
           }
         ]
       }
