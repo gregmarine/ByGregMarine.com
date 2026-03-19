@@ -940,6 +940,10 @@ export default [
           {
             text: '17 - Good to be Back',
             link: '/blog/2026/03/17_good-to-be-back'
+          },
+          {
+            text: '18 - On My Mind Today',
+            link: '/blog/2026/03/18_on-my-mind-today'
           }
         ]
       }
