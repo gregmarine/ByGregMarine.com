@@ -944,6 +944,10 @@ export default [
           {
             text: '18 - On My Mind Today',
             link: '/blog/2026/03/18_on-my-mind-today'
+          },
+          {
+            text: '22 - Birthday Weekend',
+            link: '/blog/2026/03/22_birthday-weekend'
           }
         ]
       }
