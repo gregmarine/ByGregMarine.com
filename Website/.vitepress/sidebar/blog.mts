@@ -948,6 +948,10 @@ export default [
           {
             text: '22 - Birthday Weekend',
             link: '/blog/2026/03/22_birthday-weekend'
+          },
+          {
+            text: '23 - Universal Birthday Vlog',
+            link: '/blog/2026/03/23_universal-birthday-vlog'
           }
         ]
       }
