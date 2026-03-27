@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    color-scheme: light dark;
+  }
+
+  html {
+    font-family: system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Remove browser disclosure triangle from module <details> toggles */
+  .blog-archive-toggle > summary,
+  .blog-year-toggle > summary,
+  .photos-archive-toggle > summary,
+  .art-archive-toggle > summary,
+  .words-archive-toggle > summary {
+    list-style: none;
+  }
+  .blog-archive-toggle > summary::-webkit-details-marker,
+  .blog-year-toggle > summary::-webkit-details-marker,
+  .photos-archive-toggle > summary::-webkit-details-marker,
+  .art-archive-toggle > summary::-webkit-details-marker,
+  .words-archive-toggle > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  /* Prose typography for module content */
+  .prose {
+    --tw-prose-body: theme(colors.gray.700);
+    --tw-prose-headings: theme(colors.gray.900);
+    --tw-prose-links: theme(colors.gray.900);
+    --tw-prose-code: theme(colors.gray.900);
+  }
+}

@@ -1,0 +1,27 @@
+---
+// Wraps individual module entry pages (blog post, photo, art piece, words entry).
+import BaseLayout from "./BaseLayout.astro";
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  date?: Date;
+}
+
+const { title, description, image, date } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} image={image}>
+  <article class="prose prose-gray dark:prose-invert max-w-none">
+    <header class="mb-8 not-prose">
+      {title && <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">{title}</h1>}
+      {date && (
+        <time class="text-sm text-gray-500 dark:text-gray-400" datetime={date.toISOString()}>
+          {date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+        </time>
+      )}
+    </header>
+    <slot />
+  </article>
+</BaseLayout>

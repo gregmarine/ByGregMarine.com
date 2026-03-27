@@ -1,0 +1,64 @@
+---
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+import PhotosLayout from "../../../layouts/PhotosLayout.astro";
+
+export async function getStaticPaths() {
+  const allPhotos = await getCollection("photos");
+
+  const buckets = new Map<string, CollectionEntry<"photos">[]>();
+  for (const photo of allPhotos) {
+    if (!photo.data.collection) continue;
+    const c = photo.data.collection;
+    if (!buckets.has(c)) buckets.set(c, []);
+    buckets.get(c)!.push(photo);
+  }
+
+  return [...buckets.entries()].map(([collection, photos]) => ({
+    params: { collection },
+    props: {
+      collection,
+      photos: photos.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    },
+  }));
+}
+
+interface Props {
+  collection: string;
+  photos: CollectionEntry<"photos">[];
+}
+
+const { collection, photos } = Astro.props;
+
+const label = collection.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
+---
+
+<PhotosLayout description={`Photos in the ${label} collection.`}>
+  <section class="space-y-8">
+    <h1 class="text-3xl font-bold tracking-tight">{label}</h1>
+    {photos.length === 0 ? (
+      <p class="text-gray-500 dark:text-gray-400">No photos in this collection yet.</p>
+    ) : (
+      <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {photos.map((photo) => (
+          <li>
+            <a href={`/photos/${photo.id}`} class="group block space-y-2">
+              <div class="aspect-square overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800">
+                <img
+                  src={photo.data.images[0].src}
+                  alt={photo.data.images[0].caption ?? photo.data.title}
+                  class="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                  loading="lazy"
+                />
+              </div>
+              <h2 class="text-sm font-medium group-hover:underline underline-offset-4">{photo.data.title}</h2>
+              <time class="text-xs text-gray-500 dark:text-gray-400" datetime={photo.data.date.toISOString()}>
+                {photo.data.date.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}
+              </time>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+</PhotosLayout>

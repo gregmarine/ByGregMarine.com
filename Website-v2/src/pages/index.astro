@@ -1,0 +1,19 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../../site.config";
+
+const { modules } = siteConfig;
+---
+
+<BaseLayout>
+  <section class="py-16 space-y-6">
+    <h1 class="text-4xl font-bold tracking-tight sm:text-5xl">{siteConfig.title}</h1>
+    <p class="text-lg text-gray-600 dark:text-gray-400 max-w-xl">{siteConfig.description}</p>
+    <nav aria-label="Modules" class="flex flex-wrap gap-4 pt-4">
+      {modules.blog && <a href="/blog" class="text-sm font-medium underline underline-offset-4 hover:text-gray-600 dark:hover:text-gray-300">Blog</a>}
+      {modules.photos && <a href="/photos" class="text-sm font-medium underline underline-offset-4 hover:text-gray-600 dark:hover:text-gray-300">Photos</a>}
+      {modules.art && <a href="/art" class="text-sm font-medium underline underline-offset-4 hover:text-gray-600 dark:hover:text-gray-300">Art</a>}
+      {modules.words && <a href="/words" class="text-sm font-medium underline underline-offset-4 hover:text-gray-600 dark:hover:text-gray-300">Words</a>}
+    </nav>
+  </section>
+</BaseLayout>

@@ -1,0 +1,33 @@
+---
+import { siteConfig } from "../../site.config";
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+}
+
+const { title, description, image } = Astro.props;
+
+const pageTitle = title ? `${title} — ${siteConfig.title}` : siteConfig.title;
+const pageDesc = description ?? siteConfig.description;
+const pageImage = image ?? "/og-default.png";
+const canonical = new URL(Astro.url.pathname, siteConfig.url).toString();
+---
+
+<title>{pageTitle}</title>
+<meta name="description" content={pageDesc} />
+<link rel="canonical" href={canonical} />
+
+<!-- Open Graph -->
+<meta property="og:title" content={pageTitle} />
+<meta property="og:description" content={pageDesc} />
+<meta property="og:image" content={new URL(pageImage, siteConfig.url).toString()} />
+<meta property="og:url" content={canonical} />
+<meta property="og:type" content="website" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={pageTitle} />
+<meta name="twitter:description" content={pageDesc} />
+<meta name="twitter:image" content={new URL(pageImage, siteConfig.url).toString()} />

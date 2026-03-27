@@ -1,0 +1,20 @@
+# Decap CMS config fragment — Words module
+- name: words
+  label: Words
+  folder: src/content/words
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { label: Title, name: title, widget: string }
+    - { label: Description, name: description, widget: string, required: false }
+    - label: Date
+      name: date
+      widget: datetime
+      format: "YYYY-MM-DDTHH:mm:ssZ"
+      date_format: "YYYY-MM-DD"
+      time_format: "HH:mm"
+      default: ""
+      picker_utc: false
+    - { label: Tags, name: tags, widget: list, default: [] }
+    - { label: Form, name: form, widget: select, required: false, options: [poem, essay, prose, story, other] }
+    - { label: Body, name: body, widget: markdown }

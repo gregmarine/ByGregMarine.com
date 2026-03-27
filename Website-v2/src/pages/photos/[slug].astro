@@ -1,0 +1,47 @@
+---
+import { getCollection, render } from "astro:content";
+import PhotosLayout from "../../layouts/PhotosLayout.astro";
+
+export async function getStaticPaths() {
+  const photos = await getCollection("photos");
+  return photos.map((photo) => ({ params: { slug: photo.id }, props: { photo } }));
+}
+
+const { photo } = Astro.props;
+const { Content } = await render(photo);
+
+// Scope prev/next to the same collection group (named collection or uncollected "other")
+const collectionKey = photo.data.collection ?? null;
+const scopedPhotos = (await getCollection("photos"))
+  .filter((p) => (p.data.collection ?? null) === collectionKey)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const index = scopedPhotos.findIndex((p) => p.id === photo.id);
+const prevPost = scopedPhotos.length > 1 ? (scopedPhotos[index + 1] ?? null) : null; // older
+const nextPost = scopedPhotos.length > 1 ? (scopedPhotos[index - 1] ?? null) : null; // newer
+---
+
+<PhotosLayout
+  title={photo.data.title}
+  description={photo.data.description}
+  image={photo.data.images[0]?.src}
+  date={photo.data.date}
+  prevPost={prevPost}
+  nextPost={nextPost}
+  currentCollection={photo.data.collection ?? "other"}
+  collection={photo.data.collection ?? null}
+>
+  <div class="not-prose space-y-6 mb-8">
+    {photo.data.images.map((img) => (
+      <figure>
+        <img src={img.src} alt={img.caption ?? photo.data.title} class="rounded-md w-full" />
+        {img.caption && (
+          <figcaption class="mt-2 text-sm text-gray-500 dark:text-gray-400">{img.caption}</figcaption>
+        )}
+      </figure>
+    ))}
+  </div>
+  {photo.data.location && (
+    <p class="not-prose text-sm text-gray-500 dark:text-gray-400 mb-6">{photo.data.location}</p>
+  )}
+  <Content />
+</PhotosLayout>

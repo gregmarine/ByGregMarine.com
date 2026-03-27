@@ -1,0 +1,18 @@
+---
+import { siteConfig } from "../../site.config";
+
+const year = new Date().getFullYear();
+---
+
+<footer class="w-full border-t border-gray-200 dark:border-gray-800 mt-16">
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-sm text-gray-500 dark:text-gray-400 flex flex-col sm:flex-row items-center justify-between gap-2">
+    <p>&copy; {year} {siteConfig.title}</p>
+    <a
+      href="/admin/"
+      class="hover:text-black dark:hover:text-white transition-colors"
+      aria-label="CMS Admin"
+    >
+      Admin
+    </a>
+  </div>
+</footer>

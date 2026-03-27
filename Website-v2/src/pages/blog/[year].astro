@@ -1,0 +1,86 @@
+---
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+import BlogLayout from "../../layouts/BlogLayout.astro";
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection("blog");
+
+  // Collect unique years and the posts that belong to each
+  const buckets = new Map<string, CollectionEntry<"blog">[]>();
+  for (const post of allPosts) {
+    const year = String(post.data.date.getFullYear());
+    if (!buckets.has(year)) buckets.set(year, []);
+    buckets.get(year)!.push(post);
+  }
+
+  return [...buckets.entries()].map(([year, posts]) => ({
+    params: { year },
+    props: {
+      year,
+      posts: posts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    },
+  }));
+}
+
+interface Props {
+  year: string;
+  posts: CollectionEntry<"blog">[];
+}
+
+const { year, posts } = Astro.props;
+
+// Group posts by month, sorted descending (December first)
+const MONTHS = [
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December",
+];
+
+const monthBuckets = new Map<number, CollectionEntry<"blog">[]>();
+for (const post of posts) {
+  const m = post.data.date.getMonth(); // 0-indexed
+  if (!monthBuckets.has(m)) monthBuckets.set(m, []);
+  monthBuckets.get(m)!.push(post);
+}
+
+const monthGroups = [...monthBuckets.entries()]
+  .sort((a, b) => b[0] - a[0])
+  .map(([m, monthPosts]) => ({ label: MONTHS[m], posts: monthPosts }));
+---
+
+<BlogLayout description={`Blog posts from ${year}.`}>
+  <section class="space-y-10">
+    <h1 class="text-3xl font-bold tracking-tight">{year}</h1>
+    {monthGroups.map(({ label, posts: monthPosts }) => (
+      <div>
+        <h2 class="text-base font-semibold text-gray-500 dark:text-gray-400 mb-3">{label}</h2>
+        <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
+          {monthPosts.map((post) => (
+            <li class="pt-6 first:pt-0">
+              <a href={`/blog/${post.id}`} class="group block space-y-1">
+                <h3 class="text-xl font-semibold group-hover:underline underline-offset-4">
+                  {post.data.title}
+                </h3>
+                <time
+                  class="text-sm text-gray-500 dark:text-gray-400"
+                  datetime={post.data.date.toISOString()}
+                >
+                  {post.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+                </time>
+                {post.data.tags.length > 0 && (
+                  <ul class="flex flex-wrap gap-2 pt-1">
+                    {post.data.tags.map((tag) => (
+                      <li class="text-xs text-gray-400 dark:text-gray-500 bg-gray-100 dark:bg-gray-800 px-2 py-0.5 rounded">
+                        {tag}
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </section>
+</BlogLayout>
