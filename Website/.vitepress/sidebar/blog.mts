@@ -952,6 +952,10 @@ export default [
           {
             text: '23 - Universal Birthday Vlog',
             link: '/blog/2026/03/23_universal-birthday-vlog'
+          },
+          {
+            text: '27 - AI and Indiana Trip',
+            link: '/blog/2026/03/27_ai-and-indiana-trip'
           }
         ]
       }
