@@ -67,7 +67,7 @@ const home = defineCollection({
 const sectionMetaSchema = z.object({
   title: z.string().optional(),
   subtitle: z.string().optional(),
-  blurb: z.string().optional(),
+  tagline: z.string().optional(),
 });
 
 const blogMeta = defineCollection({

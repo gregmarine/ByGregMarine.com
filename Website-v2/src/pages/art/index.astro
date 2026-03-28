@@ -13,19 +13,19 @@ const artMetaEntries = await getCollection("artMeta");
 const meta = artMetaEntries[0]?.data;
 const sectionTitle = meta?.title ?? "";
 const subtitle = meta?.subtitle ?? "";
-const blurb = meta?.blurb ?? "";
+const tagline = meta?.tagline ?? "";
 ---
 
 <ArtLayout description="Artwork by Greg Marine.">
   <section class="space-y-8">
     <div class="pb-6 border-b border-gray-100 dark:border-gray-800 space-y-1">
       {sectionTitle ? (
-        <h1 class="text-3xl font-bold tracking-tight font-serif leading-snug">{sectionTitle}</h1>
+        <h1 class="text-3xl font-bold tracking-tight leading-snug">{sectionTitle}</h1>
       ) : (
         <h1 class="text-3xl font-bold tracking-tight">Art</h1>
       )}
       {subtitle && <p class="text-sm text-gray-500 dark:text-gray-400">{subtitle}</p>}
-      {blurb && <p class="text-sm italic text-gray-400 dark:text-gray-500">{blurb}</p>}
+      {tagline && <p class="text-sm italic text-gray-400 dark:text-gray-500">{tagline}</p>}
     </div>
     {pieces.length === 0 ? (
       <p class="text-gray-500 dark:text-gray-400">No pieces yet. Check back soon.</p>

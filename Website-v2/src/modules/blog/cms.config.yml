@@ -28,4 +28,4 @@
       fields:
         - { label: "Section title", name: title, widget: string, required: false, hint: "The personality hook e.g. So, I was thinking..." }
         - { label: "Section subtitle", name: subtitle, widget: string, required: false, hint: "The context line e.g. a blog by Greg Marine" }
-        - { label: Section blurb, name: blurb, widget: string, required: false }
+        - { label: Section tagline, name: tagline, widget: string, required: false }
