@@ -11,6 +11,33 @@ export const siteConfig = {
     art: true,
     words: true,
   },
+  socialLinks: [
+    {
+      platform: "instagram",
+      url: "https://www.instagram.com/bygregmarine/",
+      label: "Greg Marine on Instagram",
+    },
+    {
+      platform: "threads",
+      url: "https://www.threads.net/@bygregmarine",
+      label: "Greg Marine on Threads",
+    },
+    {
+      platform: "bluesky",
+      url: "https://bsky.app/profile/bygregmarine.bsky.social",
+      label: "Greg Marine on BlueSky",
+    },
+    {
+      platform: "x",
+      url: "https://x.com/bygregmarine",
+      label: "Greg Marine on X",
+    },
+    {
+      platform: "github",
+      url: "https://github.com/gregmarine/ByGregMarine.com/",
+      label: "Greg Marine on GitHub",
+    },
+  ],
 } as const;
 
 export type SiteConfig = typeof siteConfig;
