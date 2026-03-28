@@ -12,6 +12,16 @@ media_folder: public/uploads
 public_folder: /uploads
 
 collections:
+  - name: home
+    label: Home
+    files:
+      - name: home
+        label: Home Settings
+        file: src/content/home/index.md
+        fields:
+          - { label: Tagline, name: tagline, widget: string, required: false }
+          - { label: Bio, name: bio, widget: text, required: false, hint: "A short personal note shown on the home page" }
+
   - name: blog
     label: Blog
     folder: src/content/blog
@@ -31,6 +41,53 @@ collections:
       - { label: Tags, name: tags, widget: list, default: [] }
       - { label: Cover Image, name: cover, widget: image, required: false }
       - { label: Body, name: body, widget: markdown }
+
+  - name: words
+    label: Words
+    folder: src/content/words
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Description, name: description, widget: string, required: false }
+      - label: Date
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DDTHH:mm:ssZ"
+        date_format: "YYYY-MM-DD"
+        time_format: "HH:mm"
+        default: ""
+        picker_utc: false
+      - { label: Tags, name: tags, widget: list, default: [] }
+      - { label: Form, name: form, widget: select, required: false, options: [poem, essay, prose, story, other] }
+      - { label: Body, name: body, widget: markdown }
+
+  - name: art
+    label: Art
+    folder: src/content/art
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Description, name: description, widget: string, required: false }
+      - label: Date
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DDTHH:mm:ssZ"
+        date_format: "YYYY-MM-DD"
+        time_format: "HH:mm"
+        default: ""
+        picker_utc: false
+      - { label: Tags, name: tags, widget: list, default: [] }
+      - label: Images
+        name: images
+        widget: list
+        fields:
+          - { label: Image, name: src, widget: image }
+          - { label: Caption, name: caption, widget: string, required: false }
+      - { label: Medium, name: medium, widget: string, required: false }
+      - { label: Year Created, name: yearCreated, widget: number, required: false }
+      - { label: Body, name: body, widget: markdown, required: false }
 
   - name: photos
     label: Photos
@@ -66,50 +123,3 @@ collections:
           - { label: Image, name: src, widget: image }
           - { label: Caption, name: caption, widget: string, required: false }
       - { label: Body, name: body, widget: markdown, required: false }
-
-  - name: art
-    label: Art
-    folder: src/content/art
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: Title, name: title, widget: string }
-      - { label: Description, name: description, widget: string, required: false }
-      - label: Date
-        name: date
-        widget: datetime
-        format: "YYYY-MM-DDTHH:mm:ssZ"
-        date_format: "YYYY-MM-DD"
-        time_format: "HH:mm"
-        default: ""
-        picker_utc: false
-      - { label: Tags, name: tags, widget: list, default: [] }
-      - label: Images
-        name: images
-        widget: list
-        fields:
-          - { label: Image, name: src, widget: image }
-          - { label: Caption, name: caption, widget: string, required: false }
-      - { label: Medium, name: medium, widget: string, required: false }
-      - { label: Year Created, name: yearCreated, widget: number, required: false }
-      - { label: Body, name: body, widget: markdown, required: false }
-
-  - name: words
-    label: Words
-    folder: src/content/words
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: Title, name: title, widget: string }
-      - { label: Description, name: description, widget: string, required: false }
-      - label: Date
-        name: date
-        widget: datetime
-        format: "YYYY-MM-DDTHH:mm:ssZ"
-        date_format: "YYYY-MM-DD"
-        time_format: "HH:mm"
-        default: ""
-        picker_utc: false
-      - { label: Tags, name: tags, widget: list, default: [] }
-      - { label: Form, name: form, widget: select, required: false, options: [poem, essay, prose, story, other] }
-      - { label: Body, name: body, widget: markdown }

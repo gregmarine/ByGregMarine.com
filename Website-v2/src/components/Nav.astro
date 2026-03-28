@@ -5,9 +5,9 @@ const { modules } = siteConfig;
 
 const navItems = [
   { label: "Blog", href: "/blog", active: modules.blog },
-  { label: "Photos", href: "/photos", active: modules.photos },
-  { label: "Art", href: "/art", active: modules.art },
   { label: "Words", href: "/words", active: modules.words },
+  { label: "Art", href: "/art", active: modules.art },
+  { label: "Photos", href: "/photos", active: modules.photos },
 ].filter((item) => item.active);
 
 const currentPath = Astro.url.pathname;

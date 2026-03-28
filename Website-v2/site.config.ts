@@ -6,10 +6,11 @@ export const siteConfig = {
   description: "A personal creative platform.",
   url: "https://bygregmarine.com",
   modules: {
+    home: true,
     blog: true,
-    photos: true,
-    art: true,
     words: true,
+    art: true,
+    photos: true,
   },
   socialLinks: [
     {

@@ -56,4 +56,12 @@ const words = defineCollection({
   }),
 });
 
-export const collections = { blog, photos, art, words };
+const home = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: new URL("./content/home", import.meta.url).pathname }),
+  schema: z.object({
+    tagline: z.string().optional(),
+    bio: z.string().optional(),
+  }),
+});
+
+export const collections = { blog, photos, art, words, home };
