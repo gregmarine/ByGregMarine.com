@@ -65,7 +65,7 @@ const showPostNav = prevPost !== null || nextPost !== null;
 <BaseLayout title={title} description={description}>
 
   <!-- Mobile archive toggle (hidden on desktop) -->
-  <details class="words-archive-toggle lg:hidden mb-6 rounded-md border border-gray-200 dark:border-gray-800">
+  <details class="words-archive-toggle lg:hidden mb-6">
     <summary
       class="flex cursor-pointer select-none items-center justify-between px-4 py-3 text-gray-600 dark:text-gray-400"
       aria-label="Toggle collections"
@@ -80,7 +80,6 @@ const showPostNav = prevPost !== null || nextPost !== null;
       >
         <path d="M0 1h18M0 7h18M0 13h18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
       </svg>
-      <span aria-hidden="true" class="text-gray-400 dark:text-gray-600 text-xs">▾</span>
     </summary>
     <div class="px-4 pb-5 pt-3 border-t border-gray-200 dark:border-gray-800">
       <WordsSidebar collections={collections} otherCount={otherCount} currentCollection={currentCollection} />

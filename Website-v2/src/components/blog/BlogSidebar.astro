@@ -42,7 +42,6 @@ const defaultOpenYear = currentYear ?? (archive.length > 0 ? archive[0].year : n
             yearTextClass,
           ]}>
             {year}
-            <span aria-hidden="true" class="text-gray-400 dark:text-gray-600 text-xs ml-2">▾</span>
           </summary>
           <ul class="space-y-0.5 mt-1 mb-1">
             {months.map((m) => {
