@@ -1,10 +1,14 @@
 ---
-import { getCollection, render } from "astro:content";
+import { getCollection, render, type CollectionEntry } from "astro:content";
 import PhotosLayout from "../../layouts/PhotosLayout.astro";
 
 export async function getStaticPaths() {
   const photos = await getCollection("photos");
   return photos.map((photo) => ({ params: { slug: photo.id }, props: { photo } }));
+}
+
+interface Props {
+  photo: CollectionEntry<"photos">;
 }
 
 const { photo } = Astro.props;
@@ -44,4 +48,20 @@ const nextPost = scopedPhotos.length > 1 ? (scopedPhotos[index - 1] ?? null) : n
     <p class="not-prose text-sm text-gray-500 dark:text-gray-400 mb-6">{photo.data.location}</p>
   )}
   <Content />
+  {photo.data.tags.length > 0 && (
+    <div class="not-prose mt-8 pt-6 border-t border-gray-100 dark:border-gray-800">
+      <ul class="flex flex-wrap gap-2">
+        {photo.data.tags.map((tag: string) => (
+          <li>
+            <a
+              href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+              class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+            >
+              {tag}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
 </PhotosLayout>

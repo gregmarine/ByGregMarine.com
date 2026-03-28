@@ -1,10 +1,14 @@
 ---
-import { getCollection, render } from "astro:content";
+import { getCollection, render, type CollectionEntry } from "astro:content";
 import ArtLayout from "../../layouts/ArtLayout.astro";
 
 export async function getStaticPaths() {
   const pieces = await getCollection("art");
   return pieces.map((piece) => ({ params: { slug: piece.id }, props: { piece } }));
+}
+
+interface Props {
+  piece: CollectionEntry<"art">;
 }
 
 const { piece } = Astro.props;
@@ -46,4 +50,20 @@ const nextPost = scopedPieces.length > 1 ? (scopedPieces[index - 1] ?? null) : n
     </p>
   )}
   <Content />
+  {piece.data.tags.length > 0 && (
+    <div class="not-prose mt-8 pt-6 border-t border-gray-100 dark:border-gray-800">
+      <ul class="flex flex-wrap gap-2">
+        {piece.data.tags.map((tag: string) => (
+          <li>
+            <a
+              href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+              class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+            >
+              {tag}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
 </ArtLayout>

@@ -14,7 +14,7 @@ const posts = (await getCollection("blog"))
     ) : (
       <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
         {posts.map((post) => (
-          <li class="pt-6 first:pt-0">
+          <li class="pt-6 first:pt-0 space-y-1.5">
             <a href={`/blog/${post.id}`} class="group block space-y-1">
               <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{post.data.title}</h2>
               <time class="text-sm text-gray-500 dark:text-gray-400" datetime={post.data.date.toISOString()}>
@@ -24,6 +24,20 @@ const posts = (await getCollection("blog"))
                 <p class="text-gray-600 dark:text-gray-400">{post.data.description}</p>
               )}
             </a>
+            {post.data.tags.length > 0 && (
+              <ul class="flex flex-wrap gap-1.5">
+                {post.data.tags.map((tag: string) => (
+                  <li>
+                    <a
+                      href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                      class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+                    >
+                      {tag}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            )}
           </li>
         ))}
       </ul>

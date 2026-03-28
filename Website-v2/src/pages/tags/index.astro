@@ -1,0 +1,48 @@
+---
+import { getCollection } from "astro:content";
+import TagLayout from "../../layouts/TagLayout.astro";
+
+const [blogPosts, photos, artPieces, wordsEntries] = await Promise.all([
+  getCollection("blog"),
+  getCollection("photos"),
+  getCollection("art"),
+  getCollection("words"),
+]);
+
+// Build a count map keyed by slug; label is slug with hyphens as spaces
+const counts = new Map<string, number>();
+
+for (const entry of [...blogPosts, ...photos, ...artPieces, ...wordsEntries]) {
+  for (const tag of entry.data.tags) {
+    const slug = tag.toLowerCase().replace(/\s+/g, "-");
+    counts.set(slug, (counts.get(slug) ?? 0) + 1);
+  }
+}
+
+const tags = [...counts.entries()]
+  .map(([slug, count]) => ({ slug, label: slug.replace(/-/g, " "), count }))
+  .sort((a, b) => a.slug.localeCompare(b.slug));
+---
+
+<TagLayout title="All tags" description="All tags used across the site.">
+  <section class="space-y-8">
+    <h1 class="text-3xl font-bold tracking-tight">All tags</h1>
+    {tags.length === 0 ? (
+      <p class="text-gray-500 dark:text-gray-400">No tags yet.</p>
+    ) : (
+      <ul class="flex flex-wrap gap-3">
+        {tags.map(({ slug, label, count }) => (
+          <li>
+            <a
+              href={`/tags/${slug}`}
+              class="inline-flex items-center gap-1.5 text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-100 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-3 py-1 rounded-full transition-colors"
+            >
+              {label}
+              <span class="text-gray-400 dark:text-gray-500 text-xs">({count})</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+</TagLayout>

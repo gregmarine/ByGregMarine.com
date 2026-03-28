@@ -26,6 +26,20 @@ const photos = (await getCollection("photos"))
               </div>
               <h2 class="text-sm font-medium group-hover:underline underline-offset-4">{photo.data.title}</h2>
             </a>
+            {photo.data.tags.length > 0 && (
+              <ul class="flex flex-wrap gap-1.5 mt-1">
+                {photo.data.tags.map((tag: string) => (
+                  <li>
+                    <a
+                      href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                      class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+                    >
+                      {tag}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            )}
           </li>
         ))}
       </ul>

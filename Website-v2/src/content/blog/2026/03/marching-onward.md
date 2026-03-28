@@ -1,7 +1,7 @@
 ---
 title: "Marching Onward"
 date: 2026-03-13
-tags: ["deep thought", "random thought"]
+tags: ["deep thought", "random thought", "Test Tag"]
 description: "After an unplanned hiatus from writing, I'm marching onward."
 ---
 

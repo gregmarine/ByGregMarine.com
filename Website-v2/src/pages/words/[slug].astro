@@ -1,10 +1,14 @@
 ---
-import { getCollection, render } from "astro:content";
+import { getCollection, render, type CollectionEntry } from "astro:content";
 import WordsLayout from "../../layouts/WordsLayout.astro";
 
 export async function getStaticPaths() {
   const entries = await getCollection("words");
   return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+interface Props {
+  entry: CollectionEntry<"words">;
 }
 
 const { entry } = Astro.props;
@@ -30,4 +34,20 @@ const nextPost = scopedEntries.length > 1 ? (scopedEntries[index - 1] ?? null) :
   collection={entry.data.collection ?? null}
 >
   <Content />
+  {entry.data.tags.length > 0 && (
+    <div class="not-prose mt-8 pt-6 border-t border-gray-100 dark:border-gray-800">
+      <ul class="flex flex-wrap gap-2">
+        {entry.data.tags.map((tag: string) => (
+          <li>
+            <a
+              href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+              class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+            >
+              {tag}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
 </WordsLayout>
