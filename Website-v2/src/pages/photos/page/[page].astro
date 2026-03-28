@@ -1,0 +1,80 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import type { PaginateFunction } from "astro";
+import PhotosLayout from "../../../layouts/PhotosLayout.astro";
+
+export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
+  const allPhotos = (await getCollection("photos"))
+    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  // Pages 2+ only; page 1 is handled by photos/index.astro
+  return paginate(allPhotos, { pageSize: 10 })
+    .filter(({ params }) => Number(params.page) >= 2);
+}
+
+interface Props {
+  page: {
+    data: CollectionEntry<"photos">[];
+    currentPage: number;
+    lastPage: number;
+    url: { prev?: string; next?: string };
+  };
+}
+
+const { page } = Astro.props;
+const prevUrl = page.currentPage === 2 ? "/photos" : (page.url.prev ?? "/photos");
+const nextUrl = page.url.next ?? null;
+
+const photosMetaEntries = await getCollection("photosMeta");
+const blurb = photosMetaEntries[0]?.data?.blurb ?? "";
+---
+
+<PhotosLayout description="Photography by Greg Marine.">
+  <section class="space-y-8">
+    <div>
+      <h1 class="text-3xl font-bold tracking-tight">Photos</h1>
+      {blurb && <p class="mt-2 text-base italic text-gray-500 dark:text-gray-400">{blurb}</p>}
+    </div>
+    <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {page.data.map((photo) => (
+        <li>
+          <a href={`/photos/${photo.id}`} class="group block space-y-2">
+            <div class="aspect-square overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800">
+              <img
+                src={photo.data.images[0].src}
+                alt={photo.data.images[0].caption ?? photo.data.title}
+                class="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                loading="lazy"
+              />
+            </div>
+            <h2 class="text-sm font-medium group-hover:underline underline-offset-4">{photo.data.title}</h2>
+          </a>
+          {photo.data.tags.length > 0 && (
+            <ul class="flex flex-wrap gap-1.5 mt-1">
+              {photo.data.tags.map((tag: string) => (
+                <li>
+                  <a
+                    href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                    class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+                  >
+                    {tag}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )}
+        </li>
+      ))}
+    </ul>
+    <nav class="flex items-center justify-between pt-6 border-t border-gray-100 dark:border-gray-800 text-sm">
+      <div class="w-20">
+        <a href={prevUrl} class="text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">← Newer</a>
+      </div>
+      <span class="text-xs text-gray-400 dark:text-gray-500">Page {page.currentPage} of {page.lastPage}</span>
+      <div class="w-20 text-right">
+        {nextUrl && (
+          <a href={nextUrl} class="text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">Older →</a>
+        )}
+      </div>
+    </nav>
+  </section>
+</PhotosLayout>

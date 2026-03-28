@@ -2,48 +2,71 @@
 import { getCollection } from "astro:content";
 import WordsLayout from "../../layouts/WordsLayout.astro";
 
-const entries = (await getCollection("words"))
+const PAGE_SIZE = 10;
+const allEntries = (await getCollection("words"))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const totalPages = Math.max(1, Math.ceil(allEntries.length / PAGE_SIZE));
+const entries = allEntries.slice(0, PAGE_SIZE);
+const nextUrl = totalPages > 1 ? "/words/page/2" : null;
+
+const wordsMetaEntries = await getCollection("wordsMeta");
+const blurb = wordsMetaEntries[0]?.data?.blurb ?? "";
 ---
 
 <WordsLayout description="Poetry, prose, and essays by Greg Marine.">
   <section class="space-y-8">
-    <h1 class="text-3xl font-bold tracking-tight">Words</h1>
+    <div>
+      <h1 class="text-3xl font-bold tracking-tight">Words</h1>
+      {blurb && <p class="mt-2 text-base italic text-gray-500 dark:text-gray-400">{blurb}</p>}
+    </div>
     {entries.length === 0 ? (
       <p class="text-gray-500 dark:text-gray-400">No entries yet. Check back soon.</p>
     ) : (
-      <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
-        {entries.map((entry) => (
-          <li class="pt-6 first:pt-0 space-y-1.5">
-            <a href={`/words/${entry.id}`} class="group block space-y-1">
-              <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.data.title}</h2>
-              <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
-                <time datetime={entry.data.date.toISOString()}>
-                  {entry.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
-                </time>
-                {entry.data.form && <span>&middot; {entry.data.form}</span>}
-              </div>
-              {entry.data.description && (
-                <p class="text-gray-600 dark:text-gray-400">{entry.data.description}</p>
+      <>
+        <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
+          {entries.map((entry) => (
+            <li class="pt-6 first:pt-0 space-y-1.5">
+              <a href={`/words/${entry.id}`} class="group block space-y-1">
+                <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.data.title}</h2>
+                <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+                  <time datetime={entry.data.date.toISOString()}>
+                    {entry.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+                  </time>
+                  {entry.data.form && <span>&middot; {entry.data.form}</span>}
+                </div>
+                {entry.data.description && (
+                  <p class="text-gray-600 dark:text-gray-400">{entry.data.description}</p>
+                )}
+              </a>
+              {entry.data.tags.length > 0 && (
+                <ul class="flex flex-wrap gap-1.5">
+                  {entry.data.tags.map((tag: string) => (
+                    <li>
+                      <a
+                        href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                        class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+                      >
+                        {tag}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
               )}
-            </a>
-            {entry.data.tags.length > 0 && (
-              <ul class="flex flex-wrap gap-1.5">
-                {entry.data.tags.map((tag: string) => (
-                  <li>
-                    <a
-                      href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
-                      class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
-                    >
-                      {tag}
-                    </a>
-                  </li>
-                ))}
-              </ul>
+            </li>
+          ))}
+        </ul>
+        <nav class="flex items-center justify-between pt-6 border-t border-gray-100 dark:border-gray-800 text-sm">
+          <div class="w-20">
+            {/* page 1 — no previous */}
+          </div>
+          <span class="text-xs text-gray-400 dark:text-gray-500">Page 1 of {totalPages}</span>
+          <div class="w-20 text-right">
+            {nextUrl && (
+              <a href={nextUrl} class="text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">Older →</a>
             )}
-          </li>
-        ))}
-      </ul>
+          </div>
+        </nav>
+      </>
     )}
   </section>
 </WordsLayout>

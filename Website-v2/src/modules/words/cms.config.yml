@@ -18,3 +18,12 @@
     - { label: Tags, name: tags, widget: list, default: [] }
     - { label: Form, name: form, widget: select, required: false, options: [poem, essay, prose, story, other] }
     - { label: Body, name: body, widget: markdown }
+
+- name: words-settings
+  label: Words Settings
+  files:
+    - name: words-settings
+      label: Words Settings
+      file: src/content/words-meta/index.md
+      fields:
+        - { label: Section blurb, name: blurb, widget: string, required: false }

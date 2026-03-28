@@ -41,6 +41,15 @@ collections:
       - { label: Tags, name: tags, widget: list, default: [] }
       - { label: Cover Image, name: cover, widget: image, required: false }
       - { label: Body, name: body, widget: markdown }
+  
+  - name: blog-settings
+    label: Blog Settings
+    files:
+      - name: blog-settings
+        label: Blog Settings
+        file: src/content/blog-meta/index.md
+        fields:
+          - { label: Section blurb, name: blurb, widget: string, required: false }
 
   - name: words
     label: Words
@@ -61,6 +70,15 @@ collections:
       - { label: Tags, name: tags, widget: list, default: [] }
       - { label: Form, name: form, widget: select, required: false, options: [poem, essay, prose, story, other] }
       - { label: Body, name: body, widget: markdown }
+  
+  - name: words-settings
+    label: Words Settings
+    files:
+      - name: words-settings
+        label: Words Settings
+        file: src/content/words-meta/index.md
+        fields:
+          - { label: Section blurb, name: blurb, widget: string, required: false }
 
   - name: art
     label: Art
@@ -88,6 +106,15 @@ collections:
       - { label: Medium, name: medium, widget: string, required: false }
       - { label: Year Created, name: yearCreated, widget: number, required: false }
       - { label: Body, name: body, widget: markdown, required: false }
+  
+  - name: art-settings
+    label: Art Settings
+    files:
+      - name: art-settings
+        label: Art Settings
+        file: src/content/art-meta/index.md
+        fields:
+          - { label: Section blurb, name: blurb, widget: string, required: false }
 
   - name: photos
     label: Photos
@@ -123,3 +150,12 @@ collections:
           - { label: Image, name: src, widget: image }
           - { label: Caption, name: caption, widget: string, required: false }
       - { label: Body, name: body, widget: markdown, required: false }
+  
+  - name: photos-settings
+    label: Photos Settings
+    files:
+      - name: photos-settings
+        label: Photos Settings
+        file: src/content/photos-meta/index.md
+        fields:
+          - { label: Section blurb, name: blurb, widget: string, required: false }

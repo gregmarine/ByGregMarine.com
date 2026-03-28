@@ -25,3 +25,12 @@
     - { label: Medium, name: medium, widget: string, required: false }
     - { label: Year Created, name: yearCreated, widget: number, required: false }
     - { label: Body, name: body, widget: markdown, required: false }
+
+- name: art-settings
+  label: Art Settings
+  files:
+    - name: art-settings
+      label: Art Settings
+      file: src/content/art-meta/index.md
+      fields:
+        - { label: Section blurb, name: blurb, widget: string, required: false }

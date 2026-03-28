@@ -18,3 +18,12 @@
     - { label: Tags, name: tags, widget: list, default: [] }
     - { label: Cover Image, name: cover, widget: image, required: false }
     - { label: Body, name: body, widget: markdown }
+
+- name: blog-settings
+  label: Blog Settings
+  files:
+    - name: blog-settings
+      label: Blog Settings
+      file: src/content/blog-meta/index.md
+      fields:
+        - { label: Section blurb, name: blurb, widget: string, required: false }

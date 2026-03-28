@@ -33,3 +33,12 @@
         - { label: Image, name: src, widget: image }
         - { label: Caption, name: caption, widget: string, required: false }
     - { label: Body, name: body, widget: markdown, required: false }
+
+- name: photos-settings
+  label: Photos Settings
+  files:
+    - name: photos-settings
+      label: Photos Settings
+      file: src/content/photos-meta/index.md
+      fields:
+        - { label: Section blurb, name: blurb, widget: string, required: false }

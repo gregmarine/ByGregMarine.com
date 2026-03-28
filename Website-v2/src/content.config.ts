@@ -64,4 +64,24 @@ const home = defineCollection({
   }),
 });
 
-export const collections = { blog, photos, art, words, home };
+const blogMeta = defineCollection({
+  loader: glob({ pattern: "index.md", base: new URL("./content/blog-meta", import.meta.url).pathname }),
+  schema: z.object({ blurb: z.string().optional() }),
+});
+
+const wordsMeta = defineCollection({
+  loader: glob({ pattern: "index.md", base: new URL("./content/words-meta", import.meta.url).pathname }),
+  schema: z.object({ blurb: z.string().optional() }),
+});
+
+const artMeta = defineCollection({
+  loader: glob({ pattern: "index.md", base: new URL("./content/art-meta", import.meta.url).pathname }),
+  schema: z.object({ blurb: z.string().optional() }),
+});
+
+const photosMeta = defineCollection({
+  loader: glob({ pattern: "index.md", base: new URL("./content/photos-meta", import.meta.url).pathname }),
+  schema: z.object({ blurb: z.string().optional() }),
+});
+
+export const collections = { blog, photos, art, words, home, blogMeta, wordsMeta, artMeta, photosMeta };
