@@ -25,14 +25,22 @@ const prevUrl = page.currentPage === 2 ? "/blog" : (page.url.prev ?? "/blog");
 const nextUrl = page.url.next ?? null;
 
 const blogMetaEntries = await getCollection("blogMeta");
-const blurb = blogMetaEntries[0]?.data?.blurb ?? "";
+const meta = blogMetaEntries[0]?.data;
+const sectionTitle = meta?.title ?? "";
+const subtitle = meta?.subtitle ?? "";
+const blurb = meta?.blurb ?? "";
 ---
 
 <BlogLayout description="Writing and thoughts by Greg Marine.">
   <section class="space-y-8">
-    <div>
-      <h1 class="text-3xl font-bold tracking-tight">Blog</h1>
-      {blurb && <p class="mt-2 text-base italic text-gray-500 dark:text-gray-400">{blurb}</p>}
+    <div class="pb-6 border-b border-gray-100 dark:border-gray-800 space-y-1">
+      {sectionTitle ? (
+        <h1 class="text-3xl font-bold tracking-tight font-serif leading-snug">{sectionTitle}</h1>
+      ) : (
+        <h1 class="text-3xl font-bold tracking-tight">Blog</h1>
+      )}
+      {subtitle && <p class="text-sm text-gray-500 dark:text-gray-400">{subtitle}</p>}
+      {blurb && <p class="text-sm italic text-gray-400 dark:text-gray-500">{blurb}</p>}
     </div>
     <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
       {page.data.map((post) => (

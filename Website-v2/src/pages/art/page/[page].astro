@@ -25,14 +25,22 @@ const prevUrl = page.currentPage === 2 ? "/art" : (page.url.prev ?? "/art");
 const nextUrl = page.url.next ?? null;
 
 const artMetaEntries = await getCollection("artMeta");
-const blurb = artMetaEntries[0]?.data?.blurb ?? "";
+const meta = artMetaEntries[0]?.data;
+const sectionTitle = meta?.title ?? "";
+const subtitle = meta?.subtitle ?? "";
+const blurb = meta?.blurb ?? "";
 ---
 
 <ArtLayout description="Artwork by Greg Marine.">
   <section class="space-y-8">
-    <div>
-      <h1 class="text-3xl font-bold tracking-tight">Art</h1>
-      {blurb && <p class="mt-2 text-base italic text-gray-500 dark:text-gray-400">{blurb}</p>}
+    <div class="pb-6 border-b border-gray-100 dark:border-gray-800 space-y-1">
+      {sectionTitle ? (
+        <h1 class="text-3xl font-bold tracking-tight font-serif leading-snug">{sectionTitle}</h1>
+      ) : (
+        <h1 class="text-3xl font-bold tracking-tight">Art</h1>
+      )}
+      {subtitle && <p class="text-sm text-gray-500 dark:text-gray-400">{subtitle}</p>}
+      {blurb && <p class="text-sm italic text-gray-400 dark:text-gray-500">{blurb}</p>}
     </div>
     <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       {page.data.map((piece) => (
