@@ -5,9 +5,10 @@ backend:
   name: github
   repo: your-github-user/your-repo
   branch: main
-  publish_mode: editorial_workflow
   base_url: https://api.netlify.com
   auth_endpoint: auth
+
+publish_mode: editorial_workflow
 
 media_folder: public/uploads
 public_folder: /uploads
@@ -27,7 +28,14 @@ collections:
     label: Blog
     folder: src/content/blog
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}/{{month}}/{{slug}}"
+    nested:
+      depth: 10
+    meta:
+      path:
+        label: Path
+        widget: string
+        index_file: index
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Description, name: description, widget: string, required: false }
