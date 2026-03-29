@@ -5,7 +5,7 @@
   create: true
   slug: "{{year}}/{{month}}/{{slug}}"
   nested:
-    depth: 3
+    depth: 2
   fields:
     - { label: Title, name: title, widget: string }
     - { label: Description, name: description, widget: string, required: false }
