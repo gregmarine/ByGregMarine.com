@@ -29,7 +29,7 @@ backend:
   base_url: https://api.netlify.com
   auth_endpoint: auth
 
-media_folder: public/uploads
+media_folder: Website-v2/public/uploads
 public_folder: /uploads
 
 collections:
@@ -41,6 +41,8 @@ const fragments = activeModules
     const raw = readFileSync(path, "utf8")
       // Strip comment lines
       .replace(/^#.*\n/gm, "")
+      // Prefix folder: and file: paths with Website-v2/
+      .replace(/^(\s*(?:folder|file):\s*)(\S+)/gm, "$1Website-v2/$2")
       .trim();
     // Indent each line by 2 spaces so it nests under `collections:`
     return raw
