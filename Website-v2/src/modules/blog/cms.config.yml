@@ -3,9 +3,8 @@
   label: Blog
   folder: src/content/blog
   create: true
-  slug: "{{year}}/{{month}}/{{slug}}"
-  nested:
-    depth: 3
+  path: "{{year}}/{{month}}/{{slug}}"
+  slug: "{{slug}}"
   fields:
     - { label: Title, name: title, widget: string }
     - { label: Description, name: description, widget: string, required: false }
