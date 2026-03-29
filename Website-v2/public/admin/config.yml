@@ -28,7 +28,7 @@ collections:
     label: Blog
     folder: src/content/blog
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}/{{month}}/{{slug}}"
     nested:
       depth: 3
     fields:
