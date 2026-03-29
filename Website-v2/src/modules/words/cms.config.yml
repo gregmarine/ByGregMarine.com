@@ -4,6 +4,13 @@
   folder: src/content/words
   create: true
   slug: "{{slug}}"
+  sortable_fields:
+    fields:
+      - date
+      - title
+    default:
+      field: date
+      direction: Descending
   fields:
     - { label: Title, name: title, widget: string }
     - { label: Description, name: description, widget: string, required: false }
