@@ -18,6 +18,8 @@ const activeModules = Object.entries(siteConfig.modules)
   .filter(([, active]) => active)
   .map(([name]) => name);
 
+const siteBaseDir = process.env.SITE_BASE_DIR ? `${process.env.SITE_BASE_DIR}/` : "";
+
 const header = `# AUTO-GENERATED — do not edit by hand.
 # Edit src/modules/<module>/cms.config.yml and re-run scripts/merge-cms-config.ts
 
@@ -29,7 +31,7 @@ backend:
   base_url: https://api.netlify.com
   auth_endpoint: auth
 
-media_folder: Website-v2/public/uploads
+media_folder: ${siteBaseDir}public/uploads
 public_folder: /uploads
 
 collections:
@@ -41,8 +43,8 @@ const fragments = activeModules
     const raw = readFileSync(path, "utf8")
       // Strip comment lines
       .replace(/^#.*\n/gm, "")
-      // Prefix folder: and file: paths with Website-v2/
-      .replace(/^(\s*(?:folder|file):\s*)(\S+)/gm, "$1Website-v2/$2")
+      // Prefix folder: and file: paths with siteBaseDir (empty when SITE_BASE_DIR is unset)
+      .replace(/^(\s*(?:folder|file):\s*)(\S+)/gm, `$1${siteBaseDir}$2`)
       .trim();
     // Indent each line by 2 spaces so it nests under `collections:`
     return raw

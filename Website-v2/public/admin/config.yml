@@ -9,7 +9,7 @@ backend:
   base_url: https://api.netlify.com
   auth_endpoint: auth
 
-media_folder: Website-v2/public/uploads
+media_folder: public/uploads
 public_folder: /uploads
 
 collections:
@@ -18,14 +18,14 @@ collections:
     files:
       - name: home
         label: Home Settings
-        file: Website-v2/src/content/home/index.md
+        file: src/content/home/index.md
         fields:
           - { label: Tagline, name: tagline, widget: string, required: false }
           - { label: Bio, name: bio, widget: text, required: false, hint: "A short personal note shown on the home page" }
 
   - name: blog
     label: Blog
-    folder: Website-v2/src/content/blog
+    folder: src/content/blog
     create: true
     slug: "{{slug}}"
     fields:
@@ -48,7 +48,7 @@ collections:
     files:
       - name: blog-settings
         label: Blog Settings
-        file: Website-v2/src/content/blog-meta/index.md
+        file: src/content/blog-meta/index.md
         fields:
           - { label: "Section title", name: title, widget: string, required: false, hint: "The personality hook e.g. So, I was thinking..." }
           - { label: "Section subtitle", name: subtitle, widget: string, required: false, hint: "The context line e.g. a blog by Greg Marine" }
@@ -56,7 +56,7 @@ collections:
 
   - name: words
     label: Words
-    folder: Website-v2/src/content/words
+    folder: src/content/words
     create: true
     slug: "{{slug}}"
     fields:
@@ -79,7 +79,7 @@ collections:
     files:
       - name: words-settings
         label: Words Settings
-        file: Website-v2/src/content/words-meta/index.md
+        file: src/content/words-meta/index.md
         fields:
           - { label: "Section title", name: title, widget: string, required: false, hint: "The personality hook e.g. So, I wrote something..." }
           - { label: "Section subtitle", name: subtitle, widget: string, required: false, hint: "The context line e.g. a collection of writings by Greg Marine" }
@@ -87,7 +87,7 @@ collections:
 
   - name: art
     label: Art
-    folder: Website-v2/src/content/art
+    folder: src/content/art
     create: true
     slug: "{{slug}}"
     fields:
@@ -117,7 +117,7 @@ collections:
     files:
       - name: art-settings
         label: Art Settings
-        file: Website-v2/src/content/art-meta/index.md
+        file: src/content/art-meta/index.md
         fields:
           - { label: "Section title", name: title, widget: string, required: false, hint: "The personality hook e.g. So, I made a painting..." }
           - { label: "Section subtitle", name: subtitle, widget: string, required: false, hint: "The context line e.g. an art gallery by Greg Marine" }
@@ -125,7 +125,7 @@ collections:
 
   - name: photos
     label: Photos
-    folder: Website-v2/src/content/photos
+    folder: src/content/photos
     create: true
     slug: "{{slug}}"
     fields:
@@ -163,7 +163,7 @@ collections:
     files:
       - name: photos-settings
         label: Photos Settings
-        file: Website-v2/src/content/photos-meta/index.md
+        file: src/content/photos-meta/index.md
         fields:
           - { label: "Section title", name: title, widget: string, required: false, hint: "The personality hook e.g. So, I took a photo..." }
           - { label: "Section subtitle", name: subtitle, widget: string, required: false, hint: "The context line e.g. a photo gallery by Greg Marine" }
