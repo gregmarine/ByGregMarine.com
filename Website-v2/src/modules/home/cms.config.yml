@@ -1,0 +1,10 @@
+# Decap CMS config fragment — Home module
+- name: home
+  label: Home
+  files:
+    - name: home
+      label: Home Settings
+      file: src/content/home/index.md
+      fields:
+        - { label: Tagline, name: tagline, widget: string, required: false }
+        - { label: Bio, name: bio, widget: text, required: false, hint: "A short personal note shown on the home page" }

@@ -1,0 +1,31 @@
+# Decap CMS config fragment — Words module
+- name: words
+  label: Words
+  folder: src/content/words
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { label: Title, name: title, widget: string }
+    - { label: Description, name: description, widget: string, required: false }
+    - label: Date
+      name: date
+      widget: datetime
+      format: "YYYY-MM-DDTHH:mm:ssZ"
+      date_format: "YYYY-MM-DD"
+      time_format: "HH:mm"
+      default: ""
+      picker_utc: false
+    - { label: Tags, name: tags, widget: list, default: [] }
+    - { label: Form, name: form, widget: select, required: false, options: [poem, essay, prose, story, other] }
+    - { label: Body, name: body, widget: markdown }
+
+- name: words-settings
+  label: Words Settings
+  files:
+    - name: words-settings
+      label: Words Settings
+      file: src/content/words-meta/index.md
+      fields:
+        - { label: "Section title", name: title, widget: string, required: false, hint: "The personality hook e.g. So, I wrote something..." }
+        - { label: "Section subtitle", name: subtitle, widget: string, required: false, hint: "The context line e.g. a collection of writings by Greg Marine" }
+        - { label: Section tagline, name: tagline, widget: string, required: false }

@@ -1,0 +1,38 @@
+---
+import { siteConfig } from "../../site.config";
+
+const { modules } = siteConfig;
+
+const navItems = [
+  { label: "Blog", href: "/blog", active: modules.blog },
+  { label: "Words", href: "/words", active: modules.words },
+  { label: "Art", href: "/art", active: modules.art },
+  { label: "Photos", href: "/photos", active: modules.photos },
+].filter((item) => item.active);
+
+const currentPath = Astro.url.pathname;
+---
+
+<nav aria-label="Main navigation">
+  <ul class="flex flex-wrap gap-4 sm:gap-6">
+    {navItems.map(({ label, href }) => {
+      const isActive = currentPath.startsWith(href);
+      return (
+        <li>
+          <a
+            href={href}
+            class:list={[
+              "text-sm font-medium transition-colors hover:text-black dark:hover:text-white",
+              isActive
+                ? "text-black dark:text-white underline underline-offset-4"
+                : "text-gray-500 dark:text-gray-400",
+            ]}
+            aria-current={isActive ? "page" : undefined}
+          >
+            {label}
+          </a>
+        </li>
+      );
+    })}
+  </ul>
+</nav>

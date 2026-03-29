@@ -1,0 +1,71 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  prevPost?: CollectionEntry<"blog"> | null;
+  nextPost?: CollectionEntry<"blog"> | null;
+}
+
+const { prevPost = null, nextPost = null } = Astro.props;
+---
+
+<nav
+  aria-label="Post navigation"
+  class="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800"
+>
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-px bg-gray-200 dark:bg-gray-800 rounded-md overflow-hidden">
+
+    <!-- Previous (older) -->
+    <div class="bg-white dark:bg-gray-950 p-5">
+      {prevPost ? (
+        <a href={`/blog/${prevPost.id}`} class="group block">
+          <span class="text-xs text-gray-400 dark:text-gray-500 uppercase tracking-wide font-medium">
+            ← Previous
+          </span>
+          <p class="mt-1 text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:underline underline-offset-4 leading-snug">
+            {prevPost.data.title}
+          </p>
+          <time class="text-xs text-gray-400 dark:text-gray-500 mt-1 block">
+            {prevPost.data.date.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}
+          </time>
+        </a>
+      ) : (
+        <span class="text-xs text-gray-300 dark:text-gray-700 uppercase tracking-wide font-medium">
+          ← Previous
+        </span>
+      )}
+    </div>
+
+    <!-- All posts -->
+    <div class="bg-white dark:bg-gray-950 p-5 flex items-center justify-center">
+      <a
+        href="/blog"
+        class="text-sm font-medium text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 transition-colors"
+      >
+        All posts
+      </a>
+    </div>
+
+    <!-- Next (newer) -->
+    <div class="bg-white dark:bg-gray-950 p-5 md:text-right">
+      {nextPost ? (
+        <a href={`/blog/${nextPost.id}`} class="group block">
+          <span class="text-xs text-gray-400 dark:text-gray-500 uppercase tracking-wide font-medium">
+            Next →
+          </span>
+          <p class="mt-1 text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:underline underline-offset-4 leading-snug">
+            {nextPost.data.title}
+          </p>
+          <time class="text-xs text-gray-400 dark:text-gray-500 mt-1 block">
+            {nextPost.data.date.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}
+          </time>
+        </a>
+      ) : (
+        <span class="text-xs text-gray-300 dark:text-gray-700 uppercase tracking-wide font-medium">
+          Next →
+        </span>
+      )}
+    </div>
+
+  </div>
+</nav>

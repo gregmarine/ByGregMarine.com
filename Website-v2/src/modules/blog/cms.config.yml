@@ -1,0 +1,31 @@
+# Decap CMS config fragment — Blog module
+- name: blog
+  label: Blog
+  folder: src/content/blog
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { label: Title, name: title, widget: string }
+    - { label: Description, name: description, widget: string, required: false }
+    - label: Date
+      name: date
+      widget: datetime
+      format: "YYYY-MM-DDTHH:mm:ssZ"
+      date_format: "YYYY-MM-DD"
+      time_format: "HH:mm"
+      default: ""
+      picker_utc: false
+    - { label: Tags, name: tags, widget: list, default: [] }
+    - { label: Cover Image, name: cover, widget: image, required: false }
+    - { label: Body, name: body, widget: markdown }
+
+- name: blog-settings
+  label: Blog Settings
+  files:
+    - name: blog-settings
+      label: Blog Settings
+      file: src/content/blog-meta/index.md
+      fields:
+        - { label: "Section title", name: title, widget: string, required: false, hint: "The personality hook e.g. So, I was thinking..." }
+        - { label: "Section subtitle", name: subtitle, widget: string, required: false, hint: "The context line e.g. a blog by Greg Marine" }
+        - { label: Section tagline, name: tagline, widget: string, required: false }

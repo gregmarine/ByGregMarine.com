@@ -1,0 +1,50 @@
+---
+import { getCollection } from "astro:content";
+import WordsLayout from "../../layouts/WordsLayout.astro";
+
+const entries = (await getCollection("words"))
+  .filter((e) => !e.data.collection)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<WordsLayout description="Uncollected writing by Greg Marine.">
+  <section class="space-y-8">
+    <h1 class="text-3xl font-bold tracking-tight">Other Words</h1>
+    {entries.length === 0 ? (
+      <p class="text-gray-500 dark:text-gray-400">No uncollected entries yet.</p>
+    ) : (
+      <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
+        {entries.map((entry) => (
+          <li class="pt-6 first:pt-0 space-y-1.5">
+            <a href={`/words/${entry.id}`} class="group block space-y-1">
+              <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.data.title}</h2>
+              <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+                <time datetime={entry.data.date.toISOString()}>
+                  {entry.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+                </time>
+                {entry.data.form && <span>&middot; {entry.data.form}</span>}
+              </div>
+              {entry.data.description && (
+                <p class="text-gray-600 dark:text-gray-400">{entry.data.description}</p>
+              )}
+            </a>
+            {entry.data.tags.length > 0 && (
+              <ul class="flex flex-wrap gap-1.5">
+                {entry.data.tags.map((tag: string) => (
+                  <li>
+                    <a
+                      href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                      class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+                    >
+                      {tag}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+</WordsLayout>

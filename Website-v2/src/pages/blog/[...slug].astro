@@ -1,0 +1,54 @@
+---
+import { getCollection, render, type CollectionEntry } from "astro:content";
+import BlogLayout from "../../layouts/BlogLayout.astro";
+
+export async function getStaticPaths() {
+  const posts = (await getCollection("blog"))
+    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+  return posts.map((post, index) => ({
+    params: { slug: post.id },
+    props: {
+      post,
+      prevPost: posts[index + 1] ?? null, // older post
+      nextPost: posts[index - 1] ?? null, // newer post
+    },
+  }));
+}
+
+interface Props {
+  post: CollectionEntry<"blog">;
+  prevPost: CollectionEntry<"blog"> | null;
+  nextPost: CollectionEntry<"blog"> | null;
+}
+
+const { post, prevPost, nextPost } = Astro.props;
+const { Content } = await render(post);
+---
+
+<BlogLayout
+  title={post.data.title}
+  description={post.data.description}
+  image={post.data.cover}
+  date={post.data.date}
+  prevPost={prevPost}
+  nextPost={nextPost}
+>
+  <Content />
+  {post.data.tags.length > 0 && (
+    <div class="not-prose mt-8 pt-6 border-t border-gray-100 dark:border-gray-800">
+      <ul class="flex flex-wrap gap-2">
+        {post.data.tags.map((tag: string) => (
+          <li>
+            <a
+              href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+              class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+            >
+              {tag}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+</BlogLayout>

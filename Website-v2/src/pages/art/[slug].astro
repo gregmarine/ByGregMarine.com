@@ -1,0 +1,69 @@
+---
+import { getCollection, render, type CollectionEntry } from "astro:content";
+import ArtLayout from "../../layouts/ArtLayout.astro";
+
+export async function getStaticPaths() {
+  const pieces = await getCollection("art");
+  return pieces.map((piece) => ({ params: { slug: piece.id }, props: { piece } }));
+}
+
+interface Props {
+  piece: CollectionEntry<"art">;
+}
+
+const { piece } = Astro.props;
+const { Content } = await render(piece);
+
+// Scope prev/next to the same collection group (named collection or uncollected "other")
+const collectionKey = piece.data.collection ?? null;
+const scopedPieces = (await getCollection("art"))
+  .filter((p) => (p.data.collection ?? null) === collectionKey)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const index = scopedPieces.findIndex((p) => p.id === piece.id);
+const prevPost = scopedPieces.length > 1 ? (scopedPieces[index + 1] ?? null) : null; // older
+const nextPost = scopedPieces.length > 1 ? (scopedPieces[index - 1] ?? null) : null; // newer
+---
+
+<ArtLayout
+  title={piece.data.title}
+  description={piece.data.description}
+  image={piece.data.images[0]?.src}
+  date={piece.data.date}
+  prevPost={prevPost}
+  nextPost={nextPost}
+  currentCollection={piece.data.collection ?? "other"}
+  collection={piece.data.collection ?? null}
+>
+  <div class="not-prose space-y-6 mb-8">
+    {piece.data.images.map((img) => (
+      <figure>
+        <img src={img.src} alt={img.caption ?? piece.data.title} class="rounded-md w-full" />
+        {img.caption && (
+          <figcaption class="mt-2 text-sm text-gray-500 dark:text-gray-400">{img.caption}</figcaption>
+        )}
+      </figure>
+    ))}
+  </div>
+  {(piece.data.medium || piece.data.yearCreated) && (
+    <p class="not-prose text-sm text-gray-500 dark:text-gray-400 mb-6">
+      {piece.data.medium}{piece.data.medium && piece.data.yearCreated ? ", " : ""}{piece.data.yearCreated}
+    </p>
+  )}
+  <Content />
+  {piece.data.tags.length > 0 && (
+    <div class="not-prose mt-8 pt-6 border-t border-gray-100 dark:border-gray-800">
+      <ul class="flex flex-wrap gap-2">
+        {piece.data.tags.map((tag: string) => (
+          <li>
+            <a
+              href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+              class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+            >
+              {tag}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+</ArtLayout>

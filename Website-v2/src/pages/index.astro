@@ -1,0 +1,144 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { siteConfig } from "../../site.config";
+
+// Home tagline — graceful fallback if missing
+const homeEntries = await getCollection("home");
+const tagline = homeEntries[0]?.data?.tagline ?? "";
+
+// 3 most recent entries per section
+const recentBlog = (await getCollection("blog"))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
+
+const recentWords = (await getCollection("words"))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
+
+const recentArt = (await getCollection("art"))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
+
+const recentPhotos = (await getCollection("photos"))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
+
+function fmtDate(d: Date) {
+  return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+}
+---
+
+<BaseLayout title={siteConfig.title} description={siteConfig.description}>
+
+  <!-- Welcome hero -->
+  <section class="py-8 text-center space-y-3">
+    <h1 class="text-4xl font-bold tracking-tight sm:text-5xl">{siteConfig.title}</h1>
+    {tagline && (
+      <p class="text-lg italic text-gray-500 dark:text-gray-400">{tagline}</p>
+    )}
+  </section>
+
+  <!-- Section cards: Blog, Words, Art, Photos -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 pb-16">
+
+    <!-- Blog -->
+    <div class="rounded-lg bg-gray-50 dark:bg-gray-900 p-6 space-y-4">
+      <div class="flex items-center justify-between">
+        <span class="text-base font-bold tracking-tight">Blog</span>
+        <a href="/blog" class="text-xs text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">More →</a>
+      </div>
+      {recentBlog.length > 0 ? (
+        <ul class="space-y-3">
+          {recentBlog.map((post) => (
+            <li>
+              <a href={`/blog/${post.id}`} class="text-sm font-medium hover:underline underline-offset-4 block leading-snug">
+                {post.data.title}
+              </a>
+              <time class="text-xs text-gray-400 dark:text-gray-500" datetime={post.data.date.toISOString()}>
+                {fmtDate(post.data.date)}
+              </time>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="text-sm text-gray-400 dark:text-gray-500">Nothing yet.</p>
+      )}
+    </div>
+
+    <!-- Words -->
+    <div class="rounded-lg bg-gray-50 dark:bg-gray-900 p-6 space-y-4">
+      <div class="flex items-center justify-between">
+        <span class="text-base font-bold tracking-tight">Words</span>
+        <a href="/words" class="text-xs text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">More →</a>
+      </div>
+      {recentWords.length > 0 ? (
+        <ul class="space-y-3">
+          {recentWords.map((entry) => (
+            <li>
+              <a href={`/words/${entry.id}`} class="text-sm font-medium hover:underline underline-offset-4 block leading-snug">
+                {entry.data.title}
+              </a>
+              <span class="text-xs text-gray-400 dark:text-gray-500">
+                <time datetime={entry.data.date.toISOString()}>{fmtDate(entry.data.date)}</time>
+                {entry.data.form && <span> · {entry.data.form}</span>}
+              </span>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="text-sm text-gray-400 dark:text-gray-500">Nothing yet.</p>
+      )}
+    </div>
+
+    <!-- Art -->
+    <div class="rounded-lg bg-gray-50 dark:bg-gray-900 p-6 space-y-4">
+      <div class="flex items-center justify-between">
+        <span class="text-base font-bold tracking-tight">Art</span>
+        <a href="/art" class="text-xs text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">More →</a>
+      </div>
+      {recentArt.length > 0 ? (
+        <ul class="space-y-3">
+          {recentArt.map((piece) => (
+            <li>
+              <a href={`/art/${piece.id}`} class="text-sm font-medium hover:underline underline-offset-4 block leading-snug">
+                {piece.data.title}
+              </a>
+              <time class="text-xs text-gray-400 dark:text-gray-500" datetime={piece.data.date.toISOString()}>
+                {fmtDate(piece.data.date)}
+              </time>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="text-sm text-gray-400 dark:text-gray-500">Nothing yet.</p>
+      )}
+    </div>
+
+    <!-- Photos -->
+    <div class="rounded-lg bg-gray-50 dark:bg-gray-900 p-6 space-y-4">
+      <div class="flex items-center justify-between">
+        <span class="text-base font-bold tracking-tight">Photos</span>
+        <a href="/photos" class="text-xs text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">More →</a>
+      </div>
+      {recentPhotos.length > 0 ? (
+        <ul class="space-y-3">
+          {recentPhotos.map((photo) => (
+            <li>
+              <a href={`/photos/${photo.id}`} class="text-sm font-medium hover:underline underline-offset-4 block leading-snug">
+                {photo.data.title}
+              </a>
+              <time class="text-xs text-gray-400 dark:text-gray-500" datetime={photo.data.date.toISOString()}>
+                {fmtDate(photo.data.date)}
+              </time>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="text-sm text-gray-400 dark:text-gray-500">Nothing yet.</p>
+      )}
+    </div>
+
+  </div>
+
+</BaseLayout>

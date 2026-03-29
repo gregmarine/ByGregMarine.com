@@ -1,0 +1,85 @@
+---
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+import BlogLayout from "../../../layouts/BlogLayout.astro";
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection("blog");
+
+  // Collect unique year/month pairs and the posts that belong to each
+  const buckets = new Map<string, CollectionEntry<"blog">[]>();
+  for (const post of allPosts) {
+    const year = String(post.data.date.getFullYear());
+    const month = String(post.data.date.getMonth() + 1).padStart(2, "0");
+    const key = `${year}/${month}`;
+    if (!buckets.has(key)) buckets.set(key, []);
+    buckets.get(key)!.push(post);
+  }
+
+  return [...buckets.entries()].map(([key, posts]) => {
+    const [year, month] = key.split("/");
+    return {
+      params: { year, month },
+      props: {
+        year,
+        month,
+        posts: posts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+      },
+    };
+  });
+}
+
+interface Props {
+  year: string;
+  month: string;
+  posts: CollectionEntry<"blog">[];
+}
+
+const { year, month, posts } = Astro.props;
+
+// Human-readable heading: "March 2026"
+const heading = new Date(Number(year), Number(month) - 1, 1).toLocaleDateString("en-US", {
+  month: "long",
+  year: "numeric",
+});
+---
+
+<BlogLayout description={`Blog posts from ${heading}.`}>
+  <section class="space-y-8">
+    <h1 class="text-3xl font-bold tracking-tight">{heading}</h1>
+    <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
+      {posts.map((post) => (
+        <li class="pt-6 first:pt-0 space-y-1.5">
+          <a href={`/blog/${post.id}`} class="group block space-y-1">
+            <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">
+              {post.data.title}
+            </h2>
+            <time
+              class="text-sm text-gray-500 dark:text-gray-400"
+              datetime={post.data.date.toISOString()}
+            >
+              {post.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+            </time>
+            {post.data.description && (
+              <p class="text-gray-600 dark:text-gray-400">{post.data.description}</p>
+            )}
+          </a>
+          {post.data.tags.length > 0 && (
+            <ul class="flex flex-wrap gap-1.5">
+              {post.data.tags.map((tag: string) => (
+                <li>
+                  <a
+                    href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                    class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+                  >
+                    {tag}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          )}
+        </li>
+      ))}
+    </ul>
+  </section>
+</BlogLayout>

@@ -1,0 +1,72 @@
+---
+interface Collection {
+  slug: string;
+  label: string;
+  count: number;
+  href: string;
+}
+
+interface Props {
+  collections: Collection[];
+  otherCount: number;
+  currentCollection?: string | null;
+}
+
+const { collections, otherCount, currentCollection = null } = Astro.props;
+---
+
+<nav aria-label="Words collections">
+  {collections.length === 0 && otherCount === 0 ? (
+    <p class="text-sm text-gray-400 dark:text-gray-500">No entries yet.</p>
+  ) : (
+    <ul class="space-y-0.5">
+      {collections.map((c) => {
+        const isActive = currentCollection === c.slug;
+        return (
+          <li class:list={[
+            "border-l-2 pl-3",
+            isActive ? "border-gray-400 dark:border-gray-400" : "border-gray-200 dark:border-gray-700",
+          ]}>
+            <a
+              href={c.href}
+              aria-current={isActive ? "page" : undefined}
+              class:list={[
+                "text-sm leading-relaxed transition-colors",
+                isActive
+                  ? "text-gray-900 dark:text-gray-100 font-medium"
+                  : "text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100",
+              ]}
+            >
+              {c.label}{" "}
+              <span class:list={[
+                isActive ? "text-gray-500 dark:text-gray-400" : "text-gray-400 dark:text-gray-600",
+              ]}>({c.count})</span>
+            </a>
+          </li>
+        );
+      })}
+      {otherCount > 0 && (
+        <li class:list={[
+          "border-l-2 pl-3",
+          currentCollection === "other" ? "border-gray-400 dark:border-gray-400" : "border-gray-200 dark:border-gray-700",
+        ]}>
+          <a
+            href="/words/other"
+            aria-current={currentCollection === "other" ? "page" : undefined}
+            class:list={[
+              "text-sm leading-relaxed transition-colors",
+              currentCollection === "other"
+                ? "text-gray-900 dark:text-gray-100 font-medium"
+                : "text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100",
+            ]}
+          >
+            Other{" "}
+            <span class:list={[
+              currentCollection === "other" ? "text-gray-500 dark:text-gray-400" : "text-gray-400 dark:text-gray-600",
+            ]}>({otherCount})</span>
+          </a>
+        </li>
+      )}
+    </ul>
+  )}
+</nav>

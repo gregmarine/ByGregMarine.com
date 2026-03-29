@@ -1,0 +1,79 @@
+---
+import { getCollection } from "astro:content";
+import PhotosLayout from "../../layouts/PhotosLayout.astro";
+
+const PAGE_SIZE = 10;
+const allPhotos = (await getCollection("photos"))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const totalPages = Math.max(1, Math.ceil(allPhotos.length / PAGE_SIZE));
+const photos = allPhotos.slice(0, PAGE_SIZE);
+const nextUrl = totalPages > 1 ? "/photos/page/2" : null;
+
+const photosMetaEntries = await getCollection("photosMeta");
+const meta = photosMetaEntries[0]?.data;
+const sectionTitle = meta?.title ?? "";
+const subtitle = meta?.subtitle ?? "";
+const tagline = meta?.tagline ?? "";
+---
+
+<PhotosLayout description="Photography by Greg Marine.">
+  <section class="space-y-8">
+    <div class="pb-6 border-b border-gray-100 dark:border-gray-800 space-y-1">
+      {sectionTitle ? (
+        <h1 class="text-3xl font-bold tracking-tight leading-snug">{sectionTitle}</h1>
+      ) : (
+        <h1 class="text-3xl font-bold tracking-tight">Photos</h1>
+      )}
+      {subtitle && <p class="text-sm text-gray-500 dark:text-gray-400">{subtitle}</p>}
+      {tagline && <p class="text-sm italic text-gray-400 dark:text-gray-500">{tagline}</p>}
+    </div>
+    {photos.length === 0 ? (
+      <p class="text-gray-500 dark:text-gray-400">No photos yet. Check back soon.</p>
+    ) : (
+      <>
+        <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {photos.map((photo) => (
+            <li>
+              <a href={`/photos/${photo.id}`} class="group block space-y-2">
+                <div class="aspect-square overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800">
+                  <img
+                    src={photo.data.images[0].src}
+                    alt={photo.data.images[0].caption ?? photo.data.title}
+                    class="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                    loading="lazy"
+                  />
+                </div>
+                <h2 class="text-sm font-medium group-hover:underline underline-offset-4">{photo.data.title}</h2>
+              </a>
+              {photo.data.tags.length > 0 && (
+                <ul class="flex flex-wrap gap-1.5 mt-1">
+                  {photo.data.tags.map((tag: string) => (
+                    <li>
+                      <a
+                        href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                        class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+                      >
+                        {tag}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </li>
+          ))}
+        </ul>
+        <nav class="flex items-center justify-between pt-6 border-t border-gray-100 dark:border-gray-800 text-sm">
+          <div class="w-20">
+            {/* page 1 — no previous */}
+          </div>
+          <span class="text-xs text-gray-400 dark:text-gray-500">Page 1 of {totalPages}</span>
+          <div class="w-20 text-right">
+            {nextUrl && (
+              <a href={nextUrl} class="text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">Older →</a>
+            )}
+          </div>
+        </nav>
+      </>
+    )}
+  </section>
+</PhotosLayout>

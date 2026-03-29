@@ -1,0 +1,127 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import WordsSidebar from "../components/words/WordsSidebar.astro";
+import WordsPostNav from "../components/words/WordsPostNav.astro";
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  title?: string;
+  description?: string;
+  date?: Date;
+  prevPost?: CollectionEntry<"words"> | null;
+  nextPost?: CollectionEntry<"words"> | null;
+  currentCollection?: string | null;
+  collection?: string | null;
+}
+
+const {
+  title,
+  description,
+  date,
+  prevPost = null,
+  nextPost = null,
+  currentCollection: propCollection = null,
+  collection = null,
+} = Astro.props;
+
+// Derive currentCollection from URL when not passed as prop.
+// /words/collection/[name] → name; /words/other → "other"; else null.
+const pathParts = Astro.url.pathname.split("/").filter(Boolean);
+const urlCollection =
+  pathParts[1] === "collection" && pathParts[2]
+    ? pathParts[2]
+    : pathParts[1] === "other"
+    ? "other"
+    : null;
+const currentCollection = propCollection ?? urlCollection;
+
+// Build collections list for sidebar
+const allEntries = await getCollection("words");
+
+const collectionMap = new Map<string, number>();
+let otherCount = 0;
+for (const entry of allEntries) {
+  if (entry.data.collection) {
+    const c = entry.data.collection;
+    collectionMap.set(c, (collectionMap.get(c) ?? 0) + 1);
+  } else {
+    otherCount++;
+  }
+}
+
+const collections = [...collectionMap.entries()]
+  .sort((a, b) => a[0].localeCompare(b[0]))
+  .map(([slug, count]) => ({
+    slug,
+    label: slug.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" "),
+    count,
+    href: `/words/collection/${slug}`,
+  }));
+
+const showPostNav = prevPost !== null || nextPost !== null;
+---
+
+<BaseLayout title={title} description={description}>
+
+  <!-- Mobile archive toggle (hidden on desktop) -->
+  <details class="words-archive-toggle lg:hidden mb-6">
+    <summary
+      class="flex cursor-pointer select-none items-center justify-between px-4 py-3 text-gray-600 dark:text-gray-400"
+      aria-label="Toggle collections"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="18"
+        height="14"
+        viewBox="0 0 18 14"
+        fill="none"
+        aria-hidden="true"
+      >
+        <path d="M0 1h18M0 7h18M0 13h18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+    </summary>
+    <div class="px-4 pb-5 pt-3 border-t border-gray-200 dark:border-gray-800">
+      <WordsSidebar collections={collections} otherCount={otherCount} currentCollection={currentCollection} />
+    </div>
+  </details>
+
+  <!-- Two-column layout: sidebar (lg) + content -->
+  <div class="lg:grid lg:grid-cols-[200px_1fr] lg:gap-12 lg:items-start">
+
+    <!-- Desktop sidebar (hidden on mobile) -->
+    <aside class="hidden lg:block">
+      <div class="sticky top-8">
+        <p class="text-xs font-semibold uppercase tracking-wider text-gray-400 dark:text-gray-500 mb-4">
+          Collections
+        </p>
+        <WordsSidebar collections={collections} otherCount={otherCount} currentCollection={currentCollection} />
+      </div>
+    </aside>
+
+    <!-- Content column -->
+    <div class="min-w-0">
+      {title ? (
+        <article class="prose prose-gray dark:prose-invert max-w-none">
+          <header class="mb-8 not-prose">
+            <h1 class="text-3xl font-bold tracking-tight sm:text-4xl">{title}</h1>
+            {date && (
+              <time
+                class="text-sm text-gray-500 dark:text-gray-400 mt-2 block"
+                datetime={date.toISOString()}
+              >
+                {date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+              </time>
+            )}
+          </header>
+          <slot />
+        </article>
+      ) : (
+        <slot />
+      )}
+
+      {showPostNav && <WordsPostNav prevPost={prevPost} nextPost={nextPost} collection={collection} section="words" />}
+    </div>
+
+  </div>
+</BaseLayout>

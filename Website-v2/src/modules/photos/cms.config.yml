@@ -1,0 +1,46 @@
+# Decap CMS config fragment — Photos module
+- name: photos
+  label: Photos
+  folder: src/content/photos
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - { label: Title, name: title, widget: string }
+    - { label: Description, name: description, widget: string, required: false }
+    - label: Date
+      name: date
+      widget: datetime
+      format: "YYYY-MM-DDTHH:mm:ssZ"
+      date_format: "YYYY-MM-DD"
+      time_format: "HH:mm"
+      default: ""
+      picker_utc: false
+    - label: Date Taken
+      name: dateTaken
+      widget: datetime
+      format: "YYYY-MM-DDTHH:mm:ssZ"
+      date_format: "YYYY-MM-DD"
+      time_format: "HH:mm"
+      default: ""
+      picker_utc: false
+      required: false
+    - { label: Location, name: location, widget: string, required: false }
+    - { label: Tags, name: tags, widget: list, default: [] }
+    - label: Images
+      name: images
+      widget: list
+      fields:
+        - { label: Image, name: src, widget: image }
+        - { label: Caption, name: caption, widget: string, required: false }
+    - { label: Body, name: body, widget: markdown, required: false }
+
+- name: photos-settings
+  label: Photos Settings
+  files:
+    - name: photos-settings
+      label: Photos Settings
+      file: src/content/photos-meta/index.md
+      fields:
+        - { label: "Section title", name: title, widget: string, required: false, hint: "The personality hook e.g. So, I took a photo..." }
+        - { label: "Section subtitle", name: subtitle, widget: string, required: false, hint: "The context line e.g. a photo gallery by Greg Marine" }
+        - { label: Section tagline, name: tagline, widget: string, required: false }

@@ -1,0 +1,81 @@
+---
+interface ArchiveMonth {
+  label: string;
+  month: number; // 1-indexed, matches URL segment
+  count: number;
+  href: string;
+}
+
+interface ArchiveYear {
+  year: number;
+  months: ArchiveMonth[];
+}
+
+interface Props {
+  archive: ArchiveYear[];
+  currentYear?: number | null;
+  currentMonth?: number | null;
+}
+
+const { archive, currentYear = null, currentMonth = null } = Astro.props;
+
+// Open the current year if known; otherwise default to the most recent year.
+const defaultOpenYear = currentYear ?? (archive.length > 0 ? archive[0].year : null);
+---
+
+<nav aria-label="Blog archive">
+  {archive.length === 0 ? (
+    <p class="text-sm text-gray-400 dark:text-gray-500">No posts yet.</p>
+  ) : (
+    archive.map(({ year, months }) => {
+      const isYearActive = currentYear !== null && year === currentYear;
+      // Mute years that aren't the current one — but only when a year is actually active.
+      // On pages with no year context (blog index), all years stay at full color.
+      const yearTextClass = (!isYearActive && currentYear !== null)
+        ? "text-gray-400 dark:text-gray-500"
+        : "text-gray-900 dark:text-gray-100";
+
+      return (
+        <details class="blog-year-toggle mb-4" open={year === defaultOpenYear}>
+          <summary class:list={[
+            "flex cursor-pointer select-none items-center justify-between text-sm font-semibold py-1 transition-colors",
+            yearTextClass,
+          ]}>
+            {year}
+          </summary>
+          <ul class="space-y-0.5 mt-1 mb-1">
+            {months.map((m) => {
+              const isMonthActive = isYearActive && currentMonth !== null && m.month === currentMonth;
+              return (
+                <li class:list={[
+                  "border-l-2 pl-3",
+                  isMonthActive
+                    ? "border-gray-400 dark:border-gray-400"
+                    : "border-gray-200 dark:border-gray-700",
+                ]}>
+                  <a
+                    href={m.href}
+                    aria-current={isMonthActive ? "page" : undefined}
+                    class:list={[
+                      "text-sm leading-relaxed transition-colors",
+                      isMonthActive
+                        ? "text-gray-900 dark:text-gray-100 font-medium"
+                        : "text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100",
+                    ]}
+                  >
+                    {m.label}{" "}
+                    <span class:list={[
+                      isMonthActive
+                        ? "text-gray-500 dark:text-gray-400"
+                        : "text-gray-400 dark:text-gray-600",
+                    ]}>({m.count})</span>
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </details>
+      );
+    })
+  )}
+</nav>

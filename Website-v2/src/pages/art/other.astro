@@ -1,0 +1,52 @@
+---
+import { getCollection } from "astro:content";
+import ArtLayout from "../../layouts/ArtLayout.astro";
+
+const pieces = (await getCollection("art"))
+  .filter((p) => !p.data.collection)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<ArtLayout description="Uncollected artwork by Greg Marine.">
+  <section class="space-y-8">
+    <h1 class="text-3xl font-bold tracking-tight">Other Art</h1>
+    {pieces.length === 0 ? (
+      <p class="text-gray-500 dark:text-gray-400">No uncollected pieces yet.</p>
+    ) : (
+      <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {pieces.map((piece) => (
+          <li>
+            <a href={`/art/${piece.id}`} class="group block space-y-2">
+              <div class="aspect-square overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800">
+                <img
+                  src={piece.data.images[0].src}
+                  alt={piece.data.images[0].caption ?? piece.data.title}
+                  class="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                  loading="lazy"
+                />
+              </div>
+              <h2 class="text-sm font-medium group-hover:underline underline-offset-4">{piece.data.title}</h2>
+              {piece.data.medium && (
+                <p class="text-xs text-gray-500 dark:text-gray-400">{piece.data.medium}</p>
+              )}
+            </a>
+            {piece.data.tags.length > 0 && (
+              <ul class="flex flex-wrap gap-1.5 mt-1">
+                {piece.data.tags.map((tag: string) => (
+                  <li>
+                    <a
+                      href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                      class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+                    >
+                      {tag}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+</ArtLayout>

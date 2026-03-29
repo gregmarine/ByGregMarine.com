@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    color-scheme: light dark;
+  }
+
+  html {
+    font-family: system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Prose typography for module content */
+  .prose {
+    --tw-prose-body: theme(colors.gray.700);
+    --tw-prose-headings: theme(colors.gray.900);
+    --tw-prose-links: theme(colors.gray.900);
+    --tw-prose-code: theme(colors.gray.900);
+  }
+}
