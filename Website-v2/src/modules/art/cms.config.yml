@@ -4,13 +4,7 @@
   folder: src/content/art
   create: true
   slug: "{{slug}}"
-  sortable_fields:
-    fields:
-      - date
-      - title
-    default:
-      field: date
-      direction: Descending
+  sortable_fields: ['date', 'title']
   fields:
     - { label: Title, name: title, widget: string }
     - { label: Description, name: description, widget: string, required: false }
