@@ -5,7 +5,7 @@
   create: true
   slug: "{{year}}/{{month}}/{{slug}}"
   nested:
-    depth: 10
+    depth: 3
   meta:
     path:
       label: Path
