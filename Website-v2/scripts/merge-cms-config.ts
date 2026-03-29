@@ -25,8 +25,9 @@ backend:
   name: github
   repo: ${process.env.GITHUB_REPO ?? "your-github-user/your-repo"}
   branch: main
-
-publish_mode: editorial_workflow
+  publish_mode: editorial_workflow
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
 media_folder: public/uploads
 public_folder: /uploads
