@@ -6,7 +6,7 @@ medium: "Acrylic"
 yearCreated: 2026
 description: "Energy and tension in warm reds."
 images:
-  - src: /uploads/placeholder.jpg
+  - src: ./media/placeholder.png
     caption: "Abstract in Red"
 ---
 

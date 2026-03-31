@@ -5,7 +5,7 @@ collection: "street"
 tags: ["urban", "rain"]
 description: "Wet streets and neon reflections."
 images:
-  - src: /images/photos/city-rain.jpg
+  - src: ./media/city-rain.png
     caption: "Rain on the city streets"
 ---
 
