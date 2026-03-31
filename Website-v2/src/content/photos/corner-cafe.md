@@ -4,7 +4,7 @@ date: 2026-01-28T12:00:00-05:00
 collection: "street"
 tags: ["urban", "people"]
 images:
-  - src: /uploads/placeholder.jpg
+  - src: ./media/placeholder.png
     caption: "Morning light through a cafe window"
 ---
 

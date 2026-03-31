@@ -7,7 +7,7 @@ medium: "Oil on canvas"
 yearCreated: 2026
 description: "Ceramic mugs and afternoon light."
 images:
-  - src: /uploads/placeholder.jpg
+  - src: ./media/placeholder.png
     caption: "Still Life No. 2, oil on canvas"
 ---
 

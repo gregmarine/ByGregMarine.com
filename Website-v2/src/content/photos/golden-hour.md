@@ -5,7 +5,7 @@ collection: "nature"
 tags: ["landscape", "light"]
 description: "Late afternoon light over open fields."
 images:
-  - src: /images/photos/golden-hour.jpg
+  - src: ./media/golden-hour.png
     caption: "Golden hour over the fields"
 ---
 

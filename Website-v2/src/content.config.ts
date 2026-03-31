@@ -7,40 +7,46 @@ import { glob } from "astro/loaders";
 
 const blog = defineCollection({
   loader: glob({ pattern: "**/*.md", base: new URL("./content/blog", import.meta.url).pathname }),
-  schema: z.object({
+  schema: ({ image }) => z.object({
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
     tags: z.array(z.string()).default([]),
-    cover: z.string().optional(),
+    cover: image().optional(),
   }),
 });
 
 const photos = defineCollection({
   loader: glob({ pattern: "**/*.md", base: new URL("./content/photos", import.meta.url).pathname }),
-  schema: z.object({
+  schema: ({ image }) => z.object({
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
+    tags: z.array(z.string()).default([]),
+    images: z.array(z.object({
+      src: image(),
+      caption: z.string().optional(),
+    })),
     dateTaken: z.coerce.date().optional(),
     location: z.string().optional(),
-    tags: z.array(z.string()).default([]),
     collection: z.string().optional(),
-    images: z.array(z.object({ src: z.string(), caption: z.string().optional() })),
   }),
 });
 
 const art = defineCollection({
   loader: glob({ pattern: "**/*.md", base: new URL("./content/art", import.meta.url).pathname }),
-  schema: z.object({
+  schema: ({ image }) => z.object({
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
     tags: z.array(z.string()).default([]),
-    collection: z.string().optional(),
-    images: z.array(z.object({ src: z.string(), caption: z.string().optional() })),
+    images: z.array(z.object({
+      src: image(),
+      caption: z.string().optional(),
+    })),
     medium: z.string().optional(),
     yearCreated: z.number().optional(),
+    collection: z.string().optional(),
   }),
 });
 
