@@ -5,8 +5,6 @@
   create: true
   path: "{{year}}/{{month}}/{{slug}}"
   slug: "{{slug}}"
-  media_folder: "SITE_BASE_DIR/src/assets/uploads"
-  public_folder: "../../../../assets/uploads"
   sortable_fields: ['date', 'title']
   fields:
     - { label: Title, name: title, widget: string }
