@@ -10,6 +10,9 @@ backend:
 
 publish_mode: editorial_workflow
 
+media_folder: src/assets/uploads
+public_folder: /src/assets/uploads
+
 collections:
   - name: home
     label: Home

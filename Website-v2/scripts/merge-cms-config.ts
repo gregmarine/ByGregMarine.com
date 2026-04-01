@@ -19,6 +19,7 @@ const activeModules = Object.entries(siteConfig.modules)
   .map(([name]) => name);
 
 const siteBaseDir = process.env.SITE_BASE_DIR ? `${process.env.SITE_BASE_DIR}/` : "";
+const prefix = siteBaseDir;
 
 const header = `# AUTO-GENERATED — do not edit by hand.
 # Edit src/modules/<module>/cms.config.yml and re-run scripts/merge-cms-config.ts
@@ -31,6 +32,9 @@ backend:
   auth_endpoint: auth
 
 publish_mode: editorial_workflow
+
+media_folder: ${prefix}src/assets/uploads
+public_folder: /src/assets/uploads
 
 collections:
 `;
