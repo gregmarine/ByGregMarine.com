@@ -7,7 +7,7 @@ medium: "Oil on canvas"
 yearCreated: 2026
 description: "A simple arrangement of objects on a table."
 images:
-  - src: ./media/still-life-no1.png
+  - src: ../../assets/uploads/still-life-no1.png
     caption: "Still Life No. 1, oil on canvas"
 ---
 

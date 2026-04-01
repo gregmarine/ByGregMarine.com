@@ -5,7 +5,7 @@ date: 2026-03-31T08:46:00-04:00
 tags:
   - Test
 images:
-  - src: media/img_7232.jpg
+  - src: ../../assets/uploads/img_7232.jpg
     caption: Old Glory
 medium: Photo
 yearCreated: 2025

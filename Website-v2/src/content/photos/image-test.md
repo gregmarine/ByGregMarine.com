@@ -6,7 +6,7 @@ dateTaken: 2026-03-30T22:18:00-04:00
 tags:
   - Test
 images:
-  - src: media/20210903.jpg
+  - src: ../../assets/uploads/20210903.jpg
     caption: Zen
 ---
 Testing images

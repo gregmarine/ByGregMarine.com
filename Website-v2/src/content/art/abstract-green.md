@@ -6,7 +6,7 @@ medium: "Watercolor"
 yearCreated: 2026
 description: "Exploring growth and calm through layered greens."
 images:
-  - src: ./media/placeholder.png
+  - src: ../../assets/uploads/placeholder.png
     caption: "Abstract in Green"
 ---
 

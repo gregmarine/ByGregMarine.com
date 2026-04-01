@@ -9,4 +9,4 @@ Testing images
 
 
 
-![House and Tree](media/img_7230.jpg "House and Tree")
+![House and Tree](../../../../assets/uploads/img_7230.jpg "House and Tree")
