@@ -19,7 +19,6 @@ const activeModules = Object.entries(siteConfig.modules)
   .map(([name]) => name);
 
 const siteBaseDir = process.env.SITE_BASE_DIR ? `${process.env.SITE_BASE_DIR}/` : "";
-const prefix = siteBaseDir;
 
 const header = `# AUTO-GENERATED — do not edit by hand.
 # Edit src/modules/<module>/cms.config.yml and re-run scripts/merge-cms-config.ts
@@ -33,7 +32,7 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: ${prefix}src/assets/uploads
+media_folder: ${siteBaseDir}src/assets/uploads
 public_folder: /src/assets/uploads
 
 collections:
@@ -45,8 +44,6 @@ const fragments = activeModules
     const raw = readFileSync(path, "utf8")
       // Strip comment lines
       .replace(/^#.*\n/gm, "")
-      // Replace SITE_BASE_DIR placeholder in media_folder values
-      .replace(/SITE_BASE_DIR\//g, siteBaseDir)
       // Prefix folder: and file: paths with siteBaseDir (empty when SITE_BASE_DIR is unset)
       .replace(/^(\s*(?:folder|file):\s*)(\S+)/gm, `$1${siteBaseDir}$2`)
       .trim();
