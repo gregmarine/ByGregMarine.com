@@ -6,7 +6,7 @@ medium: "Acrylic on paper"
 yearCreated: 2026
 description: "Exploring texture and depth with blues and teals."
 images:
-  - src: ./media/abstract-blue.png
+  - src: ../../assets/uploads/abstract-blue.png
     caption: "Abstract in Blue"
 ---
 

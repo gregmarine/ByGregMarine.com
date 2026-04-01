@@ -4,7 +4,7 @@ date: 2026-02-10T12:00:00-05:00
 collection: "nature"
 tags: ["light", "nature"]
 images:
-  - src: ./media/placeholder.png
+  - src: ../../assets/uploads/placeholder.png
     caption: "Golden hour, second visit"
 ---
 

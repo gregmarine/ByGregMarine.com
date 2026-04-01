@@ -7,7 +7,7 @@ medium: "Oil on canvas"
 yearCreated: 2026
 description: "Books, a candle, a glass of water."
 images:
-  - src: ./media/placeholder.png
+  - src: ../../assets/uploads/placeholder.png
     caption: "Still Life No. 3, oil on canvas"
 ---
 

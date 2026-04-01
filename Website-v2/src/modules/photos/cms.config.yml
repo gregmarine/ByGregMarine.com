@@ -4,8 +4,6 @@
   folder: src/content/photos
   create: true
   slug: "{{slug}}"
-  media_folder: "media"
-  public_folder: "media"
   sortable_fields: ['date', 'title']
   fields:
     - { label: Title, name: title, widget: string }

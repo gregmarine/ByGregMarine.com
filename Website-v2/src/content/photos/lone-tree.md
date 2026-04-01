@@ -3,7 +3,7 @@ title: "Lone Tree"
 date: 2026-01-05T12:00:00-05:00
 tags: ["solitude", "nature"]
 images:
-  - src: ./media/placeholder.png
+  - src: ../../assets/uploads/placeholder.png
     caption: "A single tree in an open field"
 ---
 
