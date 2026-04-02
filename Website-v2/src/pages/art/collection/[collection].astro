@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import ArtLayout from "../../../layouts/ArtLayout.astro";
+import { cloudinaryAuto } from "@/lib/cloudinary";
 
 export async function getStaticPaths() {
   const allPieces = await getCollection("art");
@@ -45,7 +46,7 @@ const label = collection.split("-").map((w) => w.charAt(0).toUpperCase() + w.sli
             <a href={`/art/${piece.id}`} class="group block space-y-2">
               <div class="aspect-square overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800">
                 <img
-                  src={piece.data.images[0].src}
+                  src={cloudinaryAuto(piece.data.images[0].src)}
                   alt={piece.data.images[0].caption ?? piece.data.title}
                   class="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
                 />

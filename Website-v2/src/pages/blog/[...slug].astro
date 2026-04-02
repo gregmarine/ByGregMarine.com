@@ -1,6 +1,7 @@
 ---
 import { getCollection, render, type CollectionEntry } from "astro:content";
 import BlogLayout from "../../layouts/BlogLayout.astro";
+import { cloudinaryAuto } from "@/lib/cloudinary";
 
 export async function getStaticPaths() {
   const posts = (await getCollection("blog"))
@@ -29,7 +30,7 @@ const { Content } = await render(post);
 <BlogLayout
   title={post.data.title}
   description={post.data.description}
-  image={post.data.cover}
+  image={cloudinaryAuto(post.data.cover ?? "")}
   date={post.data.date}
   prevPost={prevPost}
   nextPost={nextPost}
