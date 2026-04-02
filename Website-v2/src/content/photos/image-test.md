@@ -6,7 +6,9 @@ dateTaken: 2026-03-30T22:18:00-04:00
 tags:
   - Test
 images:
-  - src: ../../assets/uploads/20210903.jpg
+  - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1775092294/samples/zoom.avif
     caption: Zen
+  - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1775092295/cld-sample.jpg
+    caption: Cool
 ---
 Testing images
