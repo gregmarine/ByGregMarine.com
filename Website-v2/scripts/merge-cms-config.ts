@@ -40,6 +40,7 @@ media_library:
   config:
     cloud_name: dh6izdwyd
     upload_preset: bygregmarine
+    folder: bygregmarine
 
 collections:
 `;
