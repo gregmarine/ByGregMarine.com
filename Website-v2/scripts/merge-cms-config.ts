@@ -32,8 +32,14 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: ${siteBaseDir}src/assets/uploads
-public_folder: /src/assets/uploads
+media_folder: ${siteBaseDir}public/uploads
+public_folder: /uploads
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dh6izdwyd
+    upload_preset: bygregmarine
 
 collections:
 `;
