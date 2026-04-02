@@ -7,6 +7,4 @@ tags:
 ---
 Testing images
 
-
-
-![House and Tree](../../../../assets/uploads/img_7230.jpg "House and Tree")
+![House and Tree](img_5264.jpeg "House and Tree")
