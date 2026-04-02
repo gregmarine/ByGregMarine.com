@@ -1,6 +1,7 @@
 ---
 import { getCollection, render, type CollectionEntry } from "astro:content";
 import PhotosLayout from "../../layouts/PhotosLayout.astro";
+import { cloudinaryAuto } from "@/lib/cloudinary";
 
 export async function getStaticPaths() {
   const photos = await getCollection("photos");
@@ -27,7 +28,7 @@ const nextPost = scopedPhotos.length > 1 ? (scopedPhotos[index - 1] ?? null) : n
 <PhotosLayout
   title={photo.data.title}
   description={photo.data.description}
-  image={photo.data.images[0]?.src}
+  image={cloudinaryAuto(photo.data.images[0]?.src ?? "")}
   date={photo.data.date}
   prevPost={prevPost}
   nextPost={nextPost}
@@ -37,7 +38,7 @@ const nextPost = scopedPhotos.length > 1 ? (scopedPhotos[index - 1] ?? null) : n
   <div class="not-prose space-y-6 mb-8">
     {photo.data.images.map((img) => (
       <figure>
-        <img src={img.src} alt={img.caption ?? photo.data.title} class="rounded-md w-full" />
+        <img src={cloudinaryAuto(img.src)} alt={img.caption ?? photo.data.title} class="rounded-md w-full" />
         {img.caption && (
           <figcaption class="mt-2 text-sm text-gray-500 dark:text-gray-400">{img.caption}</figcaption>
         )}
