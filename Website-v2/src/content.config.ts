@@ -7,24 +7,24 @@ import { glob } from "astro/loaders";
 
 const blog = defineCollection({
   loader: glob({ pattern: "**/*.md", base: new URL("./content/blog", import.meta.url).pathname }),
-  schema: ({ image }) => z.object({
+  schema: z.object({
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
     tags: z.array(z.string()).default([]),
-    cover: image().optional(),
+    cover: z.string().optional(),
   }),
 });
 
 const photos = defineCollection({
   loader: glob({ pattern: "**/*.md", base: new URL("./content/photos", import.meta.url).pathname }),
-  schema: ({ image }) => z.object({
+  schema: z.object({
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
     tags: z.array(z.string()).default([]),
     images: z.array(z.object({
-      src: image(),
+      src: z.string(),
       caption: z.string().optional(),
     })),
     dateTaken: z.coerce.date().optional(),
@@ -35,13 +35,13 @@ const photos = defineCollection({
 
 const art = defineCollection({
   loader: glob({ pattern: "**/*.md", base: new URL("./content/art", import.meta.url).pathname }),
-  schema: ({ image }) => z.object({
+  schema: z.object({
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
     tags: z.array(z.string()).default([]),
     images: z.array(z.object({
-      src: image(),
+      src: z.string(),
       caption: z.string().optional(),
     })),
     medium: z.string().optional(),

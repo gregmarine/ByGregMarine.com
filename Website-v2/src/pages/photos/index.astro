@@ -1,6 +1,5 @@
 ---
 import { getCollection } from "astro:content";
-import { Image } from "astro:assets";
 import PhotosLayout from "../../layouts/PhotosLayout.astro";
 
 const PAGE_SIZE = 10;
@@ -37,11 +36,9 @@ const tagline = meta?.tagline ?? "";
             <li>
               <a href={`/photos/${photo.id}`} class="group block space-y-2">
                 <div class="aspect-square overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800">
-                  <Image
+                  <img
                     src={photo.data.images[0].src}
                     alt={photo.data.images[0].caption ?? photo.data.title}
-                    width={600}
-                    height={600}
                     class="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
                   />
                 </div>

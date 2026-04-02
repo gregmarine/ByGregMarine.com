@@ -1,7 +1,6 @@
 ---
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
-import { Image } from "astro:assets";
 import ArtLayout from "../../../layouts/ArtLayout.astro";
 
 export async function getStaticPaths() {
@@ -45,11 +44,9 @@ const label = collection.split("-").map((w) => w.charAt(0).toUpperCase() + w.sli
           <li>
             <a href={`/art/${piece.id}`} class="group block space-y-2">
               <div class="aspect-square overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800">
-                <Image
+                <img
                   src={piece.data.images[0].src}
                   alt={piece.data.images[0].caption ?? piece.data.title}
-                  width={600}
-                  height={600}
                   class="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
                 />
               </div>
