@@ -958,6 +958,16 @@ export default [
             link: '/blog/2026/03/27_ai-and-indiana-trip'
           }
         ]
+      },
+      {
+        text: 'April',
+        collapsed: true,
+        items: [
+          {
+            text: '01 - Dents and Detours',
+            link: '/blog/2026/04/01_dents-and-detours'
+          }
+        ]
       }
     ]
   }

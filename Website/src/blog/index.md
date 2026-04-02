@@ -8,6 +8,9 @@ hero:
   tagline: Behind the curtain of a curious mind 🤔
   actions:
     - theme: brand
+      text: Dents and Detours
+      link: /blog/2026/04/01_dents-and-detours
+    - theme: alt
       text: AI and Indiana Trip
       link: /blog/2026/03/27_ai-and-indiana-trip
     - theme: alt
@@ -19,9 +22,6 @@ hero:
     - theme: alt
       text: On My Mind Today
       link: /blog/2026/03/18_on-my-mind-today
-    - theme: alt
-      text: Good to be Back
-      link: /blog/2026/03/17_good-to-be-back
 ---
 
 Above, you'll find my latest journal entries. However, if this is your first time visiting, please [Read Me](read-me) first. It best explains what this journal's purpose is. It will help guide you into how to read the journal entries contained in this site. Also, it best defines who I am to give some context as you read along on my journey.
