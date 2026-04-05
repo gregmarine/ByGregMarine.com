@@ -30,6 +30,8 @@ backend:
   base_url: https://api.netlify.com
   auth_endpoint: auth
 
+site_url: ${process.env.SITE_URL ?? siteConfig.url}
+
 publish_mode: editorial_workflow
 
 media_folder: ${siteBaseDir}public/uploads
