@@ -8,7 +8,7 @@ function visitImgNodes(node) {
   if (node.type === 'element' && node.tagName === 'img') {
     const src = node.properties?.src;
     if (typeof src === 'string' && src.includes('res.cloudinary.com')) {
-      node.properties.src = src.replace('/upload/', '/upload/f_auto,q_auto/');
+      node.properties.src = src.replace('/upload/', '/upload/f_auto,q_auto/if_ar_lt_1.0/c_scale,w_900/if_else/c_scale,h_900/if_end/');
     }
   }
   if (node.children) {
