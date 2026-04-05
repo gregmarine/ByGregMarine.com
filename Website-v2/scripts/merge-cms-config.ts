@@ -19,6 +19,7 @@ const activeModules = Object.entries(siteConfig.modules)
   .map(([name]) => name);
 
 const siteBaseDir = process.env.SITE_BASE_DIR ? `${process.env.SITE_BASE_DIR}/` : "";
+const netliftySiteName = process.env.NETLIFY_SITE_NAME ?? process.env.SITE_NAME;
 
 const header = `# AUTO-GENERATED — do not edit by hand.
 # Edit src/modules/<module>/cms.config.yml and re-run scripts/merge-cms-config.ts
@@ -31,7 +32,7 @@ backend:
   auth_endpoint: auth
 
 site_url: ${process.env.SITE_URL ?? siteConfig.url}
-
+${netliftySiteName ? `preview_context: netlify/${netliftySiteName}/deploy-preview` : ""}
 publish_mode: editorial_workflow
 
 media_folder: ${siteBaseDir}public/uploads
