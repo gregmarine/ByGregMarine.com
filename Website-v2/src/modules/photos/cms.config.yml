@@ -4,6 +4,7 @@
   folder: src/content/photos
   create: true
   slug: "{{slug}}"
+  preview_path: "photos/{{slug}}"
   sortable_fields: ['date', 'title']
   fields:
     - { label: Title, name: title, widget: string }

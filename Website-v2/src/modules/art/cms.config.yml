@@ -4,6 +4,7 @@
   folder: src/content/art
   create: true
   slug: "{{slug}}"
+  preview_path: "art/{{slug}}"
   sortable_fields: ['date', 'title']
   fields:
     - { label: Title, name: title, widget: string }
