@@ -5,7 +5,7 @@
   create: true
   path: "{{year}}/{{month}}/{{slug}}"
   slug: "{{slug}}"
-  preview_path: "blog/{{year}}/{{month}}/{{slug}}"
+  preview_path: "blog/{{year}}/{{month}}/{{fields.title | slugify}}"
   sortable_fields: ['date', 'title']
   fields:
     - { label: Title, name: title, widget: string }
