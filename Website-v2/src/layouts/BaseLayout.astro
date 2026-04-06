@@ -8,9 +8,10 @@ interface Props {
   title?: string;
   description?: string;
   image?: string;
+  showAvatar?: boolean;
 }
 
-const { title, description, image } = Astro.props;
+const { title, description, image, showAvatar = true } = Astro.props;
 ---
 
 <!doctype html>
@@ -24,7 +25,7 @@ const { title, description, image } = Astro.props;
     <SEO title={title} description={description} image={image} />
   </head>
   <body class="min-h-screen flex flex-col bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100">
-    <Header />
+    <Header showAvatar={showAvatar} />
     <main class="flex-1 w-full max-w-5xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
       <slot />
     </main>
