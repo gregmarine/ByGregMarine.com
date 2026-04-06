@@ -1,0 +1,18 @@
+---
+import { cloudinaryAuto } from "@/lib/cloudinary";
+
+interface Props {
+  src: string;
+}
+
+const { src } = Astro.props;
+const imgSrc = cloudinaryAuto(src);
+---
+
+{imgSrc && (
+  <img
+    src={imgSrc}
+    alt="Profile"
+    class="w-10 h-10 rounded-full object-cover ring-2 ring-gray-200 dark:ring-gray-700 shrink-0"
+  />
+)}

@@ -11,6 +11,7 @@ export const siteConfig = {
     words: true,
     art: true,
     photos: true,
+    settings: true,
   },
   socialLinks: [
     {

@@ -70,6 +70,13 @@ const home = defineCollection({
   }),
 });
 
+const settings = defineCollection({
+  loader: glob({ pattern: "index.md", base: new URL("./content/settings", import.meta.url).pathname }),
+  schema: z.object({
+    profile_image: z.string().optional(),
+  }),
+});
+
 const sectionMetaSchema = z.object({
   title: z.string().optional(),
   subtitle: z.string().optional(),
@@ -96,4 +103,4 @@ const photosMeta = defineCollection({
   schema: sectionMetaSchema,
 });
 
-export const collections = { blog, photos, art, words, home, blogMeta, wordsMeta, artMeta, photosMeta };
+export const collections = { blog, photos, art, words, home, settings, blogMeta, wordsMeta, artMeta, photosMeta };
