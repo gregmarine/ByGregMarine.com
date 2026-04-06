@@ -1,0 +1,9 @@
+# Decap CMS config fragment — Settings module
+- name: settings
+  label: Site Settings
+  files:
+    - name: settings
+      label: Global Settings
+      file: src/content/settings/index.md
+      fields:
+        - { label: Profile Image, name: profile_image, widget: image, required: false, hint: "Profile photo used on the homepage hero and as the site avatar" }

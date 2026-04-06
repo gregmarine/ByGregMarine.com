@@ -1,11 +1,17 @@
 ---
 import { siteConfig } from "../../site.config";
 import Nav from "./Nav.astro";
+import ProfileAvatar from "./ProfileAvatar.astro";
+import { getCollection } from "astro:content";
+
+const settingsEntries = await getCollection("settings");
+const profileImage = settingsEntries[0]?.data?.profile_image ?? "";
 ---
 
 <header class="w-full border-b border-gray-200 dark:border-gray-800">
   <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between gap-6">
-    <a href="/" class="text-lg font-bold tracking-tight text-black dark:text-white">
+    <a href="/" class="flex items-center gap-3 text-lg font-bold tracking-tight text-black dark:text-white">
+      {profileImage && <ProfileAvatar src={profileImage} />}
       {siteConfig.title}
     </a>
     <Nav />

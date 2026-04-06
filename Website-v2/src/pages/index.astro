@@ -2,10 +2,15 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { siteConfig } from "../../site.config";
+import { cloudinaryAuto } from "@/lib/cloudinary";
 
 // Home tagline — graceful fallback if missing
 const homeEntries = await getCollection("home");
 const tagline = homeEntries[0]?.data?.tagline ?? "";
+
+// Profile image from settings singleton
+const settingsEntries = await getCollection("settings");
+const profileImage = settingsEntries[0]?.data?.profile_image ?? "";
 
 // 3 most recent entries per section
 const recentBlog = (await getCollection("blog"))
@@ -32,10 +37,30 @@ function fmtDate(d: Date) {
 <BaseLayout title={siteConfig.title} description={siteConfig.description}>
 
   <!-- Welcome hero -->
-  <section class="py-8 text-center space-y-3">
-    <h1 class="text-4xl font-bold tracking-tight sm:text-5xl">{siteConfig.title}</h1>
-    {tagline && (
-      <p class="text-lg italic text-gray-500 dark:text-gray-400">{tagline}</p>
+  <section class="py-8">
+    {profileImage ? (
+      <div class="flex flex-col items-center text-center sm:flex-row sm:items-center sm:text-left sm:gap-10">
+        <div class="shrink-0 mb-6 sm:mb-0">
+          <img
+            src={cloudinaryAuto(profileImage)}
+            alt="Profile"
+            class="w-32 h-32 sm:w-48 sm:h-48 rounded-full object-cover ring-4 ring-gray-100 dark:ring-gray-800"
+          />
+        </div>
+        <div class="space-y-3">
+          <h1 class="text-4xl font-bold tracking-tight sm:text-5xl">{siteConfig.title}</h1>
+          {tagline && (
+            <p class="text-lg italic text-gray-500 dark:text-gray-400">{tagline}</p>
+          )}
+        </div>
+      </div>
+    ) : (
+      <div class="text-center space-y-3">
+        <h1 class="text-4xl font-bold tracking-tight sm:text-5xl">{siteConfig.title}</h1>
+        {tagline && (
+          <p class="text-lg italic text-gray-500 dark:text-gray-400">{tagline}</p>
+        )}
+      </div>
     )}
   </section>
 
