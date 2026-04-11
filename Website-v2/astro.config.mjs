@@ -2,6 +2,11 @@
 import { defineConfig } from 'astro/config';
 
 import tailwindcss from '@tailwindcss/vite';
+import rehypeSlug from 'rehype-slug';
+import rehypeAutolinkHeadings from 'rehype-autolink-headings';
+import rehypeExternalLinks from 'rehype-external-links';
+import remarkSmartypants from 'remark-smartypants';
+import remarkBreaks from 'remark-breaks';
 
 /** @param {any} node */
 function visitImgNodes(node) {
@@ -29,6 +34,15 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   markdown: {
-    rehypePlugins: [rehypeCloudinaryAuto],
+    remarkPlugins: [
+      remarkSmartypants,
+      remarkBreaks,
+    ],
+    rehypePlugins: [
+      rehypeCloudinaryAuto,
+      rehypeSlug,
+      [rehypeAutolinkHeadings, { behavior: 'wrap' }],
+      [rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }],
+    ],
   },
 });

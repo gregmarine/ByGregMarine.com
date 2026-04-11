@@ -44,19 +44,19 @@ I thanked our VP for his candid response and, again with humorous tone, said *so
 
 Instead of a *Vitamin G* post today, I was inspired to write a poem. It was simple. But has a lot of meaning:
 
-> There’s a chill in the air\
-> Then the sun hits my face\
-> Like a warm hug\
-> Warmth envelopes my soul\
-> \
-> Trouble remains\
-> But no longer controls\
-> Seagulls laugh at my troubles\
-> I join in the laughter\
-> \
-> Only hope is my focus\
-> The pain grows dim\
-> My soul grows brighter\
+> There’s a chill in the air
+> Then the sun hits my face
+> Like a warm hug
+> Warmth envelopes my soul
+> 
+> Trouble remains
+> But no longer controls
+> Seagulls laugh at my troubles
+> I join in the laughter
+> 
+> Only hope is my focus
+> The pain grows dim
+> My soul grows brighter
 > The light shines within
 
 ![Sunrise over a build and pond](https://res.cloudinary.com/dh6izdwyd/image/upload/v1775931140/bygregmarine/blog/2024/03/IMG_4421.jpg)
@@ -73,9 +73,9 @@ The poem is both incomplete and complete at the same time. The pieces of art, wh
 
 If I were to publish this poem officially, I will likely add commentary to the effect of encouraging the reader to contemplate not only the meaning of the poem for themselves, but also to complete the fourth and final stanza from their own point of view. For me today, this would be my fourth stanza:
 
-> Peace overwhelms my very being\
-> The light begins to beam from my smile\
-> Only God knows how I feel right now\
+> Peace overwhelms my very being
+> The light begins to beam from my smile
+> Only God knows how I feel right now
 > For He is the source of the Light
 
 ## Afternoon Tea
