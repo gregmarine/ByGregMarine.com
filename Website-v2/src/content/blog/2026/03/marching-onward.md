@@ -5,8 +5,6 @@ date: 2026-03-13T00:00:00Z
 tags: []
 ---
 
-### 2026/03/13
-
 It has been a really good week. I was very productive at work. I enjoyed another week of Bible study. This week's art project is one of my favorites. I've been on walks most days. And I've been able to get plenty of rest as well. The year started off pretty rough for me. But March has been quite different. These past few weeks have been lovely <3
 
 I've been trying to do things on the weekends lately too. The first 2 Saturdays of February were Festival of the Arts days for me. I went to Jacksonville on the 3rd Saturday for my cousin's funeral and to see family. And I went to Epic Universe with some friends on the last Saturday of February. I also went to Epic Universe the next day to start off March. That one was with my nephews. Last Saturday I went to Magic Kingdom and EPCOT to try out a few new lounges. And tomorrow I'll be going to the 2 main Universal parks, Universal Studios and Islands of Adventure. I'll also spend some time at City Walk since it's part of that main campus as well.

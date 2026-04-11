@@ -6,8 +6,6 @@ tags: []
 cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775933015/bygregmarine/blog/2025/12/20251208_01.jpg"
 ---
 
-### 2025/12/08
-
 I've been sleeping really well. I wake up feeling rested and I have good energy all day. And when a night like the one last week happens, I still do well overall the next day. I've even cut back how often I have an evening cup of coffee. My dreams have been okay too. I haven't had a nightmare in a while. And the nocturnal nature of Bingford doesn't seem to wake me often... LOL j/k
 
 I had a pretty productive day at work. I already feel like this will be a good week. That could change, of course... LOL But with a good start today, I feel good about this. I did have one stressful moment. But I sort of walked away for a bit. Basically, I got up and did a walk around the apartment to regroup. That did the trick. And by the end of the day, I met a goal... hehehe

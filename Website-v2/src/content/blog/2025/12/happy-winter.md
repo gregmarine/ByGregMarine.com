@@ -5,8 +5,6 @@ date: 2025-12-21T00:00:00Z
 tags: []
 ---
 
-### 2025/12/21
-
 Winter is here! I haven't always enjoyed the change of season. But my growth these past few years has helped me appreciate the seasons. And that has further helped me appreciate the grander seasons of life. Embracing seasons, or chapters as I sometimes think of them, has been life changing <3
 
 I woke at 1 am to my neighbor again and needed to employ the white noise for the third night in a row. I think he has his mother's dog with him. That's probably where the extra late night activity is coming from. He's otherwise quite the considerate upstairs neighbor.

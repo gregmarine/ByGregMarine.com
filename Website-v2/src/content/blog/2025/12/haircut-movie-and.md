@@ -5,8 +5,6 @@ date: 2025-12-20T00:00:00Z
 tags: []
 ---
 
-### 2025/12/20
-
 Today was a really good day. I slept well. But I hit snooze twice... LOL I rarely do that. Today was a good day to sleep in though. I had to turn on my white noise around 2am. My upstairs neighbor was a bit noisy again.
 
 I had the bagel I got last night for my breakfast today. I had forgotten to have her slice it for me. But that was probably a good idea. I sliced it and it remained soft overnight. I've had their sliced ones next day and they don't toast very well. This one toasted great. I did my usual journal reading while eating and having my coffee.

@@ -5,8 +5,6 @@ date: 2025-12-17T00:00:00Z
 tags: []
 ---
 
-### 2025/12/17
-
 This felt like a weird day. It wasn't a bad day, Just weird. Some of my interactions with people were a little off. Some of my own personal experiences were a little off as well. Just a weird day... hehehe
 
 That said, I had a lovely evening. I had dinner at my sister's house. I shared the highlights and photos of our November vacation with her. We did a Christmas gift exchange. And we watched the Charlie Brown Christmas show. She acknowledged I'm the only *Marine* she gets to see this Christmas. So it was very special for us <3

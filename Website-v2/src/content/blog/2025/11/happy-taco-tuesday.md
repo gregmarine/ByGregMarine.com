@@ -5,8 +5,6 @@ date: 2025-11-04T00:00:00Z
 tags: []
 ---
 
-### 2025/11/04
-
 ## Opinions
 
 I made my first ghost post on Threads today. It read:

@@ -5,8 +5,6 @@ date: 2025-12-05T00:00:00Z
 tags: []
 ---
 
-### 2025/12/05
-
 Something I failed to mention yesterday was that my brother wanted to see my Tab X C last night because he might be interested in getting a new e-ink tablet in that size. It's the 13.3 inch size. I went ahead and showcased all of my current devices. I also showed him the Qwerkywriter typewriter keyboard I often use when I write. I didn't show him the artwork I've been doing on e-ink, though. It didn't even cross my mind... LOL
 
 I'm not quite sure how long he's had one, but Andy has had e-ink tablets for quite some time. He converted to a completely paperless workflow in his classroom years ago. He started off using the largest iPad for grading papers. But then he switched to e-ink when those became a tool beyond e-reading. He marks up student papers using e-ink and even records his voice with feedback that his students can listen to. It's a fascinating workflow that he uses e-ink devices for on his side. I think the students have Chromebooks on their side. But he's also making a push to have e-ink available for students as an option, especially for students with concussions.

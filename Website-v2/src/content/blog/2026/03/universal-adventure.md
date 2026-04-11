@@ -5,8 +5,6 @@ date: 2026-03-15T00:00:00Z
 tags: []
 ---
 
-### 2026/03/15
-
 I went to the Universal Studios Orlando Resort yesterday. Just the day before, I was pondering going to Disney when I woke up. But by the end of the day, I decided I wanted to go to Universal instead. I asked Dan if he had a comp ticket available for me. But it turned out to be a blacked out day for his comp tickets. So I bought a Florida resident ticket instead. I was going to go regardless if I could get a free ticket or pay for one.
 
 I hadn't actually been to the 2 main parks in quite awhile. Although I somewhat knew my way around, it all still felt very new since I so rarely go. I knew just being there was going to be fun. So anything I actually experienced was going to be a plus. I went on 3 attractions. I had lots of various foods and drinks. I did some work on my "Discipleship" art piece. And I journaled a little bit. I also got one of those birthday buttons!

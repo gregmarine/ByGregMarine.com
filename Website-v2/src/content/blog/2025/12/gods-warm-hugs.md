@@ -5,8 +5,6 @@ date: 2025-12-18T00:00:00Z
 tags: []
 ---
 
-### 2025/12/18
-
 Today did not have any weirdness to it. All of my interactions with people felt organic and natural. I haven't a clue what happened yesterday... LOL There were so many weird moments... hehehe But today was normal.
 
 I have a training module that is due on Christmas Eve. It was assigned quite awhile ago. I've been pretty good about knocking those out quickly. But I didn't for this one. I started it today. Yep! *Started* it! LOL Each section has a video to watch. So far, each video has been an hour... ugh. I have 5 more to watch. So I'm glad I started today. I hope to have that complete tomorrow.

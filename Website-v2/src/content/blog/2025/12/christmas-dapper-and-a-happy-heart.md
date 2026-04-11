@@ -5,8 +5,6 @@ date: 2025-12-13T00:00:00Z
 tags: []
 ---
 
-### 2025/12/13
-
 I really enjoyed my Christmas dapper outfit today. It isn't quite the level of my original Christmas dapper from last year and the one I did for Dapper Day with Cherie this year. But I still loved it. And it got a lot of attention today. Surprisingly, not a single person said, "I thought Dapper Day was last weekend?" LOL And no one asked why I was dressed up. Only one person asked for help assuming I was Cast... LOL I love dressing dapper. Especially at Christmas time <3
 
 I spent most of the day with Mack. I've missed him and his energy. He missed my energy as well. I'm glad we had this time together. We were able to catch each other up on our lives. We had some deep conversations. And we had some fun. I hope we get together sooner next time. We figured out it had been since February that we last saw each other.

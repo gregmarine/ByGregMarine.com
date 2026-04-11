@@ -5,8 +5,6 @@ date: 2025-10-29T00:00:00Z
 tags: []
 ---
 
-### 2025/10/29
-
 I've had a rough day. Perhaps it was the Dodgers loss last night? LOL jk Yeah, they lost last night. But it was still a fun game to watch. I think this is a good series for World Series. Both teams appear to be well matched. I've been amazed at the pitching of both teams overall. It's all tied up now. Tonight is game 5 and the final game in LA.
 
 Anyway, I've struggled a little today. I think I slept well. But I'm still recovering from that long and late game 3. Not to mention getting up an hour earlier than I want. That has also impacted when I've been eating meals. This is just a temporary transition. Once my body and mind adjust, all should be fine. But I had a few moments today that didn't feel great. Especially that hour when the landscaping was being done right outside my apartment... LOL Also, that meeting after lunch today.

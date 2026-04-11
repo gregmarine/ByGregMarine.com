@@ -5,8 +5,6 @@ date: 2025-12-06T00:00:00Z
 tags: []
 ---
 
-### 2025/12/06
-
 Despite the title of this entry, I'm not actually old. But there are things that make me feel old. Like when apps change their interface. Or when Apple changes so many things at the OS level... LOL That has been happening a lot lately. Some of the changes kind of make sense. Some leave me screaming "WWWHHHYYY???" HAHAHA j/k But most changes leave me relearning how things work. And that can make me feel old... hehehe
 
 I'm still adjusting settings on my iPhone after it forced me to update to iOS 26. The new animated interface is no good for me. I'll figure out how to turn all of that off, I hope...

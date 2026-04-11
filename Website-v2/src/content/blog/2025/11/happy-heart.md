@@ -5,8 +5,6 @@ date: 2025-11-02T00:00:00Z
 tags: []
 ---
 
-### 2025/11/02
-
 One year ago, I was traveling to California for my first ever visit to Disneyland Resort. It was a Saturday when I traveled. Dapper Day was the next day on Sunday. It was an amazing experience. The week included my first Disney experience with Cherie as well.
 
 Two years ago, I was about to participate in the *finish line* of the runDisney race that was the beginning of my health transformation. That was also an amazing experience. My sister joined me for that one. Both of those Disney experiences occurred on November 3rd. Except my day with Cherie; which was on the 8th.

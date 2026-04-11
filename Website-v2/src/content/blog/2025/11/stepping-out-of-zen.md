@@ -5,8 +5,6 @@ date: 2025-11-24T00:00:00Z
 tags: []
 ---
 
-### 2025/11/24
-
 ## 8:25am
 I slept okay last night. I was so tired yesterday. But I pushed myself to stay up until bedtime. In hindsight, I should have just gone to bed early. I'll probably do that next time. My body was telling me I needed the extra sleep. My mind just didn't want to. I was too focused on routine. I already go to bed earlier than I like for my newest schedule, but I really need to listen when I'm tired. That's a lesson I've learned these past 4 years. I need not ignore that voice... LOL.
 

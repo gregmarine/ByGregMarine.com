@@ -6,8 +6,6 @@ tags: []
 cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775933016/bygregmarine/blog/2025/12/20251210_01.jpg"
 ---
 
-### 2025/12/10
-
 Back on Thanksgiving, I mentioned that I heard from Mack and how he said he had become available to hang out on the 13th. Well, that would be this weekend! Yay!!! I haven't seen him in a while. So long ago that I don't actually remember when... LOL It was earlier this year, though. I seem to recall it might have been a race weekend. And I remember wearing a green dapper outfit... LOL
 
 I decided to make this weekend a mini vacation. I'll be staying in the Drury Plaza Hotel at Disney Springs. I've not stayed at this location before. I'm very excited about it. The photos look amazing. It looks like I'll have some sort of terrace to enjoy from my room. They have some other fancy rooms I may try someday. Their suites are a fraction of the cost of basic rooms at many of the Disney owned resorts. My room for the weekend isn't super fancy or basic. It seems amazing for the modest price... modest price by comparison to Disney... LOL

@@ -5,8 +5,6 @@ date: 2026-01-29T00:00:00Z
 tags: []
 ---
 
-### 2026/01/29
-
 I miss my blog... LOL I miss what it was for me. I miss handwriting every word and then tweaking things and adding more after it is transcribed. Starting a daily journal has replaced some of what the blog had done for me. It added so much to my life so far. But it feels like it took something away at the same time. I’m okay with that, of course. I’m just missing something that I’d love to get back. So, today, I’m handwriting this blog entry as I also do my daily journal process. This feels like the right balance for today ♡
 
 I’m not sure I’ve ever done a Throwback Thursday post before. But I was inspired to do one today when I saw someone else’s throwback post... hehehe I wanted to go back to 2022 from just before I moved here. I chose the last Thursday of January. Not that there’s a rule that the photo must be from a “Thursday”... LOL That’s just what I felt. But nothing interesting happened that day in 2022. So I had a look at the last Thursday of January 2023. I was immediately flooded with memories of the physical, mental, and spiritual journey I’ve been on these past 3 years. “Lightbulb!” I found my Throwback Thursday post and I hope it encourages someone today ♡

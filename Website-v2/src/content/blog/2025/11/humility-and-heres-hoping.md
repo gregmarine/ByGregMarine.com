@@ -5,8 +5,6 @@ date: 2025-11-10T00:00:00Z
 tags: []
 ---
 
-### 2025/11/10
-
 These past few years have been a humbling experience. Two metaphors I like to think of for what I've been going through are being refined in the fire and being pruned. In the fire sense, life has had its moments when the bad parts of myself have been burned away and what remains are the good parts that are getting me closer to being shiny. Sometimes I get tossed back in because some of the bad remains and more refinement is needed. In the pruning sense, the parts of me that are dead, dying, or not producing fruit are being cut off and thrown away. This leaves room for new growth to happen on the good parts of my branch. Both of these are accurate descriptions of how my heart has changed. I find them to be a beautiful way to think about this. The process hasn't been fun, the results have taken a while to see. But I'm grateful. I still have such a long way to go. I'll keep shining and growing. The *fire and the vine* has me <3
 
 I was on my way home from California a year ago today. I'm headed back to California this weekend. I enjoy my trips there. I still need to finish writing about my last trip in August, actually. I'm hoping to journal about this one when I get back too. I may take notes of things I want to write about throughout like I did in August. I never really know when inspiration may strike. I do my best to live in the moment. That's why I got my Nomad. That's also why I got the Palma 2 Pro. Both are great for jotting things quickly to draw from later. It's like a second brain of sorts. My actual brain has loved that. Last time, I had a satchel to hold my Nomad in. But I won't have one this time. So I think the Palma 2 Pro will work better. Here's hoping <3

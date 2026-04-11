@@ -6,8 +6,6 @@ tags: []
 cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775933022/bygregmarine/blog/2025/12/20251216_01.jpg"
 ---
 
-### 2025/12/16
-
 I received my latest e-ink device today. This one is a photo frame that goes on the fridge. It's cute and reminds me of a small Polaroid. Like the tiny one I got last week, it uses NFC to power it, transfer the photo from my phone to the frame, and then set the display to show the photo. So it doesn't have any batteries. But unlike the tiny thing I got last week, this one has trouble to get it to actually work. I have put 6 different photos on it to try it out. It took probably 50-60 attempts to get it to work. With a 90% failure rate, it's probably the worst product I've ever owned that sort of works... LOL This is a common problem with the product. I knew that when I bought it, actually. Even the instructions explain how tricky it is... LOL But when the photo displays, it's fantastic... LOL I won't recommend the product. But I'll keep it. As I said, it's cute... hehehe
 
 ![Torii Gate photo on a fridge](https://res.cloudinary.com/dh6izdwyd/image/upload/v1775933022/bygregmarine/blog/2025/12/20251216_01.jpg)

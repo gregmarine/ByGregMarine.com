@@ -5,8 +5,6 @@ date: 2025-12-03T00:00:00Z
 tags: []
 ---
 
-### 2025/12/03
-
 I was really feeling it this morning. I haven't seen the sun since Friday. I was grateful to see the sunset that day. I love the rising and setting of the sun. I think it may have peeked out just once since. That's Indiana for ya! I told Dan that I missed the sun. I then told him I wondered if it misses me too. His response was appreciated. He assured me the sun told him it misses me too... hehehe
 
 The issue I ran into at work yesterday turned out to be a firewall thing. The authentication call was being blocked. Which makes good sense. That should be resolved soon. I still can't wait to retire from this career... LOL I haven't loved it in years. But I'll keep plugging along for as long as I'm supposed to do it. I'm grateful for my job and how I can help people through it.

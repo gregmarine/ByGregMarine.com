@@ -5,8 +5,6 @@ date: 2025-12-22T00:00:00Z
 tags: []
 ---
 
-### 2025/12/22
-
 I had to use white noise again last night and started out with it before I even went to sleep. My neighbor was already making noises that kept me from shutting down my brain. He wasn't being obnoxious or anything out of hand. It's just the nature of my building. It must be made of paper... LOL
 
 I had several vivid dreams last night and one was a night terror. Did yesterday's sermon influence my *sweet dreams*?! LOL j/k With the terror, I woke myself up screaming. I wonder if my neighbors heard that... LOL I sure hope not... hehehe Perhaps being back on the white noise is impacting my sleep?

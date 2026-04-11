@@ -5,8 +5,6 @@ date: 2025-12-07T00:00:00Z
 tags: []
 ---
 
-### 2025/12/07
-
 I made it home safely. It was almost dinner time when I got back and I don't have any food at the moment. It was raining with storms on their way. So I decided to stop by Olive Garden for dinner. I also got a to-go order to have for lunch tomorrow. The rain is supposed to stop in the morning. So I can do a quick grocery run after work.
 
 Most of my drive was rainy, but since I was driving during the day on a Sunday, it didn't make much of an impact on my journey. Before it began, and well before the heaviest of it, I *went to church*. After I got gas and hit the road, today's live stream was beginning, so I tuned in over my car speakers. After that, I listened to last week's sermon. I followed that up with each of the sermons I missed in October. Those first few hours of driving were Blessed.

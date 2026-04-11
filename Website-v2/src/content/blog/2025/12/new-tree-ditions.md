@@ -5,8 +5,6 @@ date: 2025-12-09T00:00:00Z
 tags: []
 ---
 
-### 2025/12/09
-
 Mom has been getting *my* bread for me to have on my visits. But she has been getting the larger loaf instead of the smaller and thinly sliced loaf I typically get. I enjoyed the larger loaf last week so much that I'm going to have it here at home for the time being. With the smaller one, I typically have 4 slices. With the larger one, I just do 2. And I think I like the consistency of this bread better than with the smaller loaf. My morning toast with my coffee makes my heart happy.
 
 I'm back to using Nectar. I had been getting the variety pack. But I decided to order the packs of my favorites. Right now I have mango and fruit punch. Next, I'll likely get peach and cherry pomegranate. I like sticking to the flavors I like most. It makes life better when you aren't *putting up with* those lesser flavors... LOL

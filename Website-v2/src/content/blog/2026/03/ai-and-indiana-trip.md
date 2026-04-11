@@ -5,8 +5,6 @@ date: 2026-03-27T00:00:00Z
 tags: []
 ---
 
-### 2026/03/27
-
 I'm really excited! This might be one of the last blog entries I make using the system I've been using for the past 2 1/4 years. I've been working on the replacement system this week. I still have a little bit of work left to do with it, though. So there is still a chance I'll make another entry using this old system...hehehe As much pain as it has been lately, I think I'll miss this way of doing it. I know I'm not really explaining the issues I'm having. I may save that for a vlog. I'm not sure I can explain it well in text. I'm sure explaining it in a video may not be all that clear either, actually. But it will be fun...LOL
 
 I'm using Claude Code and Claude AI to build the new system. I've put on my *Product Manager hat* instead of my *Lead Software Engineer hat*. I'm a Lead Software Engineer by day, by the way. For this, I've defined the project as a product I'm going to use to focus on my content instead of spending so much time making the software work. I'm using Claude AI as sort of a *Project Manager* to help me as a *Product Manager*. After we are finished discussing key things, the AI gives me prompts I can use to supply Claude Code the instructions to actually build the software and make iterative changes and enhancements. It's a pretty sweet workflow. And so far it is producing a really good Content Management System that I'll soon be able to use here on my website.

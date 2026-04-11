@@ -5,8 +5,6 @@ date: 2025-11-21T00:00:00Z
 tags: []
 ---
 
-### 2025/11/21
-
 Well, we've reached the end of another week. Happy FriYAY! This week has gone by so quickly. Of course, that's mostly because we were on vacation the first half of the week... LOL I have caught up on my sleep already too. I'm feeling as though everything is *normal* once again... hehehe
 
 Work has been good. Things aren't nearly as busy this year as they were at this time last year. I've had shorter weeks lately too. That helps things make it feel faster, I suppose. It feels like a good season to be in right now. I think we all need this from time to time. For me at least. And despite my travels, I feel very relaxed by it all.

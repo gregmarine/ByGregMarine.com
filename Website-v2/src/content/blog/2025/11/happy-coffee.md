@@ -5,8 +5,6 @@ date: 2025-11-06T00:00:00Z
 tags: []
 ---
 
-### 2025/11/06
-
 It still often remains strange to me that I love coffee now. I've heard it said to be an acquired taste. And boy have I acquired it! What began as a way to remember and honor my late grandfather has become a passion of mine. And it also further connects me to family and friends. Especially my father and brother.
 
 I was thinking about how much my coffee making has evolved over these past 6 and a half years. From a Mr. Coffee maker to the French press I use today. From the quick-to-expire grounds in a bag to the freshly ground-by-hand method I now use. From the methodical way I would cycle through my mug collection to my more intentional and deeply felt choice of mug that brings meaning to each sip. The way I make and enjoy that bitter black nectar has become a nourishment for my happy heart.

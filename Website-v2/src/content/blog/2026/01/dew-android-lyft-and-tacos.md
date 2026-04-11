@@ -5,8 +5,6 @@ date: 2026-01-08T00:00:00Z
 tags: []
 ---
 
-### 2026/01/08
-
 By now, you've noticed that most of my entries lately have had a date at the top. Since I started rereading my entries last year, I realized how hard it was to find the original date I published them. I typically read these on a mobile device. So the URL isn't quickly accessible. I have the date *encoded* in there; which is only easy to notice on a desktop browser. Even with the auto date at the bottom of each entry, that one only shows the latest modification date. That isn't the publish date. The software I use for this does that. So, I started adding the date at the top for easy reference...hehehe
 
 I hadn't posted an original social media post since the first day of the year. I have only replied to other's. I finally posted one today. I took an exercise walk this morning and noticed the dew was still on the ground and plants. It was so beautiful. Truly a sight to behold. I had to share that. Other than that, I haven't felt inspired to post anything lately. Perhaps I'll soon post some of my art once any of it gets finished. I'll probably go to the Festival of the Arts next weekend when it opens up. So I hope to post some things from that too. It just feels weird to not be doing my daily photo this year...hehehe And I haven't had much else to say...at least nothing that was coming together when I started to type something out...LOL

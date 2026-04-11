@@ -5,8 +5,6 @@ date: 2025-11-26T00:00:00Z
 tags: []
 ---
 
-### 2025/11/26
-
 ## 7:35am
 
 I slept so much better last night. I'm still a little groggy this morning. But I feel far more rested than I did yesterday. Despite how poorly I slept the night before, I had a really good day yesterday. And my spirits were really good all day. With today being a *FriYAY* of sorts, with a 4 day weekend ahead, I imagine today will be pretty good as well. Let's see... together! Join me, will you?! hehehe

@@ -5,8 +5,6 @@ date: 2026-01-05T00:00:00Z
 tags: []
 ---
 
-### 2026/01/05
-
 For the past few years, I have started the year off with 21 days of prayer and fasting. It was a way to start the year off right and refocus myself on what God is doing with my life. It has made a huge impact on my life since I started doing that in 2023. A lot of the growth people see in me began when I started doing that annual season. But this year is different. I'm not doing it. There really isn't any reason other than I don't feel called to it this year. I thought and prayed about it as last year was coming to an end. And here I am starting this year without it. Something else that didn't happen this year is that I didn't spend any time at the pool area on the first Sunday...LOL I did that 3 January's in a row. But not this year. I never planned on doing that any of the other times I did it. I suppose 2026 is going to start off differently...hehehe
 
 As I continue to re-read my past entries, I've realized how differently I blog now. My "style" seems to have evolved quite a bit. Change is inevitable when growth happens. I'm happy with how things are and that includes how I write and what I say. I think this is a good thing. And although I have enjoyed reading things from the past, I'm considering taking a break from that. Or stopping altogether. I've been reading everything from the past on the anniversary of when I wrote it. Over time, that would grow into a full time thing...LOL So, perhaps I should make it a random thing for when I feel like taking a trip to the past. I'll never stop looking back completely. I just don't have to be so methodical about it, you know. The past and the future are a great thing to look at. But *now* is always the best time.

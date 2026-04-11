@@ -5,8 +5,6 @@ date: 2026-03-22T00:00:00Z
 tags: []
 ---
 
-### 2026/03/22
-
 Well, I have officially crossed over to 48. So, I'm starting out my 49th journey around the sun. I'm grateful for this personal new year to begin. And so far, it is off to a great start.
 
 On the actually day, I spent the day at EPCOT with my brother and his daughter. I dressed in my dapper bounding Figment outfit. My brother's favorite character is Figment. We didn't plan this, but he was also adorned with Figment attire. His was more theme park casual, though. It was great that we matched. It got a lot of attention, of course.

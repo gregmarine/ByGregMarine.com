@@ -5,8 +5,6 @@ date: 2025-12-15T00:00:00Z
 tags: []
 ---
 
-### 2025/12/15
-
 Today was a bit like a Monday... LOL I was having some Internet trouble yesterday for our call. It seemed to continue today. My work remote desktop struggled today. The weird thing is that my normal Internet usage has been fine. It's just these remote things that struggled. I know just enough about this tech to wonder if there is a routing issue in between me and some of these remote networks? This was the most Monday feeling Monday I've had in a while... hehehe
 
 I slept well last night. I went to bed just before midnight and woke on my own just before 7am. I felt well rested. I had time to shave and make a quick trip to the grocery to get bread before I logged into work around 7:45am. Other than Internet issues with work, the rest of the day was swell... hehehe

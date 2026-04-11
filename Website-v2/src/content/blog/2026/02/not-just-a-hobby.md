@@ -5,8 +5,6 @@ date: 2026-02-10T00:00:00Z
 tags: []
 ---
 
-### 2026/02/10
-
 ## 07:50a
 
 This week, I'm doing my mornings a little differently. I read "today's" scripture from the Bible study reading plan and then spend at least 10 mins meditating on some life decisions I'm facing. This is so that I listen to the Holy Spirit on those things in a more focused and intentional way. Focus is an area of weakness for me. So I'm glad to be setting this time aside each morning this week to remind me of the importance of focus.

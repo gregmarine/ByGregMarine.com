@@ -5,8 +5,6 @@ date: 2025-12-01T00:00:00Z
 tags: []
 ---
 
-### 2025/12/01
-
 I decided to abandon my journal entry from my travel Friday... LOL I never got around to writing this weekend, for good reason. I was with family all weekend... hehehe Today I'm back to work and can write on breaks. I tried to do a *morning, afternoon, evening* format today. I also abandoned that... LOL But I'm still writing today.
 
 I'm struggling a little on this visit. I had struggles on my last visit as well. But I'm okay and I appreciate being here this week. My parents are being wonderful and doing everything to make my visit wonderful in their own way. I'm grateful for what they do for me on my visits. I'm making the most of this. I still don't have the words to describe my feelings other than to say I just don't fit. But that's okay.

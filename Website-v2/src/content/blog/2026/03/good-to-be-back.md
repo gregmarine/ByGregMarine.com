@@ -5,8 +5,6 @@ date: 2026-03-17T00:00:00Z
 tags: []
 ---
 
-### 2026/03/17
-
 I'm thinking about cutting my own hair this time. I haven't done that in ages. With the exception of those 4 years of shaving my head, the last time I tried to cut my own hair was back in 2001. Even when I started shaving my head, I had someone else get it down to where I could start shaving. This will be a fun experiment. I decided I wanted to try it because I'm finding it difficult to make time to go to get it cut by a professional. The most convenient times for me never seem to align with my motivation to go get it cut. Doing it myself at home means I can do it whenever I feel like it. I'm sensing this Saturday...wish me luck!
 
 I'm having "trouble" landing on this week's art piece for the Bible study. I had this "trouble" a few pieces ago when I had several ideas. It finally landed then. It will land again this week. Once again, I have several ideas of what it could be. If I were doing this for a living, I could do all of my ideas and just throw the other ideas into other collections. Alas, I don't have the time needed to complete all of the ideas I've been having lately. So, I'm sticking to one a week for now. With a few other projects sprinkled in that aren't related to any of this.

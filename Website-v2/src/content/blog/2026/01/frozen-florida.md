@@ -6,8 +6,6 @@ tags: []
 cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775933309/bygregmarine/blog/2026/01/20260131_01.jpg"
 ---
 
-### 2026/01/31
-
 ## 7:50a
 
 I'm going to try a timestamp entry today. I miss doing these... hehehe I've had a great week at work and personally. It was productive and I took some moments to rest when I needed. After the week of headaches, including that migraine day, I'm grateful this week went well. I finished this weeks piece, "Prayer", last night. I tried some old and new things with this one. I love how it turned out. I wanted to go to Disney today. But the forecast turned me off to the idea. Then I thought how much fun I could have taking my newest Olaf on a Frozen adventure. So I may spend a little time there this weekend... or maybe not... LOL

@@ -6,8 +6,6 @@ tags: []
 cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775933306/bygregmarine/blog/2026/01/20260113_01.jpg"
 ---
 
-### 2026/01/13
-
 Although I haven't posted a blog entry daily this year, I continue to journal. So...YAY! I sat down a few days ago to blog and just didn't feel it. I hoped to post an entry daily this year. But the main goal was to journal daily. And that is still going strong. I'm developing a habit of documenting how I am experience each day. Not all of that would translate to a blog post. There are a lot of written prayers. Some basic notes. A list of scripture references I encounter each day. And some random musings. But there are certainly days when nothing is *worth* posting here. So, there you have it...hehehe
 
 I use an AI agent to help me stay organized with my journal. Even if I handwrite something, I feed it to the agent to further explore things. Or to simply keep the record of my thoughts in one manageable place for further exploration in the future. Today, I tried to have it "Prep my blog" from what I had written throughout the day. What it spit out wasn't good enough to just dump here...LOL Very little of what I wrote today was translatable to this medium...LOL

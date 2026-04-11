@@ -6,8 +6,6 @@ tags: []
 cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775933017/bygregmarine/blog/2025/12/20251212_01.jpg"
 ---
 
-### 2025/12/12
-
 I had a very productive day at work. That's unusual for a Friday actually. It's usually *busy work* to finish the week and prepare for the next week. Today felt more like a Tuesday... LOL That's a good thing. But enough about work... LOL I'm on vacation! At Disney World!
 
 A Magical FriYAY to start a Magical Weekend. I arrived at the hotel around 7:45pm I believe. The Drury Plaza Hotel is easy to get to and gives access to the *Disney Bubble*. It's not cheap. But still less than what Disney charges. I love this hotel already and my room is amazing! I think I'll just move in... LOL I kid, of course... hehehe

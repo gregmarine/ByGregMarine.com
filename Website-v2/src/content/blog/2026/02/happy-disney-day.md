@@ -5,8 +5,6 @@ date: 2026-02-09T00:00:00Z
 tags: []
 ---
 
-### 2026/02/09
-
 I haven't been consistent with posting on this blog lately. I hope to get that rhythm back soon. Did I mention this already? LOL
 
 I had a "fight" with my AI journal partner the other day. So I haven't been using that these last few days. It happened on Saturday. It was the first time I deviated from my normal journal process. I spent most of the day at Disney World. So rather than writing all day, I wanted it to just keep track of everything I did that day so I could see a list at the end of the day with timestamps. At the end of the day, it could not give me an accurate list. It had things all jumbled up. So I attempted to have it just export everything verbatim so I could sort it out later. It couldn't even do that. I kept telling it that it wasn't giving me what I asked... LOL I finally gave up on it. It was an experiment that failed. But worth a try and reevaluation for another try later. For now, I'm continuing my journaling process without my AI partner.

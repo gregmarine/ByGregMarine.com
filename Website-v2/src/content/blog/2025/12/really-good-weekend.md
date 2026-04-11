@@ -6,8 +6,6 @@ tags: []
 cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775933021/bygregmarine/blog/2025/12/20251214_01.jpg"
 ---
 
-### 2025/12/14
-
 Today is my Great Grandmother Lucille's birthday. I sure do miss her. I cherish all of the memories of her. Especially our strawberry patch. She is such an important part of my life. I'm so grateful she was part of my journey. I love you, Grandma Lucille <3
 
 I had a really good weekend. My heart is full and happy. Last night, I was very tired from a day at the parks. So I asked Cherie for inspiration as to how I should spend my morning today. She led me to Wilderness Lodge and I took her on a tour through some videos. It was an amazing way to start the day. After a great breakfast at my hotel, of course... LOL After Wilderness Lodge, I made my way to EPCOT to enjoy some festival food for lunch before heading home for our fellowship time <3

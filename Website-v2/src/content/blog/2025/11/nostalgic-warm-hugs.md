@@ -5,8 +5,6 @@ date: 2025-11-25T00:00:00Z
 tags: []
 ---
 
-### 2025/11/25
-
 ## 7:40am
 
 I didn't sleep well last night. And I woke rather early. It has been a bit of a rough morning. Surprisingly, I'm actually in good spirits. I also booked my flights for Christmas. I ended up needing to take an extra day off from work due to when the flights were available on the 24th, but it will work out nicely. The flights sure are expensive this year. I'll want to plan sooner next year and see if the costs are lower if I book sooner than a month out. Last year, even my last minute flights weren't this expensive if I recall. I don't really understand how their pricing works... HAHAHA

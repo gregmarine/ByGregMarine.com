@@ -6,8 +6,6 @@ tags: []
 cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775933014/bygregmarine/blog/2025/12/20251202_01.jpg"
 ---
 
-### 2025/12/02
-
 I'm not sure why, but I'm getting really good sleep this week. Even when the heat went out the other night, I slept right through the chill. This is the best I've slept on one of these trips in the nearly four years I've been visiting. That's making me a happy snowman... hehehe
 
 Speaking of happy snowman, I'm enjoying the snow. I'm a bit surprised... LOL The weather here is one of the reasons I chose Florida... LOL I wanted to get away from the cold and snow. I've always enjoyed snow in photos. But experiencing it wasn't always the greatest. I suppose moving away gave me an appreciation for it. That said, I still do not want to build a snowman. I'll stick to my Olaf hat... LOL 

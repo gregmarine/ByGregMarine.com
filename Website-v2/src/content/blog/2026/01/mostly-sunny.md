@@ -5,8 +5,6 @@ date: 2026-01-01T00:00:00Z
 tags: []
 ---
 
-### 2026/01/01
-
 I've had a really good start to the new year. I've been journaling throughout the day using my new technique that I've been working on. I'll be tweaking it along the way. It felt really good to be journaling this way today. Some of what I journaled will inspire parts of this blog entry.
 
 One of the first things I do is identify my *internal weather*. That's basically how I feel using terms typically associated with weather. For me today, it started out as *mostly sunny*. I was feeling the *warm of the sun* while seeing some *scattered clouds* hanging about. I also had an energy level of 6 out of 10. Both of these were impacted by my late night with New Year's Eve last night. Although I slept well, I only slept about 4 and half hours at most. I tried to sleep longer. But the actual sun was quite bright today...LOL As usual, I woke with a little anxiety...aka, some clouds. But overall, I was in good spirits this morning...aka, mostly sunny...hehehe

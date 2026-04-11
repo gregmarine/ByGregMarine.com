@@ -5,8 +5,6 @@ date: 2025-12-04T00:00:00Z
 tags: []
 ---
 
-### 2025/12/04
-
 I didn't sleep well last night. That's a first for this trip. As I reviewed possible causes, I realized I may not have taken any of my supplements last night. Oops! I rarely do that. But when I do, I have noticed a decline in sleep quality. There might be a connection. I hope to remember them tonight... hehehe
 
 The sun came out in full force today! That really boosted my mood! With the way I slept last night, I'm really glad to see the sun today... hehehe I opened the blinds of the bedroom window where I'm working so the sunshine could fill the room; and warm my heart. That gave me the further opportunity to watch the squirrels frolicking about in the snow and trees... hehehe

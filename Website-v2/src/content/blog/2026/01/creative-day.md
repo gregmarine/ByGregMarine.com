@@ -5,8 +5,6 @@ date: 2026-01-03T00:00:00Z
 tags: []
 ---
 
-### 2026/01/03
-
 Unlike the title of this entry, I had quite the creative day...hehehe And I did a lot of writing in my journal. I have 11 pages in my journal, actually. Along with a full transcript of my conversation with my journal partner AI agent...LOL I'm on the fourth version of my little buddy...hehehe That has been a great way to focus lately. I'm going to continue using it for a while and tweak it as needed.
 
 Anyway, I managed to work a little on my latest poem again today. I worked through the 5th stanza. I'll likely finish the 6th stanza tomorrow. Originally, the 6th was going to be the last. But I am thinking about 2 more. I'll see what I think about that once I'm finished with the 6th. I wanted to do it in 3 parts with 2 stanzas each. But as I've been working through this 3rd part, I've been pondering a 4th part. As I often say, we shall see...hehehe

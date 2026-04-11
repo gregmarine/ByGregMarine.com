@@ -5,8 +5,6 @@ date: 2026-04-01T00:00:00Z
 tags: []
 ---
 
-### 2026/04/01
-
 The week is going well overall. I'm enjoying time with family. I'm spending more time in a hotel than expected. But I enjoy that too. I've been on some adventures. I've worked with AI on the new website. And I had an unfortunately event as well. But my heart remains happy on this trip.
 
 The other day I pondered the thought that it might have been my last post using the old technique for maintaining this blog and website. I was wrong. I'm typing this up the old way still. The new site isn't quite ready yet. But I am making progress with it. I've had a few disagreements with the AI. But I'm starting to see that it isn't the AI that I'm fighting. It's my understanding of things. I hope to *land that plane* soon and get the new website up and going. Since I'm traveling, I've had less time to focus on that. So perhaps that will be finished next week.

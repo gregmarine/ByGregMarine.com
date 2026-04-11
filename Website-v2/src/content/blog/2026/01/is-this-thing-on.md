@@ -5,8 +5,6 @@ date: 2026-01-26T00:00:00Z
 tags: []
 ---
 
-### 2026/01/26
-
 I have not forgotten I have a blog...hehehe I just haven't been blog-a-logging into this space as of late...LOL I continue to tap into my writing vibe via my journal. I just haven't quite found a flow that brings me to this blog much yet. One of the reasons I started this blog was to journal and get thoughts out of my head. Well, now that I'm doing that daily in a more personal space, I sort of forget about getting in here at the end of the day. I'll get this rhythm back, I think. Too much has happened in the last week to go into today. So I'll keep this light and hope that I truly do get back into a blogging rhythm again soon.
 
 Cherie and I made our January recipe. The Teriyaki Chicken Ramen was really good. We both made it on Saturday and enjoyed the experience. I made it again tonight and made a few tweaks based on my experience Saturday. Today's turned out even better. It is definitely on my list to make again and again.

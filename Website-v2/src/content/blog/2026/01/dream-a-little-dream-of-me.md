@@ -5,8 +5,6 @@ date: 2026-01-09T00:00:00Z
 tags: []
 ---
 
-### 2026/01/09
-
 ## Yearbook
 
 I had a dream last night about something which dates back 30 years. My brother was quite active in school. In his senior yearbook, he is literally on every page that wasn't student and faculty portraits. He was an editor for the yearbook that year and protested his being on every activities page, but his co-editor insisted. What this shows is that he truly lived that year and didn't waste a moment. He continues to live that way today.

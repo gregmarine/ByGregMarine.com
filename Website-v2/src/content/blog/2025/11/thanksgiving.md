@@ -5,8 +5,6 @@ date: 2025-11-27T00:00:00Z
 tags: []
 ---
 
-### 2025/11/27
-
 ## 8:55am
 I'm going to try and journal today as I travel. You know, on my breaks. I can also use voice recordings for notes to draw from as I have thoughts while driving. I'm finished getting ready and I've had my toast. The coffee is almost done and the checklist is looking good. I should be on my way shortly, I slept well last night and feel well rested for my travels today. Bingford is all excited... HAHA! He has loved going on adventures and sharing them with his family back in California.
 
