@@ -53,7 +53,7 @@ Only God and ourselves know what the condition our hearts are in. That really is
 
 ## Great Expectations Revisited
 
-About 2 and half months ago, I wrote [Great Expectations](../04/great-expectations) where I contemplated the correlation between expectations and how I respond to my world. The above poem got me thinking about that again. And then I saw a meme today that read:
+About 2 and half months ago, I wrote [Great Expectations](/blog/2024/04/great-expectations) where I contemplated the correlation between expectations and how I respond to my world. The above poem got me thinking about that again. And then I saw a meme today that read:
 
 > Someone asked me\
 > "Who hurt you?"

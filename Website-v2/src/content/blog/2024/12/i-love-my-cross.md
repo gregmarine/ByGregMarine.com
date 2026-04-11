@@ -92,7 +92,7 @@ I'll be writing up about my day from yesterday in another journal entry. I'll tr
 
 ## 10:00pm
 
-I just finished writing up a summary of my day yesterday. You can read it [here](./disney-christmas). At the end, I made note of having captured some videos to send to share my day. I'm glad I did that. It gives me something to go back to for reliving the day. It also got me thinking about how I'd like to start doing a video journal with a montage of those videos. Something I'll probably start doing in 2025. I can then link to the videos from this journal as I make them.
+I just finished writing up a summary of my day yesterday. You can read it [here](/blog/2024/12/disney-christmas). At the end, I made note of having captured some videos to send to share my day. I'm glad I did that. It gives me something to go back to for reliving the day. It also got me thinking about how I'd like to start doing a video journal with a montage of those videos. Something I'll probably start doing in 2025. I can then link to the videos from this journal as I make them.
 
 Between the two entries, I wrote a lot today...LOL I also wrote a lot in my Bible study notes. And I think I'll do some work on the short story, *Strawberry Patch*, for *The Porch*. Wow! HAHAHA
 

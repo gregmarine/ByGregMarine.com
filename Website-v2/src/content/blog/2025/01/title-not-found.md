@@ -16,10 +16,10 @@ So, what I have learned in the last 4 days? Once again, the author mentions the 
 
 Here is a recap of the last 4 prayer focuses:
 
-1. [Forgiveness of others](./please-forgive-me#_21-days-of-prayer-and-fasting)
-2. [Giving ourselves to God](./gregilocks-and-the-3-in-1#_21-days-of-prayer-and-fasting)
-3. [Thanking God for hearing us](./half-way-there#_21-days-of-prayer-and-fasting)
-4. [Help us to know we are sent and that others will know we are sent](./sent#_21-days-of-prayer-and-fasting)
+1. [Forgiveness of others](/blog/2025/01/please-forgive-me#_21-days-of-prayer-and-fasting)
+2. [Giving ourselves to God](/blog/2025/01/gregilocks-and-the-3-in-1#_21-days-of-prayer-and-fasting)
+3. [Thanking God for hearing us](/blog/2025/01/half-way-there#_21-days-of-prayer-and-fasting)
+4. [Help us to know we are sent and that others will know we are sent](/blog/2025/01/sent#_21-days-of-prayer-and-fasting)
 
 The fasting is helping me focus on asking, seeking, and knocking. I'm asking for God to guide me in some areas of my life this year that I feel are important to my relationship to Him and others. In my pursuit to love God with all my heart, soul, mind, and strength, and to love others as myself, I need all the help I can get...hehehe I'm seeking His Will in these matters so that I'll know which doors I need to be knocking on.
 

@@ -98,7 +98,7 @@ I would like to circle back to my thoughts on moments. There are still moments t
 
 I had a lot of those moments this year. I've written about many of them in this journal. I did fail to write down some of them, though...hehehe I do hope to get better about that in 2025.
 
-I'm glad I wrote [Great Unexpectations](../11/great-unexpectations) a month ago. That better explains my thoughts on this topic. That entry was about expectations...or the unexpected. But the principles spelled out apply to moments.
+I'm glad I wrote [Great Unexpectations](/blog/2024/11/great-unexpectations) a month ago. That better explains my thoughts on this topic. That entry was about expectations...or the unexpected. But the principles spelled out apply to moments.
 
 My cod dinner was lovely. I didn't take any photos or post about it. But I really enjoyed it. I don't always feel the need to share my food experiments. Some nights I just want to eat...LOL Tonight was one of those nights. I air fried the cod and seasoned it with salt, pepper, garlic powder, onion powder, and cayenne pepper. I poured a little garlic rice vinegar over it after it was done cooking. I used the same seasonings for the veggie fried rice. But instead of the garlic rice vinegar, I used coco aminos. I crowned both with the kraut...hehehe
 

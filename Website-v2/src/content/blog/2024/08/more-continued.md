@@ -10,7 +10,7 @@ Wow! I've really been slacking on my journal this month...LOL As I always say, t
 
 ## Sleep Schedule
 
-This really wasn't planned, but it would seem my sleep time is shifting again. I had gotten use to going to sleep around 1:30am and waking around 7:30am. Gradually, it seems I have shifted closer to midnight now. Of course, that means I'm waking around 6-6:30am instead. So, about the same amount of sleep...just slightly different timing. Again, this wasn't really planned. It just sort of started happening. I have found it important to *listen to my body* when it comes to sleep, food, and hygiene (note the change in soap [last month](../07/new-soap-connected-journeys-and-wrong-choices)). So, I'm glad to do what's best for my body when it comes to rest.
+This really wasn't planned, but it would seem my sleep time is shifting again. I had gotten use to going to sleep around 1:30am and waking around 7:30am. Gradually, it seems I have shifted closer to midnight now. Of course, that means I'm waking around 6-6:30am instead. So, about the same amount of sleep...just slightly different timing. Again, this wasn't really planned. It just sort of started happening. I have found it important to *listen to my body* when it comes to sleep, food, and hygiene (note the change in soap [last month](/blog/2024/07/new-soap-connected-journeys-and-wrong-choices)). So, I'm glad to do what's best for my body when it comes to rest.
 
 ## I'm Tired
 
@@ -64,7 +64,7 @@ Every so often I update my profile and banner photos. I finally got around to do
 
 ## Conclusion
 
-Today's entry is basically the continuation of the [More to Come](./more-to-come) from my last entry...hehehe I also included a few things I've been thinking about since the last entry. I'd love to get around to journaling about this adventure I'm currently on. I really should have been better at keeping up with my journal. I think it has a lot to do with how *tired* I've been...hehehe As always, that's okay. This place on the internet is mostly for me. I love it when someone reads along. But the point of this journal is to express myself in thoughts. Hence the title *So, I was thinking...*. It isn't so much of a *So, What Do You Think...* LOL
+Today's entry is basically the continuation of the [More to Come](/blog/2024/08/more-to-come) from my last entry...hehehe I also included a few things I've been thinking about since the last entry. I'd love to get around to journaling about this adventure I'm currently on. I really should have been better at keeping up with my journal. I think it has a lot to do with how *tired* I've been...hehehe As always, that's okay. This place on the internet is mostly for me. I love it when someone reads along. But the point of this journal is to express myself in thoughts. Hence the title *So, I was thinking...*. It isn't so much of a *So, What Do You Think...* LOL
 
 That said, I'm wide open for other's thoughts. I love to hear from different perspectives. Privately, of course. I don't have a comment section on here and I don't always respond to replies to social media posts publicly. That's because I am a one-on-one sort of person. I can stand before a crowd and speak without any issue. But a dialog...that's a different story. That I mostly reserve for the *safe space* of private conversation.
 
