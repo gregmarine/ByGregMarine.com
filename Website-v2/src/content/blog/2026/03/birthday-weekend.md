@@ -1,0 +1,26 @@
+---
+title: "Birthday Weekend"
+description: ""
+date: 2026-03-22T00:00:00Z
+tags: []
+---
+
+### 2026/03/22
+
+Well, I have officially crossed over to 48. So, I'm starting out my 49th journey around the sun. I'm grateful for this personal new year to begin. And so far, it is off to a great start.
+
+On the actually day, I spent the day at EPCOT with my brother and his daughter. I dressed in my dapper bounding Figment outfit. My brother's favorite character is Figment. We didn't plan this, but he was also adorned with Figment attire. His was more theme park casual, though. It was great that we matched. It got a lot of attention, of course.
+
+I don't dress the way I do for attention. I do it because I love it and it's an expression of an important part of me. It's fun and it helps bring out the fun side of me. But I am also grateful that it is fun for everyone else. My brother told me that he thinks I bring an important vibe to the theme park experience. Although several people commented on my outfit, he told me that there are countless others who do not comment that still appreciate the joy of a person dressed dapper. Especially the dapper bounding I'm starting to do. And not to mention how animated I am when I dress that way on as beautiful a day as that was. I'm so glad he said something. As my sister said yesterday, coming from our brother, that is an amazing compliment. He is an outgoing spirit and for him to say something to me about what I'm doing truly means something. I am not always an outgoing spirit. But I do have that in me. These dapper days are a way for that part of me to come out and play.
+
+I received another compliment at the end of the day that stands out. Someone came up to me to comment on my attire and told me that I must have a creative spirit. They were impressed with how creative my dapper bounding Figment was. She asked if I was a creative for a living. I said no, but that I do creative work as a hobby. She asked about that and I told her that I write and do art. It was a Blessing to talk about that.
+
+Yesterday, I spent the day with my sister. I'm so glad we were able to get together. She was working on Friday and couldn't join us. It is great that she was available yesterday. I was at the car shop getting my car ready for my upcoming trip to Indiana. I texted her to see if she wanted to hang out. So, after my car was ready, I headed down to her. We walked all over her town and browsed the shops. We had a snack type lunch and some ice cream (a tradition of ours). We walked along the water's edge as well. It was a very Blessed day.
+
+This is one of my best birthdays. I've had such a great weekend that I almost wanted to do something else today. But I decided to stick around home after all. It's always good to rest. And I'll be traveling next week anyway. This is a busy Spring and I have learned the importance of rest. Even if I can keep going for long stretches, rest helps make everything more enjoyable.
+
+Work has been going well lately. My routine experiments are going really well. The word *routine* makes it sound like things are set. But what I've been doing has actually helped make things more flexible and less disruptive when something doesn't go according to *plan*. I have found that it works best during the work week, though. Weekends and special occasions, such as this past Friday, my routines method does not work. But that's okay. On Friday, I still made a log of what all we did that day. I know I left some things off the list. But in general, I think I captured the day. I didn't end up using that list to write up a full blog post. I'm just glad I wrote down stuff. I didn't do that yesterday, though. I haven't found the best way to capture the spontaneity of days like that. I suppose not everything needs to be remembered perfectly...LOL (I wish it could...LOL) My private journal entry for today doesn't have much either. Instead, I've focused on writing this blog entry. But I did go to the grocery. And I had my call with Cherie.
+
+This past week's art piece, "God's Word", turned out quite a bit different than I imagined it would. It probably came out way better, actually. I did 5 sketches for it. Each one was completely different. The sketch I went with in turn went a slightly different direction than I anticipated. Sometimes these things have a *mind of their own*. When I get in a creative flow, things often go on a journey of discovery. This piece is one such journey. But I've saved all of the sketches in case I end up going on those other *journeys* someday as well. I didn't notice it at first, but Cherie pointed out how the digital painting has a paper look to it. She asked if I had done in on paper and I told her that it was 100% digital. I'm encouraged that some of my work has a more natural look and feel than what typically comes from digital artwork. I'm really happy with how it looks on my wall frame too.
+
+I struggled to write this blog entry from a technical perspective. I REALLY need to solve this. I want to be able to just work on content without fighting the development environment I built over 2 years ago...LOL I thought it was a great idea at the time. It has not shown itself to have actually been a great idea...LOL I'm still grateful to be able to write and publish using this system, though. At least it's something...

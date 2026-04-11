@@ -1,9 +1,11 @@
 ---
 title: "Marching Onward"
-date: 2026-03-13
-tags: ["deep thought", "random thought", "Test Tag"]
-description: "After an unplanned hiatus from writing, I'm marching onward."
+description: ""
+date: 2026-03-13T00:00:00Z
+tags: []
 ---
+
+### 2026/03/13
 
 It has been a really good week. I was very productive at work. I enjoyed another week of Bible study. This week's art project is one of my favorites. I've been on walks most days. And I've been able to get plenty of rest as well. The year started off pretty rough for me. But March has been quite different. These past few weeks have been lovely <3
 
