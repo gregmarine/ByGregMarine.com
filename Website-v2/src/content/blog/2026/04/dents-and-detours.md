@@ -1,8 +1,6 @@
 ---
 title: Dents and Detours
-description: A trip full of family, adventure, and unexpected detours —
-  including a hit and run, a surprise hike with Malachi, and a grateful heart
-  through all of it.
+description: ""
 date: 2026-04-01T00:00:00.000Z
 tags: []
 ---
