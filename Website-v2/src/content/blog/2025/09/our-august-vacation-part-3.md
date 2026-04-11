@@ -5,7 +5,7 @@ date: 2025-09-04T00:00:00Z
 tags: []
 ---
 
-After a few weeks break from writing about our vacation, I'm back with part 3. Parts [1](../08/19_our-august-vacation-part-1) & [2](../08/21_our-august-vacation-part-2) were all about *my* arrival and those moments before Cherie's arrival. Now it's time to start talking about the shared experiences! Yay!!!
+After a few weeks break from writing about our vacation, I'm back with part 3. Parts [1](../08/our-august-vacation-part-1) & [2](../08/our-august-vacation-part-2) were all about *my* arrival and those moments before Cherie's arrival. Now it's time to start talking about the shared experiences! Yay!!!
 
 Just before Cherie began her journey to Orange County, she shared her location through our Apple accounts so I could track her progress. I love technology like this. I also shared my location with her. She arrived around 3:25pm. I, of course, video recorded her train's arrival. I wasn't sure which area of the train she would be getting off of. So I sort of stayed near the front since I knew she'd pass that way regardless. I think she was coming from the bike car about half way back. She spotted me first and was waving in excitement. It made my heart so happy to see her again.
 
@@ -31,6 +31,6 @@ Cherie, thank you so much for that night. Every moment made my heart so happy. N
 
 But that's not all! That was just day 1 of our vacation together. Stay tuned for more amazing moments!
 
-[Part 2](../08/21_our-august-vacation-part-2)
+[Part 2](../08/our-august-vacation-part-2)
 
-[Part 4](./08_our-august-vacation-part-4)
+[Part 4](./our-august-vacation-part-4)

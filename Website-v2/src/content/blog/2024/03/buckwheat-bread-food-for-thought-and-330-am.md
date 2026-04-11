@@ -56,7 +56,7 @@ Living *in the moment* can be a good thing most of the time. But I also need to 
 
 ## Food for Thought
 
-A few days ago, I wrote some [Food for Thought](./23_new-grocer-food-for-thought-dog-toys-and-frozen.md#food-for-thought). At the time, I had some pondering questions about attachment of people, places, or things to certain emotions I experience ranging from anxiety and doubts to joy and excitement. In my thinking that day, I proposed some attachments might be beneficial and wondered if some might be harmful.
+A few days ago, I wrote some [Food for Thought](./new-grocer-food-for-thought-dog-toys-and-frozen#food-for-thought). At the time, I had some pondering questions about attachment of people, places, or things to certain emotions I experience ranging from anxiety and doubts to joy and excitement. In my thinking that day, I proposed some attachments might be beneficial and wondered if some might be harmful.
 
 To continue feeding my thoughts, I meditated on this a bit more while I was driving to the Florida Botanical Gardens yesterday. As a part of that *meditation* I also talked quite a bit with myself...hehehe Yep, I talk out loud when I'm alone. It helps me process things. But the best way for me to process is to write...hehehe
 

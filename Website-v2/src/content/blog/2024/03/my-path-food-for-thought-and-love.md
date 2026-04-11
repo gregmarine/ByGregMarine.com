@@ -25,7 +25,7 @@ As a side note, I've always had trouble with the *love your neighbor as yourself
 
 ## Food for Thought
 
-In my last [Food for Thought](./25_buckwheat-bread-food-for-thought-and-330-am#food-for-thought) reflection, I explored a possible healthy attachment I had between my paternal grandfather and coffee. I also decided my next exploration on the topic of attaching people, places, and things to certain emotions would likely be about a not so healthy attachment.
+In my last [Food for Thought](./buckwheat-bread-food-for-thought-and-330-am#food-for-thought) reflection, I explored a possible healthy attachment I had between my paternal grandfather and coffee. I also decided my next exploration on the topic of attaching people, places, and things to certain emotions would likely be about a not so healthy attachment.
 
 When I would visit Indiana after my move to Florida, I typically dreaded the journey. One of the many reasons for leaving Indiana was due to how all of the trauma I experienced occurred in the mid-west. It isn't the *mid-west* specifically. Just that it all happened to take place up there. The mid-west is actually a beautiful place to live and visit. However, there are a lot of people, places, and things up there I just don't want to see anymore!
 

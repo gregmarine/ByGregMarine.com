@@ -5,7 +5,7 @@ date: 2025-11-11T00:00:00Z
 tags: []
 ---
 
-Wow! It sure has been a long time since I wrote [part 5 of Our August Vacation](../09/16_our-august-vacation-part-5)...LOL Sure, a lot has been going on since I last wrote about it. But I really should have continued writing this much soon. Especially considering our November Vacation is in a few days...LOL
+Wow! It sure has been a long time since I wrote [part 5 of Our August Vacation](../09/our-august-vacation-part-5)...LOL Sure, a lot has been going on since I last wrote about it. But I really should have continued writing this much soon. Especially considering our November Vacation is in a few days...LOL
 
 On our final day together, we had quite the cherendipitous day. That's why I wanted to still write about it after all this time. It was special and very much an important part of our vacation. Just as we did the day before, we started our day off with breakfast at Ayres. And also like the day before, we took communion together. We spent a little more time at breakfast this day because we didn't need to be in any sort of rush. We weren't going to the parks and it was Cherie's checkout day. It was bittersweet. So we stayed in the moment for as long as we could...hehehe
 
@@ -31,4 +31,4 @@ I still have more to write about my journey home. But I'll save that for part 7.
 
 It is always bittersweet to say goodbye. Especially after such an amazing vacation together. It's always hard to say goodbye, but it is never truly *goodbye*. It's actually *see you real soon*. We have an amazing, and true, friendship. I'm so very grateful God has blessed us with the friendship and fellowship we share. She is truly my deerest friend. Thank You, Father, for Cherie. And thank you, Cherie, for being my best friend <3
 
-[Part 5](../09/16_our-august-vacation-part-5)
+[Part 5](../09/our-august-vacation-part-5)

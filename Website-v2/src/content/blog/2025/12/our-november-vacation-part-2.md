@@ -21,7 +21,7 @@ There was another lengthy line at the tram. But it didn't really take too long. 
 
 We had decided our first park would be DCA this time. So we headed over there from the tram. Oh! Look! Another long line...LOL Yep, it was a busy morning...hehehe And *cher.thing*, they welcomed "Sherry" and Greg to Disney...hehehe I wish they didn't assume how to pronounce her name as "Sherry". I mean, I do get it. But still... I'm sorry deer friend :(
 
-It wasn't raining when we got into the park. But I saw that the rain was getting close. So we headed toward our spot for the famous selfie video and photo op! On our way, we spotted Grizzly Peak...the mountain! You may recall in [Part 1](../11/25_our-november-vacation-part-1) that I saw a painting with it and thought it didn't exist...LOL I was so happy to see it <3
+It wasn't raining when we got into the park. But I saw that the rain was getting close. So we headed toward our spot for the famous selfie video and photo op! On our way, we spotted Grizzly Peak...the mountain! You may recall in [Part 1](../11/our-november-vacation-part-1) that I saw a painting with it and thought it didn't exist...LOL I was so happy to see it <3
 
 We setup the cameras to get our shot and we did our thing! Then it began to rain. So we ended up grabbing our umbrellas and danced in the rain. It was so much fun. We got a lot of footage from that. She has already grabbed some photos from it. I haven't done that myself yet. But I have watched the video...hehehe I love that we do that. We still need to find a spot at Disneyland to do this...LOL
 

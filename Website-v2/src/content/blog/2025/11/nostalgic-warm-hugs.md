@@ -45,7 +45,7 @@ Grandpa would have been 95 today. He passed a little over 6 years ago. He was 88
 
 ## 8:00pm
 
-I did it! Yay! I wrote [part 1 of our November vacation](./25_our-november-vacation-part-1)! You should see it posted tonight. Unlike these journal entries, I didn't write it by hand. My notes from the vacation are written by hand. But I typed up the entry using my writer deck setup. I hope to have part 2 coming soon. I'll be taking my entire setup with me to Indiana. I'll be taking time to write and do art up there. Trust me, I'll need it LOL j/k Actually, I do want to show my family how I do some of these things. Driving affords me this opportunity.
+I did it! Yay! I wrote [part 1 of our November vacation](./our-november-vacation-part-1)! You should see it posted tonight. Unlike these journal entries, I didn't write it by hand. My notes from the vacation are written by hand. But I typed up the entry using my writer deck setup. I hope to have part 2 coming soon. I'll be taking my entire setup with me to Indiana. I'll be taking time to write and do art up there. Trust me, I'll need it LOL j/k Actually, I do want to show my family how I do some of these things. Driving affords me this opportunity.
 
 ## 9:55pm
 
@@ -53,4 +53,4 @@ Nostalgia is hitting hard again. And I love it! It's like a warm hug for my soul
 
 ## 10:30pm
 
-You can read [Our November Vacation Part 1 here](./25_our-november-vacation-part-1)
+You can read [Our November Vacation Part 1 here](./our-november-vacation-part-1)

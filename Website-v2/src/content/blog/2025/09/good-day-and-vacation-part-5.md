@@ -49,4 +49,4 @@ Also, I may still post a view of the videos I made for my writing workflow here 
 
 ## Double Header
 
-As mentioned above, today is a double header, with [Our August Vacation - Part 5](./16_our-august-vacation-part-5)
+As mentioned above, today is a double header, with [Our August Vacation - Part 5](./our-august-vacation-part-5)

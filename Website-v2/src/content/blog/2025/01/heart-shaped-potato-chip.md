@@ -12,13 +12,13 @@ Today, I begin the middle week of this season. I'm excited for how last week wen
 
 That said, today, there isn't a prayer focus beyond the 7 focuses I've already be through the past week. Today is more of a reflection break as I meditate on all I've been learning about the prayers of Jesus so far. Here is a recap of the 7 prayer focuses I've had this past week:
 
-1. [Praying anywhere and everywhere](./05_dawn#_21-days-of-prayer-and-fasting)
-2. [Blessing others, even those who have harmed or wronged us](./06_blessings#_21-days-of-prayer-and-fasting)
-3. [Thanking God for revealing Himself](./07_god-revealed-in-the-journey#_21-days-of-prayer-and-fasting)
-4. [Prayer for God's Will](./08_gods-will-be-done#_21-days-of-prayer-and-fasting)
-5. [Asking God to not forsake us, that we always recognize His presence](./09_lighthouse#_21-days-of-prayer-and-fasting)
-6. [Asking God to help our faith to not fail](./10_faith-dont-fail-me-now#_21-days-of-prayer-and-fasting)
-7. [Asking God to help us strengthen our sisters and brother in Christ](./11_strengthen-me-to-strengthen-others#_21-days-of-prayer-and-fasting)
+1. [Praying anywhere and everywhere](./dawn#_21-days-of-prayer-and-fasting)
+2. [Blessing others, even those who have harmed or wronged us](./blessings#_21-days-of-prayer-and-fasting)
+3. [Thanking God for revealing Himself](./god-revealed-in-the-journey#_21-days-of-prayer-and-fasting)
+4. [Prayer for God's Will](./gods-will-be-done#_21-days-of-prayer-and-fasting)
+5. [Asking God to not forsake us, that we always recognize His presence](./lighthouse#_21-days-of-prayer-and-fasting)
+6. [Asking God to help our faith to not fail](./faith-dont-fail-me-now#_21-days-of-prayer-and-fasting)
+7. [Asking God to help us strengthen our sisters and brother in Christ](./strengthen-me-to-strengthen-others#_21-days-of-prayer-and-fasting)
 
 The author of the devotional where I'm learning these things suggests that it is important to follow and move on to each as I'm ready. It seems he should have mentioned that in the foreword instead of on this reflection break...hehehe But that's okay. For me, I was ready each day. I built upon the previous day each time. That's probably why yesterday's morning prayer walk was my favorite of all time. I went through all 7 on that walk.
 
