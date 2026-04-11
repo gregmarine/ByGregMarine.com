@@ -1,8 +1,8 @@
 ---
 title: "Trusting God"
-date: 2025-12-31
-tags: ["God", "Grateful"]
-description: "I'm grateful for 2025."
+description: ""
+date: 2025-12-31T00:00:00Z
+tags: []
 ---
 
 Well, hello there! It has been a while, hasn't it? HAHAHA I was doing well keeping up with this blog for the first 3 weeks of December. And then *crickets*...*chirp chirp chirp* LOL I actually did a lot of journaling over the past week. I just didn't turn any of it into something post-able...hehehe I've been working on a method to journal daily so I could take that into the new year and journal every day. I may try it and see how that goes. But I still don't know if I'll keep up with it daily. I definitely don't want it to become a chore...hehehe
