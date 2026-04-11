@@ -7,6 +7,8 @@ import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import rehypeExternalLinks from 'rehype-external-links';
 import remarkSmartypants from 'remark-smartypants';
 import remarkBreaks from 'remark-breaks';
+import remarkToc from 'remark-toc';
+import rehypeFigure from 'rehype-figure';
 
 /** @param {any} node */
 function visitImgNodes(node) {
@@ -37,10 +39,12 @@ export default defineConfig({
     remarkPlugins: [
       remarkSmartypants,
       remarkBreaks,
+      remarkToc,
     ],
     rehypePlugins: [
       rehypeCloudinaryAuto,
       rehypeSlug,
+      rehypeFigure,
       [rehypeAutolinkHeadings, { behavior: 'wrap' }],
       [rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }],
     ],
