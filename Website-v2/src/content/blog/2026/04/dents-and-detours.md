@@ -1,7 +1,7 @@
 ---
-title: "Dents and Detours"
+title: Dents and Detours
 description: ""
-date: 2026-04-01T00:00:00Z
+date: 2026-04-01T00:00:00.000Z
 tags: []
 ---
 
