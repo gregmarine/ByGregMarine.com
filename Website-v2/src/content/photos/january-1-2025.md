@@ -8,6 +8,7 @@ tags:
   - Beginnings
   - Flowers
   - Nature
+  - Lake
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776005930/IMG_4726_fnnudd.jpg
     caption: Flower blooming in grass near a lake
