@@ -7,6 +7,7 @@ collection: Photo a Day 2025
 tags:
   - Eagle
   - Nature
+  - Lake
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776005926/IMG_4789_rbkmhg.jpg
     caption: Eagle taking flight
