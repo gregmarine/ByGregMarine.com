@@ -2,35 +2,34 @@
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import WritingsLayout from "../../../layouts/WritingsLayout.astro";
+import { collectionSlug } from "@/lib/collection";
 
 export async function getStaticPaths() {
   const allEntries = await getCollection("writings");
 
-  const buckets = new Map<string, CollectionEntry<"writings">[]>();
+  const buckets = new Map<string, { label: string; entries: CollectionEntry<"writings">[] }>();
   for (const entry of allEntries) {
     if (!entry.data.collection) continue;
-    const c = entry.data.collection;
-    if (!buckets.has(c)) buckets.set(c, []);
-    buckets.get(c)!.push(entry);
+    const slug = collectionSlug(entry.data.collection);
+    if (!buckets.has(slug)) buckets.set(slug, { label: entry.data.collection, entries: [] });
+    buckets.get(slug)!.entries.push(entry);
   }
 
-  return [...buckets.entries()].map(([collection, entries]) => ({
-    params: { collection },
+  return [...buckets.entries()].map(([slug, { label, entries }]) => ({
+    params: { collection: slug },
     props: {
-      collection,
+      label,
       entries: entries.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
     },
   }));
 }
 
 interface Props {
-  collection: string;
+  label: string;
   entries: CollectionEntry<"writings">[];
 }
 
-const { collection, entries } = Astro.props;
-
-const label = collection.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
+const { label, entries } = Astro.props;
 ---
 
 <WritingsLayout description={`Writings in the ${label} collection.`}>

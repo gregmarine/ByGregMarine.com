@@ -2,6 +2,7 @@
 import { getCollection, render, type CollectionEntry } from "astro:content";
 import ArtLayout from "../../layouts/ArtLayout.astro";
 import { cloudinaryAuto } from "@/lib/cloudinary";
+import { collectionSlug } from "@/lib/collection";
 
 export async function getStaticPaths() {
   const pieces = await getCollection("art");
@@ -32,7 +33,7 @@ const nextPost = scopedPieces.length > 1 ? (scopedPieces[index - 1] ?? null) : n
   date={piece.data.date}
   prevPost={prevPost}
   nextPost={nextPost}
-  currentCollection={piece.data.collection ?? "other"}
+  currentCollection={piece.data.collection ? collectionSlug(piece.data.collection) : "other"}
   collection={piece.data.collection ?? null}
 >
   <div class="not-prose space-y-6 mb-8">
