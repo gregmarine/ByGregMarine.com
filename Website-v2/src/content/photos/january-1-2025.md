@@ -5,7 +5,6 @@ date: 2025-01-01T11:30:00-05:00
 dateTaken: 2025-01-01T11:31:00-05:00
 collection: Photo a Day 2025
 tags:
-  - PhotoADay
   - Beginnings
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776005930/IMG_4726_fnnudd.jpg
