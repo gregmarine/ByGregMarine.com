@@ -4,6 +4,7 @@ import PhotosSidebar from "../components/photos/PhotosSidebar.astro";
 import PhotosPostNav from "../components/photos/PhotosPostNav.astro";
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
+import { collectionSlug } from "@/lib/collection";
 
 interface Props {
   title?: string;
@@ -41,12 +42,13 @@ const currentCollection = propCollection ?? urlCollection;
 // Build collections list for sidebar
 const allPhotos = await getCollection("photos");
 
-const collectionMap = new Map<string, number>();
+const collectionMap = new Map<string, { label: string; count: number }>();
 let otherCount = 0;
 for (const photo of allPhotos) {
   if (photo.data.collection) {
-    const c = photo.data.collection;
-    collectionMap.set(c, (collectionMap.get(c) ?? 0) + 1);
+    const slug = collectionSlug(photo.data.collection);
+    const existing = collectionMap.get(slug);
+    collectionMap.set(slug, { label: photo.data.collection, count: (existing?.count ?? 0) + 1 });
   } else {
     otherCount++;
   }
@@ -54,9 +56,9 @@ for (const photo of allPhotos) {
 
 const collections = [...collectionMap.entries()]
   .sort((a, b) => a[0].localeCompare(b[0]))
-  .map(([slug, count]) => ({
+  .map(([slug, { label, count }]) => ({
     slug,
-    label: slug.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" "),
+    label,
     count,
     href: `/photos/collection/${slug}`,
   }));

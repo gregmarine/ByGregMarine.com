@@ -3,35 +3,36 @@ import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import PhotosLayout from "../../../layouts/PhotosLayout.astro";
 import { cloudinaryAuto } from "@/lib/cloudinary";
+import { collectionSlug } from "@/lib/collection";
 
 export async function getStaticPaths() {
   const allPhotos = await getCollection("photos");
 
-  const buckets = new Map<string, CollectionEntry<"photos">[]>();
+  const buckets = new Map<string, { label: string; entries: CollectionEntry<"photos">[] }>();
   for (const photo of allPhotos) {
     if (!photo.data.collection) continue;
-    const c = photo.data.collection;
-    if (!buckets.has(c)) buckets.set(c, []);
-    buckets.get(c)!.push(photo);
+    const slug = collectionSlug(photo.data.collection);
+    if (!buckets.has(slug)) buckets.set(slug, { label: photo.data.collection, entries: [] });
+    buckets.get(slug)!.entries.push(photo);
   }
 
-  return [...buckets.entries()].map(([collection, photos]) => ({
-    params: { collection },
+  return [...buckets.entries()].map(([slug, { label, entries }]) => ({
+    params: { collection: slug },
     props: {
-      collection,
-      photos: photos.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+      collection: slug,
+      label,
+      photos: entries.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
     },
   }));
 }
 
 interface Props {
   collection: string;
+  label: string;
   photos: CollectionEntry<"photos">[];
 }
 
-const { collection, photos } = Astro.props;
-
-const label = collection.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
+const { label, photos } = Astro.props;
 ---
 
 <PhotosLayout description={`Photos in the ${label} collection.`}>

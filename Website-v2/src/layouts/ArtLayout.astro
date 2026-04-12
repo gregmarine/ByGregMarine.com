@@ -4,6 +4,7 @@ import ArtSidebar from "../components/art/ArtSidebar.astro";
 import ArtPostNav from "../components/art/ArtPostNav.astro";
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
+import { collectionSlug } from "@/lib/collection";
 
 interface Props {
   title?: string;
@@ -41,12 +42,13 @@ const currentCollection = propCollection ?? urlCollection;
 // Build collections list for sidebar
 const allPieces = await getCollection("art");
 
-const collectionMap = new Map<string, number>();
+const collectionMap = new Map<string, { label: string; count: number }>();
 let otherCount = 0;
 for (const piece of allPieces) {
   if (piece.data.collection) {
-    const c = piece.data.collection;
-    collectionMap.set(c, (collectionMap.get(c) ?? 0) + 1);
+    const slug = collectionSlug(piece.data.collection);
+    const existing = collectionMap.get(slug);
+    collectionMap.set(slug, { label: piece.data.collection, count: (existing?.count ?? 0) + 1 });
   } else {
     otherCount++;
   }
@@ -54,9 +56,9 @@ for (const piece of allPieces) {
 
 const collections = [...collectionMap.entries()]
   .sort((a, b) => a[0].localeCompare(b[0]))
-  .map(([slug, count]) => ({
+  .map(([slug, { label, count }]) => ({
     slug,
-    label: slug.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" "),
+    label,
     count,
     href: `/art/collection/${slug}`,
   }));
