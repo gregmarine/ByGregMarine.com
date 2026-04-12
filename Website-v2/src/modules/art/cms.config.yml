@@ -26,6 +26,7 @@
         - { label: Caption, name: caption, widget: string, required: false }
     - { label: Medium, name: medium, widget: string, required: false }
     - { label: Year Created, name: yearCreated, widget: number, required: false }
+    - { label: Collection, name: collection, widget: string, required: false, hint: "Optional. Group this piece under a named collection." }
     - { label: Body, name: body, widget: markdown, required: false }
 
 - name: art-settings
