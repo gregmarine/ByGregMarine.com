@@ -1,5 +1,5 @@
 ---
-title: New Blog, Who Dis?
+title: New Blog (software), Who Dis?
 description: The newest version of byGregMarine.com is now live!
 date: 2026-04-11T21:43:00-04:00
 tags:
