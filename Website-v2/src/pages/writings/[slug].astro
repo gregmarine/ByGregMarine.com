@@ -1,6 +1,7 @@
 ---
 import { getCollection, render, type CollectionEntry } from "astro:content";
 import WritingsLayout from "../../layouts/WritingsLayout.astro";
+import { collectionSlug } from "@/lib/collection";
 
 export async function getStaticPaths() {
   const entries = await getCollection("writings");
@@ -30,7 +31,7 @@ const nextPost = scopedEntries.length > 1 ? (scopedEntries[index - 1] ?? null) :
   date={entry.data.date}
   prevPost={prevPost}
   nextPost={nextPost}
-  currentCollection={entry.data.collection ?? "other"}
+  currentCollection={entry.data.collection ? collectionSlug(entry.data.collection) : "other"}
   collection={entry.data.collection ?? null}
 >
   <Content />

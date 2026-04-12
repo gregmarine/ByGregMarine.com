@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import { collectionSlug } from "@/lib/collection";
 
 interface Props {
   prevPost?: CollectionEntry<"writings"> | null;
@@ -10,10 +11,8 @@ interface Props {
 
 const { prevPost = null, nextPost = null, collection, section } = Astro.props;
 
-const centerLabel = collection
-  ? `All ${collection.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ")}`
-  : "All other writings";
-const centerHref = collection ? `/${section}/collection/${collection}` : `/${section}/other`;
+const centerLabel = collection ? `All ${collection}` : "All other writings";
+const centerHref = collection ? `/${section}/collection/${collectionSlug(collection)}` : `/${section}/other`;
 ---
 
 <nav
