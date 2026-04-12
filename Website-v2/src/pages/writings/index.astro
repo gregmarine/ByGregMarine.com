@@ -1,28 +1,28 @@
 ---
 import { getCollection } from "astro:content";
-import WordsLayout from "../../layouts/WordsLayout.astro";
+import WritingsLayout from "../../layouts/WritingsLayout.astro";
 
 const PAGE_SIZE = 10;
-const allEntries = (await getCollection("words"))
+const allEntries = (await getCollection("writings"))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 const totalPages = Math.max(1, Math.ceil(allEntries.length / PAGE_SIZE));
 const entries = allEntries.slice(0, PAGE_SIZE);
-const nextUrl = totalPages > 1 ? "/words/page/2" : null;
+const nextUrl = totalPages > 1 ? "/writings/page/2" : null;
 
-const wordsMetaEntries = await getCollection("wordsMeta");
-const meta = wordsMetaEntries[0]?.data;
+const writingsMetaEntries = await getCollection("writingsMeta");
+const meta = writingsMetaEntries[0]?.data;
 const sectionTitle = meta?.title ?? "";
 const subtitle = meta?.subtitle ?? "";
 const tagline = meta?.tagline ?? "";
 ---
 
-<WordsLayout description="Poetry, prose, and essays by Greg Marine.">
+<WritingsLayout description="Poetry, prose, and essays by Greg Marine.">
   <section class="space-y-8">
     <div class="pb-6 border-b border-gray-100 dark:border-gray-800 space-y-1">
       {sectionTitle ? (
         <h1 class="text-3xl font-bold tracking-tight leading-snug">{sectionTitle}</h1>
       ) : (
-        <h1 class="text-3xl font-bold tracking-tight">Words</h1>
+        <h1 class="text-3xl font-bold tracking-tight">Writings</h1>
       )}
       {subtitle && <p class="text-sm text-gray-500 dark:text-gray-400">{subtitle}</p>}
       {tagline && <p class="text-sm italic text-gray-400 dark:text-gray-500">{tagline}</p>}
@@ -34,7 +34,7 @@ const tagline = meta?.tagline ?? "";
         <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
           {entries.map((entry) => (
             <li class="pt-6 first:pt-0 space-y-1.5">
-              <a href={`/words/${entry.id}`} class="group block space-y-1">
+              <a href={`/writings/${entry.id}`} class="group block space-y-1">
                 <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.data.title}</h2>
                 <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
                   <time datetime={entry.data.date.toISOString()}>
@@ -77,4 +77,4 @@ const tagline = meta?.tagline ?? "";
       </>
     )}
   </section>
-</WordsLayout>
+</WritingsLayout>

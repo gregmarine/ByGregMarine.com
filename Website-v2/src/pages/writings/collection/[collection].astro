@@ -1,12 +1,12 @@
 ---
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
-import WordsLayout from "../../../layouts/WordsLayout.astro";
+import WritingsLayout from "../../../layouts/WritingsLayout.astro";
 
 export async function getStaticPaths() {
-  const allEntries = await getCollection("words");
+  const allEntries = await getCollection("writings");
 
-  const buckets = new Map<string, CollectionEntry<"words">[]>();
+  const buckets = new Map<string, CollectionEntry<"writings">[]>();
   for (const entry of allEntries) {
     if (!entry.data.collection) continue;
     const c = entry.data.collection;
@@ -25,7 +25,7 @@ export async function getStaticPaths() {
 
 interface Props {
   collection: string;
-  entries: CollectionEntry<"words">[];
+  entries: CollectionEntry<"writings">[];
 }
 
 const { collection, entries } = Astro.props;
@@ -33,7 +33,7 @@ const { collection, entries } = Astro.props;
 const label = collection.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
 ---
 
-<WordsLayout description={`Words in the ${label} collection.`}>
+<WritingsLayout description={`Writings in the ${label} collection.`}>
   <section class="space-y-8">
     <h1 class="text-3xl font-bold tracking-tight">{label}</h1>
     {entries.length === 0 ? (
@@ -42,7 +42,7 @@ const label = collection.split("-").map((w) => w.charAt(0).toUpperCase() + w.sli
       <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
         {entries.map((entry) => (
           <li class="pt-6 first:pt-0 space-y-1.5">
-            <a href={`/words/${entry.id}`} class="group block space-y-1">
+            <a href={`/writings/${entry.id}`} class="group block space-y-1">
               <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.data.title}</h2>
               <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
                 <time datetime={entry.data.date.toISOString()}>
@@ -73,4 +73,4 @@ const label = collection.split("-").map((w) => w.charAt(0).toUpperCase() + w.sli
       </ul>
     )}
   </section>
-</WordsLayout>
+</WritingsLayout>

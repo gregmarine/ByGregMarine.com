@@ -2,17 +2,17 @@
 import { getCollection } from "astro:content";
 import TagLayout from "../../layouts/TagLayout.astro";
 
-const [blogPosts, photos, artPieces, wordsEntries] = await Promise.all([
+const [blogPosts, photos, artPieces, writingsEntries] = await Promise.all([
   getCollection("blog"),
   getCollection("photos"),
   getCollection("art"),
-  getCollection("words"),
+  getCollection("writings"),
 ]);
 
 // Build a count map keyed by slug; label is slug with hyphens as spaces
 const counts = new Map<string, number>();
 
-for (const entry of [...blogPosts, ...photos, ...artPieces, ...wordsEntries]) {
+for (const entry of [...blogPosts, ...photos, ...artPieces, ...writingsEntries]) {
   for (const tag of entry.data.tags) {
     const slug = tag.toLowerCase().replace(/\s+/g, "-");
     counts.set(slug, (counts.get(slug) ?? 0) + 1);

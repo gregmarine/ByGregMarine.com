@@ -50,8 +50,8 @@ const art = defineCollection({
   }),
 });
 
-const words = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: new URL("./content/words", import.meta.url).pathname }),
+const writings = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: new URL("./content/writings", import.meta.url).pathname }),
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
@@ -88,8 +88,8 @@ const blogMeta = defineCollection({
   schema: sectionMetaSchema,
 });
 
-const wordsMeta = defineCollection({
-  loader: glob({ pattern: "index.md", base: new URL("./content/words-meta", import.meta.url).pathname }),
+const writingsMeta = defineCollection({
+  loader: glob({ pattern: "index.md", base: new URL("./content/writings-meta", import.meta.url).pathname }),
   schema: sectionMetaSchema,
 });
 
@@ -103,4 +103,4 @@ const photosMeta = defineCollection({
   schema: sectionMetaSchema,
 });
 
-export const collections = { blog, photos, art, words, home, settings, blogMeta, wordsMeta, artMeta, photosMeta };
+export const collections = { blog, photos, art, writings, home, settings, blogMeta, writingsMeta, artMeta, photosMeta };

@@ -2,8 +2,8 @@
 import type { CollectionEntry } from "astro:content";
 
 interface Props {
-  prevPost?: CollectionEntry<"words"> | null;
-  nextPost?: CollectionEntry<"words"> | null;
+  prevPost?: CollectionEntry<"writings"> | null;
+  nextPost?: CollectionEntry<"writings"> | null;
   collection: string | null;
   section: string;
 }
@@ -12,7 +12,7 @@ const { prevPost = null, nextPost = null, collection, section } = Astro.props;
 
 const centerLabel = collection
   ? `All ${collection.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ")}`
-  : "All other words";
+  : "All other writings";
 const centerHref = collection ? `/${section}/collection/${collection}` : `/${section}/other`;
 ---
 
@@ -25,7 +25,7 @@ const centerHref = collection ? `/${section}/collection/${collection}` : `/${sec
     <!-- Previous (older) -->
     <div class="bg-white dark:bg-gray-950 p-5">
       {prevPost ? (
-        <a href={`/words/${prevPost.id}`} class="group block">
+        <a href={`/writings/${prevPost.id}`} class="group block">
           <span class="text-xs text-gray-400 dark:text-gray-500 uppercase tracking-wide font-medium">
             ← Previous
           </span>
@@ -56,7 +56,7 @@ const centerHref = collection ? `/${section}/collection/${collection}` : `/${sec
     <!-- Next (newer) -->
     <div class="bg-white dark:bg-gray-950 p-5 md:text-right">
       {nextPost ? (
-        <a href={`/words/${nextPost.id}`} class="group block">
+        <a href={`/writings/${nextPost.id}`} class="group block">
           <span class="text-xs text-gray-400 dark:text-gray-500 uppercase tracking-wide font-medium">
             Next →
           </span>

@@ -3,15 +3,15 @@ import { getCollection } from "astro:content";
 import TagLayout from "../../layouts/TagLayout.astro";
 
 export async function getStaticPaths() {
-  const [blogPosts, photos, artPieces, wordsEntries] = await Promise.all([
+  const [blogPosts, photos, artPieces, writingsEntries] = await Promise.all([
     getCollection("blog"),
     getCollection("photos"),
     getCollection("art"),
-    getCollection("words"),
+    getCollection("writings"),
   ]);
 
   const tagSlugs = new Set<string>();
-  for (const entry of [...blogPosts, ...photos, ...artPieces, ...wordsEntries]) {
+  for (const entry of [...blogPosts, ...photos, ...artPieces, ...writingsEntries]) {
     for (const tag of entry.data.tags) {
       tagSlugs.add(tag.toLowerCase().replace(/\s+/g, "-"));
     }
@@ -31,15 +31,15 @@ function matchesTag(tags: string[], slug: string): boolean {
   return tags.some((t) => t.toLowerCase().replace(/\s+/g, "-") === slug);
 }
 
-const [blogPosts, photos, artPieces, wordsEntries] = await Promise.all([
+const [blogPosts, photos, artPieces, writingsEntries] = await Promise.all([
   getCollection("blog"),
   getCollection("photos"),
   getCollection("art"),
-  getCollection("words"),
+  getCollection("writings"),
 ]);
 
 type TagEntry = {
-  type: "blog" | "photo" | "art" | "word";
+  type: "blog" | "photo" | "art" | "writing";
   title: string;
   href: string;
   date: Date;
@@ -56,9 +56,9 @@ const entries: TagEntry[] = [
   ...artPieces
     .filter((p) => matchesTag(p.data.tags, tag))
     .map((p): TagEntry => ({ type: "art", title: p.data.title, href: `/art/${p.id}`, date: p.data.date, tags: p.data.tags })),
-  ...wordsEntries
+  ...writingsEntries
     .filter((p) => matchesTag(p.data.tags, tag))
-    .map((p): TagEntry => ({ type: "word", title: p.data.title, href: `/words/${p.id}`, date: p.data.date, tags: p.data.tags })),
+    .map((p): TagEntry => ({ type: "writing", title: p.data.title, href: `/writings/${p.id}`, date: p.data.date, tags: p.data.tags })),
 ].sort((a, b) => b.date.valueOf() - a.date.valueOf());
 ---
 

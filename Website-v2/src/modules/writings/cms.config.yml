@@ -1,10 +1,10 @@
-# Decap CMS config fragment — Words module
-- name: words
-  label: Words
-  folder: src/content/words
+# Decap CMS config fragment — Writings module
+- name: writings
+  label: Writings
+  folder: src/content/writings
   create: true
   slug: "{{slug}}"
-  preview_path: "words/{{slug}}"
+  preview_path: "writings/{{slug}}"
   sortable_fields: ['date', 'title']
   fields:
     - { label: Title, name: title, widget: string }
@@ -21,12 +21,12 @@
     - { label: Form, name: form, widget: select, required: false, options: [poem, essay, prose, story, other] }
     - { label: Body, name: body, widget: markdown }
 
-- name: words-settings
-  label: Words Settings
+- name: writings-settings
+  label: Writings Settings
   files:
-    - name: words-settings
-      label: Words Settings
-      file: src/content/words-meta/index.md
+    - name: writings-settings
+      label: Writings Settings
+      file: src/content/writings-meta/index.md
       fields:
         - { label: "Section title", name: title, widget: string, required: false, hint: "The personality hook e.g. So, I wrote something..." }
         - { label: "Section subtitle", name: subtitle, widget: string, required: false, hint: "The context line e.g. a collection of writings by Greg Marine" }
