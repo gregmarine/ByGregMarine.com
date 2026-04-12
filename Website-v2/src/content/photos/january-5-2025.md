@@ -7,6 +7,7 @@ collection: Photo a Day 2025
 tags:
   - Alligator
   - Nature
+  - Lake
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776005923/IMG_4888_cjakwt.jpg
     caption: Alligator sunbathing
