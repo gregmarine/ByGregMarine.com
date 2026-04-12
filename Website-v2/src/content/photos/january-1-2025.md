@@ -3,7 +3,7 @@ title: January 1, 2025
 description: The beginning of a year long journey...as viewed through a lens
 date: 2025-01-01T11:30:00-05:00
 dateTaken: 2025-01-01T11:31:00-05:00
-collection: Photo A Day 2025
+collection: Photo a Day 2025
 tags:
   - PhotoADay
   - Beginnings
