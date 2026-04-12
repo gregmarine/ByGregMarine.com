@@ -5,8 +5,7 @@ date: 2025-01-02T14:15:00-05:00
 dateTaken: 2025-01-02T14:16:00-05:00
 collection: Photo a Day 2025
 tags:
-  - PhotoADay
-  - Light
+  - Sunrise
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776005928/IMG_4749_w6u38c.jpg
     caption: Sunrise through the back patio door
