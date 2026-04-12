@@ -87,6 +87,7 @@ collections:
         picker_utc: false
       - { label: Tags, name: tags, widget: list, default: [] }
       - { label: Form, name: form, widget: select, required: false, options: [poem, essay, prose, story, other] }
+      - { label: Collection, name: collection, widget: string, required: false, hint: "Optional. Group this entry under a named collection." }
       - { label: Body, name: body, widget: markdown }
   
   - name: writings-settings
@@ -127,6 +128,7 @@ collections:
           - { label: Caption, name: caption, widget: string, required: false }
       - { label: Medium, name: medium, widget: string, required: false }
       - { label: Year Created, name: yearCreated, widget: number, required: false }
+      - { label: Collection, name: collection, widget: string, required: false, hint: "Optional. Group this piece under a named collection." }
       - { label: Body, name: body, widget: markdown, required: false }
   
   - name: art-settings
@@ -168,6 +170,7 @@ collections:
         picker_utc: false
         required: false
       - { label: Location, name: location, widget: string, required: false }
+      - { label: Collection, name: collection, widget: string, required: false, hint: "Optional. Group this photo under a named collection." }
       - { label: Tags, name: tags, widget: list, default: [] }
       - label: Images
         name: images

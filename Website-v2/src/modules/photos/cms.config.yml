@@ -27,6 +27,7 @@
       picker_utc: false
       required: false
     - { label: Location, name: location, widget: string, required: false }
+    - { label: Collection, name: collection, widget: string, required: false, hint: "Optional. Group this photo under a named collection." }
     - { label: Tags, name: tags, widget: list, default: [] }
     - label: Images
       name: images

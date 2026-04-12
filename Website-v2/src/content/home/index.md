@@ -1,3 +1,3 @@
 ---
-tagline: "Thank you for being a part of my journey"
+tagline: Thank you for being a part of my journey 🤗❤️
 ---
