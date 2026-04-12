@@ -50,7 +50,7 @@ I did begin recalling the several times I've been in the ER throughout my life. 
 
 I'm at a place in my life now where I'm pretty healthy and I have inner peace. I still have some health concerns. But nothing I would consider life threatening. The inner peace, though, is my point. This is something new for me. It is why I'm having the best year of my life. The circumstances haven't gotten better for the most part. Some have even gotten worse. But what God has been doing in my heart cannot be explained in any other way than by this passage:
 
-::: details John 14:27
+:::details[John 14:27]
 Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid.
 :::
 

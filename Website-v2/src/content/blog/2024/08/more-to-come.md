@@ -38,11 +38,11 @@ As the world and Heaven play *tug-of-war* with my soul, I can become a bit weary
 
 I'm not a *control freak* when it comes to other people. However, when it comes to my own life, it seems as though I want control. Although I have control over my own choices, my life truly belongs to God. So, while I make choices that impact my life on earth, so long as I keep my Kingdom focus, I'll make the choices that work out best for my life. That's because God knows what is best. Keeping my eyes on Him will help me make those Kingdom focused choices.
 
-::: details Matthew 6:9-13
+:::details[Matthew 6:9-13]
 9 So then, this is how you should pray: ‘Our Father in heaven, hallowed be Your name. 10 Your kingdom come, Your will be done, on earth as it is in heaven. 11 Give us this day our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’
 :::
 
-::: details Matthew 6:33
+:::details[Matthew 6:33]
 33 But seek first the kingdom of God and His righteousness, and all these things will be added unto you.
 :::
 

@@ -12,7 +12,7 @@ Good morning! Today is off to a wonderful, and early, start. I woke up around 5:
 
 Today’s verse of the day:
 
-::: details Hebrews 13:8 AMP
+:::details[Hebrews 13:8 AMP]
 Jesus Christ is [eternally changeless, always] the same yesterday and today and forever.
 :::
 

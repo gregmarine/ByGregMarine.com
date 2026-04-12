@@ -28,11 +28,11 @@ I had a conversation with my boss today about my faith. We were talking about so
 
 Today's *Vitamin G* was inspired by jazz legend Miles Davis...hehehe I saw a quote of his that was something like, *When you hit a wrong note, it's the next note that makes it good or bad.* Although some choices are just bad from the start, most choices aren't inherently bad. Some can simply be wrong. But that next choice, or the response to the original choice, can be what tips the scale. The same is true when someone else's choice impacts me in a negative way. Their wrong choice may not be bad or intentionally harmful, but my next choice or response could very well make the difference between good and bad.
 
-::: details Ephesians 4:26-27
+:::details[Ephesians 4:26-27]
 *Be angry, yet do not sin.* Do not let the sun set upon your anger, and do not give the devil a foothold.
 :::
 
-::: details Psalms 4:4
+:::details[Psalms 4:4]
 Be angry, yet do not sin; on your bed, search your heart and be still.
 :::
 

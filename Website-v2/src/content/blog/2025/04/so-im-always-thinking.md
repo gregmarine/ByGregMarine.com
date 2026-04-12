@@ -87,13 +87,13 @@ All of these made a significant impact on me and I wanted to include them in tod
 
 Psalm 77 was the theme for this week's *The Chosen* episode (S3E8). I recall this passage had also made an impact on me the first time I watched the episode a while ago. Seeing it again today quickly reminded me of how a felt last time. Today, it hit me just as much as, if not more than, it did before.
 
-::: details Psalm 77
+:::details[Psalm 77]
 <!--@include: @/bible/translations/bsb/19_psa/077.md-->
 :::
 
 Romans 14 actually came up first yesterday and continued into today. In a way, it actually relates a bit to part of my response to last week's Bible study. But I came across it yesterday after a friend of mine was dealing with someone rebuking them *in the name of Jesus* for some tattoos they have. They have the tattoos for various reasons. But the funny thing is the tattoos that the person was rebuking them for were Disney...LOL It wasn't because of having tattoos in the first place. They were upset because they were skulls...Jack Skellington and the poison apple from the original Snow White...LOL Both the rebuker and the rebuked are Christians. Another funny thing, to me, is that I wasn't even looking for this passage. It came up after I prayed about the situation. But it was from some seemingly random thing I was looking at later that was completely unrelated...hehehe God is so good <3
 
-::: details Romans 14
+:::details[Romans 14]
 <!--@include: @/bible/translations/bsb/45_rom/014.md-->
 :::
 

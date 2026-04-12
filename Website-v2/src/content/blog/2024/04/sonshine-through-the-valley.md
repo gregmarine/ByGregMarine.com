@@ -23,7 +23,7 @@ Life can be rough and tough. Capturing these moments last week was refreshing. W
 
 ## Psalm 23
 
-::: details Psalm 23 AMP
+:::details[Psalm 23 AMP]
 The Lord is my Shepherd [to feed, to guide and to shield me], I shall not want. He lets me lie down in green pastures; He leads me beside the still and quiet waters. He refreshes and restores my soul (life); He leads me in the paths of righteousness for His name’s sake. Even though I walk through the [sunless] valley of the shadow of death, I fear no evil, for You are with me; Your rod [to protect] and Your staff [to guide], they comfort and console me. You prepare a table before me in the presence of my enemies. You have anointed and refreshed my head with oil; My cup overflows. Surely goodness and mercy and unfailing love shall follow me all the days of my life, And I shall dwell forever [throughout all my days] in the house and in the presence of the Lord.
 :::
 

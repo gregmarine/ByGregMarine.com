@@ -46,7 +46,7 @@ I started doing that in December 2023. It was how I finished off the calendar ye
 
 I'm fortunate enough to have several witnesses in my life to this growth and transformation. Their encouragement has been a Blessing to keep me on this path. I need to continue praying that I remain on this path for good. I'll need God's *little reminders* of all the opportunities when I've experienced His Word come alive in my life...hehehe
 
-::: details Matthew 6:33-34
+:::details[Matthew 6:33-34]
 33 But seek first the kingdom of God and His righteousness, and all these things will be added unto you. 34 Therefore do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own.
 :::
 

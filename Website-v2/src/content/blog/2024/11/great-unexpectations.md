@@ -31,7 +31,7 @@ All of these things happened this year. I started this off by mentioning these p
 
 I feel as though I'm experiencing what Paul wrote to the Romans:
 
-::: details Romans 8:28
+:::details[Romans 8:28]
 And we know that God works all things together for the good of those who love Him, who are called according to His purpose.
 :::
 
