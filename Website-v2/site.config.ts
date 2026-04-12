@@ -8,7 +8,7 @@ export const siteConfig = {
   modules: {
     home: true,
     blog: true,
-    words: true,
+    writings: true,
     art: true,
     photos: true,
     settings: true,

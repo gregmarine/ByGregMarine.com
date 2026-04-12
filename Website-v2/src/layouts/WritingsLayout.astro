@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
-import WordsSidebar from "../components/words/WordsSidebar.astro";
-import WordsPostNav from "../components/words/WordsPostNav.astro";
+import WritingsSidebar from "../components/writings/WritingsSidebar.astro";
+import WritingsPostNav from "../components/writings/WritingsPostNav.astro";
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 
@@ -9,8 +9,8 @@ interface Props {
   title?: string;
   description?: string;
   date?: Date;
-  prevPost?: CollectionEntry<"words"> | null;
-  nextPost?: CollectionEntry<"words"> | null;
+  prevPost?: CollectionEntry<"writings"> | null;
+  nextPost?: CollectionEntry<"writings"> | null;
   currentCollection?: string | null;
   collection?: string | null;
 }
@@ -26,7 +26,7 @@ const {
 } = Astro.props;
 
 // Derive currentCollection from URL when not passed as prop.
-// /words/collection/[name] → name; /words/other → "other"; else null.
+// /writings/collection/[name] → name; /writings/other → "other"; else null.
 const pathParts = Astro.url.pathname.split("/").filter(Boolean);
 const urlCollection =
   pathParts[1] === "collection" && pathParts[2]
@@ -37,7 +37,7 @@ const urlCollection =
 const currentCollection = propCollection ?? urlCollection;
 
 // Build collections list for sidebar
-const allEntries = await getCollection("words");
+const allEntries = await getCollection("writings");
 
 const collectionMap = new Map<string, number>();
 let otherCount = 0;
@@ -56,7 +56,7 @@ const collections = [...collectionMap.entries()]
     slug,
     label: slug.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" "),
     count,
-    href: `/words/collection/${slug}`,
+    href: `/writings/collection/${slug}`,
   }));
 
 const showPostNav = prevPost !== null || nextPost !== null;
@@ -65,7 +65,7 @@ const showPostNav = prevPost !== null || nextPost !== null;
 <BaseLayout title={title} description={description}>
 
   <!-- Mobile archive toggle (hidden on desktop) -->
-  <details class="words-archive-toggle lg:hidden mb-6">
+  <details class="writings-archive-toggle lg:hidden mb-6">
     <summary
       class="flex cursor-pointer select-none items-center justify-between px-4 py-3 text-gray-600 dark:text-gray-400"
       aria-label="Toggle collections"
@@ -82,7 +82,7 @@ const showPostNav = prevPost !== null || nextPost !== null;
       </svg>
     </summary>
     <div class="px-4 pb-5 pt-3 border-t border-gray-200 dark:border-gray-800">
-      <WordsSidebar collections={collections} otherCount={otherCount} currentCollection={currentCollection} />
+      <WritingsSidebar collections={collections} otherCount={otherCount} currentCollection={currentCollection} />
     </div>
   </details>
 
@@ -95,7 +95,7 @@ const showPostNav = prevPost !== null || nextPost !== null;
         <p class="text-xs font-semibold uppercase tracking-wider text-gray-400 dark:text-gray-500 mb-4">
           Collections
         </p>
-        <WordsSidebar collections={collections} otherCount={otherCount} currentCollection={currentCollection} />
+        <WritingsSidebar collections={collections} otherCount={otherCount} currentCollection={currentCollection} />
       </div>
     </aside>
 
@@ -120,7 +120,7 @@ const showPostNav = prevPost !== null || nextPost !== null;
         <slot />
       )}
 
-      {showPostNav && <WordsPostNav prevPost={prevPost} nextPost={nextPost} collection={collection} section="words" />}
+      {showPostNav && <WritingsPostNav prevPost={prevPost} nextPost={nextPost} collection={collection} section="writings" />}
     </div>
 
   </div>

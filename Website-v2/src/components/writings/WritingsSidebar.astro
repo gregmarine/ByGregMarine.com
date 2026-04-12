@@ -15,7 +15,7 @@ interface Props {
 const { collections, otherCount, currentCollection = null } = Astro.props;
 ---
 
-<nav aria-label="Words collections">
+<nav aria-label="Writings collections">
   {collections.length === 0 && otherCount === 0 ? (
     <p class="text-sm text-gray-400 dark:text-gray-500">No entries yet.</p>
   ) : (
@@ -51,7 +51,7 @@ const { collections, otherCount, currentCollection = null } = Astro.props;
           currentCollection === "other" ? "border-gray-400 dark:border-gray-400" : "border-gray-200 dark:border-gray-700",
         ]}>
           <a
-            href="/words/other"
+            href="/writings/other"
             aria-current={currentCollection === "other" ? "page" : undefined}
             class:list={[
               "text-sm leading-relaxed transition-colors",

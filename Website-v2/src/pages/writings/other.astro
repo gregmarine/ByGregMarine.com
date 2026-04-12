@@ -1,22 +1,22 @@
 ---
 import { getCollection } from "astro:content";
-import WordsLayout from "../../layouts/WordsLayout.astro";
+import WritingsLayout from "../../layouts/WritingsLayout.astro";
 
-const entries = (await getCollection("words"))
+const entries = (await getCollection("writings"))
   .filter((e) => !e.data.collection)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 ---
 
-<WordsLayout description="Uncollected writing by Greg Marine.">
+<WritingsLayout description="Uncollected writing by Greg Marine.">
   <section class="space-y-8">
-    <h1 class="text-3xl font-bold tracking-tight">Other Words</h1>
+    <h1 class="text-3xl font-bold tracking-tight">Other Writings</h1>
     {entries.length === 0 ? (
       <p class="text-gray-500 dark:text-gray-400">No uncollected entries yet.</p>
     ) : (
       <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
         {entries.map((entry) => (
           <li class="pt-6 first:pt-0 space-y-1.5">
-            <a href={`/words/${entry.id}`} class="group block space-y-1">
+            <a href={`/writings/${entry.id}`} class="group block space-y-1">
               <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.data.title}</h2>
               <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
                 <time datetime={entry.data.date.toISOString()}>
@@ -47,4 +47,4 @@ const entries = (await getCollection("words"))
       </ul>
     )}
   </section>
-</WordsLayout>
+</WritingsLayout>

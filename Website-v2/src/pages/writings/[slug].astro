@@ -1,14 +1,14 @@
 ---
 import { getCollection, render, type CollectionEntry } from "astro:content";
-import WordsLayout from "../../layouts/WordsLayout.astro";
+import WritingsLayout from "../../layouts/WritingsLayout.astro";
 
 export async function getStaticPaths() {
-  const entries = await getCollection("words");
+  const entries = await getCollection("writings");
   return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
 }
 
 interface Props {
-  entry: CollectionEntry<"words">;
+  entry: CollectionEntry<"writings">;
 }
 
 const { entry } = Astro.props;
@@ -16,7 +16,7 @@ const { Content } = await render(entry);
 
 // Scope prev/next to the same collection group (named collection or uncollected "other")
 const collectionKey = entry.data.collection ?? null;
-const scopedEntries = (await getCollection("words"))
+const scopedEntries = (await getCollection("writings"))
   .filter((e) => (e.data.collection ?? null) === collectionKey)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 const index = scopedEntries.findIndex((e) => e.id === entry.id);
@@ -24,7 +24,7 @@ const prevPost = scopedEntries.length > 1 ? (scopedEntries[index + 1] ?? null) :
 const nextPost = scopedEntries.length > 1 ? (scopedEntries[index - 1] ?? null) : null; // newer
 ---
 
-<WordsLayout
+<WritingsLayout
   title={entry.data.title}
   description={entry.data.description}
   date={entry.data.date}
@@ -50,4 +50,4 @@ const nextPost = scopedEntries.length > 1 ? (scopedEntries[index - 1] ?? null) :
       </ul>
     </div>
   )}
-</WordsLayout>
+</WritingsLayout>
