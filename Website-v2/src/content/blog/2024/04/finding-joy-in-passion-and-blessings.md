@@ -35,13 +35,13 @@ A few weeks ago, I wrote about how I hoped to find my passion by letting my [Pur
 
 In my previous entry, I pondered what my passion could be. As I mentioned in that entry, I'm quite the over thinker. Bearing that in mind, I stripped away the complexities of my thoughts and was left with my purpose at the very least being to love God with all my heart, mind, soul, and strength. And to love others. I draw this from:
 
-::: details Mark 12:28-31 AMP
+:::details[Mark 12:28-31 AMP]
 Then one of the scribes [an expert in Mosaic Law] came up and listened to them arguing [with one another], and noticing that Jesus answered them well, asked Him, “Which commandment is first and most important of all?” Jesus answered, “The first and most important one is: ‘Hear, O Israel, the Lord our God is one Lord; and you shall love the Lord your God with all your heart, and with all your soul (life), and with all your mind (thought, understanding), and with all your strength.’ This is the second: ‘You shall [unselfishly] love your neighbor as yourself.’ There is no other commandment greater than these."
 :::
 
 Today's devotion was specifically about Jesus' words and that He was The Word.
 
-::: details John 1:1-5 AMP
+:::details[John 1:1-5 AMP]
 In the beginning [before all time] was the Word (Christ), and the Word was with God, and the Word was God Himself. [Gen 1:1; Is 9:6] He was [continually existing] in the beginning [co-eternally] with God. All things were made and came into existence through Him; and without Him not even one thing was made that has come into being. In Him was life [and the power to bestow life], and the life was the Light of men. The Light shines on in the darkness, and the darkness did not understand it or overpower it or appropriate it or absorb it [and is unreceptive to it]. [Gen 1:3]
 :::
 
@@ -83,6 +83,6 @@ What have I learned from this interaction? It's simple, when we accept even the 
 
 I really feel as though those 3 received a greater blessing than I did that day.
 
-::: details Act 20:35b AMP
+:::details[Act 20:35b AMP]
 ...remember the words of the Lord Jesus, that He Himself said, ‘It is more blessed [and brings greater joy] to give than to receive.’
 :::

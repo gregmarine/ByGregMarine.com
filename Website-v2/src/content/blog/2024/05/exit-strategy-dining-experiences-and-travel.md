@@ -10,19 +10,19 @@ cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775931164/bygregmari
 
 I often wonder what it truly means to ask God to *not lead me into temptation, but deliver me from evil*. I’ve also wondered about how He also provides a way out of temptation (1 Corinthians 10:13). Today, I face a temptation concerning one of the many struggles I’ve been praying about. And today, God provided an *exit strategy* for me to avoid this temptation. So as I face it today, I will take that exit. I will trust in the Lord with all my heart and not lean into my own understanding. I will fully acknowledge Him in this difficult circumstance and He will make my path straight.
 
-::: details 1 Corinthians 10:13 AMP
+:::details[1 Corinthians 10:13 AMP]
 No temptation [regardless of its source] has overtaken or enticed you that is not common to human experience [nor is any temptation unusual or beyond human resistance]; but God is faithful [to His word—He is compassionate and trustworthy], and He will not let you be tempted beyond your ability [to resist], but along with the temptation He [has in the past and is now and] will [always] provide the way out as well, so that you will be able to endure it [without yielding, and will overcome temptation with joy].
 :::
 
 God truly will not give me any circumstance He cannot handle. Praise the Lord!
 
-::: details Proverbs 3:5-6 AMP
+:::details[Proverbs 3:5-6 AMP]
 Trust in and rely confidently on the Lord with all your heart And do not rely on your own insight or understanding. In all your ways know and acknowledge and recognize Him, And He will make your paths straight and smooth [removing obstacles that block your way].
 :::
 
 Today’s verse of the day:
 
-::: details 2 Thessalonians 3:3 AMP
+:::details[2 Thessalonians 3:3 AMP]
 But the Lord is faithful, and He will strengthen you [setting you on a firm foundation] and will protect and guard you from the evil one.
 :::
 

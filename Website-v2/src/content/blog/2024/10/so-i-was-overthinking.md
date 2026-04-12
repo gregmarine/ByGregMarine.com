@@ -9,7 +9,7 @@ One of the main things I prayed about yesterday was how I tend to overthink. Rea
 
 This led me back to:
 
-::: details Philippians 4:4-8
+:::details[Philippians 4:4-8]
 4 Rejoice in the Lord always. I will say it again: Rejoice! 5 Let your gentleness be apparent to all. The Lord is near.
 
 6 Be anxious for nothing, but in everything, by prayer and petition, with thanksgiving, present your requests to God. 7 And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.

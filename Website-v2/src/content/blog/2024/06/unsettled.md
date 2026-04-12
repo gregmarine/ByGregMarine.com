@@ -12,7 +12,7 @@ cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775931167/bygregmari
 
 Today’s Vitamin G comes straight from:
 
-::: details Matthew 6:34 AMP
+:::details[Matthew 6:34 AMP]
 So do not worry about tomorrow; for tomorrow will worry about itself. Each day has enough trouble of its own.
 :::
 

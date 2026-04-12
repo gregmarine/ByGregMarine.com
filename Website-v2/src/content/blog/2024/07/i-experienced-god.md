@@ -32,7 +32,7 @@ This actually led to what I did for the rest of my time at the arboretum...heheh
 
 The scripture references associated with this are:
 
-::: details Mark 10:17-31
+:::details[Mark 10:17-31]
 17As Jesus started on His way, a man ran up and knelt before Him. “Good Teacher,” he asked, “what must I do to inherit eternal life?”
 
 18“Why do you call Me good?” Jesus replied. “No one is good except God alone. 19You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not bear false witness, do not cheat others, honor your father and mother.’e”
@@ -58,7 +58,7 @@ But Jesus said to them again, “Children, how hard it is to enterg the kingdom 
 29“Truly I tell you,” Jesus replied, “no one who has left home or brothers or sisters or mother or father or children or fields for My sake and for the gospel 30will fail to receive a hundredfold in the present age—houses and brothers and sisters and mothers and children and fields, along with persecutions—and in the age to come, eternal life. 31But many who are first will be last, and the last will be first.”
 :::
 
-::: details Philippians 4:12-13
+:::details[Philippians 4:12-13]
 12I know how to live humbly, and I know how to abound. I am accustomed to any and every situation—to being filled and being hungry, to having plenty and having need. 13I can do all things through Christ who gives me strength.b
 :::
 
@@ -74,7 +74,7 @@ I hadn't planned to sit there for an hour. It just sort of happened. Along with 
 
 The scripture reference the Spirit led me to during this session was:
 
-::: details Psalms 107
+:::details[Psalms 107]
 1Give thanks to the LORD, for He is good;
 His loving devotion endures forever.
 2Let the redeemed of the LORD say so,
@@ -173,7 +173,7 @@ I did 2 separate 10 minute meditation sessions for this time. So about 20 minute
 
 This one hour session led me to the following scripture:
 
-::: details Psalm 102
+:::details[Psalm 102]
 1Hear my prayer, O LORD;
 let my cry for help come before You.
 2Do not hide Your face from me
@@ -247,19 +247,19 @@ This session was also quite different, except that it too was an hour. I loved h
 
 As I was sitting there, a peacock ran up to me, checked me out, and then ran off. It was a bit weird and fascinating at the same time...hehehe Like, why was he in a hurry? Where was he going? What made him stop and check me out? Come on Alex! WHY?!?
 
-::: details Matthew 19:29-30
+:::details[Matthew 19:29-30]
  29And everyone who has left houses or brothers or sisters or father or mother or wifeh or children or fields for the sake of My name will receive a hundredfold and will inherit eternal life. 30But many who are first will be last, and the last will be first.
 :::
 
-::: details Mark 10:29-31
+:::details[Mark 10:29-31]
 29“Truly I tell you,” Jesus replied, “no one who has left home or brothers or sisters or mother or father or children or fields for My sake and for the gospel 30will fail to receive a hundredfold in the present age—houses and brothers and sisters and mothers and children and fields, along with persecutions—and in the age to come, eternal life. 31But many who are first will be last, and the last will be first.”
 :::
 
-::: details Luke 18:29-30
+:::details[Luke 18:29-30]
 29“Truly I tell you,” Jesus replied, “no one who has left home or wife or brothers or parents or children for the sake of the kingdom of God 30will fail to receive many times more in this age—and in the age to come, eternal life.”
 :::
 
-::: details Luke 14:25-33
+:::details[Luke 14:25-33]
 25Large crowds were now traveling with Jesus, and He turned and said to them, 26“If anyone comes to Me and does not hate his father and mother and wife and children and brothers and sisters—yes, even his own life—he cannot be My disciple. 27And whoever does not carry his cross and follow Me cannot be My disciple.
 
 28Which of you, wishing to build a tower, does not first sit down and count the cost to see if he has the resources to complete it? 29Otherwise, if he lays the foundation and is unable to finish the work, everyone who sees it will ridicule him, 30saying, ‘This man could not finish what he started to build.’
@@ -269,7 +269,7 @@ As I was sitting there, a peacock ran up to me, checked me out, and then ran off
 33In the same way, any one of you who does not give up everything he has cannot be My disciple.
 :::
 
-::: details Matthew 8:18-22
+:::details[Matthew 8:18-22]
 18When Jesus saw a large crowd around Him, He gave orders to cross to the other side of the sea.e 19And one of the scribes came to Him and said, “Teacher, I will follow You wherever You go.”
 
 20Jesus replied, “Foxes have dens and birds of the air have nests, but the Son of Man has no place to lay His head.”
@@ -279,7 +279,7 @@ As I was sitting there, a peacock ran up to me, checked me out, and then ran off
 22But Jesus told him, “Follow Me, and let the dead bury their own dead.”
 :::
 
-::: details Luke 9:57-62
+:::details[Luke 9:57-62]
 57As they were walking along the road, someone said to Jesus, “I will follow You wherever You go.”
 
 58Jesus replied, “Foxes have dens and birds of the air have nests, but the Son of Man has no place to lay His head.”
@@ -295,7 +295,7 @@ The man replied, “Lord, first let me go and bury my father.”
 62Then Jesus declared, “No one who puts his hand to the plow and then looks back is fit for the kingdom of God.”
 :::
 
-::: details John 6:59-66
+:::details[John 6:59-66]
 59Jesus said this while teaching in the synagogue in Capernaum. 60On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?”
 
 61Aware that His disciples were grumbling about this teaching, Jesus asked them, “Does this offend you? 62Then what will happen if you see the Son of Man ascend to where He was before?
@@ -307,12 +307,12 @@ The man replied, “Lord, first let me go and bury my father.”
 66From that time on many of His disciples turned back and no longer walked with Him.
 :::
 
-::: details Proverbs 18:24
+:::details[Proverbs 18:24]
 24A man of many companions may come to ruin,
 but there is a friend who stays closer than a brother.
 :::
 
-::: details Psalms 34
+:::details[Psalms 34]
 1I will bless the LORD at all times;
 His praise will always be on my lips.
 2My soul boasts in the LORD;
@@ -359,7 +359,7 @@ and the haters of the righteous will be condemned.
 and none who take refuge in Him will be condemned.
 :::
 
-::: details Proverbs 27:4-10
+:::details[Proverbs 27:4-10]
 4Wrath is cruel and anger is like a flood,
 but who can withstand jealousy?
 5Better an open rebuke

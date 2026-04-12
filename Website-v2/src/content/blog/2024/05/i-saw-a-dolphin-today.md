@@ -22,7 +22,7 @@ My morning *wake up* devotion was inspiring, as usual. This time, I wanted to wr
 
 Today’s verse of the day:
 
-::: details Psalm 139:11-12 AMP
+:::details[Psalm 139:11-12 AMP]
 If I say, “Surely the darkness will cover me, And the night will be the only light around me,” Even the darkness is not dark to You and conceals nothing from You, But the night shines as bright as the day; Darkness and light are alike to You. [Dan 2:22]
 :::
 
@@ -32,7 +32,7 @@ In the Psalm above, I’m encouraged that God can see just as clearly at night a
 
 The follow passage was included in the devotion and encourages me to give the darkness (my selfish desires and my fears) over to God:
 
-::: details 1 Peter 5:6-7 AMP
+:::details[1 Peter 5:6-7 AMP]
 Therefore humble yourselves under the mighty hand of God [set aside self-righteous pride], so that He may exalt you [to a place of honor in His service] at the appropriate time, [John 3:30] casting all your cares [all your anxieties, all your worries, and all your concerns, once and for all] on Him, for He cares about you [with deepest affection, and watches over you very carefully]. [Ps 55:22]
 :::
 
@@ -40,21 +40,21 @@ Is it self-righteous pride to try to navigate the darkness on my own? Perhaps it
 
 In my aforementioned battle with loneliness, I stumbled along my path, always trying to navigate it on my own. It wasn’t until recently, very recently, that I finally gave it over to God. I did not expect that how I felt about it would change so quickly. I know with full certainty the reason I’m already feeling at Peace about it is because I’m in The Word daily now. And I’m consistently and constantly praying. I’m doing my current best to live out this passage from Proverbs…
 
-::: details Proverbs 3:5-6 AMP
+:::details[Proverbs 3:5-6 AMP]
 Trust in and rely confidently on the Lord with all your heart And do not rely on your own insight or understanding. In all your ways know and acknowledge and recognize Him, And He will make your paths straight and smooth [removing obstacles that block your way].
 :::
 
 And I’m doing so through the comfort I find in these passages…
 
-::: details Psalms 119:105 AMP
+:::details[Psalms 119:105 AMP]
 Your word is a lamp to my feet And a light to my path. [Prov 6:23]
 :::
 
-::: details Proverbs 6:23 AMP
+:::details[Proverbs 6:23 AMP]
 For the commandment is a lamp, and the teaching [of the law] is light, And reproofs (rebukes) for discipline are the way of life, [Ps 19:8; 119:105]
 :::
 
-::: details Psalms 19:8 AMP
+:::details[Psalms 19:8 AMP]
 The precepts of the Lord are right, bringing joy to the heart; The commandment of the Lord is pure, enlightening the eyes.
 :::
 

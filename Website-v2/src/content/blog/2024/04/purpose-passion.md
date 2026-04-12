@@ -23,7 +23,7 @@ The problem with being able to do so many things well is that I can't seem to de
 
 Here I go overthinking again...LOL So, let's focus a bit on what my purpose truly is. Rather than diving too deep into purpose, I'm going to keep this at a high altitude and summarize with the following scripture:
 
-::: details Mark 12:28-31 AMP
+:::details[Mark 12:28-31 AMP]
 28 Then one of the scribes [an expert in Mosaic Law] came up and listened to them arguing [with one another], and noticing that Jesus answered them well, asked Him, “Which commandment is first and most important of all?” 29 Jesus answered, “The first and most important one is: ‘Hear, O Israel, the Lord our God is one Lord; 30 and you shall love the Lord your God with all your heart, and with all your soul (life), and with all your mind (thought, understanding), and with all your strength.’ 31 This is the second: ‘You shall [unselfishly] love your neighbor as yourself.’ There is no other commandment greater than these."
 :::
 

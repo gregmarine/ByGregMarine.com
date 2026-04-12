@@ -5,7 +5,7 @@ date: 2024-06-14T00:00:00Z
 tags: []
 ---
 
-::: warning Content Guidance
+:::warning[Content Guidance]
 Today's journal entry includes content that may be triggering. Please read with care.
 :::
 

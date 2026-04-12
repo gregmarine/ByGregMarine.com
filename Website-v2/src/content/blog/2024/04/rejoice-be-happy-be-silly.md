@@ -18,15 +18,15 @@ I suppose I should write more about how I choose happiness. I could put that int
 
 Sure, I need to take care of myself in general. I need to be who I am without others. But I was never meant to travel this journey alone. From the beginning of creation, God has provided humanity with the concept of a help mate. It may have started with a marriage union. However, over time, it has become community. Even when Jesus sent out the twelve, He did so by sending them out two by two.
 
-::: details Matthew 10:1-15 AMP
+:::details[Matthew 10:1-15 AMP]
 Jesus summoned His twelve disciples and gave them authority and power over unclean spirits, to cast them out, and to heal every kind of disease and every kind of sickness. [Mark 6:7; Luke 9:1] Now these are the names of the twelve apostles (special messengers, personally chosen representatives): first, Simon, who is called Peter, and Andrew, his brother; James the son of Zebedee, and John his brother; [Mark 3:16-19; Luke 6:13-16] Philip and Bartholomew (Nathanael); Thomas and Matthew (Levi) the tax collector; James the son of Alphaeus, and Thaddaeus (Judas, not Iscariot); Simon the Cananaean (Zealot), and Judas Iscariot, the one who betrayed Him. Jesus sent out these twelve, instructing them: “Do not go among the Gentiles, and do not go into a city of the Samaritans; but rather go to the lost sheep of the house of Israel. And as you go, preach, saying, ‘The kingdom of heaven is at hand.’ Heal the sick, raise the dead, cleanse the lepers, cast out demons. Freely you have received, freely give. Do not take gold, or silver, or [even]copper money in your money belt, or a provision bag for your journey, or even two tunics, or sandals, or a staff; for the worker deserves his support. Whatever city or village you enter, ask who in it is worthy [who welcomes you and your message], and stay at his house until you leave [that city]. As you go into the house, give it your greeting [that is, ‘Peace be to this house’]. If [the family living in] the house is worthy [welcoming you and your message], give it your [blessing of] peace [that is, a blessing of well-being and prosperity, the favor of God]. But if it is not worthy, take back your blessing of peace. Whoever does not welcome you, nor listen to your message, as you leave that house or city, shake the dust [of it] off your feet [in contempt, breaking all ties]. [Mark 6:11; Acts 13:51] I assure you and most solemnly say to you, it will be more tolerable on the day of judgment for the land of Sodom and Gomorrah than for that city [since it rejected the Messiah’s messenger].
 :::
 
-::: details Mark 6:7-13 AMP
+:::details[Mark 6:7-13 AMP]
 And He called the twelve [disciples] and began to send them out [as His special messengers] two by two, and gave them authority and power over the unclean spirits. He told them to take nothing for the journey except a mere walking stick—no bread, no [traveler’s] bag, no money in their belts— but to wear sandals; and [He told them] not to wear two tunics. And He told them, “Wherever you go into a house, stay there until you leave that town. Any place that does not welcome you or listen to you, when you leave there, shake the dust off the soles of your feet as a testimony against them [breaking all ties with them because they rejected My message].” [Matt 10:14; Acts 13:51] So they went out and preached that men should repent [that is, think differently, recognize sin, turn away from it, and live changed lives]. And they were casting out many demons and were anointing with oil many who were sick, and healing them.
 :::
 
-::: details Luke 9:1-6 AMP
+:::details[Luke 9:1-6 AMP]
 Now Jesus called together the twelve [disciples] and gave them [the right to exercise] power and authority over all the demons and to heal diseases. Then He sent them out [on a brief journey] to preach the kingdom of God and to perform healing. [Matt 10:5] And He said to them, “Take nothing for your journey [that might encumber you]—neither a walking stick, nor bag, nor bread, nor money; and do not even have two tunics apiece. Whatever house you enter, stay there until you leave that city [to go to another]. And as for all those who do not welcome you, when you leave that city, shake the dust off your feet [breaking all ties with them] as a testimony against them [that they rejected My message].” So they began going from village to village, preaching the gospel and healing the sick everywhere.
 :::
 
@@ -48,11 +48,11 @@ There were several moments over the weekend when I was technically by myself jus
 
 Last week, my morning devotional time featured 1 Thessalonians 5:16-18 for a few days. It somewhat reminds me of Philippians 4:6-7; which is one of my life verses that I try to apply as much as I can. I'm now adding 1 Thessalonians as it takes me one step further. Not only should I avoid being anxious or worried, and not only should I remain continually thankful, I should rejoice always.
 
-::: details 1 Thessalonians 5:16-18 AMP
+:::details[1 Thessalonians 5:16-18 AMP]
 Rejoice always and delight in your faith; be unceasing and persistent in prayer; in every situation [no matter what the circumstances] be thankful and continually give thanks to God; for this is the will of God for you in Christ Jesus.
 :::
 
-::: details Philippians 4:6-7 AMP
+:::details[Philippians 4:6-7 AMP]
 Do not be anxious or worried about anything, but in everything [every circumstance and situation] by prayer and petition with thanksgiving, continue to make your [specific] requests known to God. And the peace of God [that peace which reassures the heart, that peace] which transcends all understanding, [that peace which] stands guard over your hearts and your minds in Christ Jesus [is yours]. [John 14:27]
 :::
 

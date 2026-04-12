@@ -54,7 +54,7 @@ Being out of my routine for more than four weeks hasn't had a negative impact on
 
 I had my call with Dan. Something that stood out from that call was how identifying and acknowledging our shortcomings, struggles, and weaknesses allows us to be open to the Holy Spirit working in our lives. When we deny those things, we are in essence denying the help we need from God. This reminded me of...
 
-::: details 2 Corinthians 12:9-10
+:::details[2 Corinthians 12:9-10]
 9 But He said to me, “My grace is sufficient for you, for My power is perfected in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me. 10 That is why, for the sake of Christ, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong.
 :::
 

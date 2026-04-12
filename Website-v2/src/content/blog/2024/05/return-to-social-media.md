@@ -13,7 +13,7 @@ Yesterday was a very important day in my life. And social media is how God made 
 
 Chérie said something to me yesterday as we celebrated the day *together* that resonated well with me. I won’t quote it as it was a private conversation. But the lesson I take from it and apply to myself is imagine if I didn’t post the things I do? I and others would miss out on everything that results from it. No, not everything I say is pure gold…LOL But there is always something that someone out there needs to hear in that moment. Even if I never see the results, someone out there needs the blessings God can bring from it. When I’m afraid, sad, hurt, or frustrated by social media and stop posting, the blessings that come from it will end. That is far worse than anything I personally experience. So, I am back with a post that comes straight out of Proverbs 12:25…
 
-::: details Proverbs 12:25 AMP
+:::details[Proverbs 12:25 AMP]
 Anxiety in a man’s heart weighs it down, But a good (encouraging) word makes it glad. [Ps 50:4; Prov 15:13]
 :::
 

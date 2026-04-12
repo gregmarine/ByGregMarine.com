@@ -19,7 +19,7 @@ Another close friend of mine just submitted their final audition video for their
 
 One of my passions lately has been prayer. Prayer is a conversation with God. Sometimes it means I’m speaking. Sometimes it means I’m listening. Prayer, to me, is never about just asking God for things. I truly believe in the conversation of the act. Listening to the Voice of God isn’t so much about an audible sound in a human language I can understand. Oftentimes, it takes time in the Bible to receive the message He is trying to convey. Sometimes it is about listening to the advice of wise counsel. And when I am the one speaking, it isn’t always requests. Especially as of late, it can be me just telling God how I honestly feel about something. Sure, He knows my heart. But I feel as though He wants me to express my heart. In doing so, it helps me process those feelings. So, yes, prayer is a two way conversation between my Creator and myself.
 
-::: details Romans 8:26-28 AMP
+:::details[Romans 8:26-28 AMP]
 In the same way the Spirit [comes to us and] helps us in our weakness. We do not know what prayer to offer or how to offer it as we should, but the Spirit Himself [knows our need and at the right time] intercedes on our behalf with sighs and groanings too deep for words. And He who searches the hearts knows what the mind of the Spirit is, because the Spirit intercedes [before God] on behalf of God’s people in accordance with God’s will. [Ps 139:1, 2] And we know [with great confidence] that God [who is deeply concerned about us] causes all things to work together [as a plan] for good for those who love God, to those who are called according to His plan and purpose.
 :::
 
@@ -29,7 +29,7 @@ I don’t really struggle with the idea of God not hearing my prayers. I always 
 
 Something else I’m learning is that sometimes I’m not called to pray a specific way that is being asked of me by other people. I was recently asked by a friend to pray for his divorce. Most of what he asked was more of an attack on his soon to be ex-wife. Yeah, I’m not going to pray that way…hehehe Instead, I’ll pray for discernment for both sides and especially pray for peace for the children. In these situations, there is *her* story, *his* story, and the actual *truth*. And the children are always the innocent ones impacted. So the prayer is more about softening of hearts and reconciliation, even if that means just friendly relations and not restoration of the marriage.
 
-::: details 2 Corinthians 12:7-10 AMP
+:::details[2 Corinthians 12:7-10 AMP]
 Because of the surpassing greatness and extraordinary nature of the revelations [which I received from God], for this reason, to keep me from thinking of myself as important, a thorn in the flesh was given to me, a messenger of Satan, to torment and harass me—to keep me from exalting myself! [Job 2:6] Concerning this I pleaded with the Lord three times that it might leave me; but He has said to me, “My grace is sufficient for you [My lovingkindness and My mercy are more than enough—always available—regardless of the situation]; for [My] power is being perfected [and is completed and shows itself most effectively] in [your] weakness.” Therefore, I will all the more gladly boast in my weaknesses, so that the power of Christ [may completely enfold me and] may dwell in me. So I am well pleased with weaknesses, with insults, with distresses, with persecutions, and with difficulties, for the sake of Christ; for when I am weak [in human strength], then I am strong [truly able, truly powerful, truly drawing from God’s strength].
 :::
 
@@ -37,6 +37,6 @@ As Paul can attest to, God’s answer can be *no*. Sometimes we are called to en
 
 In my hand written reflection notes for my *The Chosen* devotion today, I talked about a *thorn* in my life. It’s something I have been praying about most of my adult life. It’s a prayer that hasn’t been answered yet. And the secondary part of the prayer is about taking away something that is causing me emotional pain. Yet, as I was reflecting today, I realized that if God did take that part of me away, I wouldn’t be who I am. Regardless what His answer is, I’m grateful that His Power is made perfect in my weakness. As difficult as it has been and may continue to be, *God hasn’t given me anything He can’t handle* (thank you Chérie for that phrasing).
 
-::: details James 1:2-4 AMP
+:::details[James 1:2-4 AMP]
 Consider it nothing but joy, my brothers and sisters, whenever you fall into various trials. Be assured that the testing of your faith [through experience] produces endurance [leading to spiritual maturity, and inner peace]. And let endurance have its perfect result and do a thorough work, so that you may be perfect and completely developed [in your faith], lacking in nothing.
 :::

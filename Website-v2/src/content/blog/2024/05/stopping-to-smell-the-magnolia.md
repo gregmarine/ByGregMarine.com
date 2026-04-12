@@ -10,7 +10,7 @@ cover: "https://res.cloudinary.com/dh6izdwyd/image/upload/v1775931153/bygregmari
 
 My wake up devotion (daily refresh and verse of the day in the Bible app) really spoke to me today. I may end up writing about this throughout the day…hehehe
 
-::: details Galatians 6:8-9 AMP
+:::details[Galatians 6:8-9 AMP]
 For the one who sows to his flesh [his sinful capacity, his worldliness, his disgraceful impulses] will reap from the flesh ruin and destruction, but the one who sows to the Spirit will from the Spirit reap eternal life. Let us not grow weary or become discouraged in doing good, for at the proper time we will reap, if we do not give in.
 :::
 
@@ -32,7 +32,7 @@ I’m on my morning walk. I just wanted to drop in and say just how amazing God 
 
 I’ve been thinking about what *good* means in the passage from earlier. What does it mean to do or be *good*? It’s good to open a door for someone. It’s good to offer someone help if it appears they may need it. It’s good to smile and ask them how their day is going. It’s good to give gifts to others. But is this the *good* God is talking about? Although those are good things to do, I wonder if the *good* referenced there is more about the condition of the heart? What is the motivation behind the act. The act itself may not be the *good* when I consider why the act is being performed. The passage talks about reaping what is sown. When the motivation is from the flesh, it can lead to ruin. The *good* act is corruptible. However, if the motivation is of the Spirit, the *good* leads to Life. So, is the *good* more about what is in my heart more so than the act itself? That question led me to the following passage: 
 
-::: details Matthew 7:7-12 AMP
+:::details[Matthew 7:7-12 AMP]
 “Ask and keep on asking and it will be given to you; seek and keep on seeking and you will find; knock and keep on knocking and the door will be opened to you. [Luke 11:9-13] For everyone who keeps on asking receives, and he who keeps on seeking finds, and to him who keeps on knocking, it will be opened. Or what man is there among you who, if his son asks for bread, will [instead] give him a stone? Or if he asks for a fish, will [instead] give him a snake? If you then, evil (sinful by nature) as you are, know how to give good and advantageous gifts to your children, how much more will your Father who is in heaven [perfect as He is] give what is good and advantageous to those who keep on asking Him. So then, in everything treat others the same way you want them to treat you, for this is [the essence of] the Law and the [writings of the] Prophets.”
 :::
 
@@ -101,7 +101,7 @@ Chérie’s package arrived! Yay!!! I just heard from her that she received it =
 
 Earlier I mentioned making progress and the process God has been taking me through. On Sunday, the pastor at CCGS said something that resonated with me. He said, “process is always greater than the progress.” In my notes, I added (God’s) and (our) to make it say *God’s process is always greater than our progress*. I absolutely love that! I often say, as I did earlier, that I’m a work in progress making progress. God is definitely not finished with me yet. And part of that is my need to focus more on Him and not so much on myself. Meaning, I need to lean into His process and be less concerned about the progress I’m making. In fact, I think that will help me be less discouraged when I take two steps back from the one step forward that happens sometimes. Also, by focusing on God’s process, it’ll be over before I know it xD The scripture passage the pastor read from illustrated this quite well, as in the end, they reach the other shore…
 
-::: details John 6:15-21 AMP
+:::details[John 6:15-21 AMP]
 Then Jesus, knowing that they were going to come and take Him by force to make Him king, withdrew again to the mountainside by Himself. When evening came, His disciples went down to the sea, and they got into a boat and started to cross the sea to Capernaum. It was already dark, and Jesus had still not come [back] to them. The sea was getting rough and rising high because a strong wind was blowing. Then, when they had rowed three or four miles [and were near the center of the sea], they saw Jesus walking on the sea and approaching the boat; and they were [terribly] frightened. But Jesus said to them, “It is I (I AM); do not be afraid.” [Matt 14:27; John 8:58] Then they were willing to take Him on board the boat, and immediately the boat reached the [shore of the] land to which they were going.
 :::
 
@@ -113,7 +113,7 @@ I had a lovely time with Kerry. We went to Oasis Coffee Spot again. I enjoy that
 
 To continue what I was saying before, I have a long way to go. But my progress isn’t as important as the process God is taking me through. I’ll get there in His timing. And He will be the One who’ll get me there. I need to remain consistent and constant with my prayers and remain in The Word throughout the process. From a human perspective, these things are tough and don’t really make much sense. With a Spirit led perspective, it all comes together. This *Greg suit* of flesh I’m wearing tends to get in the way of the spirit sometimes…hehehe So I must keep watching and praying!
 
-::: details Matthew 26:41 AMP
+:::details[Matthew 26:41 AMP]
 “Keep actively watching and praying that you may not come into temptation; the spirit is willing, but the body is weak.”
 :::
 

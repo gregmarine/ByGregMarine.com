@@ -1,6 +1,48 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/* ─── Markdown directive containers ─────────────────────────────────────── */
+
+.directive-details {
+  background-color: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1rem;
+  margin-block: 1.25rem;
+}
+
+.directive-details > summary {
+  cursor: pointer;
+  font-weight: 600;
+  list-style: revert; /* keep the browser's native chevron */
+  padding: 0.125rem 0;
+}
+
+.directive-details > summary::-webkit-details-marker {
+  display: revert;
+}
+
+/* Smooth reveal for content below the summary */
+.directive-details > *:not(summary) {
+  margin-top: 0.625rem;
+}
+
+.directive-warning {
+  background-color: #fffbea;
+  border: 1px solid #f59e0b;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1rem;
+  margin-block: 1.25rem;
+}
+
+/* ─── Unstyled directive stubs (pullquote, aside, reflection) ─────────────── */
+
+.directive-pullquote,
+.directive-aside,
+.directive-reflection {
+  /* intentionally unstyled — classes are in place for future use */
+}
+
 @layer base {
   :root {
     color-scheme: light dark;

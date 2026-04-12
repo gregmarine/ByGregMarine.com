@@ -26,11 +26,11 @@ The second part of John 11:42 shows Jesus saying, *...so they may believe that Y
 
 ## Eaton Canyon
 
-::: warning Trigger Warning
+:::warning[Trigger Warning]
 I have some thoughts about a place that holds a special place in my heart. Eaton Canyon and the surrounding area were impacted by a [wildfire](https://en.wikipedia.org/wiki/Eaton_Fire), that began the evening of January 7, 2025. Some of my thoughts might be triggering. I pour out my broken heart for those impacted by this tragedy. I wanted to warn you before you read on. Sometimes, the words need to be written. But they don't always need to be read. If today is not the kind of day to read this, I've collapsed this part of the entry so it can be easily bypassed <3
 :::
 
-::: details Some thoughts on the Eaton Canyon Fire
+:::details[Some thoughts on the Eaton Canyon Fire]
 Last week, wildfires broke out in LA county California. A lot of people are talking about it. I've only talked about it with my family and those friends who live there. I haven't said anything on social media. I haven't even written about it here until now. I didn't know what to say. I only know how I feel. And those feelings have fueled many prayers over the last several days. I'm grateful that everyone I know there is safe. But so much has been destroyed, it isn't over yet, and people have lost so much. And some have lost their very lives.
 
 Eaton Canyon is one of those areas impacted by a wildfire. It began there and it's a big one that's still spreading! Eaton Canyon is where I had an amazing experience on July 4th last year. I hiked up the side of a mountain from the park and across a large distance at a great altitude on the Altadena Crest Trail. I looked down from the highest point I made it to and saw the foothill below of the city of Altadena. Everything I saw that day is most likely gone now.
