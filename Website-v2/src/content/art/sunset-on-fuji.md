@@ -5,7 +5,7 @@ date: 2021-09-20T15:03:00-04:00
 tags:
   - 4x4Canvas
   - Impressionism
-  - WaterColor
+  - Watercolor
   - Sunset
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776020435/IMG_0039_faeuky.jpg
@@ -14,7 +14,7 @@ images:
     caption: '"Sunset on Fuji" in front of the reference photo'
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776020434/IMG_0203_dvyvni.jpg
     caption: '"Sunset on Fuji" on display'
-medium: Water color on canvas
+medium: Watercolor on canvas
 yearCreated: 2021
 collection: 2021 Renaissance
 ---
