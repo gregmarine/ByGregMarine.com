@@ -2,10 +2,7 @@
 title: Weathered by Waves
 description: Weathered by Waves
 date: 2021-09-21T15:03:00-04:00
-tags:
-  - 4x4Canvas
-  - Impressionistic
-  - Watercolor
+tags: []
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776023405/IMG_0048_rxqktn.jpg
     caption: Weathered by Waves
@@ -13,6 +10,11 @@ images:
     caption: '"Weathered by Waves" in front of its photo inspiration'
 medium:
   - Watercolor on Canvas
+style:
+  - Impressionism
+subject:
+  - Seascape
+dimensions: 4x4"
 yearCreated: 2021
 collection: 2021 Renaissance
 ---
