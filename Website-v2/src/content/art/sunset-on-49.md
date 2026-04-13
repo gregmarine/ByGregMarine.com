@@ -12,7 +12,8 @@ images:
     caption: Sunset on 49
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776042886/IMG_0068_fsq9ko.jpg
     caption: '"Sunset on 49" in front of its reference photo'
-medium: Watercolor on canvas
+medium:
+  - Watercolor on Canvas
 yearCreated: 2021
 collection: 2021 Renaissance
 ---

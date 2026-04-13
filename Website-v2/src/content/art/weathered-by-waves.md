@@ -11,7 +11,8 @@ images:
     caption: Weathered by Waves
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776023609/IMG_0047_psvi3u.jpg
     caption: '"Weathered by Waves" in front of its photo inspiration'
-medium: Watercolor on canvas
+medium:
+  - Watercolor on Canvas
 yearCreated: 2021
 collection: 2021 Renaissance
 ---

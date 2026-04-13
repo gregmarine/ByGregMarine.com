@@ -10,7 +10,8 @@ tags:
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776042300/IMG_0054_yacxxn.jpg
     caption: Bonsai
-medium: Watercolor on canvas
+medium:
+  - Watercolor on Canvas
 yearCreated: 2021
 collection: 2021 Renaissance
 ---

@@ -10,7 +10,8 @@ tags:
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776022662/IMG_0043_t0g5sz.jpg
     caption: Seedling
-medium: Watercolor on canvas
+medium:
+  - Watercolor on Canvas
 yearCreated: 2021
 collection: 2021 Renaissance
 ---

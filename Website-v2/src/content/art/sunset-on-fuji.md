@@ -14,7 +14,8 @@ images:
     caption: '"Sunset on Fuji" in front of the reference photo'
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776020434/IMG_0203_dvyvni.jpg
     caption: '"Sunset on Fuji" on display'
-medium: Watercolor on canvas
+medium:
+  - Watercolor on Canvas
 yearCreated: 2021
 collection: 2021 Renaissance
 ---

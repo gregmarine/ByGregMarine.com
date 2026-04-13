@@ -24,7 +24,78 @@
       fields:
         - { label: Image, name: src, widget: image }
         - { label: Caption, name: caption, widget: string, required: false }
-    - { label: Medium, name: medium, widget: string, required: false }
+    - label: Medium
+      name: medium
+      widget: select
+      multiple: true
+      required: false
+      options:
+        - Watercolor on Canvas
+        - Acrylic on Canvas
+        - Oil on Canvas
+        - Gouache
+        - Pastel
+        - Ink
+        - Charcoal
+        - Pencil
+        - Watercolor on Paper
+        - Digital Painting
+        - Pixel Art
+        - Generative Art
+        - Mixed Media
+        - Mixed Media Digital
+        - Photography
+    - label: Style
+      name: style
+      widget: select
+      multiple: true
+      required: false
+      options:
+        - Realism
+        - Photorealism
+        - Hyperrealism
+        - Naturalism
+        - Plein Air
+        - Impressionism
+        - Post-Impressionism
+        - Neo-Impressionism
+        - Pointillism
+        - Expressionism
+        - Abstract Expressionism
+        - Abstract
+        - Geometric Abstract
+        - Minimalism
+        - Color Field
+        - Art Nouveau
+        - Art Deco
+        - Folk Art
+        - Naive Art
+        - Outsider Art
+        - Decorative
+        - Illustrative
+        - Concept Art
+        - Surrealism
+        - Fantasy
+        - Whimsy
+    - label: Subject
+      name: subject
+      widget: select
+      multiple: true
+      required: false
+      options:
+        - Landscape
+        - Seascape
+        - Portrait
+        - Figurative
+        - Still Life
+        - Abstract
+        - Animals
+        - Architecture
+        - Nature
+        - Urban
+        - Narrative
+        - Fantasy
+    - { label: Dimensions, name: dimensions, widget: string, required: false, hint: "e.g. 4×4, 5×7, 11×14" }
     - { label: Year Created, name: yearCreated, widget: number, required: false }
     - { label: Collection, name: collection, widget: string, required: false, hint: "Optional. Group this piece under a named collection." }
     - { label: Body, name: body, widget: markdown, required: false }
