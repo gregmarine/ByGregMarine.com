@@ -2,16 +2,17 @@
 title: Seedling
 description: Seedling
 date: 2021-09-20T15:03:00-04:00
-tags:
-  - 2x2Canvas
-  - Minimalism
-  - Watercolor
-  - Wabi-Sabi
+tags: []
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776022662/IMG_0043_t0g5sz.jpg
     caption: Seedling
 medium:
   - Watercolor on Canvas
+style:
+  - Minimalism
+subject:
+  - Nature
+dimensions: 2x2"
 yearCreated: 2021
 collection: 2021 Renaissance
 ---
