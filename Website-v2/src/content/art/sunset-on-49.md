@@ -5,7 +5,7 @@ date: 2021-09-22T15:03:00-04:00
 tags:
   - 4x4Canvas
   - Impressionism
-  - WaterColor
+  - Watercolor
   - Sunset
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776042885/IMG_0069_ehf5gm.jpg
