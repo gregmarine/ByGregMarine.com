@@ -2,16 +2,17 @@
 title: Bonsai
 description: Bonsai
 date: 2021-09-21T15:03:00-04:00
-tags:
-  - 3x3Canvas
-  - Impressionistic
-  - Watercolor
-  - Meditative
+tags: []
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776042300/IMG_0054_yacxxn.jpg
     caption: Bonsai
 medium:
   - Watercolor on Canvas
+style:
+  - Impressionism
+subject:
+  - Nature
+dimensions: 3x3"
 yearCreated: 2021
 collection: 2021 Renaissance
 ---
