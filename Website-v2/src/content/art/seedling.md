@@ -5,12 +5,12 @@ date: 2021-09-20T15:03:00-04:00
 tags:
   - 2x2Canvas
   - Minimalism
-  - WaterColor
+  - Watercolor
   - Wabi-Sabi
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776022662/IMG_0043_t0g5sz.jpg
     caption: Seedling
-medium: Water color on canvas
+medium: Watercolor on canvas
 yearCreated: 2021
 collection: 2021 Renaissance
 ---
