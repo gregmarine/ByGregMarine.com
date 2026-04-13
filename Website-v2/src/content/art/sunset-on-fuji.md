@@ -6,6 +6,7 @@ tags:
   - 4x4Canvas
   - Impressionism
   - WaterColor
+  - Sunset
 images:
   - src: https://res.cloudinary.com/dh6izdwyd/image/upload/v1776020435/IMG_0039_faeuky.jpg
     caption: Sunset on Fuji
