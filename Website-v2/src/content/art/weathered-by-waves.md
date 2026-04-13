@@ -15,4 +15,4 @@ medium: Water color on canvas
 yearCreated: 2021
 collection: 2021 Renaissance
 ---
-I felt very weathered in that season of life. The waves kept coming and were wearing me down. The photo that inspired this piece came from a moment where I was at peace in a less than peaceful time on life. I sometimes want to toss this painting away because of what it reminds me of. But the peaceful nature of the moment the photo was taken keeps the painting safe.
+I felt very weathered in that season of life. The waves kept coming and were wearing me down. The photo that inspired this piece came from a moment where I was at peace in a less than peaceful time of life. I sometimes want to toss this painting away because of what it reminds me of. But the peaceful nature of the moment the photo was taken keeps the painting safe.
