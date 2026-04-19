@@ -21,3 +21,11 @@ This has been my favorite birthday so far. I've had a complicated relationship w
 I'm not sure if this will be the last time I call this out, but I love my new website and how easy it is to post now. The photo snafu yesterday was simply the delay in syncing photos off my phone...LOL But being able to write while on vacation is a Blessing. I have these little moments to pop in and talk about what's on my mind without all the friction to get it written, like I had before. I even made a tweak to yesterday's post from my phone at one point yesterday...LOL I should try doing a timestamp entry from my phone sometime soon...hehehe
 
 I woke up early today. My brain kicked in around 4:30ish. I didn't get out of bed until 5:30ish, though. Considering what time that is in my time zone, it doesn't surprise me. I haven't been sleeping on my preferred schedule back home lately. But I still feel well rested. I slept soundly for about 5 and half hours. I'm ready for our Dapper Day at Disney.
+
+## Afternoon
+
+We are having our break now...hehehe Although it was busy at security, we didn't run into any issues this time. Everyone used their words...LOL Our first attraction was the tram, of course. I'll probably go through my recap in feature post. But here is a run down of what we did: Omnibus, PhotoPass pictures, walked through the castle, took a selfie video, pirates, Tiana's, the canoes, walked through Galaxy's Edge, Casey Jr., Storybook Land, Small World, listened to one song of the Dapper Dans, successfully went to the boutique to get our Dapper Day pins, and now we are taking our break. That's a lot for the day and we are only half way there...hehehe
+
+The park seemed a little busy. But the lines we did weren't very long. I'm having such an amazing time. I love experiencing these things with Cherie. And each time we do so many firsts. Most of what we did today were firsts for one or both of us; while a few were firsts for her in a long time.
+
+We are going back for me this evening! We are going to take over Disney's California Adventure...hehehe
