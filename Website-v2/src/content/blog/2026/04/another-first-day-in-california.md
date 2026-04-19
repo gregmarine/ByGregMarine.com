@@ -30,3 +30,23 @@ I love everything from the birthday gifts. She made a *Mugford* coffee mug of Bu
 Cherie's train was about 11 minutes late. There was something on the track that needed to be taken care of at one of the crossings. But other than that, it seemed like a normal journey to get here. Ohh...she did mention clowns on the first train...LOL I need to remember to ask her about that...LOL She's call checked in now and enjoying the start of her suite life...hehehe We are going to meet up later to head over to Downtown Disney District for our evening ❤️
 
 She made her chicken and rice again. I can't wait to eat that here in a moment. Other than the excitement of her arrival and the birthday surprises, my afternoon was pretty chill. I went to Sprouts and Walmart to stock up on some things for the weekend. I think I'm going to start doing that each time. Things like bottled water cost so much at the hotel. I got a 12 pack for less than the price of just 1 bottle at the hotel...LOL And, of course, I can't bring such things on the planes with me...hehehe I also got some snacks to have in between meals and on my journey home Tuesday. On my drive, I saw some familiar places. I'm sure I've driven or ridden on some of those roads before...LOL Or I'm just getting that *home* feeling again...hehehe
+
+## Evening
+
+I may go into more detail about tonight when I do my vacation recap posts. But I'll at least cover some of the highlights...hehehe We had a great time at Downtown Disney District and the Resorts. Before we left the hotel, we had our traditional moment of prayer in the lobby. And then we made our way to DTD.
+
+![Fun at the gazebo](https://res.cloudinary.com/dh6izdwyd/image/upload/v1776575514/IMG_8490_xrktjh.jpg "Fun at the gazebo")
+
+Our first stop, besides needing to go through DTD to get there, was over at Disneyland Hotel for our gazebo. We always stop by it on our Monday visit. But this time we wanted to get some video and pictures in our outfits. Since the sun was still out, we were able to get a pair of fun videos. I really enjoy doing that and I loved dancing with her, even though no music was playing...hehehe
+
+After that, we headed back over to DTD and walked a bit. We eventually made our way to Grand Californian for the boutique. But they had just closed up shop. We'll have to drop by tomorrow sometime between our first park hop. But it did give us time to sit out in that wooded area and chat for a while.
+
+We then went back to DTD and she got some magnets for her mom. I took the opportunity to do my smile discount joke...LOL I know the Cast appreciates the humor. And by Cherie's reaction each time, I have a feeling she enjoys that too...hehehe
+
+We did various dancing throughout the evening to some of the music. Overall, it was a great night. It was nice not dealing with the rain this time. And we were able to see so many more people dressed up for Dapper Day.
+
+We are back at the hotel now. There was music playing over at ARTIC when we got back. And there was some sort of fireworks display going on too. The fireworks are over. And I'm sure the music won't last much longer.
+
+Today was a great day. I am so Blessed 🥹
+
+![Our Gazebo Portrait](https://res.cloudinary.com/dh6izdwyd/image/upload/v1776575514/IMG_8489_szw3qe.jpg "Our Gazebo Portrait")
