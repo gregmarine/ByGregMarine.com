@@ -5,6 +5,7 @@ date: 2026-04-22T14:40:00-04:00
 tags:
   - Vacation
   - Travel
+  - Patience
 ---
 Well, it's the day after a long day of travel. And the end of another amazing adventure! I don't have much to say today because I'm exhausted...LOL The travel yesterday was pretty smooth until the very end. My flights were both within minutes of their scheduled times. There weren't any shifts in the gates I needed to be at to get to my planes. And I enjoyed some time working on my "Peace" art piece. So overall, it was a pleasant day.
 
