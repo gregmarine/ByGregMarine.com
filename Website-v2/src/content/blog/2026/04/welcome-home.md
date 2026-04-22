@@ -29,3 +29,7 @@ But, I think I might be justified in being frustrated about how things went last
 But all that said, I'm grateful God got me home safe and sound. I didn't exactly feel a welcome home when I got back. That's okay. It will all be fine. And I get to enjoy time with my parents and sister with her husband for the next few days. That's a wonderful thing. It also helps that I just had another amazing adventure with my best friend. We had such an amazing weekend. I can't wait to write about it! I'll likely hold off until next week so I can devote the attention it deserves ❤️ Although Tampa didn't welcome me home, friends and family wished me a Blessed Welcome Home. I can only imagine what that will be like when we all enter His Gates with thanksgiving in our hearts...and His courts with praise 🥹
 
 I forgot to attach the photo of all the amazing birthday gifts I received from Cherie when I wrote about it the other day. So here it is now...with a bonus photo of the shirt she helped me choose with the gift card she gave me ❤️
+
+![Birthday gifts](https://res.cloudinary.com/dh6izdwyd/image/upload/v1776604696/IMG_8472_djtand.jpg "Birthday gifts from Cherie 🤩")
+
+![Mirror selfie](https://res.cloudinary.com/dh6izdwyd/image/upload/v1776887412/IMG_8685_xvyjjg.jpg "Mirror selfie with the shirt Cherie got me 🤩")
