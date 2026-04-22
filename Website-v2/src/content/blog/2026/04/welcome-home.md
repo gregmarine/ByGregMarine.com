@@ -12,7 +12,7 @@ The trouble from yesterday only happened once we landed. We landed within a few 
 
 After I got off the plane, I didn't recognize anything. It was a terminal I had never been to. I stopped off at the restroom first. But then I had to follow the signs because I had no muscle memory of where to go...LOL It was easy to navigate, though. Once I was at the main terminal, Phoebe and I had a little chat...LOL She's the giant flamingo that Tampa Airport is known for. I explained the inconvenience of the evening to her so she could talk to the higher ups about it...LOL I kid, of course.
 
-![Selfie with Phoebe](https://res.cloudinary.com/dh6izdwyd/image/upload/v1776884670/IMG_8675_oip7bq.jpg "Selfie with Phoebe, the TPA mascot")
+![Selfie with Phoebe, the TPA mascot](https://res.cloudinary.com/dh6izdwyd/image/upload/v1776884670/IMG_8675_oip7bq.jpg "Selfie with Phoebe, the TPA mascot")
 
 Once I got to the train to get back to the economy parking lot, I had just missed the train that was there as I got to the top of the stairs. The sign said they were running trains every 6 minutes. But after 10 minutes, nothing...LOL Then the next train was finally on its way...*in 5 minutes*. Yeah, that was a long wait after the nearly 45 minutes of waiting since we landed. Plus, I was thinking about how long the flight was to begin with...LOL
 
@@ -30,6 +30,6 @@ But all that said, I'm grateful God got me home safe and sound. I didn't exactly
 
 I forgot to attach the photo of all the amazing birthday gifts I received from Cherie when I wrote about it the other day. So here it is now...with a bonus photo of the shirt she helped me choose with the gift card she gave me ❤️
 
-![Birthday gifts](https://res.cloudinary.com/dh6izdwyd/image/upload/v1776604696/IMG_8472_djtand.jpg "Birthday gifts from Cherie 🤩")
+![Birthday gifts from Cherie 🤩](https://res.cloudinary.com/dh6izdwyd/image/upload/v1776604696/IMG_8472_djtand.jpg "Birthday gifts from Cherie 🤩")
 
-![Mirror selfie](https://res.cloudinary.com/dh6izdwyd/image/upload/v1776887412/IMG_8685_xvyjjg.jpg "Mirror selfie with the shirt Cherie got me 🤩")
+![Mirror selfie with the shirt Cherie got me 🤩](https://res.cloudinary.com/dh6izdwyd/image/upload/v1776887412/IMG_8685_xvyjjg.jpg "Mirror selfie with the shirt Cherie got me 🤩")
