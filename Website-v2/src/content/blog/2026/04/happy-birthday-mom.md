@@ -2,7 +2,7 @@
 title: Happy Birthday, Mom!
 description: Today is Mom's birthday! This year is especially joyous because
   it's her first birthday after the cancer diagnosis ❤️
-date: 2026-04-23T14:28:00-04:00
+date: 2026-04-23T16:42:00-04:00
 tags:
   - Birthday
   - Mom
