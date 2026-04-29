@@ -2,7 +2,7 @@
 title: Back to Normal?
 description: I'm finished with a series of Spring vacations. The next series is
   a few weeks away. I'm in a restful moment that isn't quite normal...LOL
-date: 2026-04-28T16:13:00-04:00
+date: 2026-04-28T22:08:00-04:00
 tags:
   - Vacation
   - Spring
@@ -22,4 +22,4 @@ Work is going well this week. I've been a little extra busy. That's a good thing
 
 That said, my only real plan is to live *today*. Today is all I truly have anyway. Yesterday is long gone. Tomorrow isn't here, or even guaranteed. I appreciate the memories of all my yesterdays. I appreciate the hope I have for all of my tomorrows. What I am grateful for most is today ❤️
 
-Is that *normal*? Probably...LOL Is it *common*. Nope! I don't see many people who at least seem grateful to the current moment. I get it, though. I spent most of my life before these past few years holding on to my past while trying to sprint toward my future. I'm glad I finally started letting go of the past and waiting for the future. I've slowed way down and I *sit on the park bench next to the lake* far more often now...metaphorically speaking. If that is the new *normal* for me, I gladly accept that. It feels so much more peaceful. It takes a great deal of patience. And I know Who supplies both the Peace and Patience to enjoy the moments He has gifted to me.
+Is that *normal*? Probably...LOL Is it *common*. Nope! I don't see many people who at least seem grateful for the current moment. I get it, though. I spent most of my life before these past few years holding on to my past while trying to sprint toward my future. I'm glad I finally started letting go of the past and waiting for the future. I've slowed way down and I *sit on the park bench next to the lake* far more often now. Although I did get to do that with my best friend last Monday ❤️, I am mostly speaking metaphorically. If that is the new *normal* for me, I gladly accept that. It feels so much more peaceful. It takes a great deal of patience. And I know Who supplies both the Peace and Patience to enjoy the moments He has gifted to me.
