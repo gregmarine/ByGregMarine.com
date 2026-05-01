@@ -1,7 +1,7 @@
 ---
 title: Remotely Confused, with a Side of Rest
 description: Things may not all be back to normal, but they are just right.
-date: 2026-04-30T12:00:00-04:00
+date: 2026-04-30T20:52:00-04:00
 tags:
   - Work
   - Rest
