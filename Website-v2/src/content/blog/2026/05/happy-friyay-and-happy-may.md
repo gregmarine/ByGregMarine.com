@@ -5,6 +5,8 @@ description: Friday has arrived. And so has May. Two things worth celebrating.
 date: 2026-05-01T07:22:00-04:00
 tags:
   - Timestamp
+  - Work
+  - Patience
 ---
 ## 07:20am
 
