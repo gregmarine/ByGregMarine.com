@@ -2,6 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { siteConfig } from "../../site.config";
+import { buildWritingsDisplayList } from "@/lib/writings";
 import { cloudinaryAuto } from "@/lib/cloudinary";
 
 // Home tagline — graceful fallback if missing
@@ -17,9 +18,7 @@ const recentBlog = (await getCollection("blog"))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 3);
 
-const recentWritings = (await getCollection("writings"))
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 3);
+const recentWritings = buildWritingsDisplayList(await getCollection("writings")).slice(0, 3);
 
 const recentArt = (await getCollection("art"))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
@@ -101,12 +100,12 @@ function fmtDate(d: Date) {
         <ul class="space-y-3">
           {recentWritings.map((entry) => (
             <li>
-              <a href={`/writings/${entry.id}`} class="text-sm font-medium hover:underline underline-offset-4 block leading-snug">
-                {entry.data.title}
+              <a href={entry.href} class="text-sm font-medium hover:underline underline-offset-4 block leading-snug">
+                {entry.title}
               </a>
               <span class="text-xs text-gray-400 dark:text-gray-500">
-                <time datetime={entry.data.date.toISOString()}>{fmtDate(entry.data.date)}</time>
-                {entry.data.form && <span> · {entry.data.form}</span>}
+                <time datetime={entry.date.toISOString()}>{fmtDate(entry.date)}</time>
+                {entry.form && <span> · {entry.form}</span>}
               </span>
             </li>
           ))}

@@ -27,6 +27,7 @@ interface Props {
 }
 
 const { label, entries } = Astro.props;
+const { collection: collectionParam } = Astro.params;
 
 const bookMode = entries.some((e) => e.data.order !== undefined);
 
@@ -82,7 +83,7 @@ if (bookMode) {
             <ol class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
               {tocEntries.map((entry) => (
                 <li class="pt-6 first:pt-0 space-y-1.5">
-                  <a href={`/writings/${entry.id}`} class="group block space-y-1">
+                  <a href={`/writings/collection/${collectionParam}/${entry.id}`} class="group block space-y-1">
                     <h3 class="text-xl font-semibold group-hover:underline underline-offset-4">
                       {entry.data.order}. {entry.data.title}
                     </h3>

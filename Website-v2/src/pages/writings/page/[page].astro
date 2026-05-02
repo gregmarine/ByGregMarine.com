@@ -1,19 +1,19 @@
 ---
-import { getCollection, type CollectionEntry } from "astro:content";
+import { getCollection } from "astro:content";
 import type { PaginateFunction } from "astro";
 import WritingsLayout from "../../../layouts/WritingsLayout.astro";
+import { buildWritingsDisplayList, type WritingsDisplayItem } from "@/lib/writings";
 
 export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
-  const allEntries = (await getCollection("writings"))
-    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  const allItems = buildWritingsDisplayList(await getCollection("writings"));
   // Pages 2+ only; page 1 is handled by writings/index.astro
-  return paginate(allEntries, { pageSize: 10 })
+  return paginate(allItems, { pageSize: 10 })
     .filter(({ params }) => Number(params.page) >= 2);
 }
 
 interface Props {
   page: {
-    data: CollectionEntry<"writings">[];
+    data: WritingsDisplayItem[];
     currentPage: number;
     lastPage: number;
     url: { prev?: string; next?: string };
@@ -45,21 +45,21 @@ const tagline = meta?.tagline ?? "";
     <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
       {page.data.map((entry) => (
         <li class="pt-6 first:pt-0 space-y-1.5">
-          <a href={`/writings/${entry.id}`} class="group block space-y-1">
-            <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.data.title}</h2>
+          <a href={entry.href} class="group block space-y-1">
+            <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.title}</h2>
             <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
-              <time datetime={entry.data.date.toISOString()}>
-                {entry.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+              <time datetime={entry.date.toISOString()}>
+                {entry.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
               </time>
-              {entry.data.form && <span>&middot; {entry.data.form}</span>}
+              {entry.form && <span>&middot; {entry.form}</span>}
             </div>
-            {entry.data.description && (
-              <p class="text-gray-600 dark:text-gray-400">{entry.data.description}</p>
+            {entry.description && (
+              <p class="text-gray-600 dark:text-gray-400">{entry.description}</p>
             )}
           </a>
-          {entry.data.tags.length > 0 && (
+          {entry.tags.length > 0 && (
             <ul class="flex flex-wrap gap-1.5">
-              {entry.data.tags.map((tag: string) => (
+              {entry.tags.map((tag: string) => (
                 <li>
                   <a
                     href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
