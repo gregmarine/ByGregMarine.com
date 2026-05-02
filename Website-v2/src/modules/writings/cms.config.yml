@@ -19,7 +19,7 @@
       default: ""
       picker_utc: false
     - { label: Tags, name: tags, widget: list, default: [] }
-    - { label: Form, name: form, widget: select, required: false, options: [poem, essay, prose, story, other] }
+    - { label: Form, name: form, widget: select, required: false, options: [poem, essay, prose, story, book, other] }
     - { label: Collection, name: collection, widget: string, required: false, hint: "Optional. Group this entry under a named collection." }
     - { label: Cover Image, name: cover, widget: image, required: false }
     - { label: Order, name: order, widget: number, required: false, hint: "Used for sequential content like book chapters. Use 0 for the collection landing page (cover entry). Use 1, 2, 3... for chapters. Leave blank for standalone writings." }
