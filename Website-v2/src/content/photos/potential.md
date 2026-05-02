@@ -23,3 +23,7 @@ In my own life, I am somewhere close to that middle stage where I am a blossom t
 I will not be in full bloom until I reach God's Kingdom. I will remain the closed blossom as He continues to sanctify me in this life. My full potential is not yet realized. I can still see that potential and I look forward to the day when God's Work in my life is complete. I really do not know what is in store for my future. I only really know where I have been (the bud) and where my hope is (full bloom).
 
 In the meantime, I will live through His Love and draw from His Joy and Peace. With Patience, I'll extend Kindness, Goodness, Faithfulness, Gentleness, and with Self-Control, will remain aware of how God is sovereign over all my circumstances. I can trust Him. I hope He will use me to show the "buds" around me that they also have potential for a life with God.
+
+![The same bud of a magnolia, but with two stages of bloom in focus in the background ](https://res.cloudinary.com/dh6izdwyd/image/upload/v1777738953/IMG_8995_nxlkz1.jpg "The same bud of a magnolia, but with two stages of bloom in focus in the background ")
+
+![Magnolia blossom in full bloom ](https://res.cloudinary.com/dh6izdwyd/image/upload/v1777738954/IMG_8996_jpq1dz.jpg "Magnolia blossom in full bloom ")
