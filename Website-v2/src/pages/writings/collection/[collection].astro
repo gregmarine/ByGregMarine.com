@@ -1,5 +1,5 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, render } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import WritingsLayout from "../../../layouts/WritingsLayout.astro";
 import { collectionSlug } from "@/lib/collection";
@@ -17,10 +17,7 @@ export async function getStaticPaths() {
 
   return [...buckets.entries()].map(([slug, { label, entries }]) => ({
     params: { collection: slug },
-    props: {
-      label,
-      entries: entries.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
-    },
+    props: { label, entries },
   }));
 }
 
@@ -30,46 +27,153 @@ interface Props {
 }
 
 const { label, entries } = Astro.props;
+
+const bookMode = entries.some((e) => e.data.order !== undefined);
+
+let CoverContent: any = null;
+let coverEntry: CollectionEntry<"writings"> | null = null;
+let tocEntries: CollectionEntry<"writings">[] = [];
+let unorderedEntries: CollectionEntry<"writings">[] = [];
+let genericEntries: CollectionEntry<"writings">[] = [];
+
+if (bookMode) {
+  coverEntry = entries.find((e) => e.data.order === 0) ?? null;
+  if (coverEntry) {
+    const rendered = await render(coverEntry);
+    CoverContent = rendered.Content;
+  }
+  tocEntries = entries
+    .filter((e) => e.data.order !== undefined && e.data.order >= 1)
+    .sort((a, b) => a.data.order! - b.data.order!);
+  unorderedEntries = entries
+    .filter((e) => e.data.order === undefined)
+    .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+} else {
+  genericEntries = entries.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+}
 ---
 
 <WritingsLayout description={`Writings in the ${label} collection.`}>
   <section class="space-y-8">
-    <h1 class="text-3xl font-bold tracking-tight">{label}</h1>
-    {entries.length === 0 ? (
-      <p class="text-gray-500 dark:text-gray-400">No entries in this collection yet.</p>
-    ) : (
-      <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
-        {entries.map((entry) => (
-          <li class="pt-6 first:pt-0 space-y-1.5">
-            <a href={`/writings/${entry.id}`} class="group block space-y-1">
-              <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.data.title}</h2>
-              <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
-                <time datetime={entry.data.date.toISOString()}>
-                  {entry.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
-                </time>
-                {entry.data.form && <span>&middot; {entry.data.form}</span>}
-              </div>
-              {entry.data.description && (
-                <p class="text-gray-600 dark:text-gray-400">{entry.data.description}</p>
-              )}
-            </a>
-            {entry.data.tags.length > 0 && (
-              <ul class="flex flex-wrap gap-1.5">
-                {entry.data.tags.map((tag: string) => (
-                  <li>
-                    <a
-                      href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
-                      class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
-                    >
-                      {tag}
-                    </a>
-                  </li>
-                ))}
-              </ul>
+    {bookMode ? (
+      <>
+        {coverEntry ? (
+          <div class="space-y-4">
+            {coverEntry.data.cover && (
+              <img src={coverEntry.data.cover} alt={coverEntry.data.title} class="w-full rounded-lg object-cover max-h-96" />
             )}
-          </li>
-        ))}
-      </ul>
+            <h1 class="text-3xl font-bold tracking-tight">{coverEntry.data.title}</h1>
+            {coverEntry.data.subtitle && (
+              <p class="text-xl text-gray-500 dark:text-gray-400">{coverEntry.data.subtitle}</p>
+            )}
+            {CoverContent && (
+              <div class="prose dark:prose-invert max-w-none">
+                <CoverContent />
+              </div>
+            )}
+          </div>
+        ) : (
+          <h1 class="text-3xl font-bold tracking-tight">{label}</h1>
+        )}
+
+        {tocEntries.length > 0 && (
+          <div class="space-y-4">
+            <h2 class="text-2xl font-semibold">Table of Contents</h2>
+            <ol class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
+              {tocEntries.map((entry) => (
+                <li class="pt-6 first:pt-0 space-y-1.5">
+                  <a href={`/writings/${entry.id}`} class="group block space-y-1">
+                    <h3 class="text-xl font-semibold group-hover:underline underline-offset-4">
+                      {entry.data.order}. {entry.data.title}
+                    </h3>
+                    {entry.data.description && (
+                      <p class="text-gray-600 dark:text-gray-400">{entry.data.description}</p>
+                    )}
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </div>
+        )}
+
+        {unorderedEntries.length > 0 && (
+          <div class="space-y-4">
+            <h2 class="text-2xl font-semibold">More</h2>
+            <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
+              {unorderedEntries.map((entry) => (
+                <li class="pt-6 first:pt-0 space-y-1.5">
+                  <a href={`/writings/${entry.id}`} class="group block space-y-1">
+                    <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.data.title}</h2>
+                    <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+                      <time datetime={entry.data.date.toISOString()}>
+                        {entry.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+                      </time>
+                      {entry.data.form && <span>&middot; {entry.data.form}</span>}
+                    </div>
+                    {entry.data.description && (
+                      <p class="text-gray-600 dark:text-gray-400">{entry.data.description}</p>
+                    )}
+                  </a>
+                  {entry.data.tags.length > 0 && (
+                    <ul class="flex flex-wrap gap-1.5">
+                      {entry.data.tags.map((tag: string) => (
+                        <li>
+                          <a
+                            href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                            class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+                          >
+                            {tag}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </>
+    ) : (
+      <>
+        <h1 class="text-3xl font-bold tracking-tight">{label}</h1>
+        {genericEntries.length === 0 ? (
+          <p class="text-gray-500 dark:text-gray-400">No entries in this collection yet.</p>
+        ) : (
+          <ul class="space-y-6 divide-y divide-gray-100 dark:divide-gray-800">
+            {genericEntries.map((entry) => (
+              <li class="pt-6 first:pt-0 space-y-1.5">
+                <a href={`/writings/${entry.id}`} class="group block space-y-1">
+                  <h2 class="text-xl font-semibold group-hover:underline underline-offset-4">{entry.data.title}</h2>
+                  <div class="flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+                    <time datetime={entry.data.date.toISOString()}>
+                      {entry.data.date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}
+                    </time>
+                    {entry.data.form && <span>&middot; {entry.data.form}</span>}
+                  </div>
+                  {entry.data.description && (
+                    <p class="text-gray-600 dark:text-gray-400">{entry.data.description}</p>
+                  )}
+                </a>
+                {entry.data.tags.length > 0 && (
+                  <ul class="flex flex-wrap gap-1.5">
+                    {entry.data.tags.map((tag: string) => (
+                      <li>
+                        <a
+                          href={`/tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                          class="text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 px-2 py-0.5 rounded transition-colors"
+                        >
+                          {tag}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </li>
+            ))}
+          </ul>
+        )}
+      </>
     )}
   </section>
 </WritingsLayout>

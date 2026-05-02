@@ -62,6 +62,9 @@ const writings = defineCollection({
     tags: z.array(z.string()).default([]),
     collection: z.string().optional(),
     form: z.string().optional(),
+    cover: z.string().optional(),
+    subtitle: z.string().optional(),
+    order: z.number().optional(),
   }),
 });
 
