@@ -1,13 +1,19 @@
 ---
 import { getCollection, render, type CollectionEntry } from "astro:content";
-import WritingsLayout from "../../layouts/WritingsLayout.astro";
+import WritingsLayout from "../../../../layouts/WritingsLayout.astro";
 import { collectionSlug } from "@/lib/collection";
 
 export async function getStaticPaths() {
   const entries = await getCollection("writings");
   return entries
-    .filter((e) => e.data.order === undefined)
-    .map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+    .filter((e) => e.data.order !== undefined && e.data.order >= 1)
+    .map((entry) => ({
+      params: {
+        collection: collectionSlug(entry.data.collection!),
+        slug: entry.id,
+      },
+      props: { entry },
+    }));
 }
 
 interface Props {
@@ -17,14 +23,21 @@ interface Props {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-// Scope prev/next to the same collection group (named collection or uncollected "other")
-const collectionKey = entry.data.collection ?? null;
-const scopedEntries = (await getCollection("writings"))
-  .filter((e) => (e.data.collection ?? null) === collectionKey && e.data.order === undefined)
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-const index = scopedEntries.findIndex((e) => e.id === entry.id);
-const prevPost = scopedEntries.length > 1 ? (scopedEntries[index + 1] ?? null) : null; // older
-const nextPost = scopedEntries.length > 1 ? (scopedEntries[index - 1] ?? null) : null; // newer
+const colSlug = collectionSlug(entry.data.collection!);
+
+const scopedOrdered = (await getCollection("writings"))
+  .filter(
+    (e) =>
+      e.data.collection &&
+      collectionSlug(e.data.collection) === colSlug &&
+      e.data.order !== undefined &&
+      e.data.order >= 1,
+  )
+  .sort((a, b) => a.data.order! - b.data.order!);
+
+const index = scopedOrdered.findIndex((e) => e.id === entry.id);
+const prevPost = index > 0 ? scopedOrdered[index - 1] : null;
+const nextPost = index < scopedOrdered.length - 1 ? scopedOrdered[index + 1] : null;
 ---
 
 <WritingsLayout
@@ -33,9 +46,18 @@ const nextPost = scopedEntries.length > 1 ? (scopedEntries[index - 1] ?? null) :
   date={entry.data.date}
   prevPost={prevPost}
   nextPost={nextPost}
-  currentCollection={entry.data.collection ? collectionSlug(entry.data.collection) : "other"}
+  currentCollection={colSlug}
   collection={entry.data.collection ?? null}
+  postBasePath={`/writings/collection/${colSlug}`}
 >
+  <div class="not-prose mb-6">
+    <a
+      href={`/writings/collection/${colSlug}`}
+      class="text-sm text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 transition-colors"
+    >
+      ← {entry.data.collection}
+    </a>
+  </div>
   <Content />
   {entry.data.tags.length > 0 && (
     <div class="not-prose mt-8 pt-6 border-t border-gray-100 dark:border-gray-800">
