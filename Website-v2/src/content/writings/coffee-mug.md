@@ -1,5 +1,6 @@
 ---
 title: Coffee Mug
+subtitle: Can a coffee mug make a difference?
 description: A fictional story about living in a rut...until something changed
 date: 2026-05-03T12:30:00-04:00
 tags:
