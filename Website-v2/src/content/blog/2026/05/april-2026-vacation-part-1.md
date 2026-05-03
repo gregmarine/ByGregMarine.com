@@ -9,6 +9,7 @@ tags:
   - DowntownDisney
   - California
   - Anaheim
+  - April2026Vacation
 ---
 It might be hard to imagine having 3 major vacations in 8 months. But we did it! I wrote all about our first one that we took in August last year. I didn't quite finish writing about our November one...LOL But I'm back now to start documenting our 3rd one. Last month, we had another amazing adventure! Interestingly, we have our 4th just ahead of us in 2 weeks...LOL That's right! 4 in 9 months. It's so exciting 🤩
 
