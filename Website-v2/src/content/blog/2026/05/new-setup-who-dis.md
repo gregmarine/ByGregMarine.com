@@ -11,7 +11,7 @@ Now that I'm able to log into my work's virtual desktop from my MacBook, I've ma
 
 Also, now that I'm back to using my MacBook for blogging, and generally working with my new website, I get the luxury of using this fancy keyboard...hehehe I hadn't used it with my MacBook yet...LOL And the reason I bought it in the first place was to write. I originally got it to use with my Supernote Manta. I then started using it for work. But my poor MacBook looked with a side eye in disappointment that it couldn't also use the fancy keyboard 👀 LOL j/k
 
-![New workspace setup](https://res.cloudinary.com/dh6izdwyd/image/upload/v1777821137/IMG_9010_bmb2tp.jpg "New workspace setup")
+![New workspace setup](https://res.cloudinary.com/dh6izdwyd/image/upload/v1777833911/IMG_9013_e4dzjg.jpg "New workspace setup")
 
 Something else I did this morning was finishing setting up all of my reservations for our upcoming vacation. I now have my Disney ticket, hotel room, and vehicle all reserved. We had our last vacation 2 weeks ago. Now we are getting ready for our next one in 2 weeks from now...hehehe It is such a Blessing to be able to do this ❤️
 
