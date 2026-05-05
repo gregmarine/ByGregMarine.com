@@ -34,3 +34,13 @@ I've also done some "fire off and forget" communications. I am juggling a few pr
 Interestingly, it just so happens that I started my note taking routine a year ago this coming Thursday 🤩 It has evolved over the course of the year. But it all began on May 7th last year when I walked into Best Buy and bought my Kindle Scribe; 2024 edition. I still have it, but rarely use it now. I mostly use the Supernotes that I got in July. The Scribe gave me an appetite for electronic handwritten note taking that it simply couldn't satisfy...LOL
 
 My note taking workflow is what inspired my ideas for NoteSprout. It seems serendipitous that this new app is being born a year after I started using e-ink 🥰
+
+## 06:45 pm
+
+I really enjoyed watching "Snow White and the Seven Dwarfs" today 🥰 I've seen it a dozen times at least. But it still felt new this time...hehehe I even noticed a few things I don't recall ever paying attention to. Such as the little blue bird she sees just before the huntsman goes after her is likely the same blue bird we see later with its parents. And the little fly that falls asleep when everyone else goes to sleep...LOL
+
+The tacos were divine...LOL j/k They were good. That's all I did for Cinco de Mayo. Basically a normal Taco Tuesday 🤷‍♂️
+
+I'm enjoying this week's Bible study once again. It's on Kindness. I've already learned a bit more about kindness than I thought I knew. I'm also realizing I'm not always kind with myself. I'm looking forward to all that I'll experience this week as the study progresses.
+
+I'm going to work on NoteSprout next. I hope to get the initial MVP built and running on my BOOX Note Air 5C tonight. It's okay if I don't. It would just be cool to go from "hey, I have an idea" to "hey, I'm actually writing my first strokes" within a few days. Who knows, maybe I'll have a full app by the end of the month...LOL
