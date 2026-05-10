@@ -35,3 +35,21 @@ After the castle, we made our way to New Orleans Square where we attempted to ta
 ![Selfie video hands touching photo](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778427516/IMG_1477_zsj4tx.jpg "Selfie video hands touching photo")
 
 ![Selfie video fun photo](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778427509/IMG_1476_w9xy6x.jpg "Selfie video fun photo")
+
+With Pirates being right there, we checked the wait time and decided to ride it. That one has become a tradition for us...hehehe I think we'll always ride it. Cherie's dress got a little wet this time...LOL We were on the front row 🤩
+
+Her dress getting wet worked out because our next attraction was Tiana's...LOL The day wasn't too cold and the sun was blazing. So we knew that it wouldn't take long for us to dry off. With the short wait time, it made perfect sense for us to ride it that day 🤩 I think it is identical to the one at Walt Disney World 🤔 I really enjoy that ride and I'm glad we were able to do it.
+
+Next was another first for me. We did the canoes! They don't have that in Florida...LOL Alligators are a problem here...hehehe The view from a canoe is so much better on Rivers of America. And the shared experience with so many strangers was fun 🤩 I think this one will become another tradition for us 🤩
+
+As we continued to dry off, we took a walk through a galaxy far, far away...hehehe Galaxy's Edge is always a fun site to see. It really does feel like another planet. Batuu, the be precise...LOL I cherish the photos Cherie gave to me from her first visit to Galaxy's Edge 2 years ago. When we walk through that area, my heart feels something special and is very happy 🥰
+
+We next made our way over to Fantasy Land and enjoyed Casey Jr, Storybook Land, and Small World. This was my first time on Casey Jr. I didn't realize what it was the times I had gone to Disneyland before. I very much enjoyed that! Anytime we go by it, I hope we ride it. If there is a short line, of course...hehehe Storybook Land was fun. But I think it was better the time I rode it at night. We may need to try it at night again sometime.
+
+Small World is always special to me. The one in Walt Disney World is Grandma's favorite. She's never ridden the one at Disneyland. But when Cherie and I get to do it together, I get that special feeling in my heart that makes me happy 🥰
+
+Once we were off of Small World, it was about time for our mid-day break. As we were making our way out of Disneyland, we stopped and listened to the Dapper Dan's and looked at several people in their dapper attire. That was nice! It was a bit hot with the sun at that moment. So we didn't stay there long.
+
+Before we left the resort, we made our way over to the Dapper Day Boutique at Grand Californian. It was quite lovely. It was as small as the very first one I went to in 2024. We got our buttons and pins! We also took a walk through the Grand Californian lobby. They had a lovely Winnie the Pooh display.
+
+After that, we made our way back to the tram, and then to our car. The first half of our Dapper Disney Day was complete! I'm glad we take these breaks. It's great to go back to the hotel and relax before we continue the adventure. I've learned the importance of rest. And since I hadn't gotten a lot of sleep the night before, it was good to have that rest! It really helped me for the next half of the day; which I'll save for the next part...LOL Stay tuned!!!
