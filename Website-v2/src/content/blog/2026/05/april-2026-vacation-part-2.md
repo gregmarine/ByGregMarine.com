@@ -25,3 +25,13 @@ One of our first stops was the firehouse where Cherie got to ring the bell! I ha
 After that, we took the Omnibus from the main area near the train station and arrived at the castle. That was my first time ever riding the Omnibus 🤩 They recently brought that back to Walt Disney World. But I hadn't done it yet. There's something special about that ride as you pass by all of the people on Main Street. Also, since it was Dapper Day, several people noticed us and waved 🤭
 
 When we arrived at the castle, I noticed a PhotoPass photographer who wasn't busy and asked to have our photos taken. I really enjoy doing that and our photos always turn out so well 🤩 Since we always do matching outfits, and we both tend to take good photos together, I'm so glad we do that 🥰
+
+![Dapper Dodgers Portrait at Disneyland](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778427054/23D6CB56-725F-4182-80AA-D6DF40095AB0_nxpob4.jpg "Dapper Dodgers Portrait at Disneyland")
+
+After the photoshoot, we made our way to and through the castle. I hadn't ever done that before. I knew there was something in the castle. But I hadn't a clue what it was. I was expecting just something simple. As it turns out, they tell the story of "Sleeping Beauty" through various scenes as you walk through the castle. It's amazing 🤩 Why they don't have anything like that at Walt Disney World puzzles me...LOL
+
+After the castle, we made our way to New Orleans Square where we attempted to take a selfie video. We did the video...with a bit of a crowd...LOL We got some things from it. But that might not be a place we try again. We may need to find a better spot with less traffic. Someone offered to take our picture. I declined because we do this selfie video as a tradition. And it's meaningful. I appreciated the offer, of course. I love how the photos turned out still!
+
+![Selfie video hands touching photo](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778427516/IMG_1477_zsj4tx.jpg "Selfie video hands touching photo")
+
+![Selfie video fun photo](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778427509/IMG_1476_w9xy6x.jpg "Selfie video fun photo")
