@@ -46,3 +46,13 @@ Upon leaving the Animation Academy building, we cut through over to Hollywood �
 DCA was just about to close when we got off Monsters. I got a water and coffee and we started to walk around Pixar Pier just as the night show was beginning. That meant all of the lights around Pixar Pier were turned off...LOL We had a dark walk...LOL We had a sweet moment where we talked about how grateful the both of are for this friendship and fellowship. God truly has Blessed us with each other. I'm glad when we have these moments when we talk about that and give our thanks to God 🥰
 
 We hoped to see Cars Land one last time for the evening. Our first attempt to go see the neon was blocked off...basically they refused it! How rude! HAHAHA But we were able to go through the main entrance to the area. But since the park was closing, we still didn't get to see the whole area. That's okay, we'll have another change this weekend 🤩
+
+Since DCA was closed now, we made our way back over to Disneyland. That's such a loooooong walk...LOL j/k I love how close the parks are to each other...hehehe Our first order of business was to ride the train all the way around the park. That was an amazing journey! We saw fireworks! Cherie did some shadow puppeteering. She's amazing at that, by the way 🤩 And we saw the Grand Canyon diorama thing that is on the train's path just before you get back to Main Street station. I'm so glad to have experienced that with Cherie 🥰
+
+On sort of a whim, we chose to do Matterhorn. I am so very glad we gave that a try. I never thought I'd ever ride it, actually. I love rollercoasters. And it is a first of its kind. But I had heard it was pretty rough; which is quite true. But my back didn't have any trouble with it at all. It was fun riding it at night too!
+
+We were finished with the parks after Matterhorn. So, we made our way back to the final attraction of a Disney adventure...the tram ride back to the parking garage 🤭
+
+I really enjoy the way we do Disney. There isn't any rush to do anything. We just walk around and check wait times. If they are good for us, we do the attraction. If they are a bit long, we keep on walking...hehehe The experience is pretty laid back and exactly the way I love doing Disney. Cherie, I'm so grateful that we get to experience these things together. What we once dreamed of doing together are now memories we both cherish. Thank you for building these memories with me 🤗❤️
+
+That's it for our Spring Dapper Day at Disney 😔 BUT WAIT...THERE'S MORE!!! That's right! I have more to tell in the next part. Because our [April vacation](/tags/april2026vacation/) isn't quite over yet!!! So don't turn that dial! HAHAHA
