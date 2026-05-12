@@ -36,3 +36,7 @@ After a bit of walking around, we meandered into the Redwood Creek Challenge Tra
 Next, we did the Little Mermaid ride. Did I sing again? I'm sure I did. I think I was even singing the concert songs that were still going on for Dapper Day/Food and Wine...LOL I can't help myself...LOL I appreciate that Cherie doesn't seem to mind my singing 🤭
 
 After we were off Mermaid, it was almost sunset...and we all know what that means, right?!? Cher-Boom!!! That's right, the nightly ritual of the neon lights coming on and Sh-Boom being played for all to hear, in Cars Land 🤩 This is one of my all time favorite traditions 🤩 We got some really fun videos 🥰
+
+Another of my favorite traditions is Animation Academy 🤩 We caught one of the last of the day. This one turned out to connect to our MagicShot from earlier. We drew a side profile of Remy 🤭 The drawing actually looks more like Cherie's dog, and my deer pal, Bambi 🤣 And I don't mean that her or I drew Remy poorly. I mean that even the Disney artist's version looks like our Bambi...LOL Some 3D animated characters are best left in 3D, I suppose...hehehe At least we have an idea of how to draw my deer pal, right?! HAHAHA j/k
+
+![Cherie and I showing our Remy sketches](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778546190/IMG_8557_flul5i.jpg "Cherie and I showing our Remy sketches")
