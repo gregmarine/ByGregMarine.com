@@ -26,3 +26,13 @@ With full stomaches, we made our way over to our traditional spot for the DCA se
 ![Our traditional toe touch DCA selfie](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778545472/IMG_1479_ioamch.jpg "Our traditional toe touch DCA selfie")
 
 ![Our traditional silly DCA selfie](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778545464/IMG_1481_zge4s6.jpg "Our traditional silly DCA selfie")
+
+As we were walking away from that area, I spotted a PhotoPass photographer who wasn't busy. We stopped and ask to have our picture taken. As it turned out, it was a MagicShot only location. I was a bit bummed that we weren't going to have a nice portrait taken. But the MagicShot turned out so fun! And quite related to what we were going to be doing for Animation Academy later. We did't know what either was going to be at the time, thought...hehehe
+
+![MagicShot of Remy running away and us in shock!](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778545734/D0749427-A459-41C6-96C3-2BDBC6B9D88D_nshtx8.jpg "MagicShot of Remy running away and us in shock!")
+
+After a bit of walking around, we meandered into the Redwood Creek Challenge Trail. I'm glad we were able to do that again. It seems like they close it down often when we are there...LOL This was only our second day being able to even do it...LOL We did the little scavenger thing that had for the new movie, "Hoppers." We had a little bit of trouble locating the codex to unscramble the word. But a Cast Member was kind enough to point us to the right location. We had passed it and completely missed it earlier on our trek...hehehe Our code word was ROYAL...hehehe
+
+Next, we did the Little Mermaid ride. Did I sing again? I'm sure I did. I think I was even singing the concert songs that were still going on for Dapper Day/Food and Wine...LOL I can't help myself...LOL I appreciate that Cherie doesn't seem to mind my singing 🤭
+
+After we were off Mermaid, it was almost sunset...and we all know what that means, right?!? Cher-Boom!!! That's right, the nightly ritual of the neon lights coming on and Sh-Boom being played for all to hear, in Cars Land 🤩 This is one of my all time favorite traditions 🤩 We got some really fun videos 🥰
