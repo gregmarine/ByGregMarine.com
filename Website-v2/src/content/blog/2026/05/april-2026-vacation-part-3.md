@@ -22,3 +22,7 @@ Once we finally got a tram, we were on our way back to the esplanade. This time,
 Our first task was to get our tacos and rice 🤩 We were a little later than 5pm because of the parking and tram situations. But it all worked out. The only real trouble we had was that I had a moment where I couldn't find Cherie...LOL It all worked out, though. We had our traditional tacos and rice and all was right with the world once again...hehehe
 
 With full stomaches, we made our way over to our traditional spot for the DCA selfie video. There was a Dapper Day/Food and Wine Festival concert going on. But our spot was still available. It was fun hearing the music while we were having our selfie fun across from Mickey's Death Wheel...LOL
+
+![Our traditional toe touch DCA selfie](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778545472/IMG_1479_ioamch.jpg "Our traditional toe touch DCA selfie")
+
+![Our traditional silly DCA selfie](https://res.cloudinary.com/dh6izdwyd/image/upload/v1778545464/IMG_1481_zge4s6.jpg "Our traditional silly DCA selfie")
