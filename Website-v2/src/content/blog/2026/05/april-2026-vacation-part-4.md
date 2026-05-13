@@ -4,6 +4,9 @@ description: A wildly tame, Cherendipitous day 🤭
 date: 2026-05-11T12:30:00-04:00
 tags:
   - Vacation
+  - Disney
+  - DTD
+  - Zoo
   - California
   - OrangeCounty
   - April2026Vacation
@@ -16,4 +19,12 @@ After breakfast on our last day, Cherie checks out of the hotel and has her lugg
 
 After our traditional chat at the gazebo, we made our way back to DTD. One of our first stops was World of Disney. This time, it was me doing the shopping...hehehe I needed to pick out my coffee mug. And I had a birthday gift card from Cherie burning a hole in my pocked...LOL For that, I picked out a Toy Story button up shirt. I had help picking it out...hehehe Cherie was the main person, besides me. But there were a few people walking by that made comments about me picking out the shirt...LOL The fact that Cherie and I both loved the shirt was enough. But it was fun that other people made comments too...hehehe
 
-I have a small correction from [part 2](/2026/05/april-2026-vacation-part-2/) about Grand Californian. I don't think we went to the lobby after we did the Dapper Day Boutique. I think we only did that on Monday. That's where we went after I did my shopping...hehehe
+I have a small correction from [part 2](/blog/2026/05/april-2026-vacation-part-2/) about Grand Californian. I don't think we went to the lobby after we did the Dapper Day Boutique. I think we only did that on Monday. That's where we went after I did my shopping...hehehe
+
+After that, we had our churro toast! Mean, a shared churro that we cling'ed together...hehehe We had to find a new spot to enjoy our churro, though. They have completely removed the area we traditionally sat at. They are going to be building a restaurant there...LOL It might be a place we check out in the future? They have some bakery things and sandwiches, I think? It looks like it will be lovely.
+
+Before we left DTD, we dropped by the art gallery for Cherie to pick up some new prints of artwork. And then we hit up pin traders. Cherie got me a Stitch pin 🤭 She had been doing a Stitch voice during our entire vacation that made me laugh every single time...LOL She wanted to give that pin to me to commemorate the trip 🥰
+
+Now back to the Cherendipity...hehehe We visited a pair of zoos! First, the Santa Ana Zoo. And then the Orange County Zoo. Both zoos were lovely. But I think I liked the OC Zoo a little better. The Santa Ana Zoo is tucked away near the freeway in a city neighborhood. The area was nice. The zoo was filled with kids on field trips.
+
+The highlight at Santa Ana Zoo was Earless...hehehe He was a goat that didn't have any ears. He was hanging out in the little relief area past the black rope. But as soon as Cherie came up the fence, he walked right on over to her. It was as if he was going *home* by being with her ❤️ Him not having any ears made him oddly cute 🤭 Alas, remember those kids? Well, they rudely came over and crowded Cherie. And poor Earless ran off. I don't blame him! We left too! LOL
