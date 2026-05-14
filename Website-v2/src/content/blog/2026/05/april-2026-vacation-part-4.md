@@ -1,7 +1,7 @@
 ---
 title: April 2026 Vacation Part 4
 description: A wildly tame, Cherendipitous day 🤭
-date: 2026-05-11T12:30:00-04:00
+date: 2026-05-13T12:30:00-04:00
 tags:
   - Vacation
   - Disney
