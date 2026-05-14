@@ -31,8 +31,18 @@ The highlight at Santa Ana Zoo was Earless...hehehe He was a goat that didn't ha
 
 The OC Zoo was tucked away in Irvine Regional Park. It was a little more chill than the other zoo with less children running about...LOL It seemed as though all of the animals there were rescued in some way. Most of them had some sort of ailment that they were being cared for. These animals were a comfort to me. The week after, I got to think about why I loved that zoo so much. All of the animals were "less than" in condition. The big zoos would never have them on display. And in many cases, those animals would have otherwise been put down. But here they were being cared for. I sometimes feel like those animals. So that zoo has a special spot in  my heart now 🥰
 
+A few of the other notable things there was a black bear that couldn't use its hind legs, a wildcat that was either missing a front leg or couldn't use it, and the butterflies that kept flying around Cherie 🥰 There was also a crow at this zoo. It was strange to see that. But there was a sign and everything for it. So it must have been a rescue! And the peacocks 🤩
+
 After the zoo, we explored Irvine Regional Park. We found a little take that's about the size of the one I have here at home. We walked around it. I've taking Cherie on many walks in spirit around my lake. This time, we got to take the walk in person together 🤩 After we got all the way around, we sat on a bench by the take and had a lovely time. It was amazing to not hear the world. Instead, we could hear the wildlife. It was amazing 🤩
 
 On our way out of the park, we drove around just to see what all else was in the park. We found a little pioneer village area. She recognized it from events they hold there. It was one of the items on her *bucket list* to see that someday. Well, she got to mark that on the list!
 
-We made our way back to the hotel to get her luggage and headed over to ARTIC to await her first train home. This is always a bittersweet moment. It's hard to say goodbye. But it was also a "see you real soon!" This time, we knew that our next adventure was only a month away; which is coming up this weekend, actually!
+We made our way back to the hotel to get her luggage and headed over to ARTIC to await her first train home. This is always a bittersweet moment. It's hard to say goodbye. But it was also a "see you real soon!" This time, we knew that our next adventure was only a month away; which is coming up this weekend, actually! Trex and Trexina said goodbye and turned their 2 fingered short arms into hearts as the train pulled away 😭
+
+While she was on her journey home, I went to Pick Up Stix. It was another one of her food recommendations. We don't have them here in Florida or back in Indiana. It's a fast food style Asian restaurant and I really loved how the food turned out. She made it home safely and our vacation was over 😭
+
+I've already written about the "[welcome home](/blog/2026/04/welcome-home/)" the next day. But overall, the travel wasn't bad. It was just the end of my journey that had trouble...LOL
+
+Well, that's a wrap on our [April Vacation](/tags/april2026vacation/)! Up next! Our May Vacation coming up this weekend! I'm so excited 🤩
+
+I think I say this at the end of most of these...hehehe Thank you, Cherie, for these amazing adventures 🤗❤️ Having a best friend is great. Having *you* as my best friend is something a cherish 🥹
