@@ -27,3 +27,5 @@ This has been the most impactful relationship I have ever had. That's not to tak
 Happy Anniversary, Cherie 🤩 I'm so grateful for you and all that you do that makes my heart happy 🥰 Thank you for the prayers. Thank you for the laughter and smiles. Thank you for the encouragement. Thank you for the adventures. I'm glad you are my best friend 🤗❤️
 
 Here's to many more years and adventures to come 🙏🙌
+
+![Selfie with Cherie and Greg across from The Queen Mary](https://res.cloudinary.com/dh6izdwyd/image/upload/v1779319688/IMG_9359_zgwmxp.jpg "Selfie with Cherie and Greg across from The Queen Mary")
