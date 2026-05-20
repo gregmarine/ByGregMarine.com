@@ -1,5 +1,5 @@
 ---
-title: Happy Friendiversary
+title: Happy Friendiversary 🤗
 description: As I reflect on my deerest friendship of my lifetime, I'm grateful
   for the gift Cherie is 🥰
 date: 2026-05-20T12:30:00-04:00
