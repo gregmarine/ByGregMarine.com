@@ -16,3 +16,5 @@ I don't recall if I've ever mentioned this, but his size, shape, and overall fee
 My first day of work back from our vacation, he sat on my desk while I worked. I think he missed me having him in my life...HAHAHA j/k The rest of this week, he's been back to his regular routine of sleeping all day and then being up to no good at night...HAHAHA Again, j/k
 
 ![Selfie with Bingford](https://res.cloudinary.com/dh6izdwyd/image/upload/v1779479450/IMG_9462_m4b3xm.jpg "Selfie with Bingford")
+
+Last night, I read [this blog post](https://domelian.substack.com/p/read-this-before-your-next-long-project) about the guy who created "Prince of Persia", a highly popular video game back in the day. In the post, the author describes how Jordan Mechner's journal process helped me design and build the game. His journal from those years is actually published now and I'm thinking about reading it...hehehe He has been journaling since he was 17 and he is still doing it to this day.
