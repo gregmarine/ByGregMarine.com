@@ -6,6 +6,10 @@ date: 2026-05-22T12:30:00-04:00
 tags:
   - Bingford
   - Journal
+  - Journaling
+  - Blog
+  - Blogging
+  - NoteSprout
 ---
 I really missed Bingford while he was away in California. On our April vacation, I sent him off with Cherie so that she and her mom could do some needed repairs to his nose and eyes...hehehe This past weekend, for our May vacation, he returned to meeeeeeee 🤩
 
