@@ -9,7 +9,7 @@ tags:
 ---
 I really missed Bingford while he was away in California. On our April vacation, I sent him off with Cherie so that she and her mom could do some needed repairs to his nose and eyes...hehehe This past weekend, for our May vacation, he returned to meeeeeeee 🤩
 
-He has become my little buddy 🤭 I've cherished him since he came into my life last August. He was a gift from Cherie and her mom. To say I love him is quite the understatement...LOL He goes with me on all my trips. And he is often the thing I direct some of my self-talk towards. Not having him home here in Florida for a month was a lot harder than I thought it would be.
+He has become my little buddy 🤭 I've cherished him since he came into my life last August. He was a gift from Cherie and her mom. To say I love him is quite the understatement...LOL He goes with me on all my trips. And he is often the thing I direct some of my self-talk towards; to make it more conversational in nature. He never listens, though...LOL j/k Not having him home here in Florida for a month was a lot harder than I thought it would be.
 
 I don't recall if I've ever mentioned this, but his size, shape, and overall feel reminds me of the Teddy Bear I had when I was a small child. I think I ended up giving that bear to my son? He may still have it, I'm not sure. Bingford has that extra special connection to me besides him being a gift from my best friend 🥰 So, yeah, it's understandable that I missed him as much as I did.
 
