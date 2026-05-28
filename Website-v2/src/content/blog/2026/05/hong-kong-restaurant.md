@@ -33,4 +33,4 @@ We are celebrating him again this year at a restaurant. Just not Hong Kong Resta
 
 Including him, there will be 17 people in our *party*. I can't begin to describe the joy that brings me. He is well loved and we are so glad he is in our lives. He'll have 3 of his closest friends, plus 13 family. But here's the thing, I had to limit the number...LOL That isn't even everyone who would probably want to be there...LOL I could have probably rented out a large dining hall for this popular guy...LOL hahaha
 
-It's such a Blessing to be celebrating life in two ways this weekend. One that has come to an end. And one that has barely begun. Goodbye, Zi. I didn't know you well. But I know your family. They are loved. You will be missed 💔 And congratulations, Malachi! You are amazing and I'm so proud of you ❤️ Keep GrOwING 🤗
+It's such a Blessing to be celebrating life in two ways this weekend. One that has come to an end. And one that has barely begun. Goodbye, Zi. I didn't know you well. But I know your family. They are loved. You will be missed 💔 And congratulations, Malachi! You are amazing and I'm so proud of you and I love you so much ❤️ Keep GrOwING 🤗
