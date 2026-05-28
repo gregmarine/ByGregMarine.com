@@ -17,3 +17,5 @@ The Qiu family has been important to me all these years. I got to know Zi's wife
 Sadly, the patriarch of the family has now passed. He wasn't ill long, from what I gather. It sounds like it was a sudden illness and he didn't suffer long. Yet, he was only 75. I feel as though he still had plenty of time left. In that, I am very wrong. Those who survive him are at a great loss in this season of their lives. I mourn with them. Not because I knew him well. Because I know them and I know their pain. I can feel it in their spirits this week. This is a very sad time 😔
 
 I was looking forward to enjoying some of Bing's food for my upcoming visit. I'm not sure she'll have the shop open this weekend now. The ceremony sounds like it will be private only; which is understandable. They were never the type for all the hoopla, pomp, and circumstance that brings a lot of attention. They are a private family until you truly get to know them. I'm grateful that I had the opportunity to know them ❤️
+
+[Here is Zi's obituary](https://carlislebranson.com/obits/zi-jiang-qiu/) 😔
