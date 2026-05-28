@@ -9,6 +9,9 @@ tags:
   - Death
   - Influence
   - Impact
+  - Life
+  - Celebration
+  - Birthday
 ---
 Although I didn't know Zi well, his impact on my life is enormous. He will be missed 😔 He came into my life 34 years ago when he brought his family to Mooresville Indiana and opened up a Chinese restaurant. His food wasn't the first time I had Asian cuisine. But that was when I feel in love with it. In fact, everywhere I live now, I must find *my* favorite restaurant...and it has to be Asian...LOL Zen is the most recent of such places...hehehe Yet, it isn't the food that draws me to my memories of the past 34 years.
 
