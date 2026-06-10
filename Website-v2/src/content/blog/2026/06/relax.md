@@ -17,3 +17,11 @@ The first photo I displayed on this was from one of the first places I explored 
 I haven't been there for quite some time now. I got out of the habit of visiting a few years ago. I'm not really sure why I stopped going. I'm grateful for the memories I have from when I first moved to Florida. This place still holds a special place in my heart these 4 years later.
 
 ![View of the Gulf between Caladesi and Honeymoon Islands through Hurricane Pass](https://res.cloudinary.com/dh6izdwyd/image/upload/v1781037189/IMG_6374_otop1a.jpg "View of the Gulf between Caladesi and Honeymoon Islands through Hurricane Pass")
+
+This was the second photo I displayed in the "Relax" frame. It was a very peaceful moment. It's also the last time I've been on the water in Florida...LOL Aside from water attractions at Walt Disney World, I haven't been back on the water here. I took this one on May 4th, 2024. That was the 2 year anniversary of when I moved into my apartment and officially became a Florida resident. I was taking my paddle board out for its maiden voyage; which was its only voyage. But the moment was a very important one to me at the time. So I'm glad I captured it...hehehe
+
+What you see here is Hurricane Pass, the gap between Caladesi Island on the left and Honeymoon Island on the right. I think the pass gets its name from the huge hurricane that passed through here a hundred years ago. The two islands used to be just one island. The hurricane literally passed right in this spot and split the island in two. Yeah, these storms are *that* powerful 👀
+
+This is another place I no longer visit. I frequently visited Honeymoon island those first few years living in Florida. It's in a lovely town called Dunedin, Florida. It was the beach I would go to if I wanted to take a long walk or spend time in the water from a beach. A pair of hurricanes closed the island a few years ago. So I stopped going. It's open again now, though. I just haven't been back...LOL
+
+![View of The Queen Mary from across the Bay in Long Beach, California](https://res.cloudinary.com/dh6izdwyd/image/upload/v1781037196/IMG_9351_iqezuy.jpg "View of The Queen Mary from across the Bay in Long Beach, California")
