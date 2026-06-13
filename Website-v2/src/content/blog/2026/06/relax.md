@@ -2,7 +2,7 @@
 title: Relax
 description: I have a sign that holds a photograph. When inspired, I update it.
   So far, I've only had 3 photos on it 🤭 All call me to relax 😌
-date: 2026-06-10T12:30:00-04:00
+date: 2026-06-13T12:30:00-04:00
 tags:
   - Photos
   - Relax
