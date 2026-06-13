@@ -29,3 +29,9 @@ What you see here is Hurricane Pass, the gap between Caladesi Island on the left
 This is another place I no longer visit. I frequently visited Honeymoon island those first few years living in Florida. It's in a lovely town called Dunedin, Florida. It was the beach I would go to if I wanted to take a long walk or spend time in the water from a beach. A pair of hurricanes damaged, and thus closed, the island a little over a year ago. So I stopped going. It's open again now, though. I just haven't been back...LOL
 
 ![View of The Queen Mary from across the Bay in Long Beach, California](https://res.cloudinary.com/dh6izdwyd/image/upload/v1781037196/IMG_9351_iqezuy.jpg "View of The Queen Mary from across the Bay in Long Beach, California")
+
+The current photo is quite a bit more recent...hehehe This is The Queen Mary in Long Beach, California. That's right! It isn't Florida...LOL I took this photo less than a month ago on our May vacation. This was a special moment for us. I keep going back there in my mind as I day dream about all our vacations. One of the things I love most about this photo is that Cherie was sitting on a rock just to my right. When I look at this photo, I see me best friend in her white headband with her red and white shirt. We are both experiencing the same shared moment together.
+
+This is the first photo I've featured on this "Relax" frame where I was sharing a moment with someone. The other two are moments of solitude. This one means so much more to me than the others. I wasn't feeling alone in those other 2. I just feel happier with this one. I feel more at home. More...relaxed 🥹
+
+!["Relax" photo frame with a photo of The Queen Mary](https://res.cloudinary.com/dh6izdwyd/image/upload/v1781037174/IMG_9544_qxpwbv.jpg "\"Relax\" photo frame with a photo of The Queen Mary")
