@@ -8,6 +8,8 @@ tags:
   - Relax
 cover: ""
 ---
+I've neglected my blog for a few weeks...LOL What I've been doing is being heads down working on Notesprout every evening this month. It is coming along so well and I'm very excited! But that also means I haven't been consistent with other things. I've had stuff I wanted to write about it. And this one is something I've been working on for days...LOL I'm finally getting it published...hehehe
+
 When I moved to Florida, Mom and Dad sent me a little "Welcome Home" care package. One of the items was a photo "frame" that says "Relax" on it and it holds a photograph with a little clip at the top. I love it and it has been on display for years no. I decided to hang it in my bathroom...hehehe I've had guests comment how much they love my bathroom decor 🤩 This is the first bathroom I've ever had that actually enjoy being in...LOL The "Relax" photo is one of the reasons why I enjoy my bathroom now. I imagine I'll hang this in every bathroom I have from now on...hehehe
 
 ![View of the Gulf from Brasher Park in Port Richey, Florida](https://res.cloudinary.com/dh6izdwyd/image/upload/v1781037182/IMG_9721_ph3wqc.jpg "View of the Gulf from Brasher Park in Port Richey, Florida")
