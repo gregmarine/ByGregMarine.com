@@ -1,11 +1,12 @@
 ---
 title: Relax
 description: I have a sign that holds a photograph. When inspired, I update it.
-  So far, I've only had 3 photos on it 🤭
+  So far, I've only had 3 photos on it 🤭 All call me to relax 😌
 date: 2026-06-10T12:30:00-04:00
 tags:
   - Photos
   - Relax
+  - Moments
 cover: ""
 ---
 I've neglected my blog for a few weeks...LOL What I've been doing is being heads down working on Notesprout every evening this month. It is coming along so well and I'm very excited! But that also means I haven't been consistent with other things. I've had stuff I wanted to write about it. And this one is something I've been working on for days...LOL I'm finally getting it published...hehehe
@@ -30,8 +31,12 @@ This is another place I no longer visit. I frequently visited Honeymoon island t
 
 ![View of The Queen Mary from across the Bay in Long Beach, California](https://res.cloudinary.com/dh6izdwyd/image/upload/v1781037196/IMG_9351_iqezuy.jpg "View of The Queen Mary from across the Bay in Long Beach, California")
 
-The current photo is quite a bit more recent...hehehe This is The Queen Mary in Long Beach, California. That's right! It isn't Florida...LOL I took this photo less than a month ago on our May vacation. This was a special moment for us. I keep going back there in my mind as I day dream about all our vacations. One of the things I love most about this photo is that Cherie was sitting on a rock just to my right. When I look at this photo, I see me best friend in her white headband with her red and white shirt. We are both experiencing the same shared moment together.
+The current photo is quite a bit more recent...hehehe This is The Queen Mary in Long Beach, California. That's right! It isn't Florida...LOL I took this photo less than a month ago on our May vacation. This was a special moment for us. I keep going back there in my mind as I day dream about all our vacations. One of the things I love most about this photo is that Cherie was sitting on a rock just to my right. When I look at this photo, I see me best friend in her white headband with her red and white shirt. We are both experiencing the same shared moment together ❤️
 
-This is the first photo I've featured on this "Relax" frame where I was sharing a moment with someone. The other two are moments of solitude. This one means so much more to me than the others. I wasn't feeling alone in those other 2. I just feel happier with this one. I feel more at home. More...relaxed 🥹
+This is the first photo I've featured on this "Relax" frame where I was sharing a moment with someone. The other two are moments of solitude. This one means so much more to me than the others. I wasn't feeling alone in those other 2. I am just feel happier with this one. I feel more at home. More...relaxed 🥹
 
 !["Relax" photo frame with a photo of The Queen Mary](https://res.cloudinary.com/dh6izdwyd/image/upload/v1781037174/IMG_9544_qxpwbv.jpg "\"Relax\" photo frame with a photo of The Queen Mary")
+
+If my pattern continues as it as been with this, my next photo will be in 2 years...hehehe We shall see 🤩 I really don't have any goal for changing out the photos. When something hits me in that special-relaxing way, I'll add that next photo. For now, I'm grateful for all the moments represented by this photo frame. I'm keeping the printed photos in the stack so long as the clip can hold them. All 3 I've talked about here are currently in that clip. I'm also keeping a Photos album of them all so I can quickly recall them on my phone and computer whenever I feel like looking at them.
+
+This frame has helped me relax. It reminds me to take a deep breath when I'm stressed. I put it in the most necessary room of my home so that I will aways look at it. It's on the wall just above my hand towel. I can basically see it from most angles of the bathroom. You can't miss it! And You can't help but...relax...when you see it 😌
