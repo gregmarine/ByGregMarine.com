@@ -24,3 +24,5 @@ I'm not headed to Indiana for Father's Day. I don't remember the last time I was
 I'll be staying home in July too. With how well I'm doing with my June, I've decided it would be a good idea to continue with July. I'd really love to get things going with artwork, writing, and try some things with my routine. June has been good to me. I'd like to tap into that momentum and see where it takes me.
 
 Today's post feels like a bunch of random thoughts about the month...hehehe I've been thinking about it all week. It was actually a rough week. But that's okay. It didn't really throw me off like such things used to. And I have been so happy lately. My heart is soooooo happy right now.
+
+Well, not only is June more than half over now, Spring is coming to an end this weekend too. I had a great Spring. I'm hoping for a great Summer too. I have a feeling the hurricane season is going to be light this year. But it sure it hot...LOL I still have a good feeling about the Summer, though. I'm so grateful 🥹
