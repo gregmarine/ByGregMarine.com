@@ -1,6 +1,6 @@
 ---
 title: The Sprouts
-description: A day in the life of meeeeeee! And the apps are growing!!!
+description: A day in the life of meeeeeee! And the sprout apps are growing!!!
 date: 2026-07-06T12:30:00-04:00
 tags:
   - Timestamp
