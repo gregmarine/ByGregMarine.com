@@ -38,4 +38,4 @@ As I was recording my final thoughts for the night on my vlog, my storage was fu
 
 Speaking of that, below is the vlog from that first day. It brings me back to the day and I'm so grateful it exists. Even if the rest of the vacation wasn't captured as well, I know that everything I did capture was worth it. And I'm now inspired to continue doing this on all our adventures! Stay tuned for the next part of our May vacation. Hopefully, it will come very soon...hehehe
 
-Our May 2026 Vacation vlog part 1.
+[Our May 2026 Vacation vlog part 1.](https://youtu.be/FjWgOlTDGtU)
