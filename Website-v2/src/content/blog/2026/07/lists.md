@@ -1,6 +1,6 @@
 ---
 title: Lists
-description: Random thoughts about lists...hehehe And some sprout thoughts too...LOL
+description: Random thoughts about lists...hehehe
 date: 2026-07-30T12:30:00-04:00
 tags:
   - Thoughts
@@ -14,7 +14,3 @@ Another list that popped up on my social media feed recently was about life as a
 Another list I have on my mind wasn't prompted by a social media post. Instead, it was inspired by the other two lists. I think I'd like to start a list of things I want to remove from my life. All of the things I feel just aren't meant for me or are getting in the way of living the life God is showing me. When I've fasted before, I would typically choose something that was getting in the way of my relationship with God in some way. I remember that candy was a huge problem for me. The year I chose that as a 21 day fast was the last time I was addicted to the stuff. That's a reminder that there are still so many other things in my life that I could remove and be the better for it. That seems like a list worth writing down as well. And then work through the list to improve the life experiences I have.
 
 In some small way, I've started keeping these lists in my heart lately, already. I just think it might be a good thing to actually write down. One of the things keeping me from actually doing this is that I don't want it to become just a habit. I want it to be a passion. I don't want the list to just be a checklist that I mark off. I'd rather it all be an anchor of sorts as I continue to navigate my life. A list of experiences I've had in my life, what God has done in my life, and what I should probably remove from my life seems like a good thing.
-
-Aside from lists, something else that popped up the other day...personality assessments...LOL Specifically, Myers-Briggs. There was a webinar at work on it. It reminded me of the time Cherie asked me about it. She had guessed that I was INFP. At the time, I had no idea what any of that meant or was. She asked some questions and sent me an infographic. It seemed to describe me perfectly. From the webinar, the same assessment was validated.
-
-I've not actually taken the full tests of any of the personality assessments out there. I've actively avoided it, actually. In my life, people have weaponized things that like against me. The same with the Bible. Some of the abuse I've experienced came from people using such things against me in some way. A means to get what they wanted from me. It all kind of triggers my fight or flight sometimes. But when Cherie asked me about it a few years ago, I wasn't triggered at all. By the time this came up in conversation with her, we had a well established relationship of trust. Everything about her showed me that she was more interested in understanding me than to use me. It felt safe and I'm glad she brought it up. She and I both learned something about me that day...hehehe
