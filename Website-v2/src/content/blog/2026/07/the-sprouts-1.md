@@ -1,7 +1,12 @@
 ---
 title: The Sprouts
+description: Some thoughts about my sprout family of apps
 date: 2026-07-30T00:30:00-04:00
-tags: []
+tags:
+  - Notesprout
+  - Paintsprout
+  - Biblesprout
+  - Sprout
 ---
 Note and Paintsprout are coming along nicely. Biblesprout has stalled...LOL With Notesprout, it's my daily driver for notes. It has been for quite a while, actually. I'm not fully using it for writing yet, though. I'm working on some features at the moment to help with that. Once those features are polished, I'll be back to drafting blog posts by hand and then converting for publishing. Plus I have other writing that I strongly desire to get going...hehehe
 
