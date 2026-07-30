@@ -1,7 +1,7 @@
 ---
 title: Lists
 description: Random thoughts about lists...hehehe
-date: 2026-07-30T12:30:00-04:00
+date: 2026-07-30T12:20:00-04:00
 tags:
   - Thoughts
 ---
