@@ -4,10 +4,6 @@ description: Random thoughts about lists...hehehe And some sprout thoughts too..
 date: 2026-07-30T12:30:00-04:00
 tags:
   - Thoughts
-  - Notesprout
-  - Paintsprout
-  - Biblesprout
-  - Sprout
 ---
 I had a seemingly random thought the other day about lists. The "seemingly" part is that I often see or read things that trigger thoughts that eventually come together here. But how random are the things I see or read these days? LOL Some of these things are on social media; which is powered by an algorithm...
 
