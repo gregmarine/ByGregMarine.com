@@ -15,6 +15,7 @@ medium:
   - Digital Painting
 style: null
 subject: null
+dimensions: 2200x1400px
 yearCreated: 2026
 collection: Sketches
 ---
