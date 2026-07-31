@@ -13,8 +13,10 @@ images:
     caption: Jack
 medium:
   - Digital Painting
-style: null
-subject: null
+style:
+  - Illustrative
+subject:
+  - Fantasy
 dimensions: 2200x1400px
 yearCreated: 2026
 collection: Sketches
