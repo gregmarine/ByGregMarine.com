@@ -25,3 +25,7 @@ After breakfast, it was back to our rooms to get all dappered up for the day! I 
 The drive to Disney was quite different from ALO. I think it was much shorter despite not being all that far from where we normally drive from. Plus there was far less traffic. It felt super quick by comparison. We were also able to see the Crystal Cathedral on that route! That was a first! It's a beautiful building!
 
 Security was pretty smooth that morning. Of course, we were recognized at Donald and Daisy Duck...hehehe I think we nailed those outfits! And then it was off to ride the first attraction...the tram!!! We started off at Disneyland again this time. I think we plan to always do that from now on...hehehe
+
+I'm grateful for Cherie sharing her experience from our vacations. Especially for this one. For some reason, I didn't write down that we went to the firehouse...LOL This time, I rang the bell! That was fun! She got some great video from in there. I also didn't write down that we listened to a band that was playing just outside the firehouse. But you'll see that in my vlog video later...hehehe
+
+One of the main things we wanted to do today was take it pretty easy. We didn't rush to anything and hadn't really planned out specific attractions as must-dos for the day. But there was one thing we did want to do for sure. That was a visit to Toon Town. Especially to get her picture in front of Daisy's Cafe...hehehe Considering how we were dressed, Toon Town was a must-do for sure...LOL
