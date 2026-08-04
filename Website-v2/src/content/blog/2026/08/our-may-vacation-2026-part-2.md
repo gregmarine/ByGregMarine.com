@@ -34,4 +34,16 @@ We did another first this time. We rode the Gadgets Go Coaster right there in To
 
 After that, we meandered around a bit and found ourselves at It's a Small World once again. That is likely to be a tradition as long as the line isn't too long. It's one of our favorite rides and I'm also grateful when we get to ride it. Then we went through Tomorrow Land and back out in front of the castle. I checked the line for Joffrey's coffee...that was actually the second look of the day...but the line is always too long...LOL
 
-We went to Adventure Land and found out Pirates was down for refurbishment. I was bummed about that because that's another tradition we both love.
+We went to Adventure Land and found out Pirates was down for refurbishment. I was bummed about that because that's another tradition we both love. But we did get to do our new tradition of the canoes! I am so grateful she enjoys doing that one with me. It isn't a popular attraction. I think we both love those misfit attractions more than the others...hehehe
+
+After the canoes, we decided to ride Pooh. We hadn't ridden that one since our November vacation when it was raining...hehehe It was nice that it was dry this time. While we were in line, a very excited young lady wanted to take our picture! She had one of those instant cameras. She gave us the photo and told us to be sure to keep it face down while it developed...hehehe I ended up putting it my bag until after the Pooh ride just to be sure...LOL We'll cherish that moment and the photo for the rest of our lives.
+
+Next was a snack break on Tom Sawyer's Island. I don't think we'd been on that since our first Disney visit in 2024. It was so nice to sit there and talk while we each had our snack bars. Maybe we should make that a tradition...hehehe
+
+Before we left Disneyland, we made our way back through Galaxy's Edge for a passthrough. And then we added over to DCA for our famous selfie video. When then walked around Pixar Pier before heading back to the tram and concluding the first half of our Disney day. It was time for our mid-day break!
+
+I'm sure I'll mention this again in the next part, but it was great to keep things at a slower pace and just enjoy all of the moments. I don't think what I've written about the day truly captures that part; which is okay. These entries take us back and remind us of all we did on these vacations. I just wanted to call out that in between much of it, we simply enjoyed being together.
+
+I'm sure I'll also be talking about this again, but our Donald and Daisy outfits drew a lot of attention all day long. We never dress up for the attention. But one of the fun things about doing a Disney bound is that it connects with those people whose favorite characters are the ones we are bounding. That will always be a special thing and I'm glad when we do that. Our Donald and Daisy have been the best so far!
+
+As promised, [here is the vlog](https://youtu.be/YCznwGbuir4) from the first half of our Disney Day ❤️
