@@ -20,11 +20,11 @@ I started my day off with a bit of surprise. My phone's battery was down to the 
 
 This was our first breakfast together on this vacation. We were so happy to be eating outside. This was the first time we'd had breakfast outside together. So, it was special for that reason. But it was also special because we take communion together at all our breakfasts. The day before, I had purchased our apple juice. So, we were able to enjoy our tradition even though they didn't provide free apple juice with breakfast.
 
-After breakfast, it was back to our rooms to get all dappered up for the day! I was dressing as Donald Duck and Cherie was Daisy Duck. This was our most exciting dapper attire yet! I tried to shoot some video of my outfit. You'll see that in my vlog below...hehehe When it was time to go, we met up in the lobby and took the Rex Mobile to Disney!
+After breakfast, it was back to our rooms to get all dappered up for the day! And I charged my phone a little longer...LOL I was dressing as Donald Duck and Cherie was Daisy Duck. This was our most exciting dapper attire yet! I tried to shoot some video of my outfit. You'll see that in my vlog below...hehehe When it was time to go, we met up in the lobby and took the Rex-mobile to Disney!
 
 The drive to Disney was quite different from ALO. I think it was much shorter despite not being all that far from where we normally drive from. Plus there was far less traffic. It felt super quick by comparison. We were also able to see the Crystal Cathedral on that route! That was a first! It's a beautiful building!
 
-Security was pretty smooth that morning. Of course, we were recognized at Donald and Daisy Duck...hehehe I think we nailed those outfits! And then it was off to ride the first attraction...the tram!!! We started off at Disneyland again this time. I think we plan to always do that from now on...hehehe
+Security was pretty smooth that morning. Of course, we were recognized as Donald and Daisy Duck...hehehe I think we nailed those outfits! And then it was off to ride the first attraction...the tram!!! We started off at Disneyland again this time. I think we plan to always do that from now on...hehehe
 
 I'm grateful for Cherie sharing her experience from our vacations. Especially for this one. For some reason, I didn't write down that we went to the firehouse...LOL This time, I rang the bell! That was fun! She got some great video from in there. I also didn't write down that we listened to a band that was playing just outside the firehouse. But you'll see that in my vlog video later...hehehe
 
@@ -40,9 +40,9 @@ After the canoes, we decided to ride Pooh. We hadn't ridden that one since our N
 
 Next was a snack break on Tom Sawyer's Island. I don't think we'd been on that since our first Disney visit in 2024. It was so nice to sit there and talk while we each had our snack bars. Maybe we should make that a tradition...hehehe
 
-Before we left Disneyland, we made our way back through Galaxy's Edge for a passthrough. And then we added over to DCA for our famous selfie video. When then walked around Pixar Pier before heading back to the tram and concluding the first half of our Disney day. It was time for our mid-day break!
+Before we left Disneyland, we made our way back through Galaxy's Edge for a passthrough. And then we added over to DCA for our famous selfie video. We also walked around Pixar Pier before heading back to the tram and concluding the first half of our Disney day. It was time for our mid-day break!
 
-I'm sure I'll mention this again in the next part, but it was great to keep things at a slower pace and just enjoy all of the moments. I don't think what I've written about the day truly captures that part; which is okay. These entries take us back and remind us of all we did on these vacations. I just wanted to call out that in between much of it, we simply enjoyed being together.
+I'm sure I'll mention this again in the next part, but it was great to keep things at a slower pace and just enjoy all of the moments. I don't think what I've written about the day truly captures that part; which is okay. These entries take us back and remind us of all we did on these vacations. I just wanted to call out that, in between much of it, we simply enjoyed being together.
 
 I'm sure I'll also be talking about this again, but our Donald and Daisy outfits drew a lot of attention all day long. We never dress up for the attention. But one of the fun things about doing a Disney bound is that it connects with those people whose favorite characters are the ones we are bounding. That will always be a special thing and I'm glad when we do that. Our Donald and Daisy have been the best so far!
 
