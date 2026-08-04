@@ -28,4 +28,10 @@ Security was pretty smooth that morning. Of course, we were recognized at Donald
 
 I'm grateful for Cherie sharing her experience from our vacations. Especially for this one. For some reason, I didn't write down that we went to the firehouse...LOL This time, I rang the bell! That was fun! She got some great video from in there. I also didn't write down that we listened to a band that was playing just outside the firehouse. But you'll see that in my vlog video later...hehehe
 
-One of the main things we wanted to do today was take it pretty easy. We didn't rush to anything and hadn't really planned out specific attractions as must-dos for the day. But there was one thing we did want to do for sure. That was a visit to Toon Town. Especially to get her picture in front of Daisy's Cafe...hehehe Considering how we were dressed, Toon Town was a must-do for sure...LOL
+One of the main things we wanted to do today was take it pretty easy. We didn't rush to anything and hadn't really planned out specific attractions as must-dos for the day. But there was one thing we did want to do for sure. That was a visit to Toon Town. Especially to get her picture in front of Daisy's Cafe...hehehe Considering how we were dressed, Toon Town was a must-do for sure...LOL It was fun doing a selfie video at the Toon Town Bank too...hehehe
+
+We did another first this time. We rode the Gadgets Go Coaster right there in Toon Town. That was so much fun! It's geared towards small children. But it is fun for adults as well. Cherie loved it and said she didn't know why "childhood Cherie" was so scared of going on it...hehehe But I get it! To a child, any roller coaster is huge! I'm so glad we got to experience that one together.
+
+After that, we meandered around a bit and found ourselves at It's a Small World once again. That is likely to be a tradition as long as the line isn't too long. It's one of our favorite rides and I'm also grateful when we get to ride it. Then we went through Tomorrow Land and back out in front of the castle. I checked the line for Joffrey's coffee...that was actually the second look of the day...but the line is always too long...LOL
+
+We went to Adventure Land and found out Pirates was down for refurbishment. I was bummed about that because that's another tradition we both love.
