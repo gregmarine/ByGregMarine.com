@@ -4,6 +4,15 @@ description: Yesterday, I had a bad case of the "Mondays". Today, I reflect on t
 date: 2026-08-11T12:30:00-04:00
 tags:
   - Monday
+  - Notesprout
+  - Supernote
+  - ClaudeCode
+  - Haiku
+  - Life
+  - Art
+  - Writing
+  - Photography
+  - BestFriends
 ---
 ## Morning
 
@@ -40,3 +49,7 @@ Perhaps my next blog entry will be handwritten using Notesprout? I was able to f
 You know how I did a featured photo everyday last year? The main reason for that was to work on my photo taking skills. I think that went well and I have a year's worth of photos that I'll probably turn into something someday. But I also posted them daily last year. I think I'd like to do something similar soon with my artwork. I'm considering doing some mostly daily drawing practice. If I do that, I am further considering posting whatever I do that day. Having a daily photo last year motivated me. I think posting about the progress I'm making in art might do the same. It's something Cherie and I have talked about. She was the one who inspired me to see the posts as motivation.
 
 I may do something similar with my writing too. Something else Cherie and I talked about. I wrote a haiku last week that I plan to post soon. I've actually published [here](/writings/20260806/) on the website already. But before that, Cherie is the only one who has seen it. Actually, since she's the only one who reads my blog, she's still the only one who will have seen it by the time I publish this entry...LOL I'm so grateful she reads everything I write and watches every video I make. Plus all of the photos and art I do. She's a true friend and more than I could have ever hoped for 🥹 Thank you, best friend 🤗❤️
+
+Here is the handwritten version of the haiku...I'm in the mist of things right now...hehehe
+
+![Haiku](https://res.cloudinary.com/dh6izdwyd/image/upload/v1786493100/20260806_rkguat.jpg "Haiku")
