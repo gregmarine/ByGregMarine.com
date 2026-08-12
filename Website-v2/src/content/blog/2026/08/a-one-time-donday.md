@@ -28,3 +28,9 @@ I watched the first half of "The Jungle Book" at lunch today. I'll finish the ot
 I'm making tacos for dinner tonight...because...wait for it...IT'S TACO TUESDAY...LOL I think I made tacos twice last week. I'll be doing it twice again this week. For the tacos this time, I'm going classic taco. I have a set of spices I use for that. And I'll be using salsa instead of kimchi. But I'll also be topping it with the 'kraut...because that's what we do 🤣 I may throw some bean sprouts on them too 🤭
 
 Last night, I had one of those veggie burgers. I haven't had those in ages. I decided this was a good week to bring those back...hehehe I did use kimchi and bean sprouts for that. It was sooooo good 😋 Later this week, I plan to do rice with tofu. That's why I got the bean sprouts, actually. But I decided to put those on everything else too...LOL I had them last week at Zen and couldn't stop thinking about them 😆
+
+## Evening
+
+The tacos turned out well, and I had some of the salsa with my tortilla chips! 😋 I finished the rest of "The Jungle Book." One of my thoughts while watching these classics is why are today's Disney movies so complicated?! LOL Yeah, I understand today's audience is more complex. Or at least they want "more." But I definitely prefer these older films over the new stuff most of the time. They are much more entertaining for me. Just personal preference, of course. Also, I did another session of the Bible study right after dinner...hehehe
+
+I've been doing more work on Notesprout to optimize it for the Supernote devices. I'm blown away by how well that is going. And I'm so glad to be back on their hardware. The writing experience is so much better than on the BOOX devices...LOL None of this truly feels like pen or pencil on paper. But the Supernote folks truly made an amazing writing experience for a digital device. I've been using Notesprout on my Manta all day, and it has been a dream come true 🤩
