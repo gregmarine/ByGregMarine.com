@@ -40,4 +40,6 @@ Disneyland was our next trek as we left DCA. Both parks are lovely at night. And
 
 That backstage pass drops us off at Tomorrow Land. So, we took a journey on Star Tours again...hehehe Whoaaaaaa ho ho ho hoooooooo...HAHAHA My notes are a little vague after Star Tours. But I recall we walked around the park for a bit. And then we went on Haunted Mansion. This was my first time on that attraction with it being in its normal state. The other times we rode it was while it was setup as The Nightmare before Christmas. It's better with the nightmare theme...hehehe But it was good to at least try it this time and see what it was like...hehehe
 
-We walked toward the front of the park so we could ride the train before leaving. It was a bit crowded in the front and the crowd was actually leaving the park. But we managed to get out of the crowd and make our way to the train station...LOL
+We walked toward the front of the park so we could ride the train before leaving. It was a bit crowded in the front and the crowd was actually leaving the park. But we managed to get out of the crowd and make our way to the train station...LOL We took the train all the way around Disneyland. We did that on both of our vacations this year and has become one of our traditions.
+
+Once we got back to Main Street station, it was time to leave 😭 A tram ride and quick drive, and we were back to ALO. And that was a wrap on our day at Disney 🤩
