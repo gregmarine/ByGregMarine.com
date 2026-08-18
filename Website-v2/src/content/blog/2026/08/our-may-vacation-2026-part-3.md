@@ -52,4 +52,4 @@ Once we got back to Main Street station, it was time to leave 😭 A magical tra
 
 We are currently planning our next vacation. I can't wait to be with her at Disneyland and DCA again very soon. I have the best vacation with my best friend. Thank you, Cherie, for everything 🥹🤗❤️
 
-But wait...there's more! I will soon be writing about the day after Disney. Our vacation isn't quite over yet!!! hehehe Stay tuned!!!
+But wait...there's more! I will soon be writing about the day after Disney. Our vacation isn't quite over yet!!! hehehe Stay tuned!!! By the way, I did not get any vlog footage the second half of our Disney day 🤣 I hope to do better next time...LOL
