@@ -11,3 +11,17 @@ tags:
   - HollywoodStudios
 ---
 On Thursday, I was feeling like taking a day off to go to Walt Disney World on Friday. The weather looked good and I didn't have anything at work that was pressing. I rarely take a day on such short notice. Especially just the day before...LOL My boss didn't see any concerns. He never does, actually. We don't even need to request time off. We just submit it and he "approves" it in the system no questions asked. But with it being just the day before, I still reached out to him before putting it into the system. He still didn't ask any questions...LOL I wonder if he'll ask in one of our meetings this week...LOL
+
+I hadn't been to Disney in 2 months. I've been missing it and didn't realize just how much I needed a day like yesterday. I'm very grateful to have the opportunity and so glad I decided to go. Although it was hot, it turned out to be a good day to be at the parks. Animal Kingdom wasn't too crowded. Hollywood Studios was packed, though. But with the Food and Win festival starting up at EPCOT and Magic Kingdom closing early for their Halloween party, it made sense that a ton of people would dump into Hollywood. Also, Animal Kingdom closes early too.
+
+I cover most of the day in my vlog. So, I'll not repeat a bunch of stuff here. But I will call out the nice Cast Member, Jason, who talked with me a bit at Animal Kingdom. I didn't mention him in my vlog...LOL I sent a Cast Compliment in the My Disney Experience app. I just completely spaced it in the vlog...hehehe
+
+I decided to break up the vlog into 4 parts. So, feel free to watch and listen to each in your convenience ❤️
+
+[Animal Kingdom](https://youtu.be/2e92wQxl4tE)
+
+[The Bird Show](https://youtu.be/ewR7fJIsO3k)
+
+[Hollywood Studios](https://youtu.be/SuloPs_o54w)
+
+[Wrap-Up](https://youtu.be/HSSwmyHccc4)
