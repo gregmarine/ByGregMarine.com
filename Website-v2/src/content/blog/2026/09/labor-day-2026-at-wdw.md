@@ -12,6 +12,7 @@ tags:
   - HS
   - HollywoodStudios
   - Friendship
+  - Bestfriends
 ---
 For Labor Day this year, I decided I would go to Walt Disney World. Instead of just winging it or setting a particular plan myself, I asked if Cherie would want to plan *our* day together there. I often share my experiences with her. And so, it always feels like she's with me. She gladly accepted the challenge of designing my itinerary for the day. Well, her and Petey did...LOL Petey is the little dinosaur I got her back on my visit to EPCOT in June...hehehe
 
