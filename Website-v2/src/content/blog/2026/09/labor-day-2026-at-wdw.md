@@ -48,4 +48,6 @@ I'll not write everything about the day because I also did a vlog. I'll let the 
 
 I got very wet...LOL I brought an umbrella, but never used it. The rain I experienced when walking around was never very much. It was more of a drizzle and that was mostly after dinner. So, I just let my hat do its job to keep the rain off my face. My hat and shirts got pretty soaked, though. Yet, they also dried very quickly every time I got out of the rain. And the drive home was fine. I suppose my feet got a little wet too. But not too bad.
 
-The vlog turned out to be an hour and 3 minutes. I thought about cutting the ride footage. But I decided it was okay to leave in. It was part of the experience, after all. Plus, with it being on YouTube, you don't need to watch it all at once. It should pickup right where you left off if you need a break...hehehe
+The vlog turned out to be 1 hour and 3 minutes. I thought about cutting the ride footage. But I decided it was okay to leave in. It was part of the experience, after all. Plus, with it being on YouTube, you don't need to watch it all at once. It should pickup right where you left off if you need a break...hehehe
+
+This was a fun vlog to record and edit! Here is [Labor Day 2026 at Disney](https://youtu.be/LPBSLIruLz0) 🤩
