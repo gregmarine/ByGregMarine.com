@@ -20,4 +20,4 @@ On Friday, I watched [a review](https://youtu.be/OEBfaJSylnc?si=sLY85oMhoEjMdbIX
 
 After that, I headed over to Magic Kingdom to complete my Labor Day itinerary. That was a truly magical experience. I followed that up with some snackies at EPCOT for the Food and Wine Festival. My day was cut a little short due to weather again. But I still had amazing day overall. And I got enough to eat to call my short time at EPCOT a success. Plus, I've now planned to go back for more of the festival foods on Wednesday...hehehe
 
-I'm grateful Cherie inspired these past few Disney experiences. Especially the inspiration to vlog about them! Speaking of which,
+I'm grateful Cherie inspired these past few Disney experiences. Especially the inspiration to vlog about them! Speaking of which, here is [Labor Day 2026 at Disney Continued](https://youtu.be/T9mHEqaqPSM) 🤩
