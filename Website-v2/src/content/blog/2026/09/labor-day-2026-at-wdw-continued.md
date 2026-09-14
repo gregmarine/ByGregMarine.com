@@ -14,6 +14,8 @@ tags:
   - Friendship
   - Bestfriends
 ---
+Before I get into the point of today's post, I want to wish Cherie's dad a Happy Birthday! Also, today is my work-iversary! And if those 2 aren't enough, it's also Positive Thinking Day! Plus, I got to see Cherie on our weekly call today. Today has been a great day ❤️
+
 I went back to Walt Disney World!!! Having been unable to go to Magic Kingdom on Labor Day to finish out the itinerary Cherie (and Petey...hehehe) made for me, I decided I would go back on Saturday and complete the list. It turned out to be a great idea and I had an amazing day 🤩 The list was short, but the magic was huge! In a way, I'm glad I wasn't able to get to Magic Kingdom on Labor Day. I was a bit bummed that day. But it turned out to be a blessing.
 
 On Friday, I watched [a review](https://youtu.be/OEBfaJSylnc?si=sLY85oMhoEjMdbIX) about breakfast at Trattoria Al Forno. I highly recommend watching the review since it's by the Theme Park Comedians...LOL I had never eaten there for dinner. I had heard they have a fantastic dinner. But I had no idea they served breakfast too. I've been on the lookout for a nice place to have breakfast that was outside the parks. And definitely one that doesn't have character dining. I love the characters. But the character dining experiences are much more expensive...LOL Anyway, after seeing that review, I decided I wanted to have breakfast there. So, I did!
