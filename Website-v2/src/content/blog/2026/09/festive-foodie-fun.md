@@ -1,7 +1,7 @@
 ---
 title: Festive Foodie Fun
 description: I spent a day at EPCOT enjoying the Food and Wine Festival.
-date: 2026-09-17T12:30:00-04:00
+date: 2026-09-18T12:30:00-04:00
 tags:
   - WDW
   - Disney
