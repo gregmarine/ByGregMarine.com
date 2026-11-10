@@ -36,4 +36,6 @@ We took a break from Bible study last week because of my parents visiting. I rea
 
 Seasons come and go. I'm finding the good in having seasons. I'm also glad to have things in life that are beyond seasons. Like breathing and food, there are some things in life that are good to have all the time. I'm also learning that it's okay to not like everything. I'm finding the bad in some things as well. Not everything, everyday, and in every season is something that's good. Acknowledging the bad stuff is helping me see where I need to be pruned or what I need to actively prune myself. "Let it Go" comes to mind...LOL As much as I haven't liked this latest season of my life, I'm so glad that I've grown through it. There sure is a lot of bad stuff. And there is a lot of good stuff too. It'll all work out okay.
 
-It feels strange that my next vacation is only days away. And that Thanksgiving is a few days after that. Not to mention that Christmas and the new year is only weeks away now...whoa---oooooooo---ho ho ho ho!!!
+It feels strange that my next vacation is only days away. And that Thanksgiving is a few days after that. Not to mention that Christmas and the new year is only weeks away now...
+
+whoa---oooooooo---ho ho ho ho!!!
