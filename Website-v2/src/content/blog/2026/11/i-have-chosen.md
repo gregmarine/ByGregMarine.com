@@ -21,3 +21,7 @@ Once again, there are already opinions flying about concerning this new season. 
 One of the "critics" sent a message calling for the firing of the creative people behind that decision. The shows creators had an equally silly response, in my opinion. They didn't call out the person by name. But they did make it part of their social media campaigns. The only response from that that I agree with so far is that "certainty can become someone's idol."
 
 It is so easy to believe that we are always right about something. Whether it be our views on the Bible, or how we respond to opposing opinion, if we stand firm in pride for what we "know" to be "true", we are making "our truth" an idol of sorts.
+
+I don't really like the negative opinions of how the angels are represented. We don't really know what actual angels look like. So, the decision to make them look like warriors from various real cultures doesn't seem like a bad thing to me. After all, we don't know what Jesus actually looked like, do we? I highly doubt he was anything like a caucasian dude from the United States...LOL
+
+I equally don't like how the folks from "The Chosen" have made public what I believe was a private email sent to them. And then turning that private note into a social media spectacle that has further brought out the ugly of today's Christianity. People are praising "The Chosen" for the way they are basically bullying the person who wrote that message.
