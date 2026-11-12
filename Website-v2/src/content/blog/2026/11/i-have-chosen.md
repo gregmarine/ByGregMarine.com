@@ -32,9 +32,9 @@ I have chosen to continue watching "The Chosen" regardless of these "angels" or 
 
 Although I see the show as entertainment, I also find it inspiring. The show itself is not Gospel. But it does draw me into the Gospel. Cherie and I have gone through the first 5 seasons with their devotionals and Bible studies. I hope to continue that with seasons 6 and 7 as well.
 
-The show also inspires me to examine my heart and how I view the world. That has become something I do with most TV shows, movies, and books. Entertainment isn't just an escape from reality. It can also help us find new perspectives on reality.
+The show also inspires me to examine my heart and how I view the world. That has become something I do with most TV shows, movies, and books. Entertainment isn't just an escape from reality for me. It can also help find find new perspectives on reality.
 
-I tend to put myself in the shoes of the various characters in stories. I think about how I might respond or react if I were the one facing their circumstances. It gives me a chance to live multiple lives in a brief moment and then apply my thoughts and imaginary decisions to real-world circumstances that I personally face.
+I tend to put myself in the shoes of the various characters in stories. I think about how I might respond or react if I were the one facing their circumstances. It gives me a chance to live multiple lives in a brief moment and then apply my thoughts and imaginary decisions to real-world circumstances that I actually and personally face.
 
 The angel on my right shoulder is a blob named Bob. The demon on my left shoulder is a raven named Rachel. Neither represent actual things and neither are actually there. I'm making them up just for this blog post. But if someone chooses to email me about my opinions, I'll definitely not turn their private message into a public spectacle just to advertise my Bible-based TV show...LOL Bob "told" me to keep my mouth shut while Rachel "told" me to write this blog post...LOL j/k
 
@@ -48,4 +48,10 @@ On another note, my neighbor asked for help with changing the air filter in her 
 
 It was a good reminder of the importance of Vitamin G. I rarely do posts like that anymore. But I keep being reminded that I have something important to share in today's social media world. There are people out there who need to see that they aren't the only ones struggling. They need to see that they aren't alone. I certainly feel better when I realize that I'm not the only one who accidentally knocks a glass to the floor and shatters it...hehehe
 
-Speaking of which, I was having trouble with email today. Then I saw some posts about Outlook being down today...LOL One of the funniest ones was a meme of "Ken" from the "Barbie Movie" saying, "My job is email"...LOL It good to know I wasn't the only one having trouble today...hehehe
+Speaking of which, I was having trouble with email today. Then I saw some posts about Outlook being down today...LOL One of the funniest ones was a meme of "Ken" from the "Barbie Movie" saying, "My job is email"...LOL It was good to know I wasn't the only one having trouble today...hehehe
+
+Today at Zen, I was asked how things have been going. I gave an honest answer that some days feel like I simply survive. While other days seem to be good. They then told me about how their mother had recently experienced anxiety for the very first time. I'm glad that by sharing my own personal struggles it opened up an opportunity for them to talk about what their mother is going through. I've met that mother and know her to be a very strong person.
+
+Because of my own experiences, I can easily empathize with what she is going through right now. Especially the part where she had never understood how anyone goes through anxiety and can't simply "get over it." Now they she is finally having anxiety herself, she feels bad that she ever doubted anyone with anxiety. It breaks my heart that she is going through this double whammy and it draws me to pray for her.
+
+My final thought for today's entry is this: When I open my Bible now, I also open my heart and mind to hear and to listen to what God has to say.
