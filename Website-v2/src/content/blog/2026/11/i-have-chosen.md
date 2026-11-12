@@ -48,4 +48,4 @@ On another note, my neighbor asked for help with changing the air filter in her 
 
 It was a good reminder of the importance of Vitamin G. I rarely do posts like that anymore. But I keep being reminded that I have something important to share in today's social media world. There are people out there who need to see that they aren't the only ones struggling. They need to see that they aren't alone. I certainly feel better when I realize that I'm not the only one who accidentally knocks a glass to the floor and shatters it...hehehe
 
-Speaking of which, I was having trouble with email today. Then I saw some posts about Outlook being down today...LOL One of the funniest ones was a meme of "Ken" from the "Barbie Movie" saying, "My job is email"...LOL
+Speaking of which, I was having trouble with email today. Then I saw some posts about Outlook being down today...LOL One of the funniest ones was a meme of "Ken" from the "Barbie Movie" saying, "My job is email"...LOL It good to know I wasn't the only one having trouble today...hehehe
