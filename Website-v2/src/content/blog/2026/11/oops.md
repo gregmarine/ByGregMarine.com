@@ -21,4 +21,4 @@ I really enjoyed these first 3 episodes. I love how they are telling the story a
 
 There is a lot of subjective "fill in the gaps" dialog in these episodes. Especially surrounding the disciples' reaction to Jesus' arrest and the initial questioning of Jesus. But I really loved how they did it. I especially love how they are doing the Judas character. These characters are becoming very relatable to me, at least.
 
-Again, "The Chosen" isn't Gospel. But like any good Christian content should do, it points me to Jesus.
+Again, "The Chosen" isn't Gospel. But like any good Christian content should do, it points me to Jesus. It is doing a good job at reminding me what faith is. And no matter what circumstances I am facing, it is a great reminder to look to Jesus' teachings instead of giving into my anxieties and fears.
