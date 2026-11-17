@@ -19,4 +19,6 @@ I watched the first 3 episodes of season 6 of "The Chosen" last night. I hadn't 
 
 I really enjoyed these first 3 episodes. I love how they are telling the story and I'm happy with the artistic license they are taking. The other day I mentioned the controversy about the way they represented the angels. Well, I found it to be really good, myself. The teaser that got some folks all upset definitely wasn't enough to form an opinion. Having now seen the scenes where they appear, my opinion is a positive one. I may have even clapped a little...hehehe
 
-There is a lot of subjective "fill in the gaps" dialog in these episodes. Especially surrounding the disciples reaction to Jesus' arrest and the initial questioning of Jesus. But I really loved how they did it. I especially love how they are doing the Judas character.
+There is a lot of subjective "fill in the gaps" dialog in these episodes. Especially surrounding the disciples' reaction to Jesus' arrest and the initial questioning of Jesus. But I really loved how they did it. I especially love how they are doing the Judas character. These characters are becoming very relatable to me, at least.
+
+Again, "The Chosen" isn't Gospel. But like any good Christian content should do, it points me to Jesus.
